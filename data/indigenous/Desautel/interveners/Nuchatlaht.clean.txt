@@ -1,0 +1,296 @@
+ PART S I and II – OVERVIEW AND QUESTIONS IN ISSUE  
+1. Nuchatlaht takes the following positions:  
+a. After the date of sovereignty, aboriginal rights cannot be lost by reason of 
+abandonment.  
+b. The enactment of section 35(1) of the Constitution Act, 1982  did not “ elevate ” 
+Proclamation rights to constitutional status ; rather, it  affirmed  their existing 
+constitutional or quasi -constitutional status . 
+c. The Appellant is  statute -barred from advancing an argument that an Indigenous 
+group’s rights should be recognized merely at common law without receiving 
+constitutional protection,  by operation of section 3 of the Declaration on the 
+Rights of Indigenous Peoples Act , SBC 2019, c. 44 . 
+PART III – ARGUMENT  
+A. The Court Should Reject the Doctrine of Abandonment .   
+i. Alberta’s argument concerning continuity amounts to an abandonment 
+argument  
+2. Nuchatlaht is concerned by an argument advanced by intervener Alberta.  Alberta seeks 
+to import a “geographic continuity” requirement into the Van der Peet  test.  Alberta says that 
+because the Lakes Tribe does not have an ongoing presence in BC, it cannot have an aboriginal 
+right to hunt there.1  Effectively , Alberta is saying that when an Indigenous group departs from 
+its traditional  territories, any rights that it may have in that area are  abandoned . 
+3. There has been some judicial commentary on whether aboriginal rights can be 
+abandoned, but this Court has yet to squarely address the topic.  In the Delgamuukw  trial 
+decision, McEachern CJ accepted in principle that aboriginal rights could be abandoned through 
+disuse, though he expressed strong reservations and stressed that courts should be slow to draw 
+that conclusion.2  On appeal to the BC Court of Appeal, Lambert JA commented in obiter  that he 
+did not believe that  there was any theoretical basis for the view that aboriginal rights could be 
+1 Alberta’s factum at paras 73 and 76 -78. 
+2 Delgamuukw v. British Columbia , 1991 CanLII 2372 (BCSC), at pages 798 -803 and 824 -826 
+1abandoned, at least not after the date of Crown sovereignty.3  Lambert JA restated this view in 
+his dissenting opinion in Gladstone  (BCCA) .4  The other justices did not address t he issue.  
+4. Nuchatlaht submits that as Alb erta has raised abandonment, this Court should now clarify 
+the law.  The concept of abandonment of aboriginal rights is contrary to both the common law 
+and Indigenous perspectives, and has no place in modern s. 35(1) jurisprudence.  
+ii. Alberta’s abandonment argument misconstrues the “continuity” component 
+of the Van der Peet  test 
+5. At para. 7 6 of its factum, Alberta characterizes the continuity component of the Van der 
+Peet test in the following way: “Both the Van der Peet and Powley decisions include continuity 
+as a requirement. This acknowledges that, over time, certain practices, customs or traditions may 
+no longer be integral to the collective .” [Emphasis added]  
+6. Alberta’s position fundamentally misconstrues the mean ing and function of continuity in 
+the Van der Peet test.  Lamer CJ originally expressed the continuity requirement as follows:  
+Where an aboriginal community can demonstrate that a particular practice, custom or 
+tradition is integral to its distinctive cult ure today, and that this practice, custom or 
+tradition has continuity with the practices, customs and traditions of pre -contact times, that 
+community will have demonstrated that the practice, custom or tradition is an aboriginal 
+right for the purposes of s . 35(1).5 
+7. Lamer CJ also says that a key function of the continuity requirement is to permit a 
+flexible approach that allows for evolution over time, avoiding a “frozen rights” approach.  
+8. The Van der Peet  test could be described as “backwards -looking” – it begins with the 
+modern practice that is said to be a protected aboriginal right, and looks backwards to see 
+whether it can be connected to an ancestr al (pre -contact) practice, such that it could be said to 
+constitute a modern continuation or evolution of that ancestral practice.  Another way of saying 
+this is that the “continuity” requirement in Van der Peet  means that the modern practice that is 
+said to be an aboriginal right must in some sense be a continuation  of an ancestral practice.  It 
+does not mean that the practice must have been carried on continuously  since contact.  
+3 Delgamuukw v. British Columbia, 1993 CanLII 4516 (BCCA), at paras. 850 -852 
+4 R. v. Gladstone , 1993 CanLII 4520 (BCCA), at para . 76 
+5 R. v. Van der Peet , 1996 CanLII 216 (SCC), at para. 64.  
+29. Abandonment, by contrast, is premised on a “forward -looking” approach whereby one 
+begins with the ancestral practice, and then looks forward in time to see whether continuity was 
+broken at any point by the Indigenous group ceasing the practice or leaving its territory.  On this 
+approach, an aboriginal right comes into being at contact and persists up until the “date of 
+discontinuity,” whereupon it is “abandoned” and vanishes forever.  
+10. This approach is inconsistent with – indeed, almost an inversion of – the test as set out in 
+Van der Peet .  Lamer CJ expressly took no position on how the disappearance of a practice, 
+custom or tradition would affect an aboriginal claim.  He expressly stated that an unbroken chain 
+of continuity is not required, and that an Indigenous group could cease to engage in a practice 
+and then resume it at a later date without precluding the establishment of an aboriginal right.6 
+11. The notion that First Nations can cease and then resume the practice that grounds an 
+aboriginal right is entirely consistent with the “backwards -looking” approach to co ntinuity, 
+whereby the court is attempting to determine whether the claimed modern -day right is a  
+continuation of the ancestral practice.  If, on the other hand, one takes the abandonment view – 
+that the practice must be carried on continuously  lest it be a bandoned – then this becomes, at 
+best, a rather murky and ambiguous exception.  How is a court to determine at what point a 
+practice has been abandoned, as opposed to simply suspended?  The two situations are apt to 
+look very similar up until the date the practice is resumed.  
+12. In summary, the continuity requirement does not mean that aboriginal rights begin at 
+contact and persist only until a discontinuity occurs.  Rather, it requires that the modern practice 
+which is said to  be an aboriginal right can be shown to be a continuation of an ancestral practice.  
+This does not require the demonstration of  continuous occupation of the geographic locus  of the 
+claimed right  – if an Indigenous group leaves (or is displaced from) an area and then later seeks 
+to resume activities in that area, this is entirely consistent with the Van der Peet  test.  Indeed, it 
+would be perverse to suggest that an Indigenous group has abandoned a site -specific aboriginal 
+right, when the very thing that brings it before the court is its attempt to resume the associated 
+practice on that very site .  The doctrine of abandonment is premised on a misunderstanding of 
+the role of continuity in the Van der Peet  test, and should be rejected by this Court.  
+6 R. v. Van der Peet , 1996 CanLII 216 (SCC), at paras. 63 and 65.  
+3iii. Abandonment raises further issues for aboriginal title claims  
+13. Although aboriginal title is not in iss ue in the present case, acceding to a doctrine of 
+abandonment could have serious implications for aboriginal title claims.  
+14. Once an Indigenous group has established that its ancestors  held aboriginal title to land at 
+the date of sovereignty then, subject to any evidence of subsequent surrender or extinguishment, 
+that should end of the inquiry.  Endorsing  the doctrine of abandonment would put Indigenous 
+groups in the po sition of proving not only that they had title at the date of sovereignty, but also 
+that they did not subsequently “lose” it at any time between that date and the present.  That is not 
+the test for aboriginal title as articulated in Delgamuukw  and Tsilhqot’in , and it would place an 
+unreasonable evidentia ry burden on Indigenous groups seeking to have their title recognized.   
+15. Even if the onus is placed on the Crown to prove abandonment, the Crown would still be 
+in a position to demand disclosure of any and all documents pertaining to the use of the title 
+lands between the date of sovereignty and the present, on the basis that it cannot determine 
+whether there has been abandonment until it sees all evidence of use.  This is not a hypothetical 
+concern – in Nuchatlaht’s aboriginal title claim befor e the BC Supreme Court, the Appellant 
+British Columbia has taken precisely this approach.  This Court should therefore be live to the 
+potential impacts on aboriginal title claims as it considers Alberta’s argument that “there must be 
+some pattern of use an d presence in the area – both historically and in the present”.  
+16. In addition to these pragmatic concerns, Nuchatlaht also submits that this Court should 
+firmly reject the doctrine of abandonment in the aboriginal title context as a matter of law.  
+17. Although a boriginal title is a type of aboriginal right, the legal test is different and is 
+concerned with whether, as of the date of Crown sovereignty (generally taken to be 1846), the 
+Indigenous group exclusively occupied the claimed territory.  The focus is there fore on 1846’s  
+state of affairs in 1846, not today ’s.  So long as the claimant group exercised the necessary 
+exclusive occupation, their title is said to have “crystallized” at the date of Crown sovereignty.7 
+18. The concept of continuity arises in the test for aboriginal title in at least three different 
+senses.  First, there is “continuity of community” – the claimant group must establish that they 
+are the proper rights -bearing descendants of the group said to ha ve exercised exclusive 
+7 Delgamuukw v. British Columbia , 1997 CanLII 302 (SCC), at para. 145.  
+4occupation at the date of sovereignty.  Second, there is “continuity of occupation” – optionally , a 
+claimant group may use evidence of present occupation of the claim area to support an inference 
+that it exclusively occupied that are a in 1846.  A claimant group relying on this argument must 
+also show continuity between their occupation of the area in 1846 and their occupation today.  
+This is an optional mode of proof, not a requirement, and an Indigenous group may seek to prove 
+exclus ive occupation in 1846 directly without invoking continuity of occupation.8 
+19. The third sense in which continuity arises in aboriginal title is the concept of an 
+Indigenous group maintaining a “substantial connection” to the land.  Per Van der Peet , the 
+practice, custom or tradition that grounds an aboriginal right must be “integral to the distinctive 
+culture of the claimant group”.  Lamer CJ affirmed in Delgamuukw this requirement was also 
+part of the test for aboriginal title.  However, he added that in practical terms, this requirement 
+could be presumed to be met in title cases because : 
+“it would seem clear that any land that was occupied pre -sovereignty, and which the parties 
+have maintained a substantial connection with since then , is suf ficiently important to be of 
+central significance to the culture of the claimants.  As a result, I do not think it is 
+necessary to include explicitly this element as part of the test for aboriginal title.”9 
+20. This Court has never  impose d a positive obligation on Indigenous groups to demonstrate 
+that they have maintained a substantial connection to claimed title lands after 1846.  At para. 
+142, Lamer CJ states that in the test for aboriginal title, “the requirement that the land be integral  
+to the distinctive culture of the claimants is subsumed by the requirement of occupancy”, which 
+suggests  that only exclusive occupancy at the date of sovereignty need be proven, and there is no 
+need to separately demonstrate the maintenance of a substanti al connection to the land (unless 
+relying on the optional proof based on present -day occupancy).   
+21. This issue  was noted and commented on by Cromwell JA in Marshall (NSCA) : 
+I find it difficult to reconcile this statement with the earlier one to  the effect that, in title 
+cases, the “integral to the distinctive culture test” is “... subsumed by the requirement of 
+occupancy ...” (para. 142).  In one case, occupancy at sovereignty is enough, whereas in 
+the other, occupancy plus ongoing substantial c onnection is required.  Moreover, any 
+requirement for ongoing substantial connection with the land seems at odds with the 
+purpose of s. 35(1) because insisting on post -sovereignty continuity would tend to “... 
+8 Delgamuukw v. British Columbia , 1997 CanLII 302 (SCC), at paras. 152 -153 
+9 Delgamuukw v. British Columbia , 1997 CanLII 302, at para. 151  [emphasis added] . 
+5perpetuat[e] the historical injustice suffered  by aboriginal peoples at the hands of 
+colonizers who failed to respect aboriginal rights to land”: para. 153.10 
+22. Cromwell JA then consider ed the subject at length before finally concluding that 
+“continuity of occupation from sovereignty to the present is not part of the test for aboriginal title 
+if exclusive occupation at sovereignty is established by direct evidence of occupation before and 
+at the time of sovereignty.”11  This reasoning is sound and should be re-affirmed by this Court.   
+23. In any case, Nuchatlaht  submits that once title ‘crystallizes’ at the date of sovereignty, it 
+is no longer subject to loss or abandonment due to a lack of presence on the land.  This is 
+consistent with  the common law view of title, which recognizes that a person with adequate 
+possession for title may choose to use it intermittently or sporadically.12 
+iv. Abandonment is contrary to the Indigenous perspective  
+24. The notion that by leaving its traditional territory, an Indigenous group abandons its site -
+specific aboriginal rights is also inconsistent with the Indigenous perspective, because it assumes 
+that Indigenous groups  can abandon their cultural identities as peoples closely connected to their 
+traditional territories.  
+25. Connection to traditional territory is central to Indigenous identity.  The Royal 
+Commission on Aboriginal Peoples  (“RCAP”)  noted that “[l]and is absolutely fundamental to 
+Aboriginal identity” and “is reflected in the language, culture and spiritual values of all 
+Aboriginal peoples.”13  The Inter -American Court of Human Rights also notes that “the close tie s 
+of indigenous people with the land must be recognized and understood as the fundamental basis 
+of their cultures, their spiritual life, their integrity, and their economic survival.”14 
+26. Unlike the immutable connection between traditional territory and Indigenous identity, 
+the location of modern -day residence is often a function of colonialism and unconnected to 
+10 R. v. Marshall , 2003 NSCA 105, at para. 164  
+11 R. v. Marshall , 2003 NSCA 105, at paras. 157 -181 
+12 R. v. Marshall; R. v. Bernard , 2005 SCC 43, para. 54, citing with approval Keefer v. Arillotta  
+(1976), 1976 CanLII 571 (ONCA).  
+13 Royal Commission on Aboriginal Peoples, Report of the Royal Commission on Aboriginal 
+Peoples, Volume 2 – Restructuring the Relationship , (Ottawa: Supply and  Services, 1996) 
+Chapter 4, p. 417  [RCAP Report].  
+14 The Mayagna (Suom) Awas Tingni Community v Nicaragua , Inter -Am Ct. H.R., (Ser. C) No. 
+79 (2001), para 149.  
+6Indigenous identity.  RCAP  described how colonialism had a  profound impact on Indigenous 
+populations by displacing them physically from their lands.  It noted that the Indian Act  likewise 
+resulted in legislated dispossession of traditional territories whereby Indigenous peoples lost 
+control of their own lands and  resources.15   RCAP  also observed that “Aboriginal peoples have 
+had great difficulty preserving a home in what has always been their country” and in 
+“maintaining their lands and livelihoods in the face of massive encroachment.”16 
+27. Acceding to an argument that site -specific rights are abandoned through a change in 
+residence presume s that displaced Indigenous groups  have entirely lost their connection to their 
+traditional territories, and thus fundamentally altered their identitie s.  This is contrary to the 
+Indigenous perspective and, especially where displacement was partly or wholly involuntary, 
+“perpetuat[e s] the historical injustice suffered by aboriginal peoples at the hands of colonizers 
+who failed to respect aboriginal  rights to land”,17 as this Court cautioned against in Delgamuukw . 
+B. Section 35(1) Did Not “Elevate” Proclamation Rights to Constitutional Status; It 
+Affirmed Their Constitutional Status.  
+28. The Appellant , at paragraph 39 of its factum,  argues  that prior to 1982, aboriginal rights 
+existed as common law rights, but were elevated to constitutional status by the enactment of s. 35 
+of the Constitution Act, 1982 .  At paragraphs 82 -84 of its factum, the Appellant refers 
+extensively to the 1980 hearings of the Joint Committee of the Senate and House of Commons.   
+Nuchatlaht disagrees with the Appellant’s characterization of what transpired at , and subsequent 
+to, those meetings , and with i ts view that aboriginal rights , at least those deri ving from the Royal 
+Proclamation of 1763,  were not constitutionally protected prior to 1982.  
+29. Nuchatlaht, through its umbrella organization the Nuu -chah-nulth Tribal Council , 
+appeared, gave evidence, and made representations at the Joint Committee hearings .  At those 
+hearings, the Nuu -chah -nulth people argued that the entire purpose of the  new Constitution’s  
+proposed aboriginal rights clause was to preserve  the existing  constitutional status of aboriginal 
+rights , particularly those rights derived from the Royal Proclamation of 1763 .  The Nuu -chah -
+nulth people argued that Proclamation rights were already constitutionally protected, advanc ing 
+15 RCAP Report, Volume 1, Chapter 6, p. 132  
+16 RCAP Report, Volume 2, Chapter 4, pp. 417 -418 
+17 Delgamuukw v. British Columbia , 1997 CanLII 302 (SCC), at para. 153  
+7the need for a clause such as s . 35 to ensure that existing rights would not be demoted from 
+constitutional status  due to the new Constitution ’s failure to mention them . 
+30. On December 16, 1980, legal counsel for the Nuu -chah -nulth Tribal Council made the 
+following comments to the Joint Committee:  
+At the heart of the natives’ submissions is the idea that native rights are already a part of 
+the constitution of Canada and that this status quo  will be upset by the introduction of a 
+new document which makes no explicit entrenchment of those rights.  That is the point, the 
+fundamental point we wish to make .18 
+31. At the Joint Committee  hearings  the Nuu -chah -nulth were responding to early drafts of 
+the Constitution that included a Schedule, similar to what eventually became "Schedule to the 
+Constitution Act, 1982  Modernization of the Constitution." Then, as now, the Schedule did not 
+include the Royal Proclamation of 1763.19 The Nuu -chah -nulth submissions to the Joint 
+Committee were directed at  the principle  of inclusio unius est exclusio alterius . The concern was 
+that by not including the Royal Proclamation in the Schedule, the constitutional status of 
+Proclamation rights would be lost - in effect, demoted to being merely common law rights.  
+32. The problem the Nuu -chah -nulth addressed at the Joint Committee was solved i n three 
+ways: Firstly, the word "includes" is found in s . 52(2) of the Constitution Act, 1982 , indicating 
+that the Schedule is not exhaustive. Secondly, s . 35 was added, making it crystal clear that the 
+existing constitutional protections for aboriginal rights and title would be continued  – 
+“affirmed” .  Thirdly, the Royal Proclamation of 1763 was explicitly mentioned in s . 25(a).  
+33. In Delgamuukw  and later in Mitchell , this Court appeared to accept that s. 35(1) 
+“constitutionalized” or “elevated to constitutional status” aboriginal rights which had not 
+previously enjoyed that protection.20  Respectfully, this was not the shared understanding of the 
+parties at the Joint Committee in 1980, and is in fact an incorrect understanding of the nature of 
+Proclamation  rights prior to 1982 , and of the reasons why s . 35 was added .  Nuchat laht says now, 
+18 Canada, Parliament, Minutes of Proceedings and Evidence of the Special Joint Committee o f 
+the Senate and of the House of Commons on the Constitution of Canada,  32nd Parl, 1st Sess, No 
+27 (16 December 1980) at 129 (Submissions by Jack Woodward).  
+19 Constitution Act, 1982 , Schedule B to the Canada Act 1982 (UK), 1982, c 11, Schedule to the 
+Const itution Act 1982: Modernization of the Constitution.  
+20 Delgamuukw v. British Columbia , 1997 CanLII 302 (SCC), at para. 136; Mitchell v. MNR , 
+2001 SCC 33, at para. 11  
+8as it did then, that Proclamation  rights , at least,  were already a part of the Constitution prior to 
+1982, and did not suddenly become constitutional rights as of that date.  Nor were any aboriginal 
+rights excluded and thereby “demoted” to mere common law rights as of 1982.  
+34. Nuchatlaht is concerned that the doctrine the Appellant advances will set a dangerous 
+precedent.  If only some, but not all, of the pre -1982 aboriginal rights were “promoted” to 
+constitutional status in 1982, then perhaps there are other such categories.  It was precisely to 
+prevent that possibility that the Nuu -chah -nulth Tribal Council appeared at the Joint Committee 
+and argued for a clause confirming that Proclamation rights enjoy constitutional status.    
+35. Finding  that there exist both constitutional and “merely” common law aboriginal rights 
+risks the  inappropriate erosion of s. 35 rights.  This is not an academic concern .  Nuchatlaht is 
+currently advancing a n aboriginal title  claim  before the B C Supreme Court.  In that case, British 
+Columbia , the Appellant in  this appeal , argue s that Aboriginal title  was at some point in time 
+voluntarily abandoned .  Such an argument would have been inconsistent with rights derived from 
+the Royal Proclamation of 1763 prior to 1982.  
+C. British Columbia is Statute -Barred From Advancing its Argument Concerning 
+“Merely” Common Law Aboriginal Rights  
+36. On November 28, 2019, the Declaration on the Rights of Indigenous Peoples  Act, S.B.C. 
+2019, c. 44, came into force.  Pursuant to section 3, the BC government “must take all measures 
+necessary to ensure the laws of British Columbia are consistent with [the United Nations 
+Declaration on the Rights of Indigenous Peoples]”.  
+37. Nuchatlaht takes the position that a  Crown pleading in a s. 35 rights case is a government 
+“measure” within the meaning of the Act.  The Appellant is therefore statute -barred from 
+advancing any argument in this court which would be inconsistent with UNDRIP.  
+38. Article 26 of UNDRIP  confirm s Indigenous  peoples ’ rights  to their lands and resources , 
+specifically stipulat ing: “Indigenous peoples have the right to the lands, territories and resources 
+which they have traditionally owned, occupied or otherwise used or acquired”, and requiring 
+States to “give legal rec ognition and protection  to these lands, territories and resourc es.”21: 
+21 United Nations Declaration on the Rights of Indigenous Peoples , GA Res 295 , UNGAOR , 
+61st Sess (2007).  
+910 
+ 
+{00019726:1}   39. In its factum, the Appellant acknowledges that the Lakes Tribe may hold aboriginal rights 
+in Canada, but submits that these rights should be treated as common law rights only , with no 
+constitut ional protection.  This would create a class of aboriginal rights that are recognized but 
+still subject to statutory abrogation.  The Appellant acknowledges at para s. 6 and 50  of its factum 
+that a “mere” common law  hunting  right would not be exempt from th e provisions of the Wildlife 
+Act.  The scheme proposed by the Appellant amounts to “legal recognition without  protection ” – 
+the right is acknowledged, but is unprotected from statutory abrogation .  This pleading is 
+inconsistent with Article 26 of UNDRIP, which requires that states give both “legal recognition 
+and protection” to the lands, territories and resources traditionally owned, occupied or used by 
+Indigenous peoples, “with due respect to th e customs, traditions and land tenure systems of the 
+indigenous peoples concerned.”  Accordingly, the Appellant is statute -barred from pleading this 
+argument by operation of section 3 of the Declaration on the Rights of Indigenous Peoples Act.  
+40. This Court must be informed when governments make promises to Indigenous peoples, 
+such as the promise contained in the Declaration on the Rights of Indigenous Peoples Act , and to 
+vigorously enforce such promises.  The alternative is to allow governments to be hypocritical, 
+leading to disillusionment, and run ning counter to the project of reconciliation.   As Greckol JA 
+recently wrote in her concurring decision in Fort McKay (ABCA) , “The honour of the Crown 
+may not mandate that the parties agree to any one partic ular settlement, but it does require that 
+the Crown keep promises  made during negotiations designed to protect treaty rights.”22  The Act 
+is a promise to uphold UNDRIP ’s principles , and the  Appellant breaks that promise in its  factum.  
+PART IV – COSTS  
+41. Nuchatlaht seeks no order as to costs, and asks that no costs be ordered against it.  
+ALL OF WHICH IS RESPECTFULLY SUBMITTED on June 1 9, 2020  
