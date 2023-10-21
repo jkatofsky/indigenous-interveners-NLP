@@ -1,0 +1,643 @@
+SCC File No. 37441  
+ 
+IN THE SUPREME COURT OF CANADA  
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL)  
+ 
+BETWEEN:  
+ 
+CHIEF STEVE COURTOREILLE ON BEHALF OF HIMSELF AND THE MEMBERS 
+OF THE MIKISEW CREE FIRST NATION  
+Appellants  
+ 
+ 
+AND:  
+ 
+THE GOVERNOR GENERAL IN COUNCIL, MINISTER OF ABORIGINAL 
+AFFAIRS AND NORTHERN DEVELOPMENT, MINISTER OF FINANCE, 
+MINISTER OF THE ENVIRONMENT, MINISTER OF FISHERIES AND OCEANS, 
+MINISTER OF TRANSPORT, AND MINISTER OF NATURAL RESOURCES  
+ 
+Respondents  
+ 
+ 
+FACTUM OF THE INTERVENER  
+GITANYOW HEREDITARY CHIEFS  
+(Pursuant to Rules 37 and 42 of the Rules of the Supreme Court of Canada ) 
+ 
+ 
+Counsel for the Intervener,  
+Gitanyow Hereditary Chiefs           Agent for Intervener  
+GRANT HUBERMAN         Supreme Law Group  
+1620 -1075 W. Georgia Street         900 - 275 Slater Street  
+Vancouver, BC V6E 3C9          Ottawa, ON K1P 5H9  
+ 
+Peter R. Grant                    Moira S. Dillon  
+Karenna Williams                Tel: 613-691-1224  
+Tel.: (604) 685-1229                Fax: 613 -691-1338  
+Fax: (604) 685 -0244     Email:   mdillon@supremelawgroup.ca  
+Email: pgrant@grantnativelaw.com  
+ kwilliams@grantnativelaw.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+JFK LAW COR PORATION  GOWLING WLG (CANADA) LLP  
+#816 – 1175 Douglas Street     2600 – 160 Elgin Street  
+Victoria, BC V8W 2E1     Ottawa, ON K1P 1C3  
+Robert Janes QC     Guy Regimbald  
+Karey Brooks       Tel.: (613) 786 -0197  
+Tel.: (250) 405 -3460     Fax: (613) 563 -9869  
+Fax: (250) 405 -8567     Email:  guy.regimbald@gowlingwlg.com   
+Email: rjanes@jfklaw.ca  
+ kbrooks@jfklaw.ca      
+Counsel for the Appellants,     Agent for the Appellants,  
+Chief Steve Courtereille et al.    Chief Steve Courtoreille et al  
+ 
+DEPARTMENT OF  JUSTICE,  CANADA  DEPARTMENT OF JUSTICE, 
+OTTAWA  
+Prairie Region       Civil Litigation Section, Ste. 500  
+300, 10423 – 101 Street     50 O’Connor Street  
+Edmonton, AB T5H 0E7     Ottawa, ON K1A 0H8  
+Cynthia Dickins      Christopher Rupar  
+Kathleen Kohlman      Tel.:  (613) 670 -6290  
+Tel.: (780) 495 -4171     Fax: (613) 954 -1920  
+Fax: (780) 495 -2964     Email:  christopher.rupar@justice.gc.ca  
+Email:  cynthia.dickins@jus tice.gc.ca      
+ kathleen.kohlman@justice.gc.ca   
+Counsel for the Respondents, Gov ernor  Agent for the Respondents     
+General in Counsel et al.     Governor General in Counsel et al.  
+ 
+ATTORNEY GENERAL OF QUEBEC  
+1200, route de l'Eglise, 2e étage  
+Quebec, QC   G1V 4Ml  
+Telephone: (418) -643-1477, Ext 20732  
+Facsimile: (418) 644 -7030  
+Courriel: tania.clerqc@justice.gouv.qc.ca  
+Tania Clerqc, Counsel for the Intervener  
+the Attorney General of Quebec  NOEL & ASSOClES  
+111, rue Champlain  
+Gatineau, QC J8X 3Rl  
+Telephone: (819) 771 -7393,  
+Facsimile: (819) 771 -5397  
+Email: p.landry@noelassocies.com  
+Pierre Landry, Agent for the Intervener, the 
+Attorney General of Quebec  
+ 
+ATTORNEY GENERAL FOR 
+SASKATCHEWAN  
+Constitutional Law Branch, 8th Floor  
+820-1874 Scarth Street  
+Regina, SK S4P 4B3  
+Telephone: (306) 787 -7886  
+Facsimile: (306) 787 -9111  
+Email: james.fyfe@gov.sk.ca  
+Richard James Fyfe, Counsel for the 
+Intervener, the Attorney General for 
+Saskatchewan  GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street  
+Ottawa, ON KIP 1C3  
+Telephone: (613) 786 -8695  
+Facsimile: (613) 788 -3509  
+Email:  lynne.watt@gowling,wlg.com  
+D. Lynne Watt, Agent for the Intervener, 
+the Attorney General for Saskatchewan  
+ 
+ 
+  
+ 
+ATTORNEY GENERAL OF NEW 
+BRUNSWICK  
+PO Box 6000  
+Fredericton, NB E3B 5Hl  
+Telephone: (506) 453 -2222  
+Facsimi le: (506) 453 -3275  
+William Gould and Rachelle Standing, 
+Counsel for the Intervener, the Attorney 
+General of New Brunswick  
+ 
+ATTORNEY GENERAL OF BRITISH 
+COLUMBIA  
+3rd Floor, 1405 Douglas Street  
+Victoria, BC V8W 202  
+Telephone: (250) 387 -0417  
+Facsimile: (250) 387-0343  
+Email: Glen.R.Thompson@gov.bc.ca  
+Glen R. Thompson, Counsel for the 
+Intervener, the Attorney General of 
+British Columbia  
+ 
+RATCLIFF & COMPANY LLP  
+500 -  221 West Esplanade  
+North Vancouver, BC   V7M 313 
+Telephone: (604) 988 -5201  
+Facsimile: (604) 988 -1452  
+Email: gmcdade@ratcliff.com  
+Gregory J. McDade Q.C., Kate 
+Blomfield and R. Brent Lehma n, 
+Counsel for the Intervener, BC/Yukon 
+Treaty Coalition  
+ 
+ASSEMBLY OF  FIRST NATIONS  
+1600 - 55 Metcalfe Street, Suite 1600 
+Ottawa, ON   KIP 6L5  
+Telephone: (613) 241 -6789  Ext. 228  
+Facsimile: (613) 241 -5808 
+Email: swuttke@afn.ca  
+Stuart Wuttke  and Julie McGregor, 
+Counsel for the Intervener, Assembly 
+of First Nations  
+ 
+ 
+ 
+ 
+ GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street  
+Ottawa, ON KIP 1C3  
+Telephone: (613) 736-8695  
+Facsimile: (613) 788 -3509  
+Email: lynne.watt@gowlingwlg.com  
+D. Lynne Watt, Agent for the Intervener, 
+the Attorney General of New Brunswick  
+ 
+ 
+BORDEN LADNER GERVAIS LLP  
+World Exchange Plaza  
+1300 - 100 Queen Street  
+Ottawa, ON KIP 119  
+Telephone: (613) 237 -5160  
+Facsimile: (613) 230 -8842  
+Email: neffendi@blg.com  
+Nadia Effendi, Agent for the Intervener,  
+the Attorney General of British Columbia  
+ 
+ 
+SUPREME LAW  GROUP  
+900 - 275 Slater Street  
+Ottawa, ON KIP 5H9  
+Telephone: (613) 691 -1224  
+Facsimile: (613) 691 -1338  
+Email: mdillon@supremelawgroup.ca  
+Moira S. Dillon, Agent for Intervener,  
+BC/Yukon Treaty Coalition  
+ 
+ 
+SUPREME LAW GROUP  
+900 - 275 Slater Street  
+Ottawa, ON KIP 5H9  
+Telephone: (613) 691 -1224  
+Facsimile: (613) 691 -1338  
+Email: mdillon@supremelawgroup.ca  
+Moira S. Dillon, Agent for Intervener,  
+Assembly of First Nations  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GOWLING WLG (CANADA) LLP  
+1 Place Ville -Marie, 37th Floor  
+Montreal Quebec H3B 3P4 
+Telephone: (514) 878 -9641  
+Facsimile: (514) 878 -1450  
+Email: John.hurley@gowlingwlg.com  
+John Hurley and Francois Dandonneau, 
+Counsel for the Intervener, Grand 
+Council of the Crees  (Eeyou  Istchee),   
+Cree Nation  Government  
+ 
+PAPE SALTER TEILLET  
+546 Euclid Avenue 
+Toronto, ON M6G 2T2 
+Telephone: (416) 916 -2989  
+Facsimile: (416) 916 -3726 
+Email: jmadden@pstlaw.ca  
+Jason Madden, Alexandria 
+Winterburn and Megan Strachan, 
+Counsel for the Intervener, Manitoba 
+Metis Federation Inc  
+ 
+MCCARTHY TETRAULT LLP  
+Suite 5300, Toronto Dominion Bank Tower  
+Toronto, ON M5K 1E6  
+Telephone: (416) 601 -8200  
+Facsimile: (416) 868 -0673 
+Email: bkain@mccarthy.ca  
+Brandon  Kain,  Bryn  Gray  and Brandon  
+Mattalo, Counsel for the Intervener, 
+Advocates for the Rule of Law  
+ 
+FEDERATION OF SOVEREIGN 
+INDIGENOUS NATIONS  
+Suite 100, 103 -A Packham Avenue 
+Saskatoon, SK S7N 4K4  
+Telephone: (306) 850 -7479  
+Facsimile: (306) 244 -4413  
+Email: victor.carter@fsin.com  
+Victor Carter, Counsel for the Intervene r 
+Federatio n of Sovereig n Indigenou s 
+Nations  
+ 
+ GOWLING WLG (CANADA) LLP  
+600, 160 Elgin Street  
+Ottawa, ON  K1P 1C3  
+Telephone: (613) 786 -0197  
+Facsimile: (613) 563 -9869  
+Email: guy.regimbald@gowlingwlg.com  
+Guy Regimbald , Agent for the 
+Intervener, Grand Council of the Crees 
+(Eeyou Istchee), Cree Nation 
+Government  
+ 
+SUPREME ADVOCACY LLP  
+100 - 340 Gilmore Street  
+Ottawa, ON   K2P OR3  
+Telephone: (613) 695 -8855 Ext. 102  
+Facsimile: (613) 965 -8580  
+Email: mfmajor@supremeadvacacy.com  
+Marie -France Major, Agent for the 
+Intervener, Manitoba Metis Federation 
+Inc 
+ 
+ 
+CONWAY BAXTER WILSON LLP  
+400-  411 Roosevelt  Avenue  
+Ottawa, ON K2A 3X9  
+Telephone: (613)  780-2012  
+Facsimile: (613) 688 -0271  
+Email: cbaxter@conway.pro  
+Colin Baxter, Agent  for the Intervener, 
+Advocates  for the Rule  of Law  
+ 
+ 
+WESTAWAY LAW GROUP  
+230, 55 Murray Street Ottawa, ON KIN 
+5M3 Telephone: (613) 722 -9091  
+Facsimile: (613) 722 -9097  
+Email: darryl@westawaylaw.ca  
+Darryl Korell, Agent for the Intervener, 
+Federation  of Sovereign -Indigenous 
+Nations  
+ 
+ 
+ 
+  
+ 
+ATTORNEY GENERAL OF ALBERTA  
+1000, 10025 -  102a Avenue  
+Edmonton, AB T5J 2Z2 
+Telephone: (780) 643 -0854  
+Facsimile: (780) 643 -0852 
+Email: epton@gov.ab.ca  
+Krista  Epton,  Counsel  for the 
+Intervener; the Attorney General of  
+Alberta  
+ 
+ GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street  
+Ottawa, ON KIP 1C3   
+Telephone: (613) 786 -8695  
+Facsimile: (613) 788 -3509  
+Email: lynne.watt@gowlingwlg.com  
+D. Lynne Watt, Agent for the Intervener, 
+the Attorney General of Alberta  
+ 
+ 
+ 
+   
+ 
+ 
+TABLE OF CONTENTS  
+I. OPENING STATEMENT  ................................ ................................ ................................ .... 1 
+II. STATEMENT OF FACTS  ................................ ................................ ................................ ... 2 
+III. STATEMENT OF ISSUES  ................................ ................................ ................................ .. 2 
+IV. STATEMENT OF ARGUMENT  ................................ ................................ ........................  2 
+A. Real Reconciliation in the Crown -Aboriginal Relationship Requires   
+  Respectful Consultation and Accommodation                          3 
+B. Ongoing Relations – Future Treaties and Agreements                                    5 
+V. SUBMISSIONS ON COSTS  ................................ ................................ ................................  8 
+VI. ORDER SOUGHT  ................................ ................................ ................................ ................  8 
+VII. TABLE OF AUTHORITIES  ................................ ................................ ...............................  9 
+VIII.  STATUTORY PROVISIONS  ................................ ................................ ............................  10 
+ 
+  1 
+ 
+ 
+I. OPENING STATEMENT  
+ 
+1. This appeal, fundamentally, is about respect  and relationships.  
+ 
+2. This appeal  addresses whether the Crown is able to alter or introduce legislation and 
+implement changes that would affect the rights of Indigenous peoples without consultation . 
+ 
+3. Over the last three decades, this Court has given shape  to the Crown -Aboriginal relationship , 
+acknowledg ing that: 
+a. “For many years, the rights of the Indians to their a boriginal lands -- certainly as legal  
+rights -- were virtually ignored .”1 
+b. “In all its dealings with Aboriginal peoples, from the assertion of sovereignty to the 
+resolution of claims and the implementation of treaties, the Crown must act honourably . 
+Nothing less is  required if we are to achieve “ the reconciliation of the pre -existence of 
+aboriginal societies wit h the sovereignty of the Crown .”2 
+c. There is a “special” relationship between Aboriginal peoples and the Crown .3  
+ 
+4. Guided by this Court,  the Crown -Aboriginal relationship has  evolved; h owever,  its 
+boundaries remain undefined . Aboriginal peoples are  caught between the Crown’s repeated 
+confirmation of th is special relationship , and the Crown’ s assertion  that Aboriginal peoples  
+do not have rights beyond those of other Canadians . The Crown give s assurances to 
+Indigenous peoples with one hand, while clawing back their rights with the other.  
+ 
+5. This Court has stated that “[c]onsultation is, after all, ‘ [c]oncerned with an  ethic of ongoing 
+relationships .’”4 The Crown , aided by the courts,  should no longer be allowed to 
+paternalistically and unilaterally decide the terms of the relationship.  
+ 
+                                                           
+1 R. v. Sparrow, [1990] 1 SCR 1075 , at p. 1103 [ Sparrow ] 
+2Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 73, at para. 17 [ Haida ]  
+3 Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53 ,at para. 62 [ Beckman ]; 
+Sparrow, supra  note 1 at p. 1108; R. v. Van der Peet, [1996] 2 SCR 507 , at paras. 23 -25 
+4 Clyde River (Hamlet)  v. Petroleum Geo -Services Inc., 2017 SCC 40 , at para. 24 [ Clyde River ] 2 
+ 
+II. STATEMENT OF FACTS  
+ 
+6. The Gitanyow adopt the facts as presented by the Appellants.  
+ 
+7. The Gitanyow Hereditary Chiefs are an Aboriginal people  under s. 35 of the Constitution 
+Act, 1982.  Justice Neilson (as she then was) in Wii’lits wx v. British Columbia  described t he 
+Gitanyow’s traditional governance and social structure and lands management  system . 
+Neilson, J. found that the Gitanyow are organized matrilineally by Wilp, or house  group , 
+which “are the social, political and governing units of the Gitanyow.”5 
+ 
+8. The Gitanyow do not have a treaty. In the absence of a treaty, the Gitanyow  have entered 
+into Recognition and Reconciliation agreements with the Crown to  build on the Crown -
+Gitanyow relationship so as to guide land and natural resource management for the benefit 
+of both parties.6  
+ 
+III. STATEMENT OF ISSUES  
+ 
+9. The Gitanyow a ccept the issues as stated by the Appellant s and will address the  first issue . 
+The Gitanyow’s position is that Canada is not free to draft or amend legislation that could 
+affect the constitutionally protected rights of Aboriginal peoples without consultation.  
+ 
+IV. STATEMENT OF ARGUMENT  
+ 
+10. This case addresses  the nature of  the Crown’s relationship with Aboriginal people.  While 
+Canada  represents that it respects this relationship , it denies  its special nature  when it views 
+Aboriginal peoples a s asking for too much.  
+ 
+11. In the absence of a formal treaty, the Gitanyow are required to work within the “special 
+relationship” with an honourable Crown, while also not infrequently colliding with the 
+Crown’s imposed limitations on that relationship.  
+                                                           
+5 Wii’litswx  v. British Columbia (Minister of Forests), 2008 BCSC 1139 , at para. 21 [ Wii’litswx ] 
+6 Ibid., at paras. 67 -85 3 
+ 
+12. For non -treaty Aboriginal nati ons such as the Gitanyow, allowing this appeal is critical to 
+safeguard the integrity of existing agreements with the Crown, and ensure the  value of 
+creating future agreements .  
+ 
+13. The Gitanyow  agreements with the Crown are the result of years of work and compromise, 
+sometimes with the aid of the c ourts ,7 to find ways for the Gitanyow to protect their “social, 
+political and governing” system. This is reconciliation in action.8  
+ 
+14. If the Crown can unilaterally amend  or introduce  legislation that affects  its agreements with  
+Aboriginal peoples, the ir trust in the Crown’s in good faith is misguided . Aboriginal nations 
+which  rely on non -treaty agreements with the Crown will have little  motivation to enter into 
+such agreements.  
+A. Real Reconciliation in the Crown -Aboriginal  Relationship Requires Respectful 
+Consultation and  Accommodation  
+ 
+15. The duty to consult stems from s. 35 and the reality that Aboriginal societies existed  in what 
+is now Canada  prior to the assertion of Crown sovereignty, and continue to exist today.9  
+ 
+16. Aboriginal peoples routinely experience the rhetoric of reconciliation and nation -to-nation 
+relationship building, but find that the Cro wn is quick to attempt to ‘put A boriginal peoples 
+in their place’ when their expectations go beyond what the Crown is either comfortable with 
+or perceives as reasonable.   
+ 
+17. Justice Hughes in his Federal Court decision found that:  
+…there is no special provision in Treaty No. 8 that characterizes the law-
+making  process as Crown actions that would allow the Mikisew, in preference 
+to other Canadians , to intervene in the legislative process before a bill that 
+                                                           
+7 Ibid.; Gitxs an and other First Nations v. British Columbia (Minister of Forests) , 2002 BCSC 
+1701;  Gitanyow First Nation v. British Columbia (Minister of Forests) , 2004 BCSC 1734  
+8 Wii’litsxw, supra note 5, at paras. 36 -67 
+9 Haida,  supra  note 2, at para. 32  4 
+ 
+may, in some arguable way, i nterfere with the Mikisew’s treaty rights of 
+fishing and trapping.10 (emphasis added)  
+ 
+18. The Crown argue s: 
+If this Court were to recognize a duty to consult the appellants on legislation, 
+such recognition would create a hierarchy of consultation. Those whose 
+Charter rights are abridged by legislation would have no right of consultation 
+on legislation; however, Indigenous groups under s. 35 would have such a 
+right of consultation. If Charter rights cannot be protected by the courts during 
+the legislative proces s, it would seem inconsistent for rights flowing from s. 
+35 of the Constitution Act to be a basis for overturning parliamentary 
+sovereignty.11 
+ 
+19. This argument contradicts  reconciliation , thereby undermining the  purpose of s. 35 (which is 
+distinct from the  Charter ), to reconcile the pre -existence of Aboriginal societies with the 
+assertion of Crown sovereignty.  
+ 
+20. Contrary to its stated goal of reconciliation with Aboriginal peoples,  and the directions of 
+this Court , the Crown argues that Aboriginal peoples in Canada  should not have rights 
+beyond  those of other Canadians . The Crown is telling Aboriginal peoples that the  Crown -
+Aboriginal  relationship is special and requir es deference  only when such deference does not 
+interfere with Crown  objectives  or the Crown power to legislate .  
+ 
+21. The Crown , in effect,  argues that it alone can define the limits of the ‘special’ Crown -
+Aboriginal relationship  and can  propose legislation  that limits Aboriginal rights with 
+impunity . This approach  mimics the Crown’s  earlier paternalistic  colonial policies . In this 
+case, the Crown wants the Court to endorse th is positio n by barring Aboriginal peoples  from 
+access to consultation on legislation that could affect  their s. 35 rights.  
+ 
+22. True reconciliation, based on a nation -to-nation relationship grounded in respect cannot exist 
+when one party can unilaterally limit the terms of that relationship an d exert its authority over 
+the other.   
+                                                           
+10 Courtoreille v. Canada (Aboriginal Affairs and Northern Development) , 2014 FC 1244 , at 
+para. 71  
+11 Factum of the Respondent Ministers, para. 93  5 
+ 
+B. Ongoing Relations – Future Treaties and Agreements  
+ 
+23. As held by this court in Beckman : 
+The reconciliation of Aboriginal and non -Aboriginal Canadians in a mutually 
+respectful long -term relationship is the grand purpose of  s. 35  of 
+the Constitution Act, 1982 .  The modern treaties, including those at issue here, 
+attempt to further the objective of reconciliation not only by addressing 
+grievances over the land claims but by creating the legal basis to foster a 
+positive long -term relationship between Aboriginal and non -Aboriginal 
+communities.   Thoughtful administration of the treaty will help manage, 
+even if it fails to eliminate, some of the misunderstandings and grievances 
+that have characterized the past.   Still, as the facts of this case show, the treaty 
+will not accomplish its purpose if it is interpreted by territorial officials in an 
+ungenerous manner or as if it were an everyday commercial contract.   The 
+treaty is as much about building relationships as it is about the settlement 
+of ancient grievances.   The future is more important than the past.   A 
+canoeist who hopes to make progress faces forwards, not backwards.12 
+(emphasis added)  
+ 
+24. Making agreements with the C rown, to date, has been the only  way for the Gitanyow and 
+other non -treaty Aboriginal peoples to implement a nation -to-nation relationship. To that 
+end, these agreements represent the Gitanyow’s best attempts at reconciliation.  
+ 
+25. This Court has repeatedly encouraged Crown -Aboriginal agreements over litigation, stating 
+“[t]rue reconciliation is rarely, if ever, achieved in courtrooms.”13 
+ 
+26. It is clear that  from the outset of its consideration of Aboriginal rights,  this Court 
+contemplated that consultation would be afforded to Aboriginal peoples whose rights could 
+be affected by  proposed legislation or amen dments to legislation:  
+By giving aboriginal rights constitutional status and priority, Parliament and 
+the provinces have sanctioned challenges to social and economic policy 
+objectives embodied in legislation to the extent that aboriginal rights are 
+affecte d. Implicit in this constitutional scheme is the obligation of the 
+legislature to satisfy the test of justification. The way in which a legislative 
+objective is to be attained must uphold the honour of the Crown and must be 
+in keeping with the unique conte mporary relationship, grounded in history 
+and policy, between the Crown and Canada’s aboriginal peoples. The extent 
+                                                           
+12 Beckman , supra  note 3, at para. 10  
+13 Clyde River , supra  note 4, at para. 24  6 
+ 
+of legislative or regulatory impact on an existing aboriginal right may be 
+scrutinized so as to ensure recognition and affirmation.14 (emphas is 
+added)  
+ 
+27. The British Columbia Court of Appeal has held that  “claims of failure to  consult  and 
+accommodate [are] upstream not only of the certificate of indefeasible title but also of the 
+statutes under which the ministerial power has been exercised. ”15 If claims for inadequate 
+consultation are “upstream” of statutes, it would logically follow that consultation must 
+extend to  pre-tabling discussion of  legislation  that may impact Aboriginal rights . 
+ 
+28. In Haida Nation , this Court  held: 
+…the Province has a duty to consult and perhaps accommodate on T.F.L. 
+decision. The T.F.L. decision reflects the strategic planning for utilization of 
+the resource. Decisions made during strategic planning may have 
+potentially serious impacts on Aboriginal rights and title.16 (emphasis 
+added)  
+ 
+29. The introduction or amendment of legislation is the highest form of  “strategic planning”. 
+Legislation represents a strategic plan to achieve Canada’s ‘social and economic policy 
+objectives’. Excluding Aboriginal people s from consultation when considering how to 
+implement those ‘objectives’ in law makes the Crown -Aboriginal goal of reconciliation 
+hollow . 
+ 
+30. If the Crown is permitted to repeal, amend, or introduce legislation which impacts 
+unextinguished Aboriginal rights without consultation, it will mean that the Crown’s repeated 
+assurances of the ‘special nature’ of the Crown -Aboriginal relationship are specious.  
+ 
+31. There is a conflict between the Crown’s commitment to advance the goal of reconciliation 
+through the creatio n of Crown -Aboriginal  agreements, and its asserted  ability to significantly 
+                                                           
+14 Sparrow, supra  note 1 at p. 1110  
+15 Musquea m Indian  Band  v. British  Columbia (Minister of Sustainable Resource Management) , 
+2005 BCCA 128 , at para. 19  
+16 Haida Nation, supra  note 2, at para. 76  7 
+ 
+impact the se agreements  without any consultation. Allowing Crown actions of this nature 
+would suggest to the Gitanyow that the last 20 years’ work towards reconciliation is futile . 
+ 
+32. The Crown could  gut agreements with the Gitanyow by legislative means wit h no obligation 
+to consult with and accommodate the Gitanyow regarding  impacts on Gitanyow rights. Such 
+an outcome is the antithesis of reconciliation and implicitly upholds  bad faith negotiations.17 
+ 
+33. Furthermore,  the content of  legislation can impact  what the Crown will consult Aboriginal 
+people about, and the extent of  the accommodation measures it is willing to provide.18  
+ 
+34. If Aboriginal peoples are not consulted on legislat ion that delineates the extent of Crown 
+consultation and accommodation, the effect is that the Crown can set its own boundaries for 
+consultation and accommodation, and then rely on these boundaries to limit the consultation 
+and accommodation provided.  
+ 
+35. As this Court has stated:  
+Finally, the  United Nations Declaration on the Rights of Indigenous Peoples, 
+(the UNDRIP ), was endorsed by Canada on November 12, 2010.  …. Although 
+this international instrument is, at the time being, a declaration and not a treaty 
+or a covenant, and is not legally binding except to the extent that some of its 
+provisions reflect customary international law, when Canada endorsed it, it 
+reaffirmed its commitment to “…improve the well -being of Aboriginal 
+Canadians .”19 (citation removed)  
+ 
+36.  The UN Declaration contains the following provision:  
+Indigenous  peoples have the right to maintain and develop their political, 
+economic and social systems or institutions20, to be secure in the enjoyment 
+of their own means of subsistence and development, and to engage freely in 
+all their traditional and other economic activities.21 
+ 
+                                                           
+17 Luuxhon v. Canada , 1999 CanLII 6180 (BC SC),  at para. 74  
+18 Wii’litswx, supra note 5 at para. 226  
+19 First Nations Child and Family Caring Society of Canada et al. v. Attorney General of Canada 
+(for the Minister of Indian and Northern Affairs Canada) , 2016 CHRT 2 , at para. 452   
+20 Wii’litswx , supra note 5 at para. 21,  
+21 United Nations Declaration on the Rights of Indigenous Peoples: resolution / adopted by the 
+General Assembly, 2 October 2007, A/RES/61/295 , Article 20  8 
+37. Canada, in committing to the UN Declaration, recognized that its duty to Aboriginal 
+peoples extends to supporting them in "maintaining their political, economic and social 
+systems or institutions ... ". It cannot meaningfully do this if it insists on excluding them 
+from any consultation regarding proposed laws or regulations that will impact those 
+systems and institutions. 
+38. The Crown-Aboriginal relationship, combined with the requirement for the Crown to 
+conduct itselfhonourably, creates a reality where Aboriginal peoples have special rights not 
+enjoyed by non-Aboriginal Canadians. If the Crown-Aboriginal relationship is indeed 
+special and meaningful, reconciliation demands courage, and a willingness to listen and 
+change. 
+V. SUBMISSIONS ON COSTS 
+39. The Gitanyow do not seek costs and request that none be awarded against them. 
+VI. ORDER SOUGHT 
+40. The Gitanyow ask that this Court grant the relief sought by the Appellants. 
+ALL OF WHICH IS RESPECTFULLY SUBMITTED THIS lOth DAY OF November, 2017. 
+hv Peter R. Grant Karenna Williams 
+Counsel for the Appellants 9 
+ 
+VII. TABLE OF AUTHORITIES  
+CASES  AT PARAS  
+Beckman v. Little Salmon/Carmacks First Nation , 2010 SCC 53   3, 23  
+Clyde River (Hamlet) v. Petroleum Geo -Services Inc.,  2017 SCC 40  5, 25  
+Courtoreille v. Canada (Aboriginal Affairs and Northern Development) , 
+2014 FC 1244  
+ 17 
+First Nations Child and Family Caring Society of Canada et al. v. Attorney 
+General of Canada (for the Minister of Indian and Northern Affairs 
+Canada) , 2016 CHRT 2  
+ 35 
+Gitxsan and other First Nations v. British Columbia (Minister of Forests) , 
+2002 BCSC 1701  
+ 13 
+Gitanyow First Nation v. British Columbia (Minister of Forests) , 2004 
+BCSC 1734  
+ 13 
+Haida Nation v. British Columbia (Minister of Forests),  2004 SCC 73  
+ 3, 15, 28  
+Luuxhon v. Canada,  1999 CanLII 6180 (BC SC)  32 
+Musqueam Indian Band v. British Columbia (Minister of Sustainable 
+Resource Management) , 2005 BCCA 128  
+ 27 
+R. v. Sparrow,  [1990] 1 SCR 1075  3, 26  
+R. v. Van der Peet,  [1996] 2 SCR 507  3 
+Wii’litswx v. British Columbia (Minister of Forests) , 2008 BCSC 1139  7, 8, 13, 33,  36 
+ 
+  10 
+ 
+ 
+VIII.  STATUTORY PROVISIONS  
+Legislation  
+  
+Constitution Act , 1982 , 5, being Schedule B to 
+the Canada Act 1982 (U.K.), 1982, c. 11  
+  s.35 
+International Documents   
+United Nations Declaration on t he Rights of 
+Indigenous Peoples : resolution / adopted by 
+the General Assembly, 2 October 2007, 
+A/RES/61/295              Article 20  
+ 

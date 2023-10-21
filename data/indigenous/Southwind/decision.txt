@@ -1,0 +1,2332 @@
+ 
+  
+SUPREME COURT OF CANADA  
+ 
+CITATION : Southwind v. Canada, 
+2021 SCC 28    
+APPEAL HEARD : 
+December  8, 2020  
+JUDGMENT RENDERED : 
+July 16, 2021  
+DOCKET : 38795  
+ 
+BETWEEN : 
+Roger Southwind, for himself and on behalf of the  
+members of the Lac Seul Band of Indians and Lac Seul First Nation  
+Appellants  
+ 
+and 
+ 
+Her Majesty The Queen in Right of Canada  
+Respondent  
+ 
+- and - 
+ 
+Attorney General of Saskatchewan, Assembly of Manitoba Chiefs, Tseshaht 
+First Nation, Manitoba Keewatinowi Okimakanak Inc., Treaty Land 
+Entitlement Committee of Manitoba Inc., Anishinabek Nation, Wauzhushk 
+Onigum Nation, Big Grassy First Nation, Onigaming First Nation, 
+Naotkamegwanning First Nation, Niisaachew an First Nation, Coalition of the 
+Union of British Columbia Indian Chiefs, Penticton Indian Band, Williams 
+Lake First Nation, Federation of Sovereign Indigenous Nations, 
+Atikameksheng Anishnawbek First Nation, Kwantlen First Nation, Assembly 
+of First Natio ns, Assembly of First Nations Quebec -Labrador, Grand Council 
+Treaty #3, Mohawk Council of Kahnawà:ke, Elsipogtog First Nation, 
+Chemawawin Cree Nation and West Moberly First Nations  
+Interveners  
+ 
+CORAM : Wagner  C.J. and Abella, Moldaver, Karakatsanis, Côté, B rown, Rowe, 
+Martin and Kasirer  JJ. 
+ 
+  
+REASONS FOR 
+JUDGMENT :  
+(paras.  1 to 147)  Karakatsanis  J. (Wagner  C.J. and Abella, Moldaver, Brown, 
+Rowe, Martin and Kasirer  JJ. concurring)  
+  
+DISSENTING 
+REASONS :  
+(paras.  148 to 194) Côté  J. 
+  
+ 
+ 
+ 
+ 
+ 
+NOTE: This document is subject to editorial revision before its reproduction in final 
+form in the Canada Supreme Court Reports . 
+   
+ 
+   
+ SOUTHWIND v. CANADA  
+Roger Southwind, for himself  and on behalf of the members  
+of the Lac Seul Band of Indians and  
+Lac Seul First Nation  Appellants  
+v. 
+Her Majesty The Queen in Right of Canada  Respondent  
+and 
+Attorney General of  Saskatchewan,  
+Assembly of Manitoba Chiefs,  
+Tseshaht First Nation,  
+Manitoba Keewatinowi Okimakanak Inc.,  
+Treaty Land Entitlement Committee of Manitoba Inc.,  
+Anishinabek Nation,  
+Wauzhushk Onigum Nation,  
+Big Grassy First Nation,  
+Onigaming First Nation,  
+Naotkamegwanning First Nation,  
+Niisaachewan First Nation,  
+Coalition of the Union of British Columbia Indian Chiefs,  
+Penticton Indian Band,  
+Williams La ke First Nation,  
+Federation of Sovereign Indigenous Nations,  
+Atikameksheng Anishnawbek First Nation,  
+Kwantlen First Nation,  
+Assembly of First Nations,  
+Assembly of First Nations Quebec -Labrador,  
+Grand Council Treaty #3,  
+Mohawk Council of Kahnawà:ke,  
+Elsipog tog First Nation,  
+Chemawawin Cree Nation and  
+West Moberly First Nations  Interveners   
+ Indexed as: Southwind  v. Canada  
+2021  SCC  28 
+File No.: 38795.  
+2020:  December  8; 2021:  July 16. 
+Present: Wagner  C.J. and Abella, Moldaver, Karakatsanis, Côté, Brown, Rowe, Martin 
+and Kasirer  JJ. 
+ON APPEAL  FROM  THE  FEDERAL COURT OF APP EAL 
+ Aboriginal law — Fiduciary  duty — Reserve land — Remedy — Equitable 
+compensation — Part of First Nation’s reserve land flooded to power hydroelectricity 
+generation without consent of First Nation, without compensation and without lawful 
+authorization — Claim filed against Canada fo r breach of fiduciary duty and of 
+obligations under Indian Act and applicable treaty — Trial judge concluding that 
+Canada breached fiduciary duty to First Nation and awarding equitable compensation 
+for loss of flooded land — Whether trial judge erred in as sessment of equitable 
+compensation.  
+ The Lac Seul First Nation (“LSFN”) is a Treaty 3 First Nation in Northern 
+Ontario. Its reserve is  located on the southeastern shore of Lac Seul. In 1929, a dam to 
+power hydroelectricity generation to Winnipeg was comple ted pursuant to an  
+ agreement that Canada, Ontario and Manitoba had entered into. The project involved 
+raising the water level of Lac Seul by 10 feet, or approximately 3 metres, to create a 
+water reservoir. Canada was aware from the outset that flooding Lac  Seul would cause 
+considerable damage to the LSFN’s reserve. Despite repeated warnings about these 
+impacts, the project advanced without the consent of the LSFN, without any 
+compensation, and without the lawful authorization required. As a result of the pr oject, 
+almost one -fifth of the best land on the LSFN reserve was permanently flooded. The 
+damage was extensive and included the destruction of homes, wild rice fields, gardens, 
+haylands, and gravesites.  
+ The LSFN submitted a claim for flooding damages in 1985. In 1991, S, for 
+himself and on behalf of the members of the Lac Seul Band of Indians, filed a civil 
+claim against Canada in Federal Court for breach of Canada’s fiduciary duty and its 
+obligations under the Indian Act  and Treaty 3. The trial judge con cluded that Canada 
+failed to meet its fiduciary duty to the LSFN in respect of its reserve land and that the 
+appropriate remedy was equitable compensation. The LSFN proposed various models 
+of compensation at trial, and led evidence regarding agreements wit h another First 
+Nation in contemporaneous hydroelectric projects (“Kananaskis Falls Projects”), 
+which the trial judge distinguished. The trial judge valued the flooded land as if it had 
+been lawfully expropriated according to general expropriation law. In doing so, he 
+excluded the value of the land for hydroelectricity generation. He also assessed other 
+calculable losses and non -calculable damages for a total award of  $30,000,000. On 
+appeal, the LSFN challenged the trial judge’s evaluation of equitable comp ensation for  
+ the loss of the flooded lands. The majority of the Court of Appeal dismissed the appe al. 
+A dissenting judge would have allowed the appeal, agreeing that the value calculated 
+for the flooded land should have taken into account downstream hydroe lectricity 
+generation and concluding that the trial judge also made a legal error in distinguishing 
+the Kananaskis Falls Projects.  
+ Held (Côté  J. dissenting):  The appeal should be allowed. The award for 
+equitable compensation is set aside and returned to the Federal Court for reassessment.  
+ Per Wagner C.J. and  Abella, Moldaver, Karakatsanis , Brown, Rowe, 
+Martin and Kasirer  JJ.: Canada breached its obligation to preserve and protect the 
+LSFN’s interest in the reserve, which included an obligation to negotia te compensation 
+for the LSFN on the basis of the value of the land to the hydroelectricity project. The 
+LSFN is entitled to equitable compensation for the lost opportunity to negotiate for an 
+agreement reflecting the value of the land to the hydroelectricity generation project.   
+ The specific nature  of the Crown’s fiduciary duty to Indigenous Peoples, 
+especially over reserve land, informs how equitable compensation must be assessed.  
+The Crown’s fiduciary duty is rooted in the obligation of honourable dealing and in the 
+overarching goal of reconciliat ion between the Crown and the first inhabitants of 
+Canada. The honour of the Crown — and the sui generis  fiduciary duty to which it 
+gives rise — is a vital component of the relationship between the Crown and Indigenous  
+Peoples. The Crown’s fiduciary duty s tructures the role voluntarily undertaken by the  
+ Crown as the intermediary between Indigenous interests in land and the interest of 
+settlers.  
+ The fiduciary duty itself is shaped by the context to which it applies, which 
+means that its content varies with  the nature and the importance of the right being 
+protected. A strong fiduciary duty arises where the Crown is exercising control over a 
+First Nation’s land. In a case involving reserve land, the sui generis nature of the 
+interest in reserve land informs t he fiduciary duty. The importance of the interest in 
+reserve land is heightened where it was set aside as part of an obligation that arose out 
+of a treaty. The fiduciary duty imposes the following obligations on the Crown: loyalty, 
+good faith, full disclos ure, and, where reserve land is involved, the protection and 
+preservation of the First Nation’s quasi -proprietary interest from exploitation , 
+including exploitation by the Crown itself. In the context of a surrender of reserve land, 
+the Court has recognize d that the duty also requires that the Crown protect against 
+improvident bargains, manage the process to advance the best interests of the First 
+Nation, and ensure that it consent s to the surrender. In an expropriation, the obligation 
+to ensure consent is replaced by an obligation to minimally impair the protected 
+interest.  
+ When the Crown breaches its fiduciary duty, the remedy will seek to 
+restore the plaintiff to the position the plaintiff would have been in had the Crown not 
+breached its duty. Equitabl e compensation is the preferred remedy when restoring the 
+plaintiff’s  assets in specie is not available. It is a discretionary and restitutionary  
+ remedy that is assessed rather than precisely calculated. As  its purpose is to make up 
+the plaintiff’s loss, i t aims to restore the actual value of the thing lost through the 
+fiduciary’s breach, referred to as the plaintiff’s lost opportunity. By restoring the 
+beneficiary’s lost opportunity, it deters wrongdoing and enforces the trust at the heart 
+of the fiduciary  relationshi p. While equitable compensation is equity’s counterpart to 
+common law damages, analogy with common law damages may not be appropriate 
+given equity’s purpose, which differs from the purpose of obligations through tort and 
+contract.  
+ The proper approach to equitable compensation recognizes that the 
+applicable rules  will depend both on the nature of the fiduciary relationship and the 
+fiduciary obligations. The trial judge must begin by closely analyzing the nature of the 
+fiduciary relationship so as to ensure that the loss is assessed in relation to the 
+obligations owed by the fiduciary. The loss must be caused in fact by the fiduciary’s 
+breach, and the causation analysis is not limited by foreseeability, that is, remotene ss. 
+While the fiduciary’s breach must have caused, in fact, the plaintiff’s lost opportunity, 
+common law limiting factors developed in legal causation will not readily apply. There 
+must be a close relationship between the fiduciary duty and the fiduciary remedy. 
+Because equity asse sses the loss at the date of trial and with the benefit of hindsight, it 
+compensates the plaintiff for the lost opportunity, regardless of whether the opportunity 
+could have been foreseen at the time of the brea ch. The benefit of hindsight means that 
+the m ost valuable use of the asset between breach and date of trial is not always  
+ foreseeable at the time of brea ch. The assessment of equitable compensation is also 
+guided by presumptions that equity makes against breaching fiduciaries.   
+ In the instant case, the trial judge’s reasons are tainted by legal errors 
+reviewable on a correctness standard. The trial judge erred in concluding that a 
+hypothetical expropriation — the minimum statutory obligation — would have fulfilled 
+Canada’s fiduciary obligations. This  legal error impacted his assessment of equitable 
+compensation because it led him to rely on general principles of expropriation law to 
+value the loss and to conclude that compensation would not be assessed at a higher 
+value than the minimum required under  an expropriation. The fundamental error of the 
+trial judge was that he focused on what Canada would likely have done instead of what 
+Canada ought to have done as a fiduciary.  
+ The fiduciary duty required more than compensation based upon 
+expropriation pri nciples in this case for three reasons. First, the presence of legal 
+discretion to take or expropriate the land in the Indian Act  did not define the obligations 
+imposed by Canada’s fiduciary duty. The fiduciary duty, not just the Indian Act , 
+imposed substa ntive  obligations on how Canada was to exercise its discretion over the 
+reserve land. The provisions in the Indian Act  accommodated the exercise of the 
+Crown’s fiduciary duty by recognizing the discretion of the Crown to negotiate, or the 
+discretion of the  Governor in Council to determine the terms of a taking or 
+expropriation. There was therefore no conflict between the requirements of the Indian 
+Act and the requirements imposed by the fiduciary duty. The equitable presumption of  
+ legality or lawfulness, wh ich prevents breaching fiduciaries from reducing 
+compensation by arguing that they would not have complied with the law, is of little 
+assistance in determining either the fiduciary obligatio ns or the assessment of loss . The 
+presumption cannot be inverted a nd used to limit compensation by suggesting that the 
+fiduciary is expected to do no more than what the law, not equity, requires. Moreover, 
+Canada’s legal powers to expropriate cannot be considered  as a factor to limit 
+compensation. Canada is not permitted to benefit from the very discretionary power 
+over the LSFN which is the source of its fiduciary duty.  
+ Second, the fiduciary duty required more than compensation based upon 
+expropriation principle s because the fact that the land was required for a public work 
+did not negate the obligations imposed by Canada’s fiduciary duty. The fiduciary duty 
+continues to apply even if the land is needed for a public work. While the Crown can 
+decide that a public work is in the public interest and should thus proceed, the manner 
+in which it proceeds is subject to the fiduciary duty.   
+ Third, the fiduciary duty required more than compensation based upon 
+expropriation principles because the principles of expropriatio n law are fundamentally 
+different than those underlying Indigenous interest in land. Expropriation law is not the 
+appropriate legal framework governing historic breaches of the Crown’s fiduciary  duty 
+to protect a First Nation’s interest in reserve land. Th e fiduciary obligations in this case 
+must reflect the nature of the interest, the impact of the loss on the First Nation, the 
+importance of the relationship, and reconciliation, which is the overarching goal of the  
+ fiduciary duty itself, based in the honou r of the Crown. In the context of an 
+expropriation or taking, the Crown is required to minimally impair the protected 
+interest. Where the Crown decides that reserve land is necessary for a public work and 
+takes that land without the consent of the First Na tion, the fiduciary duty requires the 
+Crown to seriously consider the impact on the First Nation and how best to minimize 
+that impact. As a fiduciary, the Crown has the duty to preserve the First Nation’s 
+quasi -proprietary interest in the land as much as p ossible and to ensure fair 
+compensation reflecting the sui generis interest.  
+ The duty to preserve the interest to the greatest extent possible is not met 
+if expropriation principles are applied in this case. Even though the expropriation value 
+considers the highest and best use of the land at the time of expropriation, this generally 
+does not include the value of the land to the scheme itself because expropriation law 
+seeks to provide landowners with the compensation necessary to purchase replacement 
+land. Conversely, sui generis Indigenous interests in land are fundamentally different 
+as reserve land is not a fungible commodity and Indigenous interests in land are at the 
+centre of the relationship between the Crown and Indigenous Peoples. Instead, given 
+the LSFN’s sui generis interest in the reserve land and the impact on the LSFN, the 
+duty required Canada to capture the full potential value of the land for the land’s 
+intended use, notwithstanding its legal power to expropriate. Canada must always keep 
+the First Nation informed, attempt to negotiate a surrender before proceeding to an 
+expropriation, and ensure compensation reflecting the nature of the interest and the 
+impact on the community.   
+  Canada ought to have first attempted to negotiate a surrender. Canada’s 
+fiduciary obligations required it to ensure the highest compensation possible, including 
+compensation for the land’s anticipated use as land for hydroelectricity generation. If 
+negotiations for a surrender of the land were unsuccessful, Canada cou ld have 
+proceeded through a taking or expropriation, but even in an expropriation , Canada was 
+required to preserve the LSFN’s interest in the land to the greatest extent possible and 
+should have secured compensation for the LSFN that reflected the nature o f the interest, 
+the impact on the community, and the value of the land to the project.  
+ The lost opportunity in this case is the opportunity to negotiate a surrender 
+reflecting the highest value of the land, which was its use for hydroelectricity 
+generatio n: the LSFN is entitled to compensation for that lost opportunity. The 
+valuation of the LSFN’s lost opportunity must reflect Canada’s obligation to negotiate 
+compensation based upon the best price that could have been obtained for the land’s 
+use for hydroe lectricity generation.  In this case, the presumption of highest and best 
+use means that the land should be valued on the basis of its actual use as flooded land 
+for hydroelectricity generation and allows equitable compensation to focus on a 
+successful nego tiated surrender because that more clearly aligns with the nature of the 
+breach, which included a failure to keep the LSFN informed and a failure to prevent 
+the project from proceeding until the negotiations for compensation had been resolved. 
+Equity can p resume that the LSFN would have consented to a negotiated settlement at 
+the best price the Crown could have realistically obtained at the time. The value of the 
+flooded land must be reassessed.   
+  Per Côté  J. (dissenting): There is no basis to interfere wit h the trial judge’s 
+equitable compensation assessment. The trial judge assessed compensation for the 
+value of the flooded lands in 1929 based on a thorough examination of the facts as 
+established in the record. As there is no reviewable error in the trial judge’s analysis, 
+the appeal should be dismissed.  
+ S and the LSFN have not established a basis for interfering with the trial 
+judge’s valuation. The trial judge’s determination that the LSFN should have been 
+compensated through  a one -time payment in 1929 based on an expropriation model is 
+not an extricable error, and thus not reviewable on a correctness standard. The trial 
+judge’s findings regarding what would have actually happened in 1929 had Canada not 
+breached its duty to the LSFN are factual determina tions, not legal ones. No particular 
+findings of fact by the trial judge have been identified as constituting a palpable and 
+overriding error.  
+ The trial judge made no reviewable errors. The trial judge applied settled 
+principles of equitable compensation,  including the special importance of its deterrent 
+effect in furthering the ongoing project of reconciliation between Canada and 
+Indigenous peoples. He looked back to when the breach occurred, and, with the benefit  
+of hindsight and the evidentiary record, assessed what position the LSFN would have 
+been in but for the brea ch. He determined that, had Canada acted legally, it would have 
+taken the reserve lands in 1929 through expropriation or surrender. Based on the  
+ evidence before him, the trial judge assessed the losses presuming the highest and best 
+use and with the benefit of  hindsight.  
+ While there is agreement with the majority that equitable compensation in 
+this case should be assessed on the basis of a negotiated surrender, there is disagreement 
+with the majority’s view that the lost opportunity equates to a lost opportun ity to 
+negotiate a surrender of the lands for hydroelectricity generation. The value  of the 
+compensation that Canada should have negotiated for the LSFN cannot be assessed in 
+an evidentiary or factual vacuum and the majority seeks to impose a greater oblig ation 
+on a trial judge than the law demands. The majority’s characterization presupposes that 
+the trial judge had the requisite factual basis to make such a finding, while it is clear 
+from the record that he did not. At trial, no evidence was provided rega rding a one -time 
+payment for the flooded lands for hydroelectric purposes. S and the LSFN must bear 
+the consequences of their trial strategy, even though they have changed tack on 
+appe al. Therefore, the trial judge was correct to find that the argument tha t Canada 
+could, and should, have paid more than fair market value for the lands was nothing 
+more than optimistic speculation.  
+ The trial judge’s determination regarding the comparability of the 
+Kananaskis Falls Projects and the Lac Seul situation is a fac tual determination. His 
+finding that the Kananaskis Falls Projects were not a relevant proxy was supported by 
+the limited evidence before him. That evidence does not substantiate a finding that he 
+made a palpable and overriding error in refusing to award a  sum in excess of the fair  
+ market value of the lands. It is simply speculation to conclude that Canada’s differing 
+approach for the Kananaskis Falls Projects leads to the conclusion that it breached its 
+duty in this case.  
+ Moreover, the trial judge’s incl usion of a robust non -calculable loss 
+analysis allowed him to meaningfully consider the impact of the flooding on the LSFN. 
+He appropriately acknowledged and incorporated the impact on the community and the 
+LSFN’s perspective in his analysis. The total equ itable compensation awarded ensures 
+that S and the LSFN are compensated for the value of the lands.  
+Cases Cited  
+By Karakatsanis  J. 
+ Applied:  Guerin v. The Queen , [1984] 2 S.C.R. 335; Osoyoos Indian Band 
+v. Oliver (Town) , 2001 SCC 85, [2001] 3 S.C.R. 746; Housen v. Nikolaisen , 2002 SCC 
+33, [2002] 2 S.C.R. 235; distinguished: Wewaykum Indian Band v. Canada , 2002 SCC 
+79, [2002] 4 S.C.R. 245; considered: Canson Enterprises Ltd. v. Boughton & Co. , 
+[1991] 3 S.C.R. 534; referred to:  Haida Nation v. British Columbia (Minister of 
+Forests) , 2004 SCC 73, [2004] 3 S.C.R. 511; R. v. Desautel , 2021 SCC 17; Beckman 
+v. Little Salmon/Carmacks First Nation , 2010 SCC 53, [2010] 3 S.C.R. 103; R. v. 
+Sparrow , [1990] 1 S.C.R. 1075; Manitoba Metis Federation Inc. v. Canada ( Attorney 
+General) , 2013 SCC 14, [2013] 1 S.C.R. 623; R. v. Van der Peet , [1996] 2 S.C.R. 507; 
+Williams Lake Indian Band v. Canada (Aboriginal Affairs and Northern Development) ,  
+ 2018 SCC 4, [2018] 1 S.C.R. 83; Ermineskin  Indian Band and Nation v. Canada , 2009 
+SCC 9, [2009] 1 S.C.R. 222; Blueberry River Indian Band v. Canada (Department of 
+Indian Affairs and Northern Development) , [1995] 4 S.C.R. 344; Re Dawson; Union 
+Fidelity Trustee Co. v. Perpetual Trustee Co. (1966), 84 W.N. (Pt.  1) (N.S.W.) 399 ; 
+Hodgkins on v. Simms , [1994] 3 S.C.R. 377; Whitefish Lake Band of Indians v. Canada 
+(Attorney General) , 2007 ONCA 744, 87 O.R. (3d) 321; Stirrett v. Cheema , 2020 
+ONCA 288, 150 O.R. (3d) 561; AIB Group (UK) plc v. Mark Redler & Co. Solicitors , 
+[2014] UKSC 58, [2015] A.C. 1503; Cadbury Schweppes Inc. v. FBI Foods Ltd. , 
+[1999] 1 S.C.R. 142; Target Holdings Ltd. v. Redferns , [1996] 1 A.C. 421; Brickenden 
+v. London Loan & Savings Co. , [1934] 3 D.L.R. 465 . 
+By Côté  J. (dissenting)  
+ Housen v. Nikolaise n, 2002 SCC 33, [2002] 2 S.C.R. 235; Whitefish Lake 
+Band of Indians v. Canada (Attorney General) , 2007 ONCA 744, 87 O.R. (3d) 321; 
+Guerin v. The Queen , [1984] 2 S.C.R. 335; Modern Cleaning Concept Inc. v. Comité 
+paritaire de l’entretien d’édifices publics de la r égion de Québec , 2019 SCC 28, [2019] 
+2 S.C.R. 406; Nelson (City) v. Mowatt , 2017 SCC 8, [2017] 1 S.C.R. 138; Mahjoub v. 
+Canada (Citizenship and Immigration) , 2017 FCA 157, [2018] 2 F.C.R. 344; 
+Hodgkinson v. Simms , [1994] 3 S.C.R. 377; National Westm inster Bank plc v. Morgan , 
+[1985] 1 All E.R. 821 . 
+Statutes and Regulations Cite d  
+ Constitution Act , 1982 , s. 35. 
+Expropriation Act , R.S.C. 1985, c.  E-21. 
+Expropriations Act , R.S.O. 1990, c.  E.26.  
+Indian Act , R.S. C. 1927, c.  98, ss. 48, 50, 51 . 
+Royal Proclamation, 1763  (G.B.), 3 Geo. 3 [reproduced in R.S.C. 1985, A pp. II, No. 1]. 
+Unemployment Relief Act, 193 0, S.C.  1930, c. 1. 
+Treaties and  Agreements  
+Treaty No. 3 (1873).  
+Authors Cited  
+Bray,  Samuel  L. “Fiduciary Remedies”, in  Evan  J. Criddle, Paul  B. Miller and Robert 
+H. Stikoff, eds., The Oxford Handbook of Fiduciary Law . New York : Oxford 
+University Press, 2019, 449.  
+Luk, Senwung. “Not So Many Hats: The Crown’s Fiduciary Obligations to Aboriginal 
+Communities since Guerin ” (2013), 76 Sask. L. Rev.  1. 
+Mainville, Robert. An Overview of Aboriginal and Treaty Rights and Compensation 
+for Their Brea ch. Saskatoon: Purich Publishing, 2001.  
+McCabe,  J. Timothy S. The Honour of the Crown and its Fiduciary Duties to 
+Aboriginal Peoples . Markham, Ont.: LexisNexis,  2008.  
+Oosterhoff on Trusts: Text, Commentary and Materials , 9th ed. by Albert  H. 
+Oosterhof f, Robert  Chambers and Mitchell McInnes. Toronto: Carswell, 2019.  
+Rotman,  Leonard  I. Fiduciary Law . Toronto: Thomson/Carswell, 2005.  
+Rotman,  Leonard  I. “Understanding Fiduciary Duties and Relationship Fiduciarity” 
+(2017), 62 McGill L.J.  975. 
+Slattery, Brian. “The Aboriginal Constitution” (2014), 67 S.C.L.R.  (2d) 319.   
+  APPEAL from a judgment of the Federal Court of Appeal  (Nadon, Webb 
+and Gleason JJ.A.), 2019 FCA 171 , [2020] 1 F.C.R. 745 , 89 C.L.R. (4th) 1, 15 L.C.R. 
+(2d) 99, [2019] F.C.J No. 672 (QL), 2019 CarswellNat 2362 (WL Can.), affirming a 
+decision of Zinn J., 2017 FC 906, 74 C.L.R. (4th) 4, [2018] 4 C.N.L.R. 63, 6 L.C.R. 
+(2d) 73, [2017] F.C.J. No. 966 (QL), 2017 CarswellNat 5620  (WL Can.). Appeal  
+allowed, Côté J. dissenting.  
+ Rosanne Kyle  and Elin Sigurdson , for the appellant s. 
+ Christopher Rupar  and Michael Roach , for the respondent.  
+ P. Mitch McAdam , Q.C. , for the intervener the Attorney General of 
+Saskatchewan.  
+ Carly Fox , for the intervener the Assembly of Manitoba Chiefs.  
+ Christopher  Devlin , for the intervener the Tseshaht First Nation.  
+ Kate Kempton , for the intervener  Manit oba Keewatinowi Okimakanak Inc. 
+ Harley Schachter , for the intervener the Treaty Land Entitlement 
+Committee of Manitoba Inc.  
+ Cynthia Westaway , for the intervener the Anishinabek Nation.   
+  David  G. Leitch , for the intervener the Wauzhushk Onigum Nation.  
+ Donald  R. Colborne , for the i ntervener s the  Big Grassy First Nation, the 
+Onigaming First Nation, the Naotkamegwanning First Nation and  the Niisaachewan 
+First Nation.  
+ Peter Millerd , for the intervener s the  Coalition of the Union of British 
+Columbia Indian Chiefs,  the Penticton Indian Band and the Williams Lake First Nation.  
+ Ronald  S. Maurice , for the intervener the Federation of Sovereign 
+Indigenous Nations.  
+ Steven  W. Carey , for the intervener the Atikameksheng Anishnawbek First 
+Nation.  
+ Tim Dickson , for the interve ner the Kwantlen First Nation.  
+ Stuart Wuttke , for the intervener the Assembly of First Nations.  
+ Beno ît Amyot , for the intervener the Assembly of First Nations 
+Quebec -Labrador.  
+ Kate Gunn , for the intervener the Grand Council Treaty #3.   
+  Stacey Douglas , for the intervener the Mohawk Council of Kahnawà:ke.  
+ Alisa  R. Lombard , for the intervener the Elsipogtog First Nation.  
+ Catherine  J. Boies Parker , Q.C. , for the intervener  the Chemawawin Cree 
+Nation.  
+ Reidar  M. Mogerman , Q.C. , for the intervener the West Moberly First 
+Nations.  
+ 
+The judgment of Wagner  C.J. and Abella, Moldaver, Karakatsanis, Brown, Rowe, 
+Martin and Kasirer  JJ. was delivered by  
+ 
+ KARAKATSANIS J. —  
+[1] At the beginning of the twentieth century, Canada needed more electricity 
+to fuel Winnipeg’s economic growth. The governments of Canada, Manitoba, and 
+Ontario decided to create a water reservoir in northern Ontario to power 
+hydroelectricity generation. They settled on Lac Seul, which flows into both Ontario 
+and Manitoba, and determined that if the y raised the water level of Lac Seul by 10 feet, 
+or approximately 3 metres, they could generate substantial electricity. Construction of 
+the dam was completed in 1929 and the water steadily rose through the 1930s. The 
+project was a success for the three go vernments.   
+ [2] The project was also a tragedy for the Lac Seul First Nation (LSFN). The 
+LSFN’s reserve (Reserve) is located on the southeastern shore of Lac Seul. Almost one -
+fifth of its best land was flooded and its members were “deprived of their livelihood,  
+robbed of their natural resources, and driven out of their home [s]” ( 2017 FC 906, 
+[2018] 4 C.N.L.R. 63,  at para.  156).  
+[3] Canada was aware from the outset that flooding Lac Seul by 10 feet would 
+cause “very considerable” damage to the Reserve. In the late 19 20s, the Supervisor 
+responsible for valuing the loss warned that the Reserve would be “ruined for any 
+purpose [for] which it was set aside”, that the members of the First Nation were 
+“helpless to avert this calamity”, and that they viewed their future “wit h utter dismay” 
+(Trial Reasons, at paras.  152 and 156).  
+[4] Despite repeated warnings from government officials about the impact that 
+the project would have on the First Nation, the project advanced without the consent of 
+the Lac Seul First Nation, without any  compensation, and without the lawful 
+authorization required.   
+[5]  Since the Royal Proclamation, 1763  (G.B.), 3 Geo. 3 (reproduced in 
+R.S.C. 1985, App.  II, No.  1), Indigenous interests in land, including reserve land, 
+cannot be taken or used without legal aut horization from the Crown. The Indian Act , 
+R.S.C. 1927, c.  98, permitted expropriation for public works, but only with the approval 
+of Cabinet through the Governor in Council. Treaty No.  3 (1873), that set aside the 
+reserve land for the LSFN, required “due  compensation” for any taking or  
+ appropriation. In addition, this Court recognized in Guerin v. The Queen , [1984] 2 
+S.C.R. 335, and subsequent decisions,  that the Crown is subject to a fiduciary duty 
+when it exercises control over Indigenous interests. Thi s fiduciary duty imposes strict 
+obligations on the Crown to advance the best interests of Indigenous Peoples.  
+[6] The trial judge concluded that Canada failed to meet its fiduciary duty to 
+the Lac Seul First Nation in respect of its interest in Reserve land. On appeal, Canada 
+does not dispute this conclusion.  
+[7] Canada did not keep the LSFN informed about the project; did not consult 
+the LSFN; did not negotiate on t he L SFN’s behalf to get the best compensation 
+possible; did not use its power to refuse to authorize the project until the other parties 
+agreed to fair compensation; and the compensation Canada did manage to negotiate — 
+14 years after the flooding began — was in adequate. This was unlawful and egregious 
+conduct, even by the standards of the time. As the trial judge observed, this outcome 
+was “inexplicable” (para. 298).  
+[8] The results of Canada’s failures are tragic and well documented. Roughly 
+17 percent of the Rese rve — 11,304 acres or approximately 4,575 hectares — is now 
+permanently flooded. Homes were destroyed, as were wild rice fields, gardens, 
+haylands, and gravesites. Fishing, hunting, and trapping were all impacted. The LSFN 
+was separated because one part of  the Reserve became an island. And, despite the 
+sacrifices suffered by the LSFN to make the hydroelectricity project possible, the 
+Reserve was not provided with electricity until the 1980s.   
+ [9] The LSFN challenges the trial judge’s evaluation of equitable 
+comp ensation for the loss of the flooded lands. The issue for this Court is how to assess 
+equitable compensation for the loss caused by Canada’s breach of fiduciary duty. The 
+central inquiry is: what position would the beneficiary be in had the fiduciary fulfi lled 
+its obligations?  
+[10] The trial judge valued the flooded land based on its value in 1929, with 
+10 percent valued as waterfront land and 90  percent valued as bushland. He determined 
+that because Canada was authorized to expropriate the land for a public wo rk under the 
+Indian Act  provisions in force at the time, the land should be valued based upon an 
+expropriation in 1929. Thus, the trial judge concluded that the First Nation was not 
+entitled to be compensated for any value that the land provided to the hyd roelectricity 
+project itself.  
+[11] In my view, this approach to equitable compensation for breach of 
+fiduciary duty is flawed. By looking solely at the amount the LSFN would have 
+received if Canada had complied with the general law relating to expropriation, th e trial 
+judge gave no effect to the unique obligations imposed by the fiduciary duty. The trial 
+judge improperly focused on what Canada would likely  have done , as opposed to what 
+Canada ought to have done  as a fiduciary.  While I agree with much of the tria l judge’s 
+analysis, this error tainted his assessment of equitable compensation.   
+[12] The fiduciary duty imposes heavy obligations on Canada. The duty does 
+not melt away when Canada has competing priorities. Canada was under an obligation  
+ to preserve and prote ct the LSFN’s interest in the Reserve. This included an obligation 
+to negotiate compensation for the LSFN on the basis of the value of the land to the 
+hydroelectricity project. Compensation must be assessed on that basis.  
+[13] I would allow the appeal and remit  the case back to the Federal Court for 
+reassessment of the equitable compensation to include the value of the flooded land to 
+the hydroelectricity project.  
+I. Background  
+[14] The LSFN is a Treaty 3 First Nation in Northern Ontario. The members are 
+Anishinaabe peo ple. According to Chief Clifford Bull, they have always been lake 
+dwellers who travelled through the water, kept their homes and gardens near the water, 
+cultivated wild rice in the water, fished in the water, and hunted near the water.  
+[15] The LSFN’s tradition al territory extends from the Trout Lake region in 
+northwestern Ontario, southeast through the Lac Seul region, and northeast towards 
+Lake St. Joseph. The LSFN has one Reserve, called the Lac Seul Indian Reserve 
+No. 28, which is located on the southeastern  shore of Lac Seul in northern Ontario. The 
+Reserve has three communities — Kejick Bay, Whitefish Bay, and Frenchman’s Head.  
+[16] The Reserve was created under Treaty 3, which required Canada to select 
+and set aside reserves that would be “most convenient and a dvantageous for each band 
+or bands of Indians”. In 1875, the LSFN chose Lac Seul as the site of the Reserve  
+ because of the resources along the shoreline and the social, cultural, and spiritual 
+importance of the area.   
+[17] In the early twentieth century, Canad a wanted to provide more electricity 
+to Winnipeg. By 1911, Canada identified Lac Seul as a potential reservoir for 
+hydroelectricity generation (Project). Lac Seul flows into the English River in Ontario, 
+which in turn flows into the Winnipeg River in Manit oba. In 1915, the Dominion Water 
+Power Branch, within the Department of the Interior, prepared a report noting that a 
+10 foot flooding of Lac Seul would increase the power potential on the English River 
+by 233 percent.  
+[18] In the same year, the Manitoba Hydro graphic Survey began preliminary 
+fieldwork. Chief John Akewance of the LSFN first became aware of the potential 
+Project through the fieldwork, and wrote to Indian Agent R.  S. McKenzie in 1915 
+outlining his concerns. Canada advised the Indian Agent that “th ere is no present 
+intention to raise the waters of Lac Seul” (Trial Reasons, at para.  127).  
+[19] The fieldwork report was released in 1916 and noted that the Project would 
+flood portions of the Reserve. In 1917, Canada recommended to Ontario that it obtain 
+flowage rights over the land that would need to be flooded. In 1919, Canada informed 
+itself about the procedure for granting flowage rights on reserve land:  
+If after negotiation the offer is accepted on behalf of the Indians, or 
+amended and so accepted, the am ount of compensation agreed upon is  
+ deposited with the Minister of Finance for the use of the band of Indians 
+and the land is surrendered.  
+ 
+(Trial Reasons, at para.  132) 
+Canada wrote to Ontario again in 1921 urging that they reserve the flooding rights. 
+There is no record of a response.  
+[20] In 1924, Chief Paul Thomas met with Indian Agent Frank Edwards to 
+express the LSFN’s concerns. Agent Edwards told Chief Thomas that Canad a would 
+“protect their interests as far as possible ” (Trial Reasons, at para.  137 (emphasis in 
+original)).  
+[21] In February 1928, Canada, Ontario, and Manitoba entered into the Lac Seul 
+Storage Agreement which governed the construction and ownership of the Pro ject. The 
+agreement apportioned the capital costs among the governments, which included “the 
+cost of acquiring flooding privileges or other necessary easements” and “compensation 
+for timber, buildings and improvements, including Ontario Crown Lands, Indian  Lands 
+and lands owned by private individuals” (Trial Reasons, at para.  147).  
+[22] In April 1928, Ontario wrote to affected landowners regarding the Project. 
+Ontario also notified the Department of Indian Affairs and indicated that the water 
+levels would be rai sed by approximately 12 feet. In the summer of 1928, H.  J. Bury, 
+the Supervisor of Indian Timber Lands, appraised the value of the LSFN’s anticipated 
+losses at $120,200. Ontario disagreed with the estimate. Mr. Bury reiterated his position  
+ in two internal memoranda. On May 14, 1929, he wrote that “[t]he reserve is ruined for 
+any purpose [for] which it was set aside . . . for the Indians” (Trial Reasons, at 
+para.  156). Two days later, he wrote:  
+There are 688 Indians on the reserve, who are helpless to avert this 
+calamity, and who view the future with utter dismay, but I feel that the 
+associated governments concerned, will not permit these Indians to be 
+deprived of their livelihood, robbed of their natural resources, and driven 
+out of their home[s], without no t only allowing them generous monetary 
+compensation, but also make provision, during the period of years in which 
+they will have to re -adjust themselves to new and strange conditions, for 
+exclusive trapping rights for them in a district remote from civiliz ation.  
+ 
+(Trial Reasons, para.  156) 
+[23] On May 17, 1929, the Deputy Superintendent General of Indian Affairs 
+wrote to his superior that “[t]he situation is certainly serious; and hardship and disaster 
+appear to face these poor Indians unless some arrangement is  made at once, providing 
+for reasonable compensation and the allocation of suitable hunting and fishing grounds 
+elsewhere” (Trial Reasons, at para.  157). No agreement regarding compensation to the 
+LSFN was reached with Ontario.  
+[24] Ontario applied for necessar y approvals in July 1928. The application 
+noted that “[i]t will be necessary in connection with the proposed work to acquire 
+flowage rights over lands on an Indian Reserve” (Trial Reasons, at para.  159 (emphasis 
+deleted)). Even though those rights were nev er acquired, the dam was completed by 
+June 1929. The power site, the Ear Falls Generating Station, was completed and began 
+delivering power in February 1930.   
+ [25] The flooding of Lac Seul was delayed by disagreements between Canada 
+and Ontario regarding timber clearing. Ontario wanted to harvest its Crown timber prior 
+to flooding. To resolve the impasse, Canada proposed that the timber clearing could be 
+accomplished as an unemployment project under Canada’s depression -era 
+Unemployment Relief Act, 1930 , S.C.  1930 , c. 1. As negotiations for this relief project 
+unfolded, Canada assured the LSFN’s members that “ their interests will be protected 
+to the fullest possible extent ” (Trial Reasons, at para.  181 (emphasis in original)).  
+[26] In July 1933, Canada’s Minister of th e Interior signed the agreement for 
+the relief project. A week later, the local Indian Agent and the timber supervisor assured 
+the LSFN that the water would not be raised “for several years to come” (Trial Reasons, 
+at para.  183). The relief project was a f ailure. Less than 700 acres were cleared at a cost 
+of over $850,000 to Canada. Members of the LSFN were excluded from employment 
+in the project.  
+[27] Despite the assurances given to the LSFN, the waters of Lac Seul began to 
+rise in 1934. The damage was extensi ve. Agent Edwards estimated that at least 
+29 houses would need to be rebuilt — in total, one -quarter to one -third of the houses 
+ultimately had to be moved or replaced. Between 1935 and 1939, additional damage 
+was documented. In August 1936, Canada’s Superi ntendent General of Indian Affairs 
+wrote to Ontario’s Minister of Lands and Forests:  
+. . . the Lac Seul Indian Reserve has been flooded to such a serious extent 
+that we have been compelled already to construct many new houses for the 
+Indians at a cost of $ 25,000 and the flood conditions have not only  
+ submerged the Indian hay lands, gardens and cultivated land, but have also 
+seriously impaired the efforts of these Indians to earn their livelihood.  
+ 
+. . . The Indians of this Reserve have been definitely assur ed that their 
+interests would be fully protected and they are at present much disturbed 
+and alarmed at the damage already caused. [Emphasis deleted.]  
+ 
+(Trial Reasons, at para.  192) 
+[28] In March 1937, Mr. Bury wrote a memorandum regarding the ongoing 
+failure to  provide compensation. He wrote:  
+I desire to again draw your attention to the serious breach of faith that our 
+Department has made with the Indians of the Lac Seul Reserve, respecting 
+promises made to them regarding flooding compensation . . .  
+ 
+. . . 
+ 
+I consider that these Indians have been very shabbily treated. Their Reserve 
+lands, timber, houses, gardens, rice beds, musk -rat swamps have been 
+flooded now for some years, and we still procrastinate[.] [I]f it had been a 
+white settlement, no person would hav e dared to flood the property, 
+without paying compensation before flooding took place. [Emphasis 
+deleted.]  
+ 
+(Trial Reasons, at para.  194) 
+[29] Negotiations between Canada and Ontario continued. In 1940, Ontario 
+determined that $50,000 would be a “fair valuation ” of compensation, but Ontario also 
+claimed it was owed compensation for what it viewed as excess acres on the Reserve 
+as well as outstanding claims for timber clearing. The LSFN was not consulted nor 
+informed of the impending settlement.   
+ [30] In 1943, Canada and Ontario finally agreed to a claim amount of $72,539, 
+with deductions of $5,000 to pay a timber claim submitted by a lumber company and 
+$17,276 to pay Ontario for “excess acres” on the Reserve. The balance, $50,263, was 
+deposited into th e LSFN’s trust account on November 17, 1943.  
+[31] By contrast, Ontario and Canada negotiated compensation with other non -
+Indigenous groups whose property fell within the flood plain of the dam project, such 
+as the Anglican Church Missionary Society, the Hudson ’s Bay Company, and the 
+Canadian National Railway. For instance, the Anglican Church Missionary Society 
+received compensation for the timber destroyed in the floods and for the costs of 
+relocating its church and cemetery. Similarly, the Hudson’s Bay Compan y engaged in 
+protracted negotiations with the federal government that resulted in compensation not 
+only for “Flowage Rights” over the company’s territory, but also for the value of the 
+buildings and other facilities.  
+[32] Canada’s conduct towards the LSFN also differs from its conduct in three 
+earlier projects that impacted another First Nation. In the early 1910s, Calgary Power 
+and Transmission sought permission from Indian Affairs to flood reserve lands of the 
+Stoney Indian Band in Alberta for three hydroelect ricity projects (Kananaskis Falls 
+Projects). For all three projects, Canada negotiated a surrender on behalf of the First 
+Nation and insisted on compensation reflecting the value of the land to hydroelectricity 
+generation. Calgary Power entered into three agreements which provided two forms of  
+ compensation: a one -time payment for flooded land and a yearly water power rental 
+agreement. This compensation was based upon the value of the land to the project.  
+[33] Here, there was never a negotiated surrender of the l and by the LSFN and 
+Canada did not at any point expropriate the land in accordance with the provisions of 
+the Indian Act . Nonetheless, the Project was completed in 1929 and the lands were 
+steadily flooded throughout the 1930s. A total of 11,304 acres, appr oximately 
+17 percent of the Reserve, is now flooded. The flooding destroyed wild rice fields, 
+gardens, and haylands for livestock. It impacted fishing and damaged homes, 
+campsites, and shoreline infrastructure. The flooding damaged and exposed graves that 
+were not relocated prior to the flooding. One of the LSFN’s communities, Kejick Bay, 
+became an island separated from the other communities.  
+[34] In September 1985, the LSFN submitted a claim for flooding damages to 
+the Specific Claims Branch of the Department of Indian and Northern Affairs Canada. 
+In 1991, Roger Southwind, for himself and on behalf of the members of the Lac Seul 
+Band of Indians, filed a civil claim against Canada. In November 2006, 63 years after 
+the settlement, the LSFN entered into an agreeme nt with Ontario Power Generation 
+(OPG), the current operator of the Ear Falls Generating Station. The agreement 
+included $11,200,000 in compensation for losses arising from the Ear Falls Generating 
+Station on the LSFN’s traditional territory, but expressly  excluded damages caused by 
+the flooding in the 1930s. The settlement included a plan to open a new generating 
+station and provided the LSFN with the opportunity to purchase an equity position of  
+ 25 percent. In February 2009, OPG opened the new generating station in partnership 
+with the First Nation. In  2009, a causeway was built to finally reconnect Kejick Bay 
+Island and the Reserve mainland. The LSFN contributed $1,750,000 to this and a 
+related project.  
+A. Trial Decision , 2017 FC 906, [2018] 4 C.N.L.R. 63  (Zinn J.)  
+[35] In 1991, Roger Southwind, for himself and on behalf of the members of 
+the Lac Seul Band of Indians , filed a civil claim against Canada in Federal Court for 
+breach of Canada’s fiduciary duty and its obligations under the Indian Act  and Treaty  3. 
+The trial, which lasted more than 50 days, began before Justice Zinn in September 
+2016.  
+[36] The parties called 24 witnesses, 22 of whom were expert witnesses whose 
+testimony included how to value the loss and bring that loss forward to present value. 
+The plaint iff proposed various models for assessing compensation, including a 
+revenue -sharing agreement, the loss of revenues from traditional activities, and a land 
+lease. The plaintiff also led evidence regarding Canada’s arrangements with another 
+First Nation in contemporaneous hydroelectricity projects. Both parties called expert 
+witnesses to testify about different models for translating historic losses into present 
+value.  
+[37] The trial judge held that Canada owed the LSFN a fiduciary duty in respect 
+of land reserv ed for its benefit under Treaty 3. He particularized the following  
+ obligations: a duty of loyalty and good faith in the discharge of its mandate as a trustee 
+of the Reserve land; a duty to provide full disclosure and consult with the band; a duty 
+to act wi th ordinary prudence with a view to the best interests of the LSFN; and a duty 
+to protect and preserve the band’s proprietary interests in the Reserve from exploitation 
+(para.  226). The trial judge found that Canada breached each of these obligations.  
+[38] Canada accepted that equitable compensation was the appropriate remedy 
+for breach of fiduciary duty. The trial judge summarized the principles of equitable 
+compensation as follows: (1) the goal of equitable compensation is to restore what the 
+plaintiff has lo st due to the breach; (2) the plaintiff’s loss is an opportunity that was not 
+realized because of the breach; (3) the plaintiff’s loss must be assessed with the benefit 
+of hindsight and not based on what was foreseeable or known at the date of the breach; 
+(4) the losses are to be determined on a common sense view of causation; (5) the court 
+must assume the plaintiff would have made the most favourable use of the trust 
+property; and (6) the court must assume that the defendant would have carried out its 
+duties in a lawful manner (para. 285).  
+[39] In applying these principles, the trial judge focused on what would have 
+happened had Canada not breached its duties. He determined that the Project was a 
+public work and it would have been completed. Opposition from the LSFN or the 
+Indian Affairs branch would likely not have stopped the Project. Indeed, the trial judge 
+found that Canada could have legally taken the lands without the LSFN’s consent 
+through expropriation. The trial judge determined that it was unlikely that  the LSFN  
+ could have negotiated a revenue -sharing agreement. He distinguished agreements 
+reached with a First Nation in earlier hydroelectricity projects, which included both a 
+one-time payment and annual rent, on the bases that the hydroelectricity genera ting 
+stations were located on the reserves rather than downstream and the utility company 
+in the earlier projects had no authority to expropriate the land, but Canada did have that 
+authority in this Project.  
+[40] In light of these findings, the trial judge det ermined that Canada would 
+have likely obtained a negotiated settlement for a flowage easement or expropriated the 
+land for the limited purpose of facilitating the Project. He assessed the market value of 
+the flooded land based upon a hypothetical flowage e asement, valued as if it had been 
+lawfully expropriated according to general expropriation law. In doing so, the trial 
+judge rejected expert opinion seeking to incorporate the value of the land for 
+hydroelectricity generation, reasoning that any value “att ributable to the project” was 
+to be excluded under both the Expropriation Act , R.S.C. 1985, c. E -21, and the 
+Expropriations Act , R.S.O. 1990, c. E.26. He therefore assessed the value of the flooded 
+land at $1.29 per acre based on its value as 90  percent bu shland and 10  percent 
+waterfront land, concluding that “the suggestion that Canada could and should have 
+paid more than this for the land, amounts to nothing more than optimistic speculation” 
+(para. 383).  
+[41] The trial judge then assessed other calculable los ses. He ordered 
+$13,847,870 in calculable damages. The calculable damages included: $3,272,572 for  
+ the hypothetical flowage easement, based on the $1.29 per acre value in 1929; 
+$7,836,252 for timber dues; $1,959,094 for the excess acreage deduction; and 
+$1,913,949 for community infrastructure.  He then deducted amounts that Canada had 
+previously paid.  
+[42] The trial judge also added $16,152,130 in non -calculable damages for a 
+total award of $30,000,000. The trial judge assessed the non -calculable losses based on  
+factors including the amount of the calculable loss, the duration of the non -quantifiable 
+losses, the loss of hayland, gardens, and rice fields, and the separation of two LSFN 
+communities.  
+B. Appeal Decision, 2019 FCA 171, [2020] 1 F.C.R. 745 (per Nadon and Webb 
+JJ.A., Gleason J.A. Dissenting)  
+[43] Roger Southwind, for himself, and on behalf of the members of the Lac 
+Seul Band of Indians and the Lac Seul First Nation (LSFN or Appellant), appealed the 
+assessment of equitable compensation to the Federal Court of App eal. The Appellant’s 
+primary argument was that the trial judge should have included the loss of a revenue -
+sharing agreement in the compensation. In the alternative, the Appellant argued that 
+the trial judge was incorrect in his approach to assessing compen sation for the flooded 
+land, in applying current expropriation law instead of the law applicable in 1929, and 
+in distinguishing the Kananaskis Falls Projects.    
+ [44] In dissent, Gleason J.A. would have allowed the appeal. While she rejected 
+the primary argument  that the breach resulted in the loss of a revenue -sharing 
+agreement, she agreed that the value calculated for the flooded land should have taken 
+into account downstream hydroelectricity generation. The trial judge was wrong to 
+discount the possibility tha t Canada could have pursued a negotiated settlement that 
+would have included a premium on the land in light of the Project. As a fiduciary, 
+Canada “was arguably required to pursue a negotiated surrender before proceeding to 
+expropriation as a negotiated re solution would probably have been less detrimental to 
+the Lac Seul First Nation” (para. 84). The trial judge also made a legal error in 
+distinguishing the Kananaskis Falls Projects. Canada had identical legal powers in each 
+case but behaved differently.  
+[45] For the majority, Nadon J.A. (Webb J.A. concurring) dismissed the appeal. 
+He disagreed with Gleason J.A. that the trial judge committed any error of law or any 
+palpable and overriding error. More specifically, he disagreed that the trial judge erred 
+in dist inguishing the Kananaskis Falls Projects. Comparing the two projects was a 
+factual determination; there was no palpable and overriding error of fact; and there was 
+no legal error that went to the core of the determination. Thus, the trial judge was 
+entitle d to distinguish the projects and assess the fair market value of the land at $1.29 
+per acre.  
+C. Applicable Provisions   
+ [46] The provisions of the Indian Act in force in 1929 provided two ways to 
+remove land from a reserve. Section 48 governed takings for a public  purpose:  
+48. No portion of any reserve shall be taken for the purpose of any 
+railway, road, public work, or work designed for any public utility 
+without the consent of the Governor in Council, but any company or 
+municipal or local authority having statuto ry power, either Dominion or 
+provincial, for taking or using lands or any interest in lands without the 
+consent of the owner may, with the consent of the Governor in Council 
+as aforesaid, and subject to the terms and conditions imposed by such 
+consent, exe rcise such statutory power with respect to any reserve or 
+portion of a reserve.  
+ 
+2. In any such case compensation shall be made therefor to the Indians of 
+the band, and the exercise of such power, and the taking of the lands or 
+interest therein and the determination and payment of the compensation 
+shall, unless otherwise provided by the order in council evidencing the 
+consent of the Governor in Council, be governed by the requirements 
+applicable to the like proceedings by such company, municipal or local  
+authority in ordinary cases.  
+ 
+. . . 
+ 
+4. The amount awarded in any case shall be paid to the Minister of 
+Finance for the use of the band of Indians for whose benefit the reserve 
+is held, and for the benefit of any Indian who has improvements taken or 
+injur ed. 
+[47] Land could also be surrendered by consent under ss . 50 and 51.  
+[48] Treaty 3 states:  
+And Her Majesty the Queen hereby agrees and undertakes to lay aside 
+reserves for farming lands, due respect being had to lands at present 
+cultivated by the said Indians,  and also to lay aside and reserve for the 
+benefit of the said Indians, to be administered and dealt with for them by  
+ Her Majesty’s Government of the Dominion of Canada, in such a manner 
+as shall seem best, other reserves of land in the said territory here by ceded, 
+which said reserves shall be selected and set aside where it shall be deemed 
+most convenient and advantageous for each band or bands of Indians, by 
+the officers of the said Government appointed for that purpose, and such 
+selection shall be so mad e after conference with the Indians; provided, 
+however, .  . . that the aforesaid reserves of lands, or any interest or right 
+therein or appurtenant thereto, may be sold, leased or otherwise disposed 
+of by the said Government for the use and benefit of the said Indians, with 
+the consent of the Indians entitled thereto first had and obtained.  
+ 
+. . . 
+ 
+It is further agreed between Her Majesty and Her said Indians that such 
+sections of the reserves above indicated as may at any time be required for 
+Public Works or buildings of what nature soever may be appropriated for 
+that purpose by Her Majesty’s Govern ment of the Dominion of Canada, 
+due compensation being made for the value of any improvements thereon.  
+II. Parties’ Submissions  
+[49] The L SFN submits that the courts below erred in their application of the 
+principles of equitable compensation. The central issue is how to compensate the LSFN 
+in a manner that accords with equitable and constitutional principles, including 
+reconciliation and the honour of the Crown. The trial judge erred in considering how 
+Canada would likely have proceeded before considering how Canad a as a fiduciary 
+ought to have proceeded. A hypothetical expropriation is the wrong paradigm and 
+improperly shifts the analysis from restoring what the LSFN lost to fixing Canada’s 
+unlawful conduct. A hypothetical expropriation also ignores Canada’s fiduci ary 
+obligations and, even if an expropriation had been pursued, Canada had to impair the 
+LSFN’s interest as little as possible. It was also incorrect to view Canada’s breaches as 
+inevitable, and, in any event, whether the flooding was inevitable does not b reak the  
+ causal connection between Canada’s breach and the LSFN’s loss. The Appellant 
+submits that the trial judge did not properly consider the LSFN’s perspective and the 
+unique nature of its losses and connection to the land. Finally, the Appellant submi ts 
+that the trial judge’s approach does not deter Canada’s behaviour.  
+[50] Canada submits that the trial judge fairly compensated the LSFN for its 
+losses. On the merits of the appeal, Canada submits that the principles of equitable 
+compensation are settled and  were properly applied by the courts below. The LSFN 
+cannot be compensated for a scenario that would have never occurred. At trial, the 
+LSFN was claiming compensation for a loss — a revenue -sharing agreement — that 
+was not caused by the breach. The trial j udge referred to a hypothetical expropriation 
+scenario to determine what likely would have happened without a breach, in line with 
+this Court’s jurisprudence. The determination that Canada would have obtained a 
+flowage easement was appropriate in light of the evidence and would have fulfilled 
+Canada’s duty to minimally impair the right. Finally, Canada submits that the 
+compensation award respects the goal of reconciliation and fulfills the deterrent 
+requirement.  
+[51] Canada also submits that the LSFN is improper ly making a new argument 
+before this Court by asking that the land be valued on the basis of its use for flooding 
+purposes. The pleadings, Canada argues, show that the plaintiff sought a revenue -
+sharing agreement at trial, not the value of the land for flo oding purposes. It asks that 
+this Court not entertain what it submits is a new issue.    
+ III. Analysis  
+[52] The issue in this appeal is whether the trial judge erred in his assessment 
+of equitable compensation, specifically in relation to the value of the flooded lan d. To 
+determine whether the trial judge erred, I must consider the content of the fiduciary 
+duty in this case, what obligations it imposed, and how the trial judge assessed equitable 
+compensation in light of those obligations.  
+[53] My analysis proceeds in three  parts. First, I consider the relevant principles 
+of the Crown’s relationship to Indigenous Peoples, and more specifically of the 
+fiduciary duty that may arise. Second, I consider the principles of equitable 
+compensation for breach of fiduciary duty. Third , I apply those principles to the trial 
+judge’s assessment of equitable compensation.  
+A. Canada’s Fiduciary Duty to Indigenous Peoples  
+[54] The existence of a fiduciary duty is not in dispute in this appeal. Canada 
+does not contest the trial judge’s determination that Canada owed a fiduciary duty to 
+the LSFN and breached that duty. However, the specific nature of the Crown’s 
+fiduciary duty to Indigenous Peoples, especially over reserve land, informs how 
+equitable compensation must be assessed.  
+[55] The Crown’s fiduciar y duty is rooted in the obligation of honourable 
+dealing and in the overarching goal of reconciliation between the Crown and the first  
+ inhabitants of Canada ( Haida Nation v. British Columbia (Minister of Forests) , 2004 
+SCC 73, [2004] 3 S.C.R. 511, at paras . 17-18). Professor Slattery describes the honour 
+of the Crown as a “grounding postulate of Canadian constitutional law” (B. Slattery, 
+“The Aboriginal Constitution” (2014), 67 S.C.L.R.  (2d) 319, at p. 320). McLachlin C.J. 
+explained in Haida Nation that the  “process of reconciliation flows from the Crown’s 
+duty of honourable dealing toward Aboriginal peoples, which arises in turn from the 
+Crown’s assertion of sovereignty over an Aboriginal people and de facto  control of 
+land and resources that were formerly in the control of that people” (para. 32; see also 
+R. v. Desautel , 2021 SCC 17, at para. 22). This is an ongoing project that seeks the 
+“reconciliation of Aboriginal and non -Aboriginal Canadians in a mutually respectful 
+long-term relationship” ( Beckman v. Little Salmon/Carmacks First Nation , 2010 SCC 
+53, [2010] 3 S.C.R. 103, at para. 10).  
+[56] This Court first acknowledged a fiduciary duty in Guerin . In Guerin , 
+Canada argued that it could not be subject to a fiduciary duty and, at best, the Crown’s 
+control over  Indigenous interests in land is a political trust which is unenforceable by 
+the courts (p. 371). Dickson J., writing for a majority, rejected Canada’s argument. 
+Instead, he found that Indigenous interests in land are “a pre -existing legal right not 
+create d by Royal Proclamation, by s. 18(1) of the Indian Act , or by any other executive 
+order or legislative provision” (p. 379; see also J. T. S. McCabe, The Honour of the 
+Crown and its Fiduciary Duties to Aboriginal Peoples (2008), at pp.  150-51). In other 
+words, the Indigenous interest in land did not flow from the Crown ; it pre -existed the 
+Crown’s assertion of sovereignty.   
+ [57] Through the Royal Proclamation, 1763 , the Crown undertook 
+discretionary control over these pre -existing Indigenous interests in land. The  
+Proclamation  provided: “And We do hereby strictly forbid, on Pain of our Displeasure, 
+all our loving Subjects from making any Purchases or Settlements whatever, or taking 
+Possession of any of the Lands above reserved, without our especial leave and Licenc e 
+for that Purpose first obtained .” The Indian Act  and its predecessor statutes formalized 
+the process for setting aside reserve land and the Crown’s legal control over that land. 
+The Crown thus undertook the “historic responsibility .  . . to act on behalf  of the Indians 
+so as to protect their interests in transactions with third parties” ( Guerin , at p. 383). In 
+Guerin , this Court recognized that a fiduciary duty arose because the Crown interposed 
+itself between Indigenous lands and those who want to lease or purchase the land, 
+thereby exercising discretionary control over the land (pp. 383 -84). The Crown has a 
+duty that is “in the nature of a private law duty” (p. 385).  
+[58] In Osoyoos Indian Band v. Oliver (Town) , 2001 SCC 85, [2001] 3 S.C.R. 
+746, Gonthier J., dissenting, but not on that point, clarified that the same fiduciary duty 
+applies even where the reserve is not situated on traditional territory in which the First 
+Nation may have a pre -existing legal interest. He noted: “.  . . an interest in reserve land s 
+to which no aboriginal title attaches and an interest in non -reserve lands to which 
+aboriginal title does attach are the same with respect to the generation of a fiduciary 
+obligation on the part of the Crown” (para.  163).   
+ [59] Guerin  set to rest the idea tha t the trust -like language of historic treaties, 
+laws, and proclamations constituted a mere “political trust” unenforceable in courts. 
+Instead, an enforceable sui generis fiduciary duty arose where the Crown asserted 
+discretionary power over Indigenous Peop les’ specific Aboriginal interests and 
+assumed responsibility for those interests ( R. v. Sparrow , [1990] 1 S.C.R. 1075, at 
+p. 1108). This relationship is not paternalistic in nature; it emerged in a context where 
+the military capacities of Indigenous Peopl es were strong and the Crown needed to 
+mitigate the risk of conflict between Indigenous Peoples and settlers ( Manitoba Metis 
+Federation Inc. v. Canada (Attorney General) , 2013 SCC 14, [2013] 1 S.C.R. 623, at 
+para. 66;  Slattery, at pp.  322 and 326 ).  
+[60] Rooted in the honour of the Crown, the Crown’s fiduciary duty exists to 
+further a socially important relationship. It structures the role voluntarily undertaken 
+by the Crown as the intermediary between Indigenous interests in land and the interest 
+of settl ers. Professor Rotman, in the context of fiduciary relationships generally, puts 
+it this way: “.  . . while it may appear that the fiduciary concept exists to protect 
+beneficiaries’ interests, that effect is merely ancillary to its protection of fiduciary 
+relationships” ( L. I. Rotman, “Understanding Fiduciary Duties and Relationship 
+Fiduciarity” (2017), 62 McGill L.J.  975, at pp. 987 -88). In the context of our national 
+history, the relationship between the Crown and Indigenous Peoples goes to the very 
+founda tion of this country and to the heart of its identity. Indeed, the need to reconcile 
+the assertion of Crown sovereignty with the pre -existence of Indigenous Peoples, and 
+to reconcile Indigenous and non -Indigenous Canadians is of “fundamental importance”  
+ (R. v. Van der Peet , [1996] 2 S.C.R. 507, at para. 310, per McLachlin  J., dissenting, but 
+not on this point). The honour of the Crown — and the sui generis fiduciary duty to 
+which it gives rise — is a vital component of the relationship between the Crown and  
+Indigenous Peoples.  
+[61] However, not all aspects of this relationship are fiduciary in nature ( Haida 
+Nation , at para. 18; Wewaykum Indian Band v. Canada , 2002 SCC 79, [2002] 4 S.C.R. 
+245, at paras. 81 and 83). The fiduciary duty does not attach to every inter est of 
+Indigenous Peoples. As Binnie J. stated in Wewaykum , “[t]he fiduciary duty imposed 
+on the Crown does not exist at large but in relation to specific Indian interests” 
+(para.  81). The fiduciary duty imposes heavy obligations when it does arise. The 
+fiduciary duty may arise when the Crown exercises discretionary control over 
+cognizable Indigenous interests or where the conditions of a private law ad hoc 
+fiduciary relationship are met ( Williams Lake Indian Band v. Canada (Aboriginal 
+Affairs and Northern Development) , 2018 SCC 4, [2018] 1 S.C.R. 83,  at para. 44; 
+Manitoba Metis , at paras. 48 -50; Wewaykum , at para. 85).  
+[62] The fiduciary duty itself is shaped by the context to which it applies, which 
+means that its content varies with the nature and the importa nce of the right being 
+protected ( Williams Lake , at para. 55; Wewaykum , at para. 86; Manitoba Metis , at 
+para.  49). The Crown’s control over Indigenous interests in land is at the core of the 
+relationship between the Crown and Indigenous Peoples. Consequent ly, a strong 
+fiduciary duty arises where the Crown is exercising control over a First Nation’s land.  
+ The same is true where the Crown is exercising control over Aboriginal and treaty 
+rights that are protected under s. 35 of the Constitution Act , 1982  (Ermi neskin  Indian 
+Band and Nation v. Canada , 2009 SCC 9, [2009] 1 S.C.R. 222, at para. 46 ).  
+[63] In a case involving reserve land, the sui generis nature of the interest in 
+reserve land informs the fiduciary duty. Reserve land is not a fungible commodity. 
+Instead,  reserve land reflects the essential relationship between Indigenous Peoples and 
+the land. In Osoyoos , Iacobucci J. wrote that Aboriginal interests in land has an 
+“important cultural component that reflects the relationship between an aboriginal 
+community and the land and the inherent and unique value in the land itself which is 
+enjoyed by the community” (para. 46). The importance of the interest in reserve land 
+is heightened by the fact that, in many cases such as this one, the reserve land was set 
+aside a s part of an obligation that arose out of treaties between the Crown and 
+Indigenous Peoples.  
+[64] The fiduciary duty imposes the following obligations on the Crown: 
+loyalty, good faith, full disclosure, and, where reserve land is involved, the protection 
+and pr eservation of the First Nation’s quasi -proprietary interest from exploitation 
+(Williams Lake , at para. 46; Wewaykum , at para. 86). The standard of care is that of a 
+person of ordinary prudence in managing their own affairs ( Williams Lake , at para. 46). 
+In the context of a surrender of reserve land, this Court has recognized that the duty 
+also requires that the Crown protect against improvident bargains, manage the process 
+to advance the best interests of the First Nation, and ensure that it consents to the  
+ surrender ( Blueberry River Indian Band v. Canada (Department of Indian Affairs and 
+Northern Development) , [1995] 4 S.C.R. 344, at paras.  35 and 96 ). In an expropriation, 
+the obligation to ensure consent is replaced by an obligation to minimally impair the 
+protected interest ( Osoyoos , at para. 54).  
+B. Principles of Equitable Compensation  
+[65] The basic principles of equitable compensation are not in dispute in this 
+appeal. However, the parties disagree about their application to breaches of the 
+Crown’s fiduciary dut y in relation to land held for the benefit of Indigenous Peoples.  
+[66] As I shall explain, equitable compensation is a loss -based remedy that 
+deters wrongdoing and enforces the trust at the heart of the fiduciary relationship. It 
+differs from common law damages  because of the “unique foundation and goals of 
+equity” ( Canson Enterprises Ltd. v. Boughton & Co. , [1991] 3 S.C.R. 534,  at p. 543, 
+per McLachlin J.). The trial judge must begin by closely analyzing the nature of the 
+fiduciary relationship so as to ensure that the loss is assessed in relation to the 
+obligations owed by the fiduciary. The loss must be caused in fact by the fiduciary’s 
+breach, and the causation analysis is not limited by foreseeability (to use the language 
+in Canson , at p. 552, where foreseea bility was used synonymously with remoteness in 
+this context).  
+[67]  This Court’s decision in Guerin  explained that, although a fiduciary 
+relationship is different than a traditional trust relationship, breach of the Crown’s  
+ fiduciary duty gives rise to the sam e equitable remedies as breach of trust (p. 376; see 
+also Wewaykum , at para. 94). The available equitable remedies include, among others, 
+accounting for profits, constructive trust, and equitable compensation ( Canson , at 
+p. 588, per La Forest J. ) Accounting for profits and constructive trust are gains -based 
+remedies, meaning they are measured by the fiduciary’s gain rather than the plaintiff’s 
+loss. The purpose is to undo  the fiduciary’s gain. Equitable compensation, on the other 
+hand, is a loss -based remedy; the purpose is to make up  the plaintiff’s loss (S. L. Bray, 
+“Fiduciary Remedies”, in E. J. Criddle, P. B. Miller and R. H. Stikoff, eds., The Oxford 
+Handbook of Fiduciary Law (2019), 449, at pp.  449 and 456).  
+[68] When the Crown breaches its fiduciary duty, the remedy will seek to 
+restore the plaintiff to the position the plaintiff would have been in had the Crown not 
+breached its duty ( Guerin , at p. 360, citing Re Dawson; Union Fidelity Trustee Co. v. 
+Perpetual Trustee Co. (1966), 84 W.N. (Pt . 1) (N.S.W.) 399 (S.C.); Hodgkinson v. 
+Simms , [1994] 3 S.C.R. 377 , at p. 440) When it is possible to restore the plaintiff’s 
+assets in specie , accounting for profits and constructive trust are often appropriate (see 
+Guerin , at pp. 360 -61; Hodgkinson , at pp. 452-53). When, however, restoring the 
+plaintiff’s assets in specie  is not available, equitable compensation is the preferred 
+remedy ( Canson , at p. 547).  The LSFN seeks equitable compensation in this case 
+because what it lost — its land — cannot be retur ned. It is therefore unnecessary to 
+consider gains -based remedies.   
+ [69] Equitable compensation is equity’s counterpart to common law damages 
+(see Whitefish Lake Band of Indians v. Canada (Attorney General) , 2007 ONCA 744, 
+87 O.R. (3d) 321,  at para. 48). It is d iscretionary and restitutionary in nature, aiming to 
+restore the actual value of the thing lost through the fiduciary’s breach, referred to as 
+the plaintiff’s lost opportunity ( Canson , at pp. 547 -48, 551 -52, 555 and 585).  
+(1) Causation  
+[70] To award equitable comp ensation, there must be factual causation: the 
+fiduciary’s breach must have caused, in fact, the plaintiff’s lost opportunity ( Canson , 
+at p. 551; see also Stirrett v. Cheema , 2020 ONCA 288, 150 O.R. (3d) 561, at para. 69). 
+This basic principle, that equita ble compensation restores the lost opportunity caused 
+in fact by the fiduciary’s breach, is uncontroversial. However, there has been debate 
+about the extent to which the causation analysis should borrow from the common law 
+of damages and import limiting fa ctors such as foreseeability.  
+[71] In concurring reasons in Canson , McLachlin J. stressed the differences 
+between equitable remedies and common law damages, explaining that the purpose of 
+equity is to enforce the trust which lies at its heart (p. 543). Analogy with common law 
+damages may not be appropriate given this misalignment between the purpose of 
+fiduciary obligations and obligations through tort and contract. The same point was 
+adopted by Lord Reed J.S.C. in AIB Group (UK) plc v. Mark Redler & Co. Solicit ors, 
+[2014] UKSC 58, [2015] A.C. 1503, at para. 83:   
+ In negligence and contract the parties were taken to be independent and 
+equal actors, concerned primarily with their own self -interest. 
+Consequently, the law sought a balance between enforcing obligations  by 
+awarding compensation, and preserving optimum freedom for those 
+involved in the relationship. The essence of a fiduciary relationship, by 
+contrast, was that one party pledged herself to act in the best interests of 
+the other. The freedom of the fiducia ry was diminished by the nature of the 
+obligation she had undertaken. The fiduciary relationship had trust, not 
+self-interest, at its core.  
+[72] Another difference between equitable compensation and common law 
+damages is that equity is especially concerned with  deterring wrongful conduct by 
+fiduciaries. As Professor Rotman observed, “[b]eneficiaries are .  . . implicitly 
+dependent upon and peculiarly vulnerable to their fiduciaries’ use, misuse, or abuse of 
+power over their interests” (p. 991). It is therefore cr ucial that equitable remedies deter 
+fiduciaries from misusing their powers. By restoring the beneficiary’s lost opportunity, 
+equitable compensation enforces the fiduciary relationship and deters the fiduciary’s 
+wrongful conduct.  
+[73] Due to these differences, rather than relying on common law principles, 
+McLachlin J. explained that the proper approach to equitable compensation “is to look 
+to the policy behind compensation for breach of fiduciary duty and determine what 
+remedies will best further that policy” ( Canson , at p. 545). McLachlin J.’s approach 
+was subsequently followed by this Court in Cadbury Schweppes Inc. v. FBI Foods Ltd. , 
+[1999] 1 S.C.R. 142, and recognizes that the applicable rules will depend both on the 
+nature of the fiduciary relationship and the fiduciary obligations: “ Differences between 
+different types of fiduciary relationships may, depending on the circumstances, dictate  
+ different approaches to damages” ( Canson , at p. 546).  In other words, “[t]he rules 
+appropriate to a breach of duty by a trustee .  . . have to be determined in the light of the 
+characteristics of the obligation in question” ( AIB, at para. 93). There must be a close 
+relationship between the fiduciary duty and the fiduciary remedy, and the fiduciary 
+duty must “forcefully shape  the content of [the] fiduciary remed[y]” (Bray, at p. 451). 
+Thus, while factual causation will always apply to equitable compensation in the sense 
+that the fiduciary’s breach must cause in fact the plaintiff’s loss, common law limiting 
+factors will not re adily apply because of the nature of the fiduciary relationship and 
+obligations.   
+[74] Equity assesses the loss at the date of trial and with the benefit of hindsight 
+(Guerin , at pp. 361 -62, per Wilson J.; Canson , at p. 556; Target Holdings Ltd. v. 
+Redferns , [1996] 1 A.C. 421 (H.L.), at pp. 437 -39). This means that equity compensates 
+the plaintiff for the lost opportunity caused by the breach, regardless of whether that 
+opportunity could have been foreseen at the time of breach. McLachlin J. described the 
+analy sis as follows:  
+The plaintiff’s actual loss as a consequence of the breach is to be assessed 
+with the full benefit of hindsight. Foreseeability is not a concern in 
+assessing compensation, but it is essential that the losses made good are 
+only those which, on a common sense view of causation, were caused by 
+the breach.  
+ 
+(Canson , at p. 556)  
+[75] McLachlin J.’s use of the phrase “common sense view of causation” in 
+Canson  should not be taken to mean that the causation analysis in equitable  
+ compensation cases will a lways have an “intuitively obvious answer” ( AIB, at 
+para.  95). This is not always the case; trial judges are often faced with difficult 
+questions of causation in claims for equitable compensation. Instead, the phrase 
+“common sense” clarifies that the rules  developed in legal causation, such as 
+foreseeability, do not readily apply in equity: “The requirement that the loss must result 
+from the breach of the relevant equitable duty does not negate the fact that ‘causality’ 
+in the legal sense as limited by fore seeability at the time of breach does not apply in 
+equity” ( Canson , at p.  552). Professor Rotman explains the same point as follows:  
+Each starts with the idea of “but for,” “cause -in-fact,” or “ sine qua non ,” 
+causation. This generally satisfies Equity, but  the common law requires 
+more; it demands a finding of materiality or substantial cause to link the 
+impugned activity with the harm to the plaintiff. Further, the common law 
+imports ideas of foreseeability (or reasonable contemplation) and 
+remoteness into its assessment of causality. .  . . These other considerations 
+do not readily enter into Equity’s assessment of fiduciary accountability.  
+ 
+(Fiduciary Law (2005), at p.  634).  
+See, also, Target Holdings , where  Lord Browne -Wilkinson observed that “the common 
+law rules of remoteness of damage and causation do not apply” (p. 434).  
+[76] Canada argues that in valuing the loss the benefit of hindsight cannot mean 
+that the beneficiary is put in a better position than it would have been in had the 
+fiduciary observed its duty at the time  of breach. This argument was explicitly rejected 
+by this Court in Blueberry River , where McLachlin J. wrote that concern about 
+“unexpected windfall” amounted to “bringing foreseeability into the fiduciary analysis 
+through the back door” (p ara. 103). Similarly, in Guerin , compensation was assessed  
+ at a higher level than would have been possible at the moment of breach because the 
+most valuable use of the asset between breach and date of trial was not foreseeable at 
+the time of breach. Concer ns about a “windfall” cannot therefore subtract from the 
+“equitable approach of looking at what actually happened to values in later years” 
+(Canson , at p. 551). Equity will not be limited by foreseeability, unless it is “necessary 
+to reach a just and fair result” ( Hodgkinson , at p. 443, per La Forest J.).  
+[77] There are very good reasons why foreseeability does not apply to the 
+Crown’s breach of fiduciary duty in this case. In Canson , La Forest J. held that it would 
+not apply where a fiduciary has discretionary control over a beneficiary’s property 
+(p. 578). Indigenous interests in land are quasi -proprietary in nature; they are at the 
+heart of the Crown -Indigenous relationship and are central to Indigenous identity and 
+culture ( Wewaykum , at paras. 74 and 86; Osoy oos, at para.  46). Moreover, in Guerin , 
+Wilson J. accepted that foreseeability would not apply to breaches of the Crown’s 
+fiduciary duty towards Indigenous Peoples (pp. 360 -62; see also Whitefish Lake , at 
+paras. 52 -55). The Crown’s fiduciary duty is grounded in the honour of the Crown and 
+breaches of the duty are different in kind than private law breaches of contract or tort.  
+(2) Equitable Presumptions  
+[78] To achieve these purposes of equitable compensation, the assessment is 
+also guided by presumptions that  equity makes against breaching fiduciaries.   
+ [79] Equity presumes that the plaintiff would have made the most favourable 
+use of the trust property ( Guerin , at pp. 362 -63; Canson , at p. 545; Oosterhoff on 
+Trusts: Text, Commentary and Materials  (9th ed. 2019), by  A. H. Oosterhoff, 
+R. Chambers and M.  McInnes, at p. 1018). In Guerin , for example, the Musqueam 
+Indian Band expected certain advantageous terms in a lease agreement that Canada 
+negotiated on its behalf with a private developer. Canada failed to secure tho se terms, 
+but instead entered into a less -favourable agreement that was not authorized by the 
+band. In determining how to compensate the band for breach of Canada’s fiduciary 
+duty, however, the trial judge determined that the favourable lease terms were no t the 
+appropriate measure of compensation because no third party would have agreed to such 
+terms and that measure of loss was not, therefore, causally connected to the breach. The 
+trial judge then considered what the highest and best use of the asset was b etween 
+breach and date of trial, finding that it was a residential development. This was even 
+though the trial judge found that the area would likely not have developed until some 
+years after the breach. As McLachlin J. observed in Canson , the trial judge “assessed, 
+as best he could, the value of the actual opportunity lost as a result of the breach” 
+(p. 552).  
+[80]  The focus is always on whether the plaintiff’s lost opportunity was caused 
+in fact by the fiduciary’s breach. Equity will assess that opportunity u nder the 
+presumption  that the beneficiary would have put the asset to its most favourable use. 
+The most favourable use must be realistic. The common law requires a plaintiff to lead 
+evidence to that effect.   
+ [81] There are additional equitable presumptions that are applicable in 
+appropriate cases. The presumption of legality, discussed in more detail below, 
+prevents breaching fiduciaries from reducing compensation by arguing they would not 
+have complied with the law.  
+[82] Another presumption, the so -called Brickenden  rule, applies where the 
+fiduciary breached a duty to disclose material facts. The breaching fiduciary is 
+prevented from arguing that the outcome would be the same regardless of whether the 
+facts were disclosed ( Brickenden v. London Loan & Savings Co. , [1934] 3 D.L.R. 465 
+(P.C.)).  
+[83] In summary, equitable compensation deters wrongful conduct by 
+fiduciaries in order to enforce the relationship at the heart of the fiduciary duty. It 
+restores the opportunity that the plaintiff lost as a result of the fiduciary’s  breach. The 
+trial judge must begin by closely analyzing the nature of the fiduciary relationship so 
+as to ensure that the loss is assessed in relation to the obligations undertaken by the 
+fiduciary. The loss must be caused in fact by the fiduciary’s breac h, but the causation 
+analysis will not import foreseeability into breaches of the Crown’s fiduciary duty 
+towards Indigenous Peoples. Equitable presumptions — including most favourable use 
+— apply to the assessment of the loss. The most favourable use must be realistic. The 
+trial judge must be satisfied that the assessment reflects the value the beneficiary could 
+have actually received from the asset between breach and trial and the importance of 
+the relationship between the Crown and Indigenous Peoples.   
+ C. Application  
+[84] In light of these principles, I turn now to the question of whether the trial 
+judge erred in his assessment of equitable compensation.  
+[85] The standards of review identified in Housen v. Nikolaisen , 2002 SCC 33, 
+[2002] 2 S.C.R. 235, apply to awards o f equitable compensation. Questions of law are 
+reviewable on a standard of correctness. The application of the relevant equitable 
+principles to the facts is reviewable on a standard of palpable and overriding error, 
+absent an extricable error in principle which is reviewed on a correctness standard. As 
+discussed below, the trial judge’s reasons are tainted by legal errors reviewable on a 
+correctness standard.  
+[86] As noted above, the trial judge concluded that Canada owed a fiduciary 
+duty to the LSFN and breach ed that duty. He determined that Canada had the following 
+specific obligations: (1) a duty of loyalty and good faith to the LSFN in the discharge 
+of its mandate as trustee of the Reserve land; (2) a duty to provide full disclosure and 
+to consult with the b and; (3) a duty to act with ordinary prudence with a view to the 
+best interests of the First Nation; and (4) a duty to protect and preserve the LSFN’s 
+proprietary interest in the Reserve from exploitation. Further, the trial judge noted that 
+Canada’s dutie s may have expanded when it committed to the LSFN that it would 
+protect its interest “to the fullest possible extent” (para.  227). The trial judge held that 
+Canada breached these duties. These findings are not challenged in this Court.   
+ [87] However, the trial j udge also concluded that Canada’s duty only required 
+it to obtain the amount provided for under general expropriation law as payment for a 
+hypothetical flowage easement. He reached this conclusion largely based on the 
+following findings: the Project could not be stopped because Canada, Ontario, and 
+Manitoba wanted it completed; the LSFN had little bargaining power to extract a better 
+deal; Canada could have lawfully expropriated the Reserve land as a public work and 
+paid only the amount required under appli cable expropriation law; and, realistically, 
+the LSFN would have surrendered the land or it would have been expropriated under 
+those terms. The trial judge suggests that paying anything greater than fair market value 
+would have violated Canada’s duties to the Canadian public. He assessed the value of 
+the flooded land at an average of $1.29 an acre as bushland and waterfront land, based 
+on Canada’s evidence regarding the 1929 value of the land without  the Project. The 
+trial judge determined the value of this  loss at the time of the trial to be $3,272,572.  
+[88] Canada submits that the trial judge correctly considered the “non -breach” 
+world and determined, based upon the evidence, that a flowage easement measured by 
+expropriation values is what would have likely ha ppened had Canada not breached its 
+duties.  
+[89] I agree with the Appellant that the trial judge erred in concluding that a 
+hypothetical expropriation — the minimum statutory obligation — would have fulfilled 
+Canada’s fiduciary obligations. This legal error imp acted his assessment of equitable 
+compensation because it led him to rely on general principles of expropriation law to  
+ value the loss and to conclude that compensation would not be assessed at a higher 
+value than the minimum required under an expropriatio n. The fundamental error of the 
+trial judge was that he focused on what Canada would likely have done  instead of what 
+Canada ought to have  done  as a fiduciary.  
+(1) The Appellant Is Not Precluded From Raising These Arguments on Appeal  
+[90] First, as a preliminary m atter, I would reject Canada’s argument that there 
+are procedural obstacles to considering the merits of this appeal. Canada submits that 
+the Appellant’s proposal to assess compensation on the basis of “the use of the lands 
+for flooding purposes” is a new issue that is not properly before this Court and should 
+not be given effect by this Court (R.F., at para. 55). While it is true that the Appellant’s 
+theory of compensation has changed during this litigation, the approach of valuing the 
+lands for flooding p urposes was in issue at trial.  
+[91] The argument that the Appellant relies on at this Court is the same 
+argument relied on at the Court of Appeal and was subject to full submissions at both 
+the Court of Appeal and this Court. The “use of the lands for flooding  purposes” 
+assessment is the approach that was accepted as one of two alternatives by Gleason  J.A. 
+in dissent below and rejected by Nadon J.A, for the majority.  
+[92] More importantly, the argument that the land should be valued on the basis 
+of its use as flood ed land for the Project was an issue at trial. The LSFN proposed 
+various models of compensation at trial and the primary model — a revenue -sharing  
+ agreement — presumes that the use is as land flooded for hydroelectricity generation. 
+According to the trial judge, the LSFN’s main theory at trial was the “loss of 
+opportunity for hydroelectric benefits” (para. 10). The Appellant’s expert witness, 
+Norris Wilson, also testified that the value of the land must include the anticipated 
+improvements in the land due t o the hydroelectricity project. The trial judge rejected 
+this approach (para. 380). The evidence from the Kananaskis Falls and related 
+agreements  was also available to the trial judge and the trial judge correctly understood 
+the implication of this evidenc e to be that the land would be valued on the basis of its 
+“usefulness in connection with the development of power” (para. 381). The trial judge 
+acknowledged that those agreements were “relied upon by the LSFN as a precedent of 
+what Canada ought to have obt ained to protect the interests of the LSFN” (para.  24). 
+Thus, I see no bar to addressing the merits of this appeal.  
+(2) The Nature of the Fiduciary Obligations  
+[93] Following the approach taken by this Court in Guerin , the first step in 
+assessing equitable compensa tion is to determine what the fiduciary would have been 
+expected to do had it not breached its obligations.  
+[94] In applying what Canada’s obligations to the LSFN required in this case, 
+the trial judge focused on the fact that Canada could legally expropriate the land under 
+s. 48 of the Indian Act because the Project was a public work. This led the trial judge 
+to improperly conclude that Canada’s fiduciary obligations required Canada to do no 
+more than the minimum required in an expropriation of fee simple land s. As I shall  
+ explain, the fiduciary duty required more than compensation based upon expropriation 
+principles in this case for three reasons. First, the presence of legal discretion to take or 
+expropriate the land in s. 48 of the Indian Act did not define the obligations imposed 
+by Canada’s fiduciary duty. Second, the fact that the land was required for a public 
+work did not negate the obligations imposed by Canada’s fiduciary duty. And third, the 
+principles of expropriation law are fundamentally different than those underlying 
+Indigenous interest in land. Instead, the fiduciary obligations in this case must reflect 
+the nature of the interest, the impact of the loss on the First Nation, the importance of 
+the fiduciary relationship, and reconciliation, which is the overarching goal of the 
+fiduciary duty itself, based in the honour of the Crown.  
+[95] Therefore, for reasons that follow, I conclude that even though the land 
+was needed for a public work, the fiduciary duty still required Canada to first attempt 
+to neg otiate a surrender with the LSFN. If negotiations failed and Canada expropriated 
+the land under s. 48, it would at least have had to provide fair compensation reflecting 
+the land’s use as water storage for hydroelectricity generation.  
+(a) The Presence of Legal  Discretion in Section 48 of the Indian Act  
+[96] The provisions of the Indian Act  in force at the time provided two routes 
+to remove land from a reserve: a taking and a surrender. Sections 50 and 51 provided 
+that reserve land could be surrendered to the Crown with the consent of the First Nation. 
+Alternatively, subs. 48(1) provided that land could be taken for a public work, but only 
+with the “consent of the Governor in Council” and “subject to the terms and conditions  
+ imposed by such consent”. Compensation was  to be governed by the “requirements 
+applicable to the like proceedings by such company, municipal or local authority in 
+ordinary cases” unless  “otherwise provided by the order in council” (subs.  48(2)). The 
+Indian Act  did not, therefore, limit the discret ion of the Crown to negotiate, or the 
+discretion of the Governor in Council to determine the terms of a taking. There was no 
+conflict between the requirements of the statute and the requirements imposed by the 
+fiduciary duty. The statute accommodated the e xercise of the Crown’s fiduciary duty 
+by recognizing the discretion to provide for special requirements.  
+[97] The provisions in s. 48 must therefore be understood in light of the pre-
+existing fiduciary duty  of the Crown. The fiduciary duty, not just the Indian Act, 
+imposed substantive obligations on how Canada was to exercise its discretion over the 
+reserve land. Dickson J. explained the relationship between the Crown’s discretion its 
+fiduciary duty as follows: “.  . . discretion on the part of the Crown, far fro m ousting, as 
+the Crown contends, the jurisdiction of the courts to regulate the relationship between 
+the Crown and the Indians, has the effect of transforming the Crown’s obligation into 
+a fiduciary one” ( Guerin , at p. 384). Similarly, Wagner J. (as he th en was) recently 
+stated that the “fiduciary obligation requires that the Crown’s discretionary control be 
+exercised in accordance with the standard of conduct to which equity holds a fiduciary” 
+and that this is embodied in the “fiduciary duties of loyalty,  good faith and full 
+disclosure” (see Williams Lake , at para. 46). Equity, by its very nature, imposes 
+additional considerations. The legal authority of the Crown in s. 48 does not answer the 
+question of what the fiduciary duty required in this case. That authority imposed a  
+ minimum — not a maximum — requirement on the exercise of the Crown’s discretion. 
+The presence of legal discretion in the Indian Act , did not, therefore, negate or define 
+the obligations imposed by the Crown’s fiduciary duty.  
+[98] The effect  of the trial judge’s reliance on the legal powers conferred in the 
+Indian Act  also raises a question regarding the role of the presumption of legality in 
+this case. The presumption of legality or lawfulness is an equitable presumption meant 
+to prevent fid uciaries from reducing  compensation by arguing that they would have 
+broken the law ( Whitefish Lake , at para. 69). It cannot be inverted and used instead to 
+limit compensation by suggesting that the fiduciary is expected to do no more than what 
+the law, not equity, requires. The trial judge placed great emphasis on what Canada 
+would have done had it acted “legally” and equated this with what Canada should have 
+done  had it fulfilled its fiduciary duty (see, e.g., para.  358). However, correctly applied, 
+the presumption of legality simply means that Canada is prevented from arguing that it 
+would not have complied with the rules in the Indian Act  or Treaty 3. The presum ption 
+is of little assistance in determining either the fiduciary obligations or the assessment 
+of loss in this case.  
+[99] The trial judge’s reasons can also be read as relying on the legal powers 
+conferred in s. 48 to improperly focus on the inequality of bar gaining power between 
+the LSFN and Canada,  its fiduciary, as a factor to limit compensation. It is appropriate 
+in assessing the lost opportunity to consider as one factor what third parties, such as 
+Ontario or Manitoba, would have been willing to pay and w hat their relative bargaining  
+ power was. However, the trial judge should not consider the “little leverage” the First 
+Nation had with its fiduciary in assessing compensation (para. 318). Obviously, Canada 
+is not permitted to use its legal power over the be neficiary to force an unfair settlement 
+on the beneficiary. Such reasoning effectively turns Canada’s fiduciary obligation on 
+its head, allowing Canada to benefit from the very discretionary power over the LSFN 
+which is the source of its fiduciary duty.  
+[100]  The legal authority of Canada to expropriate the land under s.  48 therefore 
+does not define the fiduciary duty in this case.  
+(b) The Presence of a Public Work  
+[101]  Because of Canada’s public responsibilities to Canadians generally, it may 
+sometimes need to conside r broader public interests in addition to its sui generis  
+fiduciary duty to Indigenous Peoples. While an ordinary fiduciary is not generally 
+permitted to balance its own interests against those of the beneficiary, here, s.  48 
+empowers Canada to expropriate  reserve land without consent if the land is needed for 
+a public work. However, this Court’s jurisprudence shows that the fiduciary duty 
+continues to apply even if the land is needed for a public work.  
+[102]  This Court held in Guerin  that Canada could not escap e liability in equity 
+by arguing that it was only bound by a public trust. In other words, the Court rejected 
+the idea that the fiduciary duty is comparable to the normal exercise of government 
+powers that balances competing priorities or interests. This w as confirmed in Osoyoos  
+ where Iacobucci J. applied the fiduciary duty to expropriations and wrote that the 
+“public interest [cannot] trump” the Indigenous interests (para. 52). In Osoyoos , the 
+Court explicitly rejected  Canada’s argument that the fiduciary duty does not arise if 
+there is a conflict between Canada’s public law duties and its obligation to hold reserve 
+land for the benefit of a First Nation (para. 51). While the Crown can decide that a 
+public work is in the public interest and should thus proc eed, the manner  in which it 
+proceeds is subject to the fiduciary duty (para. 52; S. Luk, “Not So Many Hats: The 
+Crown’s Fiduciary Obligations to Aboriginal Communities since Guerin ” (2013), 76 
+Sask. L. Rev.  1, at p. 17).   
+[103]  Similarly, this Court’s statement  in Wewaykum  that the Crown is expected 
+to “have regard to the interest of all affected parties, not just the Indian interest”, does 
+not support the argument that Canada must simply balance existing Indigenous interests 
+in reserve land against other public  interests (para.  96). In Wewaykum , Canada owed a 
+narrower  fiduciary duty towards the various First Nations because Canada’s actions 
+took place prior to reserve creation and involved land on which the First Nations did 
+not claim title based on an existing aboriginal or treaty right. The First Nations therefore 
+did not have a quasi -proprietary interest in the land at issue at the relevant time 
+(para.  96; Luk, at p. 19). While Canada had an obligation of loyalty, good faith, full 
+disclosure, and ordinary dili gence, there was no obligation to protect the quasi -
+proprietary interest. The Court emphasized, however, that once a reserve is created, the 
+fiduciary duty expands to include the obligation of “protection and preservation of the 
+band’s quasi -proprietary in terest in the reserve from exploitation” and this includes  
+ protection from “exploitation by the Crown itself” ( Wewaykum , at paras.  86 and 100). 
+In this case, there is no dispute that the LSFN had a quasi -proprietary interest in the 
+Reserve.  
+(c) The Content of the Fiduciary Duty Flows From the Nature of the 
+Indigenous Interest and Is Not Defined by Expropriation Principles  
+[104]  In the context of an expropriation or taking, our jurisprudence has imposed 
+a duty requiring the Crown to minimally impair the protected inte rest ( Osoyoos , at 
+para.  52). This means that the Crown must preserve the Indigenous interest “to the 
+greatest extent practicable” (para. 53). This requirement of minimal impairment is 
+consistent with Binnie J.’s observation in Wewaykum  that the fiduciary d uty also 
+prevents exploitation of Indigenous interests by the Crown, not just by third parties. An 
+apparent conflict with the general fiduciary obligation of strict loyalty is created where 
+the Crown decides that reserve land is necessary for a public work  and takes that land 
+without the consent of the First Nation. To resolve this tension, the fiduciary duty 
+requires the Crown to seriously consider the impact on the First Nation and how best 
+to minimize that impact. As a fiduciary, the Crown has the duty t o preserve the First 
+Nation’s quasi -proprietary interest in the land as much as possible and to ensure fair 
+compensation reflecting the sui generis  interest. This duty applies even where the 
+Crown considers a taking to be necessary for the public interest.   
+[105]  Canada submits that the duty to preserve the interest to the greatest extent 
+possible is met even if expropriation principles are applied in this case. I cannot agree.  
+ Under an expropriation of fee simple land, the value of the land to the public work is  
+generally removed from compensation. Therefore, even though the expropriation value 
+considers the highest and best use of the land at the time of expropriation, this generally 
+does not include the value of the land to the scheme itself (R. Mainville, An O verview 
+of Aboriginal and Treaty Rights and Compensation for Their Breach (2001), at pp.  88-
+89). This is because expropriation law prevents landowners from reaping a windfall 
+from the public work, and instead seeks to provide them with the compensation 
+necessary to purchase replacement land. Conversely, in Osoyoos , the Court emphasized 
+the unique importance of Indigenous interests in land: they are at the centre of the 
+relationship between the Crown and Indigenous Peoples and are not fungible 
+commodities th at can be easily replaced by buying additional fee simple land 
+(paras.  45-46; Mainville, at p.  106). This led the Court to affirm that the principles 
+underlying Indigenous interests in land are fundamentally different from the principles 
+underlying expropr iation law ( Osoyoos , at para. 45). Expropriation law reflects fee 
+simple interests in land, not the sui generis Indigenous interests in land. Although 
+expropriation law “can serve as a reference point from which to consider compensation 
+in cases of justifi able infringements of Aboriginal or treaty rights, .  . . it cannot serve 
+as the governing legal framework in such cases” (Mainville, at p. 106). Expropriation 
+law is not the appropriate legal framework governing historic breaches of the Crown’s 
+fiduciary d uty to protect a First Nation’s interest in reserve land.   
+[106]  If expropriation law does not limit the fiduciary duty in this case, there is 
+no basis to say that Canada’s duty to preserve the LSFN’s interest to the greatest extent  
+ possible must exclude  a duty  to obtain compensation for the value of the land to the 
+scheme. Instead, given the LSFN’s sui generis interest in the Reserve land and the 
+impact on the LSFN, the duty here clearly required Canada to capture the full potential 
+value of the land for the LS FN. To that end, the highest and best use of the land at the 
+time of breach was clearly the land’s intended use as water storage for hydroelectricity 
+generation.  
+[107]  There is no doubt that the nature of the interest impacted in this case is of 
+fundamental impo rtance to the LSFN and lies at the heart of its relationship with the 
+Crown. It is a quasi -proprietary interest in 11,304 acres of Reserve land that was set 
+aside for the LSFN’s communal use in exchange for traditional territory that it 
+surrendered in Trea ty 3. The location of the Reserve was established in consultation 
+with the LSFN. The land was chosen because of its economic, cultural, and spiritual 
+importance to its members. The land sustained its way of life, and the proximity to Lac 
+Seul was particula rly important. The riparian area — the area that was flooded — was 
+of special importance to the LSFN. It is where its members hunted, trapped, fished and 
+cultivated wild rice, built their homes and grew their gardens.  
+[108]  Expropriation principles are also inap propriate given the tremendous 
+impact that Canada knew the Project would have on the LSFN. Here, Canada knew 
+early in the development of the Project that the impact would be catastrophic. As the 
+trial judge noted, the local government supervisor observed a t the time that the Reserve 
+would be “ruined for any purpose [for] which it was set aside” (Trial Reasons, at  
+ para.  156). This was followed by repeated warnings of the impact of the flooding. And 
+the impact was ultimately as bad as had been feared. After t he water levels rose, 11,304 
+acres of the Reserve were left flooded and rendered permanently unusable. The flooded 
+sections were the most important sections of the Reserve — the lakefront land — land 
+that was central to the life of the First Nation. The Pr oject caused “very considerable” 
+damage to the Reserve (para. 152, quoting A.R. Supp., vol.  LII, at p.  316) and Mr. Bury 
+understood, at the time, what was expected of Canada given the enormous impact: “.  . . 
+generous monetary compensation” (para.  156).  
+[109]  The nature of the interest and the impact on the First Nation will always be 
+relevant to assessing the appropriate compensation for the use of its reserve land. 
+Because a First Nation must consent in a negotiated surrender, its members will clearly 
+consider t he interest they are giving up and the impact on their community. And Canada 
+must also consider these factors as part of its obligation to protect the First Nation 
+against an improvident bargain. Equally, where Canada proceeds through a taking, the 
+fiducia ry duty requires Canada to consider both the nature of the interest and the impact 
+of the taking on the First Nation in assessing how to minimally impair the protected 
+interest.  
+[110]  While legal expropriation represents the minimum entitlement, this is not 
+to suggest that the value of compensation in equity will always exceed a comparable 
+expropriation of fee simple land. However, Canada is never entitled to proceed in the 
+same manner as an expropriation of fee simple lands. Canada must always keep the  
+ First Nat ion informed, attempt to negotiate a surrender before proceeding to an 
+expropriation, and ensure compensation reflecting the nature of the interest and the 
+impact on the community.  
+(d) Summary of the Fiduciary Obligations  
+[111]  Therefore, the trial judge’s descripti on of the fiduciary obligations in this 
+case was based on his narrow focus on legal discretion in s. 48. Even though 11,304 
+acres, or 17  percent of the Reserve, would be flooded, the trial judge determined that 
+s. 48 allowed Canada to take the land for its  value under expropriation law — without 
+regard to the value of the land to the Project  — and that the fiduciary duty required no 
+more. This is despite the fact that Canada was warned that the Reserve would be “ruined 
+for any purpose [for] which it was set  aside”. I disagree. The fiduciary duty set a higher 
+bar than expropriation law given the sui generis  interest in the Reserve land and the 
+tremendous impact on the LSFN.  
+[112]  Instead, Canada ought  to have first attempted to negotiate a surrender. 
+Canada’s fiduc iary obligations to preserve the LSFN’s quasi -proprietary interest, 
+advance its best interests, and protect it from an improvident bargain required it to 
+ensure the highest compensation possible. The LSFN’s interest in the Reserve land 
+included an interest  in its anticipated use — which was as land for hydroelectricity 
+generation. Canada was under an obligation to secure compensation for this value if 
+the Project was to go forward and the fact that the land was needed for a public work 
+did not change this.   
+ [113]  If negotiations for a surrender of the land by the LSFN under s.  50 of the 
+Indian Act  were unsuccessful, Canada could have proceeded through a taking under 
+s. 48. However, given the impact of the flooding on the LSFN, Cabinet would have had 
+to seriously c onsider how to fulfill Canada’s fiduciary duty in the context of an 
+expropriation. In a memorandum from May 1929, Mr. Bury suggested that exclusive 
+trapping rights would have to be given to the LSFN, at least for a period of time, while 
+the Deputy Superint endent General suggested allocating hunting and fishing grounds 
+elsewhere. Cabinet may have decided, for example, to set aside additional reserve land 
+or fishing or harvesting rights for the LSFN in addition to providing financial 
+compensation. Even in an expropriation, Canada was required to preserve the LSFN’s 
+interest in the land to the greatest extent possible and should have secured 
+compensation for the LSFN that reflected the nature of the interest, the impact on the 
+community, and the value of the la nd to the Project.  
+[114]  In sum, the trial judge was correct that Canada’s fiduciary obligations to 
+the LSFN included a duty of loyalty and good faith; a duty to provide full disclosure 
+and to consult with the LSFN; a duty to act with ordinary prudence with a v iew to its 
+best interests; and a duty to protect and preserve the LSFN’s proprietary interest in the 
+Reserve from exploitation. If Canada pursued a negotiated surrender, it would have to 
+advance the best interests of the LSFN and protect it from an improvi dent bargain. In 
+an expropriation, Canada would also have to minimally impair the protected interest. 
+However, the duty to preserve and protect the LSFN’s sui generis interest in the 
+Reserve is not satisfied by the application of expropriation principles. Instead, given  
+ the nature of the interest and the harm to the LSFN, Canada was obligated to negotiate 
+in order to secure compensation reflecting that impact and the value of the land for its 
+anticipated use — hydroelectricity generation. It should have neg otiated for the best 
+possible compensation. Canada breached this obligation.  
+(3) The Loss  
+[115]  The value of the loss flows from the nature of the breach and the obligations 
+that the fiduciary should have fulfilled. The valuation of the loss must reflect Canada’s 
+obligation to negotiate compensation based upon the best price that could have been 
+obtained for the land’s use for hydroelectricity generation.  
+[116]  Here, the trial judge valued the land as bushland and waterfront land. His 
+assessment of equitable compensation flows from his conclusion that expropriation was 
+permitted under the Indian Act  and that Canada would likely have compensated on the 
+basis of expropriation law, excluding the value of the land as water storage for the 
+Project itself. This improper conclusi on underlies the trial judge’s rejection of the 
+Appellant’s proposed methods of valuation at trial.  
+[117]  At trial, the Appellant primarily relied on the hypothetical of a revenue -
+sharing agreement as the best valuation, but its experts also put forward additio nal 
+models for evaluating the lost opportunity, including contemporaneous agreements 
+reached with another First Nation. Canada’s experts put forward evidence regarding 
+the expropriation value. The trial judge rejected any valuation greater than a  
+ hypotheti cal flowage easement based upon the limited value that expropriation law 
+would have permitted.  
+[118]  I have already determined that equitable compensation in this case should 
+have been assessed on the basis that Canada was under an obligation to negotiate in 
+order to obtain the best possible compensation based upon the value of the land to the 
+Project. The question is how to assess this value.  
+(a) Application of Equitable Compensation Principles  
+[119]  Before considering how to value the LSFN’s lost opportunity, it is 
+neces sary to clarify how the principles of equitable compensation apply in this appeal.  
+[120]  First, in my view, the trial judge was correct in assessing compensation on 
+the basis of what would have happened at the time of breach had Canada fulfilled its 
+fiduciary duty. Unlike Guerin , this is not a case in which the plaintiff is advancing 
+different , more valuable uses of the land than the use that the land was actually put to. 
+Instead, the Appellant submits that the land should be valued on the basis of its actual 
+use as flooded land for hydroelectricity generation and that this is the most valuable  
+use. In other words, the loss is the lost opportunity to negotiate compensation for the 
+land’s use for hydroelectricity generation, not as the opportunity to put the land to other 
+uses since 1929. Because of the presumption of highest and best use, there may be cases 
+where a First Nation seeks compensation for other valuable uses even where it was  
+ inevitable that the land would have been used for a public work. However, in this case, 
+the focus is on the use that the land was actually put to.  
+[121]  There were two  options available to Canada: a negotiated surrender under 
+s. 51 and a taking under s.  48. Canada concedes that the lost opportunity in this case 
+includes the opportunity to negotiate a surrender. Similarly, the trial judge accepted 
+that Canada should have  attempted to negotiate a surrender before pursuing a taking 
+(para.  322). In my view, equitable compensation should be assessed on the basis of a 
+negotiated surrender. A negotiated surrender more clearly aligns with the nature of the 
+breach, which included  a failure to keep the LSFN informed and a failure to prevent 
+the Project from proceeding until the negotiation for compensation had been resolved. 
+As Rowe  J. recently emphasized in a different context, negotiation can foster 
+reconciliation ( Desautel , at paras. 87-91). Compensation was based on negotiated 
+agreements with non -Indigenous parties, including the Hudson’s Bay Company and the 
+Anglican Church Missionary Society, even though Canada and Ontario owed no 
+fiduciary duty to those parties.  
+[122]  The presumptio n of most favourable use and valuable accounting also 
+allows equitable compensation to focus on a successful negotiation in this case. The 
+presumption focuses on choices that would be available to the beneficiary in a non -
+breach world, thus maintaining the  causal connection. For example, equity presumes 
+that the beneficiary would have sold securities at their highest value or developed land 
+in the most advantageous way ( Guerin , at p. 362). Here, Canada should have negotiated  
+ compensation for the LSFN for th e best possible price, which in this case was the value 
+of the land to the Project, without the limitations of expropriation law. Equity can 
+presume  that the LSFN would have consented to a negotiated settlement at the best 
+price the Crown could have realis tically obtained at the time. But the trial judge must 
+determine what the highest value of the land to the Project realistically was in 1929. As 
+I will explain below, that value of the compensation that Canada should have negotiated 
+for the LSFN is not det ermined based on an evidentiary presumption. It is based on 
+evidence that was available to the trial judge, such as comparable agreements with 
+another First Nation.  
+[123]  As the trial judge correctly noted, equitable compensation is a discretionary 
+remedy that is assessed and not precisely calculated (para. 465, citing Whitefish Lake , 
+at para.  90). It is unlikely that the trial judge could recreate with mathematical precision 
+what would have happened nearly a century ago had Canada fulfilled its duty. Instead, 
+a trial judge will often have to provide a global assessment of the lost oppo rtunity and 
+that assessment needs to be realistic. This will often require that the trial judge assess 
+various hypotheticals or proxies for that value.  
+[124]  In my view, the benefit of hindsight also has a narrow application in this 
+case, as noted by Gleason J. A. (C.A. reasons, at para. 60). The benefit of hindsight 
+simply means that equitable compensation is not limited by foreseeability ( Canson , at 
+p. 555). As an illustrative example, the benefit of hindsight would be highly relevant if 
+the trial judge had det ermined that the lost opportunity included the opportunity to  
+ receive an equity interest in the Project had Canada fulfilled its obligations. Following 
+the example from Guerin , that interest would be valued at the date of trial on the basis 
+of facts known at trial — such as the development of additional power sites — that 
+were not foreseeable at the time of breach but would clearly impact the value of any 
+ownership interest in the Project. However, the benefit of hindsight does not aid in 
+determining whethe r an equity interest is part of the lost opportunity in the first place. 
+Again, the trial judge must rely on evidence to assess the value of the land to the Project 
+at the time of breach.  
+[125]  Finally, the Appellant submits that Canada has an ongoing fiduciary duty 
+in respect of the Reserve land because the land was never lawfully taken and the third 
+party use of the land cannot be undone. For the Appellant, the fact that the land was 
+flooded without legal authorization appears to be relevant to the assessment o f 
+equitable compensation because it means that the ongoing nature of the breach must 
+also be compensated.  
+[126]  I agree that Canada has an ongoing fiduciary duty in respect of the Reserve 
+land. However, in my view, characterizing the breach as ongoing does not affect the 
+assessment of compensation in the way the Appellant suggests. The ongoing dimension 
+of a breach is accommodated in a number of ways in equity. Properly understood, the 
+presumptions of most favourable use and the benefit of hindsight recognize th e ongoing 
+dimension of the lost opportunity. If, for example, the beneficiary was deprived of the 
+opportunity to put an interest to another use, equity already adopts the perspective that  
+ the interest is back in the hands of the beneficiary  and then consid ers the most 
+advantageous use to which the beneficiary would have put the interest between breach 
+and trial. This was explained in Re Dawson , at p.  406, and adopted by Wilson J. in 
+Guerin , at pp. 361 -62: 
+The obligation to restore to the estate the assets o f which he deprived it 
+necessarily connotes that, where a monetary compensation is to be paid in 
+lieu of restoring assets, that compensation is to be assessed by reference to 
+the value of the assets at the date of restoration and not at the date of 
+depriva tion. In this sense the obligation is a continuing one and ordinarily, 
+if the assets are for some reason not restored in specie, it will fall for 
+quantification at the date when recoupment is to be effected, and not 
+before.  [Emphasis added.]  
+[127]  Focusing on t he lawfulness of the taking would not modify or aid the 
+analysis of the value of the LSFN’s lost opportunity. The central inquiry remains: what 
+is the measure of the plaintiff’s lost opportunity in light of the breach? The lost 
+opportunity at issue in this  case is the opportunity to negotiate a surrender reflecting 
+the highest value of the land, which was its anticipated use for hydroelectricity 
+generation. This is the obligation that Canada failed to meet. The fact that Canada also 
+failed to meet its oblig ation to comply with the provisions in the Indian Act  does not 
+ultimately change the value of that lost opportunity.  
+[128]  This is not to suggest that the lawfulness of the taking should have no 
+impact on the assessment of equitable compensation. Equitable comp ensation must 
+fulfill the deterrent objectives of equity. Deterrence, in this context, aims at the 
+fundamental goal of reconciliation and upholds the honour of the Crown. The  
+ lawfulness of the taking could inform whether the award  — in addition to 
+compensa ting for the value of the lost opportunity — fulfills the deterrent function of 
+equity.  
+[129]  In conclusion, the LSFN is entitled to compensation for the lost opportunity 
+to negotiate a surrender of the flooded land based on its value to hydroelectricity 
+generat ion. This requires the trial judge to presume that the Project would have moved 
+forward and that Canada would have fulfilled its fiduciary obligation at that time by 
+ensuring the best possible compensation for the LSFN based on the value of the land 
+to the  Project.  
+(b) Valuing the Lost Opportunity  
+[130]  The issue remains how to assess compensation based on the lost 
+opportunity to negotiate a surrender reflecting the value of the land to the Project. In 
+valuing the lost opportunity, the trial judge must assume that Ca nada fulfilled the 
+fiduciary obligations required in a negotiated surrender, including the obligations to 
+keep the LSFN fully informed, advance its best interests, and protect it from an 
+improvident bargain.  
+[131]  The Appellant submits that, because we know the use the land was put to, 
+it was inappropriate for the trial judge to consider a hypothetical  surrender or 
+expropriation to assess the value of that use. I cannot agree. While there is only one 
+proposed use of the land, the trial judge still has to determin e how to value that use and  
+ the valuation must be causally connected to the breach of Canada’s obligations. 
+Because the LSFN is to be compensated for the land’s value to the Project, on the basis 
+that it was going forward, the trial judge must consider how  Canada could have 
+proceeded to fulfill its duty. The error in the trial judge’s reasons is not that he 
+considered hypotheticals to value the lost opportunity, but that he relied on a 
+hypothetical expropriation that would not have fulfilled Canada’s fiduci ary obligations.  
+[132]  The trial judge should account for any uncertainty or realistic 
+contingencies in assessing the evidence regarding the value of the land in a negotiated 
+surrender. The idea of realistic contingencies, which was accepted by this Court in 
+Guerin, simply reinforces the principle that the loss must be caused in fact by the 
+breach. The trial judge has to be satisfied that the lost opportunity represents what could 
+have happened had Canada fulfilled its obligations. It does not mean, as Canada 
+suggests, that the fiduciary obligations themselves can be defined according to what 
+realistically would have happened. The fiduciary obligations must always be defined 
+first, and then the trial judge assesses reasonable, or realistic, outcomes in light of th ose 
+obligations. As Gleason J.A. correctly noted, the trial judge must take into account 
+“events that could have occurred had the fiduciary duty not been breached and that 
+might have increased (or decreased) the value of what the beneficiary lost as a resu lt of 
+the breach” (C.A. reasons, at para. 82).  
+[133]   At trial, the Appellant led evidence from the Kananaskis Falls Projects that 
+showed that negotiations in comparable projects led to substantial compensation based  
+ upon the lands’ “usefulness in connection wit h the development of power”. The trial 
+judge rejected this evidence and did not assess any value for the lost opportunity to 
+negotiate.   
+[134]   In my view, the evidence from the Kananaskis Falls Projects was relevant 
+to the assessment of loss in this case. The trial judge distinguished this evidence based 
+on one factor: Calgary Power could not expropriate the land for the Kananaskis Falls 
+Projects, but Canada could expropriate the land for this Project. However, this factor is 
+not material. What is relevant is t hat Canada, the fiduciary , had an obligation to get the 
+best value for the land’s intended use, notwithstanding its legal power to expropriate. 
+With respect to the Kananaskis Falls Projects, Canada insisted that Calgary Power 
+negotiate agreements with the First Nation reflecting the value of its lands to the 
+project. In this Project, Canada did not do so.  
+[135]  Canada submits that the Court should defer to the trial judge’s findings on 
+the Kananaskis Falls Projects. However, but for the legal determination that Canada 
+was under no legal duty to compensate for more than an expropriation, the trial judge’s 
+factual findings support  the view that the Kananaskis Falls Projects were relevant to 
+the valuation of the flooded lands in this case.  
+[136]  The Appellant led evidenc e at trial regarding the compensation that Canada 
+negotiated on behalf of the Stoney Indian Band for the Kananaskis Falls Projects:   
+  Horseshoe Falls 1909:  Calgary Power purchased 1,000 acres at $10 per acre 
+plus a perpetual lease for $1,500 per year;  
+ Kanana skis Falls 1914:  The pre -project value of the land was $5 to $7 per acre, 
+but Canada requested payment of either $320 to $360 per acre, as a one -time 
+payment, or an annual rent plus $60 to $90 per acre as a one -time payment to 
+reflect the value of the land  to the project. This is a very substantial premium 
+on the traditional use valuation of the land. Calgary Power ultimately agreed to 
+pay $9,000 for 93.85 acres ($95.90 per acre) plus $1,500 annually;  
+ Ghost River 1929:  Calgary Power agreed to pay $21,200 fo r 1,324.3 acres of 
+land ($16.00 per acre) plus 50 percent of the water power in rental fees.  
+[137]  The trial judge made three relevant findings based on these projects: (1) 
+hydroelectric benefits to the First Nation were allocated on the basis of the dam 
+locatio n, not on the basis of the lands flooded to create the water reservoir; (2) flooded 
+lands were compensated at a fixed one -time price per acre; (3) the value of the flooded 
+lands was not based on their value as agricultural lands but on their “usefulness in  
+connection with the development of the power” (para. 345). Based on this, the trial 
+judge determined that the LSFN would have been compensated with a one -time 
+payment because the water power site was not located on the Reserve. However, when 
+the trial jud ge assessed the value of that payment, he did not provide compensation for 
+the value of the land to the Project for only one reason: Canada could expropriate the  
+ LSFN’s land and was not required to do anything more. This is contrary to the approach 
+taken i n Kananaskis Falls where Canada sought compensation for the flooded lands’ 
+“considerable value” in connection with the development of hydroelectricity. Absent 
+this error, the trial judge’s findings established that the flooded land was valued based 
+on its usefulness to the project.  
+[138]  Obviously, these agreements provide relevant historical evidence of how 
+much of a premium on the undeveloped value of the land may be warranted in this case. 
+This is not to suggest that there is no basis upon which to distinguis h the various 
+agreements reached in the Kananaskis Falls Projects as they relate to the valuation of 
+the loss caused by Canada’s failure to negotiate. It is up to the trial judge to assess how 
+the differences in the location of the dam, or the amount of la nd involved, or the nature 
+of the impact on the First Nation, would impact the value of the land for flooding 
+purposes. Here, the trial judge determined that the evidence from the Kananaskis Falls 
+Projects did not support a yearly rental agreement for the LSFN because the power site 
+was not located on the Reserve. However, in assessing a lost opportunity to negotiate,  
+the trial judge must consider all factors that would distinguish the Kananaskis Falls 
+Projects from this Project, including the fact that the  LSFN was contributing a 
+significantly greater amount of land than the Stoney Indian Band had.  
+[139]  The trial judge had other proxies for measuring the value of the land to the 
+Project. For example, the LSFN led evidence regarding the value of a land lease. In  that 
+model, the LSFN’s expert, Arthur J. Hosios, valued the lost opportunity if the flooded  
+ land had been rented for comparable Treaty 3 rates since the time of breach. The land 
+lease model assumed the flooded land would be rented for $1.97 an acre beginn ing in 
+1929 and, adjusted only for inflation, produced a value of $149,023,172 at the time of 
+trial (although the model assumed 14,891 acres of flooded land instead of the 11,304 
+acres agreed at trial). At the very least, these values could have impacted C anada’s 
+negotiating position on behalf of the LSFN. It was also open to the trial judge to 
+consider the evidence from later agreements where Canada was clearly fulfilling its 
+obligations as a fiduciary.  
+[140]  The trial judge should also give appropriate weight to the evidence 
+regarding the impact on the community and the LSFN’s perspective. A relevant factor 
+to a negotiated surrender is clearly the impact on the First Nation and the importance 
+of the land to th e First Nation. Negotiations are not one -sided and the LSFN’s 
+perspective is an important consideration. And, if we presume that Canada had fulfilled 
+its fiduciary obligations, the LSFN would have gone into the negotiations fully 
+informed of the significan t value of its land to the Project and the anticipated impact 
+on its communities.  
+[141]  Canada submits that even if it had been under an obligation to negotiate for 
+the value of the land to the Project, it would be improper to compensate the LSFN on 
+this basis because there is no evidence that Ontario or Manitoba would have been 
+willing to pay more than the expropriation value. On this view, any compensation in  
+ excess of expropriation principles is not caused by the breach and does not represent 
+an opportunity t he LSFN lost.  
+[142]  I cannot agree. The LSFN cannot provide evidence showing definitively 
+what level of compensation Ontario, Manitoba, or Canada would have agreed to in 
+1929 had Canada made it clear that the Project would be delayed until the issue of 
+compensat ion was resolved. The LSFN cannot prove what compensation could  have 
+been negotiated precisely because Canada failed to fulfill its fiduciary duty. Additional 
+useful evidence that could inform the level of compensation that Ontario or Manitoba 
+would have a ccepted could include the Kananaskis Falls Projects, the economic 
+fundamentals of the Project, and the anticipated benefit that the provinces stood to 
+receive from the Project. The LSFN did advance evidence at trial showing how cost -
+effective the Project w as and the incredible economic advantages that it conferred on 
+Ontario and Manitoba. The evidence shows that the parties were very motivated to 
+finish this Project and realize its economic benefits. For example, in the 1930s, Canada 
+spent over $850,000 on a failed timber clearing project to advance the Project and 
+resolve an impasse with Ontario.  
+[143]  Thus, equitable compensation must reflect Canada’s obligation to ensure 
+the LSFN was compensated for the value of the land to the Project given the nature of 
+the interest and the impact on the LSFN. The trial judge should have considered the 
+Kananaskis Falls Projects and other evidence available at trial as relevant proxies for  
+ what this premium was worth. The trial judge also had evidence at trial regarding 
+agreeme nts that were reached with another First Nation.  
+[144]  After assessing the lost opportunity, the trial judge must determine whether 
+the new total compensation award is sufficient to fulfill the deterrent function of equity 
+(Hodgkinson , at p. 453). Deterrence ha s special importance in this case because 
+deterring the Crown from breaching its fiduciary duty encourages it to act honourably 
+and orients it towards the ongoing project of reconciliation. As this Court stated in 
+Williams Lake , the just resolution of clai ms arising from the Crown’s failure to honour 
+its obligations is essential to reconciliation (para. 2). Given the facts of this case, 
+including Canada’s “inexplicable” conduct, the fact the land was never legally 
+surrendered or taken, and the significant h arm to the LSFN, the trial judge must 
+seriously consider whether the total award will be an effective deterrent, thus reflecting 
+the honour of the Crown and the goal of reconciliation.  
+[145]  In conclusion, the assessment of the lost opportunity was flawed becau se 
+it was based on an incorrect view of what the fiduciary duty required. By valuing the 
+loss as the amount required under expropriation law, the trial judge failed to account 
+for a fiduciary obligation to negotiate for compensation reflecting the LSFN’s i nterest 
+in the Reserve land, impact on the community, and the value of the land given its 
+intended use as water storage for hydroelectricity generation. As a result, the 
+assessment of the value of the flooded land must be reassessed. The trial judge’s 
+assessment of other losses were not challenged in this appeal. Similarly, I take no issue  
+ with the manner in which the trial judge brought forward historic losses to present 
+value.  
+IV. Conclusion  
+[146]  A hypothetical flowage easement at $1.29 an acre is not an appropri ate 
+measure of compensation in this case because it does not reflect the value of the land 
+to the Project. The sole basis for this valuation is the conclusion that because the Project 
+was a public work, and Canada could have expropriated the land, Canada w as not 
+expected to secure compensation for the LSFN reflecting the value of its land to the 
+Project. I cannot agree. As I have explained, this approach is inconsistent with the 
+unique nature of the Indigenous interest in reserve land and the devastating im pact of 
+the flooding on the LSFN. It does not reflect the honour of the Crown nor serve the 
+overarching goal of reconciliation. The LSFN is entitled to equitable compensation for 
+the lost opportunity to negotiate for an agreement reflecting the value of th e land to the 
+hydroelectricity generation Project.  
+[147]  The award for equitable compensation must be returned for reassessment 
+in accordance with these reasons. I would allow the appeal with costs to the Appellant 
+throughout. I would set aside the judgment of t he Court of Appeal and the trial judge’s 
+award of equitable damages and return that question to the trial court for reassessment.  
+  
+ The following are the reasons delivered by  
+ 
+ CÔTÉ  J. —  
+[148]  Canada breached its fiduciary duty to Lac Seul First Nation (“LSFN”) 
+when it unlawfully allowed the flooding of over 11,000  acres (or approximately 
+4575  hectares) of LSFN reserve lands for a hydroelectric project that was completed in 
+1929 (“Project”). The flooding had devastating effects on LSFN, including the 
+complete dep rivation of the use and benefit of a large part of its reserve. Canada did 
+not obtain the right to flood the lands through either of the two routes established by 
+the Indian Act , R.S.C.  1927, c.  98, as it read in 1929: it neither sought LSFN’s consent 
+to surrender the lands, nor did it expropriate the lands.  
+[149]  No party to this appeal questions this reality. Canada acknowledges its 
+breach of fiduciary duty and its “inexplicabl e” hi storical treatment of the a ppellants, 
+and rightly so. The question , then, is how to compensate for the harms caused by 
+Canada’s breach in a manner that accords with settled equitable compensation 
+principles. The  appellants contest the basis upon which the trial judge calculated an 
+aspect of the equitable compensation he awarded, namely the value attributed to the 
+flooded land s (2017 FC 906, [2018] 4 C.N.L.R. 63) . Canada submits that , to the extent 
+that a financial award can accomplish it, the amount  awarded  by the trial judge for the 
+fair market value of the flooded lands , in combination with the award for  
+non-calculable losses , fairly and reasonably compensate s the a ppellants for their losses.   
+ [150]  Both the majority judges and the dissenting judge at the Federal  Court of 
+Appeal were in complete agreement on two issues (2019 FCA 171, [2020] 1 F.C.R. 
+745). First, the Court of Appeal unanimously found that the trial judge correctly held 
+that there was no basis to award compensation for loss of a revenue -sharing agre ement 
+and that the trial judge made no palpable and overriding error in concluding that the 
+Lac Seul situation was not comparable to the other revenue -sharing situations on which 
+the appellants relied . Second, w ith respect to the trial judge’s conclusions on one -time 
+compensation for the loss of the flooded land s, the Court of Appeal agreed that there 
+was no error of law or palpable and overriding error in the trial judge’s conclusion that, 
+had Canada expropriated the flooded land s in 1929, it would not hav e paid more than 
+the fair market value of $1.29 per acre. The sole disagreement between the majority 
+and the dissent concern ed the  appellant s’ second submission regarding the trial judge’s 
+conclusions on one -time compensation , namely that he had  erred in d istinguishing the 
+Kananaskis Falls development project (“Kananaskis Project”) from the Lac Seul 
+situation.  
+[151]  However, my colleagues in the majority go further than the Court of 
+Appeal, seemingly undertaking a fresh equitable compensation analysis. The major ity 
+does not agree with the trial judge’s assessment of equitable compensation, not because 
+of any palpable and overriding error that he committed, but because his assessment 
+does not accord with the majority’s view that LSFN is entitled to equitable 
+compe nsation for the lost opportunity to negotiate an agreement reflecting the value of  
+ the lands for hydroelectric purposes specifically, as opposed to equitable compensation 
+for the lost opportunity to negotiate generally.  
+[152]  The value of the compensation that Canada should have negotiated for 
+LSFN cannot be determined  in an evidentiary or factual vacuum , and it is improper to 
+fault a trier of fact regarding possible alternative findings based on a newly raised 
+theory of the case. That is not the proper standard  of appellate review.  In my view, the 
+majority of the Federal Court of Appeal was correct to find that there was no basis to 
+interfere with the trial judge’s equitable compensation assessment. As I will explain 
+below, the trial judge assessed compensation for the value of the flooded lands in 1929  
+based on a thorough  examination of the facts  as established in the record . I find no  
+reviewable  error  in the trial judge’s analysis, and I would dismiss the appeal.  
+I. Standard of Review  
+[153]  While the majority largely refrains from discussing the applicable standard 
+of review, the parties took opposing positions concerning the proper standard for 
+questions related to the trial judge’s compensation assessment. Therefore, clear 
+guidance on this point ought to be provided.  
+[154]  Appellate review of an award of damages is to be conducted in accordance 
+with the standards of review articulated in Housen v. Nikolaisen , 2002 SCC 33, [2002] 
+2 S.C.R. 235. The appellants submit that  the errors in this case relate to the failure of 
+the co urts below to correctly apply the legal principles they identified , and therefore  
+ should be assessed on a correctness standard. The respondent submits that the issues 
+raised by the appellants are matters of mixed fact and law and that there are no 
+extricab le questions of law to which the standard of correctness applies.  
+[155]  Both parties rely on the same passage from Whitefish Lake Band of Indians 
+v. Canada (Attorney General) , 2007 ONCA 744, 87 O.R. (3d) 321, at para.  28, 
+although the respondent emphasizes the f irst sentence and the appellants focus on the 
+second:  
+A trial judge’s damages or compensation assessment is entitled to 
+considerable deference on appeal. An appellate court should interfere with 
+that assessment only if it is tainted by an error in principle, or is 
+unreasonably high or low.  
+[156]  A similar pronouncement was made by Justice Wilson in Guerin v. The 
+Queen , [1984] 2 S.C.R. 335, at p.  363: “.  . . I do not think it is the function of this Court 
+to interfere with the quantum of damages awarded by  the trial judge if no error in 
+principle  in determining the measure of damages has been demonstrated. .  . . The trial 
+judge’s task was not an easy one but I think he ‘did the best he could’  . . . .” 
+[157]  Thus, the question to be decided is whether the assessme nt is tainted by a 
+reviewable error. The appellants attempt to get around this exacting standard by 
+asserting that the courts below erred in “apprehending how the assessment of equitable 
+compensation should be carried out”, which they suggest is an “extric able question of 
+principle or pure law [that is] reviewable on a correctness standard” (A.F., at para.  72).  
+ I disagree. Not only is the trial judge’s determination that the appellants should have 
+been compensated through a one -time payment in 1929 based on  an expropriation 
+model in accordance with the Indian Act not an extricable error, and thus not reviewable 
+on a correctness standard, but the appellants have also not identified any particular 
+findings of fact by the trial judge as constituting a palpable and overriding error.  
+[158]  Under the standard of review for questions of mixed fact and law, “an 
+appellate court’s role is not to reconsider the evidence globally and reach its own 
+conclusions, but simply to ensure that the trial judge’s conclusions  — includin g the 
+trial judge’s legal inferences  — are supported by the evidence” ( Modern Cleaning 
+Concept Inc. v. Comité paritaire de l’entretien d’édifices publics de la région de 
+Québec , 2019 SCC 28, [2019] 2 S.C.R. 406, at para.  69). “The possibility of alternativ e 
+findings based on different ascriptions of weight is .  . . [not a] basis for overturning the 
+findings of a fact -finder” ( Nelson (City) v. Mowatt , 2017 SCC 8, [2017] 1 S.C.R. 138, 
+at para.  38). Appellate intervention is not warranted “absent an error that  is ‘plainly 
+seen’ and has affected the result” (para.  38, quoting Housen , at para.  6).  
+[159]  Even if an appellate court might have come to a different conclusion, it 
+cannot overturn the trial judge’s discretionary decision unless a reviewable error has 
+been ma de. As noted by Stratas  J.A. in Mahjoub v. Canada (Citizenship and 
+Immigration) , 2017 FCA 157, [2018] 2 F.C.R. 344:  
+Palpable and overriding error is often best defined by describing what it 
+is not. If an appellate court had a free hand, it might weigh the evidence 
+differently and come to a different result. It might be inclined to draw  
+ different inferences or see different factual implications from the evidence. 
+But these things, without more, do not rise to the level of palpable and 
+overriding error. [para . 70] 
+[160]  In my view, the trial judge made no reviewable errors. The majority of the 
+Federal Court of Appeal properly applied the deferential standard of review, holding 
+that there was no basis to interfere with the trial judge’s factual findings. The alleged 
+errors raised before this Court relate to questions of fact and mixed fact and law, and 
+the appellants have not demonstrated that the trial judge made any palpable and 
+overriding errors. The trial judge properly reviewed and assessed  the voluminous 
+quantit ies of evidence. His legal inferences are supported by the evidence. Therefore, 
+the appellants have not established a basis for interfering with his valuation.   
+II. The Trial Judge’s Equitable Compensation Assessment  
+[161]  The principles of equitable compensation, i ncluding the special importance 
+of its deterrent effect in furthering the ongoing project of reconciliation between 
+Canada and Indigenous peoples, are settled and not at issue in this appeal. It is the 
+application of those principles that is at issue. Ther efore, it is important to begin by 
+outlining the trial judge’s assessment. In his decision, the trial judge made it clear that 
+the goal of equitable compensation is to restore what the plaintiff has lost due to a 
+breach of fiduciary duty, the loss being an  opportunity not realized because of the 
+breach. The plaintiff’s loss arising from the breach is to be assessed with the advantage 
+of hindsight, not based on what may have been known at the date of the breach or what 
+would have been reasonably foreseeable.  In assessing the loss, courts must assume both  
+ that the plaintiff would have made the most favourable use of the trust property at issue 
+and that the defendant, had it not committed the breach, would have carried out its 
+duties vis -à-vis the plaintiff in a lawful manner (Trial Reasons, at para.  285).  
+[162]  The trial judge applied these settled principles, specifically looking back to 
+when the breach occurred in 1929, and, with the benefit of hindsight and the evidentiary 
+record, assessed what position the appell ants would have been in but for the breach. 
+Based on the evidence, the trial judge determined that, had Canada acted legally, it 
+would have taken the reserve lands in 1929 through expropriation or surrender 
+(para.  358).  
+[163]  The trial judge noted the public imp ortance of the Project and held that 
+“[t]here is no reasonable likelihood that the project would have been shelved had the 
+LSFN or Indian Affairs refused to have the land flooded” (paras.  292 and 327; see also 
+C.A. Reasons, at paras.  23 and 50, per Gleason  J.A., dissenting, but not on this point). 
+Having found that the Project and the resulting flooding would have occurred when 
+they did, the trial judge presumed that Canada would have acted lawfully if it had not 
+breached its fiduciary duty and determined t hat Canada would have, and should have, 
+either obtained a surrender of the reserve lands to be flooded as provided for in Treaty 
+No. 3 (1873) and ss.  50 and 51 of the Indian Act , or expropriated the necessary lands 
+in accordance with Treaty 3 and s.  48 of the Indian Act . In either case, Canada would 
+have compensated the appellants for the flooded lands in 1929, the year of the dam’s  
+ construction (Trial Reasons, at paras.  350-71). The parties accept this finding (C.A. 
+Reasons, at para.  50). 
+[164]  The evidence prof fered at trial focused broadly on two concepts: a revenue - 
+or benefit -sharing agreement and one -time compensation for the loss of the flooded 
+lands. The trial judge rejected the revenue -sharing agreement as unprecedented and 
+inconsistent with the historica l approach taken in other instances of reserve land 
+compensation, and found that there was no evidence that the parties would have been 
+amenable to such an arrangement (paras.  351-57). The Federal Court of Appeal 
+unanimously upheld this finding (paras.  57 and 106 -7).  
+[165]  Therefore, the trial judge concluded that Canada would have compensated 
+the appellants through a one -time payment for the flooded lands and would not have 
+secured an indefinite revenue -sharing agreement. In order to assess the quantum of the 
+one-time compensation for the loss of the flooded lands, the trial judge reviewed all 
+evidence proffered at trial on how to value the lands. He noted that the question of how 
+the fair market value was to be assessed had been discussed by two experts: 
+Duncan  Bell, called jointly by Canada and Ontario, and Norris Wilson, called by the 
+appellants.  Both experts agreed that the fair market value had to be assessed on the 
+basis of the highest and best use of the lands (D.  Bell, Appraisal Report: Lac Seul First 
+Nation — Southwind Action , February  28, 2014, at p.  78, reproduced in A.R. Supp., 
+vol. CCXLI, at p.  168; N.  Wilson, Technical Review of an Appraisal Report  by:  
+ Charles Bell Real Estate Appraisals Ltd. , May 16, 2016, at p.  2, reproduced in A.R. 
+Supp., vol.  CCX XXV, at p.  320).  
+[166]  In his appraisal report, Mr.  Bell stated that prior to 1934, the highest and 
+best use of the Lac Seul reserve lands would have been for continued traditional uses 
+by LSFN, and it would be expected that the majority of the flooded lands wou ld have 
+remained vacant and unimproved. Mr.  Bell stated that when flooding of the reserve 
+lands occurred in order to accommodate the development of a hydroelectric dam “the 
+flooded lands had a greater utility as flooded land rather than their previous use”  (p. 79). 
+He estimated the value of the subject lands as at April  1, 1929, April  1, 1934, and 
+April  1, 1943, in accordance with Canada and Ontario’s terms of reference. In 
+Mr. Bell’s opinion, the overall effective price per acre of the reserve lands was $1 .29 
+in 1929, $1.06 in 1934, and $1.24 in 1943. In his testimony, Mr.  Bell noted that he had 
+valued the land as unflooded in each of the years for which he provided an estimated 
+value because, if he had valued them differently once they were flooded, “[t]ha t would 
+be like somebody damaging your car and say, yes, I owe you a newer car but your car’s 
+damaged now so I’m only going to pay you for the damaged car. So the valuations for 
+traditional uses were simply just brought forward in those dates based on the market 
+changes and the market evidence” (A.R. Supp., vol.  XV, at p.  247).  
+[167]  Mr. Wilson criticized Mr.  Bell on three points: (1) a failure to correctly 
+apply the principle of highest and best use; (2) the decision to apply the direct 
+comparison approach; and (3) a failure to make findings and assumptions consistent  
+ with the historical record. Mr.  Wilson found that while Mr.  Bell had acknowledged that 
+the highest and best use of the lands had changed once it was flooded, all three of his 
+valuations, for 1929, 1 934, and 1943, were almost identical. From Mr.  Wilson’s 
+perspective, either Mr.  Bell had not made any attempt to analyze the impact of the 
+hydroelectric project on the value of the reserve lands, or he had concluded that the 
+project had no impact on the va lue of the lands. Regardless, Mr.  Wilson submitted that 
+Mr. Bell’s highest and best use analysis was unsound. As the trial judge summarized:  
+. . . in his view, the flooded Reserve land formed part of a storage project 
+that facilitated a hydroelectric syste m down the English and Winnipeg 
+Rivers. He testified that the hydroelectric project at Ear Falls would affect 
+the value of the land around the foreshore of Lac Seul, because the highest 
+and best use of that land would change to the storage of water for the  power 
+project from traditional uses before it was flooded. [para.  377] 
+However, both in his report and his testimony, Mr.  Wilson did not propose an 
+alternative valuation.  
+[168]  The trial judge found that Mr.  Bell’s method of valuation was “appropriate 
+and prope r in the circumstances” and adopted his conclusions (para.  380). He noted 
+that “[t]his manner of proceeding may seem contrary to that advanced by Indian Affairs 
+in the Kananaskis Falls development where, it will be recalled, the Department 
+informed Calgary  Power that the cost of the land must exceed its agricultural value as 
+the ‘value in the lands consists in their usefulness in connection with the development 
+of power at Kananaskis Falls and in this connection they have a considerable value’” 
+(para.  381, referring to A.R. Supp., vol.  XLI, at p.  184). However, the trial judge  
+ distinguished the Kananaskis Project on the basis that there was no ability to 
+expropriate any reserve lands in that example, whereas there was in the instant case. 
+Therefore, Calgary Power was in an entirely different position vis -à-vis the Stoney 
+Indian Band than Canada vis -à-vis the LSFN reserve (paras.  382-83). 
+[169]  In determining the price per acre, the trial judge rejected Canada’s 
+submission that $1.00 per acre would be a more appropr iate basis to calculate the 
+amount payable. He held that “[w]hile $1.29 is slightly more than may have been in 
+the contemplation of [Manitoba and Ontario, the provinces with whom Canada was 
+negotiating], I have no evidence that had Canada insisted, it woul d not have been 
+accepted by the Provinces” (para.  384). The trial judge considered additional avoidable 
+losses, finding calculable financial losses of $14,582.16 in 1929 for a flowage easement 
+over the reserve lands, $34,917.33 in 1929 for timber dues, and  $1,750,000 in 2008 for 
+community infrastructure (para.  443). In addition, the trial judge awarded $16.2  million 
+for non -calculable losses, namely loss of livelihood both on and off the reserve as well 
+as loss of easy shore access, damage to boats, and ove rall damage to the aesthetic of 
+the lake shore.  
+III. The Appellants Were Fairly and Appropriately Compensated for Their Losses  
+[170]  The appellants submit that the lower courts improperly applied the 
+principles of equitable compensation and failed to compensate LSFN for what it 
+actually lost. According to them, “[r]ather than compensating for those losses in light 
+of the use to which the Lands have been put, the Courts re -wrote history and relied on  
+ a fictional expropriation scenario to improperly approach LSFN’s loss es as if they were 
+one-time lost expropriation funds” (para.  69). I cannot agree. Based on the evidence 
+before him, the trial judge assessed the appellants’ losses presuming the highest and 
+best use and with the benefit of hindsight. The appellants have no t identified or 
+established any palpable and overriding errors.  
+A. Defining and Valuing the Lost Opportunity  
+[171]  I am in agreement with the majority that equitable compensation in this 
+case should be assessed on the basis of a negotiated surrender (paras.  118 and 121). 
+This is not controversial. Canada agrees that the lost opportunity in this case includes 
+the opport unity to negotiate a surrender. The Court of Appeal unanimously agreed, 
+finding that “the Federal Court  correctly identified the impact of the breaches of 
+fiduciary duty committed by Canada as being  both the deprivation of an opportunity to 
+negotiate a sur render of the flooded land in 1929 and the deprivation in 1929 of the 
+funds that ought to have been paid had Canada taken and exercised the r ight to flood 
+the reserve land” (para.  59 (emphasis in original) ). 
+[172]  As a fiduciary, Canada was arguably required to pursue a negotiated 
+surrender before proceeding to expropriation, as the former more closely aligns with 
+the nature of the breach and probably would have been less detrimental to LSFN. 
+However, it does not necessarily f ollow that the lost opportunity to ne gotiate a 
+surrender of the lands to be flooded equates to a los t opportunity to negotiate a 
+surrender of th ose lands for hydroelectricity generation . In my view, th e majority’s   
+ characterization presupposes that the trial judge had the requisite factual bas is to make 
+such a  finding. It is clear from the record that he did not.  
+[173]  For the appellants to recover the value of a lost opportunity to negotiate a 
+surrender for hydroelectric benefits specifically, they would have had to establish their 
+entitlement through specific facts and evidence, including expert evidence, led at trial. 
+They did not do so. As noted by the majority, the appellants’ theory of compensation 
+has changed during this litigation. At trial, the appellants’ theory, and their expert 
+valuat ion evidence, were focused on their revenue -sharing claims. They did not provide 
+evidence regarding a one -time payment for the flooded lands for hydroelectric 
+purposes, and chose to limit themselves to criticizing Canada’s expert valuation. 
+Therefore, the trial judge was correct to find that the argument that Canada could, and 
+should, have paid more than fair market value for the lands was “nothing more than 
+optimistic speculation” (para.  383).  
+[174]  The value of the compensation that Canada should have negotiate d for 
+LSFN cannot be assessed in an evidentiary or factual vacuum. As I explain below, the 
+trial judge determined the compensation for the flooded lands in 1929  based on a 
+“meticulous examination of the facts” ( Hodgkinson v. Simms , [1994] 3 S.C.R. 377, at 
+pp. 413-14, quoting National Westminster Bank plc v. Morgan , [1985] 1 All E.R. 821 
+(H.L.), at p.  831). I find no palpable and overriding error.   
+B. The Trial Judge’s Findings Are Not Tainted by Error   
+ [175]  The trial judge’s findings regar ding what would have actually happened in 
+1929 had Canad a not breached its duty to the a ppellants are factual determin ations, not 
+legal ones. They were  based entirely on the evidence before him, including a lengthy 
+historical record and numerous expert rep orts. As I outline below, I am of the view that 
+the trial judge made no palpable and overriding error in his compensation assessment, 
+and therefore deference is owed to his determination that $1.29 per acre in 1929  dollars 
+was t he proper compensation for t he appellants’ flooded land s. 
+(1) Kananaskis Project Example  
+[176]  The majority takes issue with the trial judge’s assessment and ultimate 
+rejection of the evidence from the Kananaskis Project agreements. In the majority’s 
+view, that evidence was relevant to the ass essment of loss in this case, and the factor 
+used by the trial judge to distinguish this example is not material.  
+[177]  First, it is important to identify what evidence was actually proffered on 
+this point. There was minimal discussion of this example in the rec ord. The extent of 
+our knowledge is from the expert report addendum and testimony of 
+Gwynneth  C. D. Jones and a brief response to Ms.  Jones’ addendum in 
+Dr. Betsey  Baldwin’s expert report. In her addendum, Ms.  Jones discussed the process 
+used to deal with the interests of the Stoney Indian Band in the course of the 
+development of three hydroelectric power sites on the Bow River, including 
+Kananaskis Falls. She outlined the specific instructions given by the Department of 
+Indian Affairs to Calgary Power, the  dam’s proponent, to negotiate a resolution with  
+ the Stoney Indian Band that resulted in a payment for the flooded lands in excess of 
+their value as agricultural lands. In response to Ms.  Jones’ addendum, Dr.  Baldwin 
+identified that Ms.  Jones did not provi de any comparison with the Lac Seul situation. 
+Dr. Baldwin’s response noted two overarching differences: the hydro developments 
+were differently situated in relation to the reserves and water -power in Ontario and 
+Alberta was differently administered (B.  Baldwin, A History of the Lac Seul Storage 
+Project, Flooding on the Lac Seul Indian Reserve No.  28, and Related Compensation 
+to the Lac Seul Band, 1873 to 1943 , April  30, 2014, at p.  202, reproduced in 
+A.R.  Supp., vol.  CCXXXIX, at p.  305).  
+[178]  In her testimony, Ms. Jones summarized the differences between what 
+happened at Lac Seul and what happened at Kananaskis Falls as follows:  
+Well the most salient difference of course is the extent to which the 
+Indian people were consulted. And not just consulted, but were as ked to 
+give formal consent to the arrangements, to give consent to the taking of 
+their reserve lands for the power sites, but also for the land to be flooded 
+by the power site. The difference in the valuations of the land comments 
+that it should be valued in terms of its value to the Stoney and also in terms 
+of its value to the power site. In other words, that its value was intimately 
+tied up with the fact that it was going to be part of what was necessary to 
+generate revenue and power from these sites.  
+ 
+Of course, the issue of heavy annual payments which would be made, 
+as well as this upfront payment. In other words, that the Stoney people were 
+to be offered a toll or dues on the power that was generated by the private 
+company as a result of their being  — the private companies being able to 
+flood Indian reserve land; that’s a salient difference. And of course, just 
+the difference in relationship of the Department of Indian Affairs and even 
+the Water Pow er Branch in these cases.  
+ 
+(A.R. Supp., vol.  V, at pp.  69-70)  
+ [179]  Additionally, Ms.  Jones noted that in the Kananaskis Project, there was an 
+agreement between the Department of the Interior and Calgary Power that the 
+“company will have the power to acquire and take [lands] for the purposes of its 
+undertaking, esse ntially, powers the same as those conferred by the Railway Act on 
+railway companies” (A.R. Supp., vol.  V, at p.  93), even though no formal expropriation 
+occurred.  
+[180]  While noting that there may be a basis upon which to distinguish this 
+evidence as it relates to the valuation of the loss, the majority finds that “[t]he trial 
+judge should have considered the Kananaskis Falls Projects and other evidence 
+available at trial as relevant proxies for what [the] premium was worth” (para.  143). 
+[181]  With respect, the majorit y’s analysis of this evidence seems to stray from 
+the settled standards of appellate review and instead focuses on how the trial judge 
+ought to have undertaken an assessment of the evidence. That is not this Court’s role. 
+We must not reconsider the evidenc e globally and reach our own conclusions; our role 
+is to ensure that there is no error in principle or overriding and palpable error in the trial 
+judge’s conclusions.  
+[182]  I am in agreement with the majority of the Court of Appeal that the limited 
+evidence prof fered at trial  concerning  the Kananaskis Project does not substantiate a 
+finding  that the trial judge made a palpable and overriding error in refusing to grant the 
+appellants a sum in excess of the fair market value of $1.29 per acre. The trial judge’s 
+determination regarding the compara bility of the Kananaskis P roject and the Lac Seul  
+ situation is a factual determination. Based on his review of the evidence and Ms.  Jones’ 
+testimony, he found that the Kananaskis Project could be distinguished in at least on e 
+material respect: there was no ability to expropriate, and therefore “Calgary Power vis -
+à-vis the Stoney Indian Band [was] in an entirely different position than Canada was 
+vis-à-vis LSFN Reserve” (para.  382).  
+[183]  The record before us provides no evidence a s to why Canada was not in a 
+position to utilize its expropriation powers for the Kananaskis Project, and thus it is 
+simply speculation to conclude that Canada’s differing approach in that matter leads, 
+per se , to the conclusion that it breached its duty t owards the appellants in this case. It 
+may be, as the majority of the Court of Appeal noted, “that the fact that the Kananaskis 
+Project was located on the reserve led Indian Affairs to take the view that the Band’s 
+land had a fair market value much greater  than its agricultural value, resulting in a 
+payment of approximately $93.85 per acre of reserve land” (para.  138). It may also be, 
+as the majority in this Court identifies, that a fundamental difference between the two 
+projects is that in the Kananaskis P roject, the compensation included a one -time 
+payment plus an annual water power rental payment.  
+[184]  While my colleagues in the majority acknowledge that “[i]t is up to the trial 
+judge to assess how the differences in the location of the dam, or the amount of land 
+involved, or the nature of the impact on the First Nation, would impact the value of the 
+land for flooding purposes” (para.  138), they insist that “[t]he trial judge should have 
+considered the Kananaskis Falls Projects and other evidence available at trial as  
+ relevant proxies for what [the] premium was worth” (para.  143). The majority’s 
+reconsideration of evidence to reach its own conclusions is not a basis for overturning 
+the fact -finder’s findings. While there may be a possibility of alternative find ings based 
+on differing ascriptions of weight, the trial judge’s finding that the Kananaskis Project 
+was not a relevant proxy was supported by the limited evidence before him. The trial 
+judge therefore cannot be said to have made a palpable and overriding error in 
+distinguishing the Kananaskis Project.  
+(2) Impact on the Community and LSFN’s Perspective  
+[185]  The majority further critiques the trial judge’s reasoning by noting that he 
+ought to have given “appropriate weight to the evidence regarding the impact on the 
+community  and . . . LSFN’s perspective ” (para.  140). These two points relate to 
+profound losses not susceptible of mathematical calculation. I am of the view that the 
+trial judge appropriately acknowledged and incorporated the impact on the community 
+and L SFN’s perspective in his non -calculable loss analysis. I see no error here either.  
+[186]  It is important to note that the trial judge’s valuation at $1.29 per acre is 
+not the total valuation of the lands. It is simply the value of the lands as agricultural 
+lands , based on the accepted expert evidence. The trial judge subsequently valued other 
+calculable and non -calculable losses in order to arrive at his final conclusion. The 
+$16.2  million he awarded as compensation for non -calculable losses was influenced by 
+a number of factors:   
+ 1. The amount of the calculable losses;  
+ 
+2. That many of the non -quantifiable losses created in 1929 persisted over 
+decades, and some are still continuing ; 
+ 
+3. The failure to remove the timber from the foreshore created an eyesore 
+and impacted the  natural beauty of the Reserve land ; 
+ 
+4. The failure to remove timber from the foreshore also created a very 
+long-term water hazard effecting travel and fishing for members of the 
+LSFN ; 
+ 
+5. The flooding negatively affected hunting and trapping requiring 
+members to travel further to engage in these pursuits and the number 
+of animals were reduced for some period as a result of the flooding ; 
+ 
+6. Although Canada supplied the materials to build the replacement 
+houses, the LSFN members supplied their own labour ; 
+ 
+7. The LSFN  docks and other outbuildings were not replaced ; 
+ 
+8. LSFN hay land, gardens and rice fields were destroyed ; 
+ 
+9. The hunting and trapping grounds on the Reserve were negatively 
+impacted;  
+ 
+10. Two LSFN communities were separated by water and one became an 
+island, impa cting the ease of movement of the people who lived there ; 
+ 
+11. Canada failed to keep the LSFN informed and never consulted with the 
+band on any of the flood related matters that affected it, creating 
+uncertainty and, doubtless, some anxiety for the band; and  
+ 
+12. Canada failed to act in a prompt and effective manner to deal with 
+compensation with the LSFN prior to the flooding and did not do so 
+for many years after the flooding, despite being aware of the negative 
+impact on the band members . [para.  512] 
+It is the t otal equitable compensation, not simply the $1.29 per acre figure, which 
+ensures that the appellants are  compensated for the value of the land s given the nature 
+of their interest and the impact on LSFN.   
+ [187]  When the compensation analysis is viewed in this way , it is clear that the 
+trial judge’s inclusion of a robust non -calculable loss analysis allowed him to 
+meaningfully consider the impact of the flooding on LSFN, such as the negative impact 
+on hunting and trapping, hayland, gardens, and rice fields, includi ng off -reserve losses.  
+C. Concluding Remarks  
+[188]  As outlined above, I have found that the trial judge’s equitable 
+compensation analysis does not contain any reviewable errors and that neither of the 
+points raised by the majority provides any basis for interfering  with his judgment. 
+Nonetheless, some concluding remarks are in order.  
+[189]  While I agree with the majority that the appellants’ strategic decision to 
+change their theory of compensation during this litigation is not a bar to addressing the 
+merits of this appea l, a reconsideration of the merits must take place within the 
+appropriate scope of appellate review and must take into account the evidence  — or 
+lack thereof  — adduced at trial. In this case, the appellants’ position, and hence their 
+strategy at trial, was  that compensation for their flooded lands ought to have included 
+the value of a revenue -sharing agreement. The evidence introduced at trial was to this 
+effect. The appellants were seemingly content with attacking Canada’s expert valuation 
+of their lands a nd did not introduce any expert evidence regarding the fair market value 
+of the lands or any premium that ought to have been paid in relation to the use of the 
+lands for hydroelectric purposes.   
+ [190]  Despite the appellants’ focus on their revenue -sharing claims and the fact 
+that their “loss of use ” valuation  expert  was found not to be credible, the trial judge 
+nevertheless undertook a thorough review of all of the evidence adduced by the parties, 
+rejected Canada’s submission that the value of the lands should be $1.00 per acre, found 
+that $1.29 per acre was the proper compensation for the flooded reserve lands, and 
+subsequently awarded over $16  million in additional compensation for the non -
+calculable losses suffered by LSFN.  
+[191]  I find that the majority’s reasons see k to impose a greater obligation on a 
+trial judge than the law demands. The trial judge had a daunting task. This trial lasted  
+56 days, and all but 2 of the 24 witnesses called were expert witnesses. He had to 
+resolve a myriad of difficult factual question s by examining  a voluminous factual 
+record consisting of 8,3 47 documents entered as exhibits and thousands  of pages of 
+expert reports. The majority r eturns  the award of equitable compensation for 
+reassessment based on an alternative valuation methodology that is currently 
+unsupported by the trial record. It is wrong to fault the trial judge for accepting the sole 
+evidence proffered on the value of the flooded land s without pointing to any palpable 
+and overriding error in his analysis. I could not say it be tter than Justice Wilson in 
+Guerin : the trial judge “‘did the best he could’” .  
+[192]  The a ppellants must bear the consequences of their tactical choice to 
+advance a predominant  theory of the case based on revenue -sharing claim s. In 
+retrospect , it may have been a more appr opriate trial strategy for the a ppellants to  
+ present, alongside their revenue -sharing claim s, fulsome expert evidence on the value 
+of the flooded reserve lands in the event that compensation was awarded  as a one -time 
+payment , including a premium  based on the usefulness of the lands for hydroelectric 
+purposes. The a ppellants are responsible for the ramifications of their trial strategy, 
+even though they have changed tack on appeal.  
+[193]  Returning the award of equitable compensation for reassessment, w hich 
+will inevitably require additional discovery and historical and valuation expert 
+evidence, would permit  the appellants to repair the deficiencies in their case and 
+forward their new theory of the case de novo . Absent any reviewable error, and I have 
+found none, this is not  the proper role of appellate intervention.  
+IV. Conclusion  
+[194]  The trial judge reviewed,  analyzed , and weighed the evidence before him. 
+Based on the record, he was entitled to find that the argument that Canada could, and 
+should, have paid m ore than fair market value for the reserve lands was “nothing more 
+than optimistic speculation”.  As the trial judge did not commit any errors in principle, 
+his compensation assessment “is entitled to considerable deference on appeal” 
+(Whitefish , at para.  28). I would accord the trial judge this considerable deference and 
+would not disturb his findings and conclusions. I would therefore dismiss the appeal  
+with costs throughout.  
+  
+  Appeal allowed with costs throughout, CÔTÉ J. dissenting.  
+ Solicitors  for the appellant s: Mandell Pinder, Vancouver.  
+ Solicitor for the respondent : Attorney General of Canada, Ottawa.  
+ Solicitor for the intervener the Attorney General of 
+Saskatchewan : Attorney General of Saskatchewan, Regina.  
+ Solicitors  for the intervener the Assembly of Manitoba  Chiefs : Fox Fraser, 
+Calgary.  
+ Solicitors  for the intervener the Tseshaht First Nation : DGW Law 
+Corporation , Victoria.  
+ Solicitors  for the intervener Manitob a Keewatinowi Okimakanak 
+Inc.: Olthuis, Kleer, Townshend , Toronto.  
+ Solicit ors for the intervener the Treaty Land Entitleme nt Committee of 
+Manitoba Inc. : Duboff Edwards Haight & Schachter Law Corporation, Winnipeg.  
+ Solicitors  for the intervener  the Anishinabek Nation : Westaway Law 
+Group, Ottawa.   
+  Solicitors  for the intervener the Wauzhushk Onigum Nation : David Garth 
+Leitch Professional Corporation, Toronto.  
+ Solicitors  for the intervener s the  Big Grassy First Nation,  the Onigaming 
+First Nation, the Naotkamegwanning First Nation and  the Niisaachewan First 
+Nation : Donald R. Colbo rne Barrister & Solicitor , Victoria.  
+ Solicitors  for the intervener s the  Coalition of the Union of British 
+Columbia Indian Chiefs,  the Penticton Indian Band and the Williams Lake First 
+Nation : Mandell Pinder, Vancouver.  
+ Solicitors  for the intervener the Federation of  Sovereign Indigenous 
+Nations : Maurice Law, Calgary.  
+ Solicitors  for the intervener the Atikameks heng Anishnawbek First 
+Nation : Maurice Law, Calgary.  
+ Solicitors  for the intervener  the Kwantle n First Nation : JFK Law 
+Corporation, Vancouver.  
+ Solicitor  for the intervener  the Assembly of First Nations : Assembly of 
+First Nations, Ottawa.   
+  Solicitors  for the intervener  the Assembly of First Nations 
+Quebec -Labr ador : Cain Lamarre , Roberval , Que. 
+ Solicitors  for the intervener  the Grand Council Treat y #3: First Peoples 
+Law Corporation , Vancouver.  
+ Solicitor  for the intervener the Mohawk Council of Kahnawà:ke : Mohawk 
+Council of Kahnawà:ke  Legal Services , Mohawk Territory of Kahnawà:ke , Que . 
+ Solicitors  for the intervener  the Elsipogtog First Nation : Semaganis 
+Worme Lombard, Saskatoon.  
+ Solicitors  for the intervener the Chemawawin Cree Nation : Arvay Finlay , 
+Victoria.  
+ Solicitors  for the intervener  the West Moberly First Nations : Camp 
+Fiorante Matthews Mogerman, Vancouver.  

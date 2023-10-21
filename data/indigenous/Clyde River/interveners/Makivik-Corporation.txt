@@ -1,0 +1,1441 @@
+Court File No.: 36692 
+ 
+IN THE SUPREME COURT OF CANADA  
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL)  
+ 
+BETWEEN:  
+ 
+HAMLET OF CLYDE RIVER, NAMMAUTAUQ HUNTERS & TRAPPERS 
+ORGANIZATION – CLYDE RIVER, and JERRY NATANINE  
+ 
+Appellants 
+- and - 
+ 
+TGS-NOPEC GEOPHYSICAL COMPANY ASA (TGS), PETROLEUM GEO -SERVICES 
+INC. (PGS), MULTI KLIENT INVEST AS (MKI)  
+ 
+- and - 
+ 
+THE ATTORNEY GENERAL OF CANADA  
+Respondents 
+- and - 
+ 
+NUNAVUT TUNNGAVIK INCORPORATED, ATTORNEY GENERAL FOR ONTARIO,  
+ATTORNEY GENERAL FOR SASKATCHEWAN, MAKIVIK CORPORATION,  
+NUNAVUT WILDLIFE MANAGEMENT BOARD,  INUVIALUIT REGIONAL 
+CORPORATION, and CHIEFS OF ONTARIO  
+Intervener s 
+ 
+ 
+FACTUM OF THE INTERVENER  MAKIVIK CORPORATION  
+ 
+ 
+DIONNE SCHULZE  SENC 
+507 Place d’Armes , Suite 502 
+Montréal, Quebec  H2Y 2W8  
+Telephone: (514) 842-0748 Facsimile: (514) 842-9883 E-mail: dschulze@dionneschulze.ca  
+ Attention: David Schulze 
+                  Nicholas Dodd  Counsel for the Intervener Makivik Corporation 
+ POWER LAW  
+130 Albert Street, Suite 1103 Ottawa, Ontario   K1P 5G4 
+Telephone: (613) 702-5563 Facsimile: (613) 702-5563 E-mail: dtaylor@powerlaw.ca  
+ Attention: David Taylor 
+  Agent for the Intervener Makivik Corporation TO:  
+ 
+THE REGISTRAR  
+Supreme Court of Canada 301 Wellington Street Ottawa, ON K1A 0J1  
+ 
+AND TO:  
+ 
+STOCKWOODS LLP 
+TD North Tower  
+77 King Street West, Suite 4130 
+Toronto-Dominion Centre Toronto, Ontario  M5K 1H1 Telephone: (416) 593-1668 Facsimile: (416) 593-9345 E-mail: naderh@stockwoods.ca  Attention:  Nader R. Hasan  
+                   Justin Safayeni                    Pam Hrick  
+ 
+Counsel for the Appellants   
+POWER LAW  
+130 Albert Street Suite 1103 Ottawa, Ontario  
+K1P 5G4 
+Telephone: (613) 702-5563 Facsimile: (613) 702-5563 E-mail: dtaylor@powerlaw.ca  
+ Attention: David Taylor 
+   
+Agent for the Appellants  
+ 
+BLAKE, CASSELS & GRAYDON, LLP 
+Suite 3500, Bankers Hall East Tower 855-2nd St. S.W. Calgary, Alberta  
+T2P 4J8 Telephone: (403) 260-9600 Facsimile (403) 260-9700 E-mail: sandy.carpenter@blakes.com  
+ Attention: A. (Sandy) W. Carpenter  
+                  Ian Breneman  
+ 
+Counsel for the Respondents PGS, MKI and 
+TGS  
+BLAKE, CASSELS & GRAYDON, LLP 
+Suite 3500, Bankers Hall East Tower  
+855-2nd St. S.W. Calgary, Alberta  
+T2P 4J8 Telephone: (613) 788-2218 Facsimile: (613) 788-2247 E-mail: nancy.brooks@blakes.com  Attention: Nancy K. Brooks 
+  
+Agent for the Respondents PGS, MKI and 
+TGS  
+ ATTORNEY GENERAL OF CANADA  
+Department of  Justice Canada  
+Northern Regional Office 
+P.O. Box 2052, 5019 - 52nd Street  2nd Floor, Nova Plaza Building Yellowknife, Northwest Territories, X1A 2P5 Telephone: (867) 920-6001 Facsimile: (807) 920-6025 E-mail: afox@justice.gc.ca  
+ Attention: Andrew E. Fox 
+                  Donna Keats  
+Counsel for the Respondent  the Attorney 
+General of Canada  ATTORNEY GENERAL OF CANADA  
+Suite 500, Room 557 50 O'Connor Street,  Ottawa, Ontario  
+K1A 0H8  
+Telephone: (613) 670-6290 Facsimile: (613) 954-1920 E-mail: christopher.rupar@justice.gc.ca    Attention: Christopher Rupar 
+  
+Agent for the Respondent the Attorney 
+General of Canada  
+ 
+ATTORNEY GENERAL FOR ONTARIO  
+720 Bay Street 8
+th Floor 
+Toronto, Ontario, M7A 2S9 Telephone: (416) 314-2177 Facsimile: (416) 3 26-4181 
+E-mail: manizeh.fancy@ontario.ca 
+ Attention: Manizeh Fancy  
+                  Richard Ogden  
+Counsel for the Intervener the Attorney 
+General for Ontario   
+BURKE-ROBERTSON  
+441 MacLaren Street  
+Suite 200 Ottawa, Ontario, K2P 2H3 Telephone: (613) 236-9665 Facsimile: (613) 235-4430 E-mail: rhouston@burkerobertson.com 
+ Attention: Robert E. Houston, Q.C. 
+  
+Agent for the Intervener the Attorney 
+General for Ontario  
+ 
+ATTORNEY GENERAL FOR SASKATCHEWAN Constitutional Law Branch, 8
+th Floor 
+820, 1874 Scarth Street  
+Regina, Saskatchewan, S4P 4B3  
+Telephone: (306) 787-7886 Facsimile: (306) 787-9111 E-mail: james.fyfe@gov.sk.ca 
+ Attention: Richard James Fyfe  
+ 
+Counsel for the Intervener the Attorney 
+General for Saskatchewan  
+  
+GOWLING WLG (CANADA) INC.  
+160 Elgin Street  
+Suite 2600 Ottawa, Ontario  
+K1P 1C3 Telephone: (613) 786-8695 Facsimile: (613) 788-3509 E-mail: lynne.watt@gowlingwlg.com  
+ Attention: D. Lynne Watt 
+ Agent for the Intervener the Attorney 
+General for Saskatchewan  
+ 
+   
+2 SUPREME ADVOCACY LLP 
+100-340 Gilmour Street 
+Ottawa, Ontario, K2P 0R3 Telephone: (613) 695-8855 Ext 101 Facsimile: (613) 698-8580 E-mail: emeehan@supremeadvocacy.ca  
+ Attention: Eugene Meehan, Q.C.  
+ 
+Counsel for the Intervener the Nunavut 
+Wildlife Management Board 
+ SUPREME ADVOCACY, LLP 
+100-340 Gilmour Street 
+Ottawa, Ontario   K2P 0R3 
+Telephone: (613) 695-8855 Ext 102 Facsimile: (613) 698-8580 E-mail: mfmajor@supremeadvocacy.ca 
+ Attention: Marie -France Major  
+ Agent for the Intervener the Nunavut 
+Wildlife Management Board  
+ 
+ 
+INUVIALUIT REGIONAL CORPORATION  
+OLTHUIS, KLEER, TOWNSHEND LLP 
+107 MacKenzie Road  
+Inuvik, Northwest Territories,  X0E 0T0 Telephone: (867) 777-7077 Facsimile: (877) 289-2389 E-mail: kdarling@inuvialuit.com 
+ lland@oktlaw.com 
+ Attention: Kate Darling  
+                  Lorraine Land  
+ 
+Counsel for the Intervener Inuvialuit 
+Regional Corporation   
+SUPREME ADVOCACY, LLP 
+100-340 Gilmour Street Ottawa, Ontario  
+K2P 0R3 Telephone: (613) 695-8855 Ext 102 Facsimile: (613) 698-8580 E-mail: mfmajor@supremeadvocacy.ca 
+ Attention: Marie-France Major  
+  Agent for the Inte rvener Inuvialuit Regional 
+Corporation 
+ 
+GOWLING WLG (CANADA) INC.  
+2600-160 Elgin Street P.O. Box 466, Station D Ottawa, Ontario  K1P 1C3 Telephone : (613) 233-1781 
+Facsimile: (613) 563-9869 
+E-mail: maxime.faille@gowling.com  
+ Attention: Maxime Faille  
+                  Jamie Lickers  
+ 
+Counsel for the Intervener Chiefs of 
+Ontario 
+ GOWLING WLG (CANADA)  INC. 
+2600-160 Elgin Street P.O. Box 466, Station D Ottawa, Ontario   K1P 1C3 
+Telephone : (613) 233-1781 
+Facsimile: (613) 563-9869 
+E-mail: maxime.faille@gowling.com  
+ Attention: Guy Régimbald  
+  Agent for the Intervener Chiefs of Ontario  
+3 WOODWARD AND COMPANY  
+Barristers and Solicitors  
+#200-1022 Government Street 
+Victoria, BC V8W 1X7 Telephone: (250) 383-2356 
+Facsimile: (250) 380-6560 
+Email: dominique@woodwardandcompany.com  Attention: Dominique Nouvet 
+ 
+Counsel for the Intervener 
+Nunavut Tunngavik Incorporated  MICHAEL SOBKIN  
+Barrister And Solicitor  
+331 Somerset Street W.  
+Ottawa, Ontario   
+K2P 0J7 
+Telephone: (613) 282-1712  
+Facsimile: (613) 288-2896 Email:msobkin@s ympatico. ca 
+   Agent for the Intervener  
+Nunavut Tunngavik Incorporated  
+  
+ PART I. ........................................................................................................................................... 1 
+A. Overview  .............................................................................................................................. 1 
+B. The facts ............................................................................................................................... 1 
+PART II. Questions in issue ..................................................................................................... 2 
+PART III.  Statement of argument  .............................................................................................. 2 
+A. Inuit rights are modern treaty rights ..................................................................................... 2 
+1. The challenge of reconciliation  ........................................................................................ 2 
+2. Taking modern treaty rights to harvest wildlife seriously ............................................... 3 
+a) Inuit rights under the Nunavut Land Claims Agreement ............................................. 3 
+b) The Crown’s implicit promise to protect wildlife  ........................................................ 4 
+3. The Crown’s international law obligations ...................................................................... 5 
+B. The regulatory framework makes Inuit rights an after-thought ........................................... 5 
+C. The consultation process was inadequate ............................................................................ 6 
+1. No Crown consultation and no accommodation actually occurred ................................. 6 
+2. The standard of review is correctness  .............................................................................. 6 
+3. The NEB’s decision did not consider Inuit treaty rights  .................................................. 7 
+D. What an adequate process would include ............................................................................ 8 
+1. The purpose of consultation and accommodation ............................................................ 8 2. Consultation that takes Inuit rights seriously ................................................................... 8 
+a) Wildlife protection as the starting point  ....................................................................... 8 
+b) The minimum content ................................................................................................... 8 
+c) The effect on the oil and gas regime  ............................................................................. 9 
+E. The NEB’s remaining duties  .............................................................................................. 10 
+PART IV.  Costs ........................................................................................................................ 10 
+PART V.  Order sought ............................................................................................................... 10  
+ PART I.   
+A. Overview  
+1. This intervention makes the following points: 
+a. this case is about Inuit rights, which require a special analysis because all Inuit rights 
+protected by s. 35 of the Constitution Act, 1982, are modern treaty rights;  
+b. wildlife harvesting rights under modern treaties are defined and  known to the Crown and 
+include an implicit obligation to protect the habitat that make s the harvesting possible  – 
+that is the proper subject of Inuit consultation and accommodation; 
+c. the standard of review matters because adequate consultation and accommodation is 
+impossible witho ut the correct process: the National Energy Board  (NEB) is not the right 
+process and modern treaty rights require the same consideration from a statutory 
+decision-maker as Charter rights; 
+d. the oil and gas regime in Arctic waters  takes development for granted and adds Inuit 
+consultation as an afterthought : the honour of the Crown requires more. 
+B. The facts  
+2. The Intervener Makivik Corporation is the representative of the Inuit of Nunavik 
+(Northern Quebec) both under Canada’s first modern treaty, the James Bay and Northern 
+Quebec Agreement  (JBNQA), signed in 1975, and also under the Nunavik Inuit Land Claims 
+Agreement (NILCA), signed in 2006. NILCA addressed Nunavik Inuit rights in the offshore, 
+including waters adjacent to marine areas under the Nunavut Land Claims Agreement  (NLCA) at 
+issue in this case  and recognized harvesting rights very similar to those under the N LCA. 
+3. The following propositions, which are not in dispute, frame Makivik’s submissions: 
+a. the Crown was obliged to consult the Inuit about the offshore seismic testing at issue, separately from the impact review provisions of the NLCA, which were held not to apply to this project;
+1 
+b. the Inuit were entitled to “deep consultation” because the Crown admitted to the potential adverse effects on their treaty right under the NLCA to harvest migratory marine 
+mammals that move through the testing area , such as the bowhead whale;2 
+c. the Inuit were also entitled to accommodation, which include s the possibility “to alter the 
+                                                           
+1 A.R., Vol.  1, Tab 1, p. 12 (EA Report, section 2.0). 
+2 Hamlet of Clyde River v. TGS -NOPEC Geophysical Company ASA (TGS) , 2015 FCA 179, para. 2, 73, 74.   
+2 original proposal.”3 
+4. As the Nunavut Court of Justice found in another case concerning seismic testing  in the 
+waters off the Qikiqtani region , which includes  Clyde River : 
+ The Inuit right which is of concern in this matter is the right to harvest marine 
+mammals.  Many Inuit in Nunavut rely on country food for the majority of their diet. 
+Food costs are very high and many would be unable to purchase food to replace country 
+food if country food were unavailable. Country food is recognized as being of higher 
+nutritional value than purchased food. But the inability to harvest marine mammals 
+would impact more than the just the diet of Inuit. The cultural tradition of sharing country food with others in the community would be lost. The opportunity to make traditional 
+clothing would be impacted. The opportunity to participate in the hunt, an activity which 
+is fundamental to being Inuk, would be lost. The Inuit ri ght which is at stake is of high 
+significance. This suggests a significant level of consultation and accommodation is 
+required.4 
+5. The court therefore granted an injunction against the federal government’s authorization  
+of seismic testing, relying on scientific evidence of “significant impacts on marine mammals” 
+and Inuit hunters’ testimony about how previous tests disrupted the mam mals’ migration .5 
+PART II.  Questions in issue  
+6. The questions in issue are whether the Inuit were adequately consulted and whether their 
+rights were accommodated by the Crown, within the regulatory regime.  
+PART III.  Statement of argument 
+A. Inuit rights  are modern treaty rights  
+1. The challenge of reconciliation  
+7. This case must be analyzed in the Inuit context: their  situation differs from that of other 
+Aboriginal peoples  because most Inuit rights protected by s. 35 of the Constitution Act, 1982, 
+now take the for m of modern treaty rights .6 Since the Nunavik Inuit first negotiated the JBNQA 
+in 1975, Inuit land claims  from the western Arctic in the Northwest Territories to Labrador  have 
+become the subject of final agreements .7 
+8. As a result, w hen the Inuit  seek consultation and accommodation, the y are not in the 
+                                                           
+3 Hamlet of Clyde River, para. 97, 100; Haida Nation v. British Columbia (Minister of Forests),  2004 SCC 73, 
+para. 46. 
+4 Qikiqtani Inuit Association v. Canada (Minister of Natural Resources) , 2010 NUCJ 12, para. 25 (emphasis 
+added).  
+5 Id., para. 43-44.  
+6 Excluding those of mixed Inuit and European descent in southern Labrador: Nalcor Energy v. NunatuKavut 
+Community Council Inc. , 2012 CanLII 73234 (NL SCTD), para. 2.  
+7 James Bay and Northern Quebec Native Claims Settlement Act , SC 1976- 77, c 32; Western A rctic (Inuvialuit) 
+Claims Settlement Act, SC 1984, c 24; Nunavut Land Claims Agreement Act , SC 1993, c 29; Labrador Inuit Land 
+Claims Agreement Act , SC 2005, c 27;  Nunavik Inuit Land Claims Agreement Act , SC 2008, c 2.   
+3 classic Haida situation: they are not  advancing claims whose prima facie strength must be 
+assessed or interests that must be preserved pending final resolution of their claims8, but instead 
+seeking to ensure their recognized  treaty rights are respected . 
+9. The purpose of consultation is always reconciliation , but under a land claims agreement, 
+reconciliation means building “a positive long -term relationship” through “thoughtf ul 
+administration of the treaty. ”9 The Truth and Reconciliation Commission called for renewing 
+and maintaining treaty relationships “based on principles of mutual recognition, mutual respect, 
+and shared responsibility for maintaining those relationships into the future .”10 If that 
+recommendat ion is to have any meaning for the Inuit, it must apply to Crown  conduct under their 
+modern treaties . 
+2. Taking modern treaty rights to harvest wildlife seriously  
+a) Inuit rights under the Nunavut Land Claims Agreement  
+10. The NLCA  has four objectives, but oil and gas development is not among them: 
+to provide for certainty and clarity of rights to ownership and use of lands and resources, 
+and of rights for Inuit to participate in decision-making concerning the use, management 
+and conservation of land, wat er and reso urces, including the offshore; 
+to provide Inuit with wildlife harvesting rights and rights to participate in decision -
+making concerning wildlife harvesting;  
+to provide Inuit with financial compensation and means of participating in economic 
+opportunities; 
+to encourage self- reliance and the cultural and social well -being of Inuit11 
+11. With respect to wildlife, the NLCA  sets out nine principles  that, when read together, 
+make clear that  there are only two qualification s to Inuit harvesting right s: “the principles of 
+conservation” and the relevant government’s “ultimate responsibility for wildlife management.”  
+The principles of conservation are defined as including “ the maintenance of vital, healthy, 
+wildlife populations capable of sustaining harvesting needs.”12 
+12. Under the NLCA, Nunavut Inuit are entitled to the  full total allowable harvest of certain 
+species, including the bowhead whale, to the exclusion of all other possible users . Similarly, 
+under the NILCA, the Inuit represented by Makivik are entitled to the to tal allowable harvest of 
+                                                           
+8 Haida Nation v. British Columbia ( Minister of Forests),  2004 SCC 73, para. 36, 77.  
+9 Beckman v. Little Salmon/Carmacks First Nation , 2010 SCC 53, para.  10. 
+10 Truth and Reconciliation Commission of Canada (TRC) , Honouring the Truth, Reconciling for the Future: 
+Summary of the Final Report  (Montreal: McGill- Queen’s University Press, 2015), p p. 252-253, Call to Action 45 
+(iii). 
+11 NLCA, Preamble.  
+12 NLCA, Sections 5.1.2, 5.1.5.   
+4 certain species in the adjacent waters between Québec and Nunavut , such as the beluga whale.13 
+b) The Crown’s implicit promise to protect wildlife 
+13. Before the Constitution Act, 1982, it was possible for Parliament to adopt legislation 
+forbidding the very same wildlife harvesting that the Crown had promised to an Aboriginal 
+people as their treaty right.14 While such a result is now prevented by s. 35,15 even a 
+constitutionally -protected right to harvest will prove meaning less without the species itself.  
+14. Aboriginal people’s concern for wildlife, Dickson J.  held, is “the allocation of the 
+resource after reasonable and necessary conservation measures have been recognized and given 
+effect to. They do not claim the right to pursue the last living salmon until it is caught.”  This was 
+the basis for holding that  s. 35 rights  include a justification test for infringement.16 By the same 
+token, however, the Crown does not have the right  to let industry pursue oil and gas prospects 
+until the last square kilometer of the bowhead whale’s habitat has been disrupted. 
+15. Scholars have suggested the Crown has a positive obligation under historic treaties  to 
+ensure the viability of the wildlife First Natio ns have a right to harvest .17 In the United States , 
+courts have held that fishing rights under historic treaties include an implicit promise of habitat 
+protection sufficient “to ensure an adequate supply.”18 This result is consistent with the Canadian 
+“concept of implied rights to support the meaningful exercise of express rights granted to the 
+first nations ”.19  
+16. Modern treaties should be interpreted generously , this honourable Court held, not like a 
+commercial contract .20 The Crown’s statutory discretion to approve development in the Nunavut 
+offshore must therefore be subject to a duty to conserve the marine mammals that the treaty 
+guarantees the Inuit can harvest. This is the “sensible result that accords with the intent o f both 
+parties, though unexpressed,”21 because the parties to the NLCA could not have intended to give 
+the Crown license to render its own promises meaningless  by subsequent conduct. 
+                                                           
+13 NLCA, Sections 5.6.5;  NILCA, Section 5.3.7.  
+14 Sikyea v. The Queen , [1964] SCR 642.  
+15 R.v. Flett, [1989] 4 C.N.L.R. 128  (Man. Q.B.); leave to appeal denied (1990), [1991] 1 C.N.L.R. 140 (Man. C.A.).  
+16 Jack v. The Queen , [1980] 1 SCR 294, p. 313, as cited in R. v. Sparrow , [1990] 1 SCR 1075, p. 1115.  
+17 Shin Imai, “Treaty Lands and Crown Obligations: The ‘Tracts Taken Up’ Pr ovision”, (2001), 27 Queen's L.J. 1.  
+18 U.S. v. State of Washington, 827 F.3d 836 (2016) (U.S.C.A. 9th Cir.) (“the Culvert Case”), p. 31. This judgment is 
+part of the same long -running litigation over the Stevens Treaties that led to the “moderate livelihoo d” test that this 
+honourable Court later adopted in R. v. Marshall , [1999] 3 SCR 456. See: State of Washington v. Washington State 
+Commercial, Passenger, Fishing Vessel Association,  443 U.S. 658 (1979), p. 686, aff’g. U.S. v. State of 
+Washington,  384 F. Supp. 312 (1974) (the “Boldt decision”).  
+19 R. v. Marshall , para. 44. See also: Saanichton Marina Ltd. v. Claxton (1989), 57 DLR (4th) 161 (BCCA), para. 40.  
+20 Beckman v. Little Salmon/Carmacks First Nation , para. 10.  
+21 R. v. Marshall , para. 43.   
+5 3. The Crown’s international law obligations  
+17. Land claims agreements should also be interpreted in light of Canada’s obligations under 
+the rules and principles of customary and conventional international law because an Aboriginal 
+signatory to a modern treaty has a right to expect they will constrain Crown discretion.22 
+18. The rules relevant to this case include those in the Convention on the Conservation of 
+Biological Diversity , ratified a year before the NLCA: to implement environmental impact 
+assessment procedures and minimize significant impacts; to preserve species in their natural  
+surroundings and also ecosystems; to protect indigenous practices.23 The relevant principles 
+include “the wide application of the precautionary approach to the conservation, management and exploitation of marine resources”
+24 and “the importance of an ecosystem approach.”25 
+B. The regulatory framework  makes Inuit rights an after -thought 
+19. The Respondents will conduct  seismic testing  to identify drilling prospects ; industry will 
+use those prospe cts to identify parcels of ocean floor they will propose that the Minister of Indian 
+Affairs and Northern Development open for exploration, including drilling . If that exploration 
+results in a significant discovery, the Minister will grant a tenure that allows for production.26 
+20. Oil and gas  development in Arctic waters  therefore resembles a free entry mining  regime, 
+under which “the question of whether  … development may be inappropriate is not answered 
+upfront,” but assumed to be “the ‘best’ use of Crown land in almost all circumstances.”27 
+Scholars have long questioned w hether a free entry mining regime is compatible with Aboriginal 
+rights28 and the Yukon Court of Appeal held that creating mineral rights on Aboriginal lands for 
+claim-holders requires prior consultation with Aboriginal peoples.29 
+21. A review of the regulatory framework  for oil and gas in the Arctic offshore  concluded 
+                                                           
+22 114957 Canada Ltée (Spraytech, Société d’arrosage)  v. Hudson (Town) , 2001 SCC 40, para. 30; Baker v. Canada 
+(Minister of Citizenship and Immigration) , [1999] 2 SCR 817, para. 71.  
+23 United Nations Convention on the Conservation of Biological Diversity , C.T.S. 1993/24, art s. 8 (d), (j), 14. 
+24 Oceans Act , SC 1996, c 31, Preamble, tracking the language of United Nations General Assembly, Agreement for 
+the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982, 
+A/RES/54/32, 24 November 1999, Preamble.  
+25 Canadian Environmental Protection Act, 1999, SC 1999, c 33, Preamble, tracking the language of Report on the 
+work of the United Nations  Open-ended Informal Consultative Process on Oceans and the Law of the Sea at its 7th 
+meeting, UN Doc. A/ 61/156, 17 July 2006, Part B, para. 31.  
+26 Canada Petroleum Resources Act , RSC 1985, c 36 (2nd Supp.) (CPRA), ss. 14, 22, 28;  Louie Porta and Nigel 
+Bankes, Becoming Arctic -Ready: Policy Recommendations for Reforming Canada’s Approach to Licensing and 
+Regulating Offshore Oil and Gas in the Arctic  (Washington, D.C.: The Pew Environment Group, 2011), pp. 4-14. 
+27 Environmental Commissioner of Ontario, Reconciling Our Priorities: Annual Report 2006- 2007, p. 65.  
+28 Sébastien Grammond , Terms of Coexistence: Indigenous Peoples and Canadian Law  (Toronto: Carswell, 2013), 
+pp. 326 to 328; Sophie Thériault, “Repenser les fondements du régime minier québécois au regard de l’obligation de 
+la Couronne de consulter et d’accommoder les peuples autochtones” (2010), 6 McGill International Journal of 
+Sustainable Development Law and Policy  217. 
+29 Ross River Dena Council v. Government of Yukon, 2012 YKCA  14, para. 32, 38; 2013 CanLII 59890 (SCC).   
+6 Inuit are consulted only on specific activities , after the Crown has granted tenures to industry. It  
+recommended strategic environmental assessments and meaningful consultation with the Inuit , 
+before blocks of ocean floor are opened for exploration.30 
+22. The Appellants in fact requested a strategic environmental assessment before the seismic 
+testing was authorized, but the NEB held it lacks the power to carry one out .31 However, the 
+value of strategic environmental assessment before oil and gas development is widely 
+acknowledged .32 After the seismic testing, only two other activities will even  trigger 
+environmental assessment: drilling offshore exploratory wells or construction and operation of 
+offshore platforms for production.33  
+C. The consultation process was inadequate  
+1. No Crown consultation and no accommodation actually occurred  
+23. While the court below concluded the Crown could rely on the NEB “at least in part” to 
+meet its own duty to consult with Aboriginal peoples ,34 in the companion appeal, a different 
+panel unanimously concluded the NEB “is incapable of actually fulfilling the duty to consult.”35 
+24. The NEB is “a quasi-judicial forum to determine technical merit”36 and admits it cannot 
+consult any par ty directly .37 Moreover, the NEB does not have the remedial powers necessary to 
+accommodate Inuit rights,38 since it could not order a strategic environmental assessment.  
+2. The standard of review is correctness  
+25. This honourable Court held in Haida that “[t]he existence or extent of the duty to consult 
+or accommodate is a legal question ,” but that “[t]he process itself would likely fall to be 
+examined on a standard of reasonableness.”39 
+26. The court below interpreted this to mean that both the consultation process and its 
+                                                           
+30 Porta and Bankes, Becoming Arctic -Ready, pp. 6 to 8.  
+31 A.R., Vol. 1, Tab 1, p. 14 ( EA Report,  Section 3.2). 
+32 Porta and Bankes, Becoming Arctic- Ready, p. 5; Meinhard Doelle, N. Bankes, L. Porta, “Using Strategic 
+Environmental Assessments to Guide Oil and Gas Exploration Decisions in the Beaufort Sea: Lessons Learned from 
+Atlantic Canada,” CIRL Occasional Paper #39 (Calgary: Canadian Institute of Resources Law, 2012), pp. 1-3. 
+33 Canadian Environmental Assessment Act, 2012, SC 2012 ( CEAA, 2012 ), c 19, s s. 2(1), 13, 84(a); Regulations 
+Designating Physical Activities,  SOR/2012- 147, ss. 40, 41.  
+34 Hamlet of Clyde River , FCA, para. 65.  
+35 Chippewas of the Thames First Nation v. Enbridge Pipelines Inc. , 2015 FCA 222, para. 120.  
+36 Sonya Savage, Bill C-38 and the Evolution of the National Energy Board: The Changing Role of the National 
+Energy Board from 1959 to 2015 ( Calgary: Canadian Institute of Resources Law,  2016), p. 63.  
+37 NEB, “Consideration of Aboriginal Concerns in National Energy Board Decisions” (October 2011), A.R., 
+Vol. IV, Tab 59, p. 945; Morris Popowich, “ The National Energy Board as Intermediary between the Crown, 
+Aboriginal Peoples, and Industry,” (2006- 2007) 44 Alta. L. Rev. 837, p. 859.  
+38 Rio Tinto Alcan Inc.  v. Carrier Sekani Tribal Council , 2010 SCC 43, para. 60-62. 
+39 Haida Nation, para. 61.   
+7 adequacy are simply judged on a reasonableness standard.40 However, this honourable Court 
+held in Beckman that because a decision -maker is required to respect the limits that a modern 
+treaty places on its authority, “ [a] decision maker who proceeds on the basis of inadequate 
+consultation errs in law.”41 
+27. The threshold question of whether the NEB’s statutory process could adequately afford 
+the Inuit the deep consultation and accommodation they were entitled to by their treaty rights is a 
+legal question, to be judged on a standard of correctness. It is only if this question could be 
+answered in the affirmative that the NEB’s subsequent conduct would be  reviewed for 
+reasonableness . 
+3. The NEB’s decision did not consider Inuit treaty rights  
+28. The reasons for the NEB’s decision are in its environmental assessment  report, which 
+failed to mention either Inuit treaty rights or the Crown’s corresponding duties. The court below 
+held it was enough the decision considered “the potential impacts to traditional harvesting” and 
+held the NEB “knew” about Inuit rights, even without mentioning them .42 However a judicial 
+review court may not use “speculation and rationalization” to make up for a decision’s 
+deficiencies.43 
+29. When an administrative decision -maker applies the Charter, it must determine the extent 
+of any infringement , based on an analysis of the values the constitutionally -protected right is 
+meant to uphold. But imagine a decision affecting the right to wear  a kippah, turban or headscarf , 
+which failed to state whether it was regulating a fashion choice  or taking into account the 
+Charter right to freedom of religion because the clothing i s a sign of Jewish, Sikh or Muslim 
+devotion – i t would be impossible to understand how the decision reflect ed a proportionate 
+balance between Charter protections and the relevant statutory mandate.44 
+30. Since the NEB’s  decision affected the Inuit harvest of marine wildlife but failed  to 
+identify th at activity as a constitutiona lly-protected right , the NEB’s decision could not correctly 
+identify the duty to consult, nor the accommodation required, which was the balancing required 
+before the NEB exercised its statutory mandate in a way  that could affect treaty rights.45 Without 
+                                                           
+40 Hamlet of Clyde River , para. 34. See also: West Moberly First Nations v. British Columbia (Chief Inspector of 
+Mines), 2011 BCCA 247, para. 196; Cold Lake First Nations v Alberta (Tourism, Parks and Recreation) , 2013 
+ABCA 443, para. 40. 
+41 Beckman v. Little Salmon/Carmacks First Nation , para. 48.  
+42 Hamlet of Clyde River , FCA, para. 102, 112.  
+43 Lloyd v. Canada (Attorney General) , 2016 FCA 115, para. 24, per Rennie J.A.  
+44 Doré v. Barreau du Québec , 2012 SCC 12, para. 7, 55, 56, 67; Loyola High School  v. Quebec (Attorney General) , 
+2015 SCC 12,  para. 35-37. 
+45 Taku River Tlingit First Nation v. British Columbia (Project Assessment Director) , 2004 SCC 74, para. 2.   
+8 the proper analysis , a decision-maker’s conclusion “will not be rational or defensible.”46  
+D. What an adequate process would include   
+1. The purpose of consultation and accommodation 
+31. In administrative law, a person likely to be affected by a decision is entitled to 
+consultation because “to be a person rather than a thing is at least to be consulted about what is 
+done with one.”47 Consultation also provides “information which may be pertinent to the just and 
+proper exercise of the power.”48 Generally, h owever, “the right to be heard from, and the right to 
+be told why, are analytically distinct from the right to secure a different outcome.”49  
+32. Aboriginal peoples are entitled to  more: not just  consultation, but also accommodation. 
+The Crown must consult them while  it can still “alter the original proposal”50 because it must 
+adopt measures to  secure a different  outcome, if they are needed to reconcile Aboriginal rights 
+with other interest s.51 
+2. Consultation that takes Inuit rights seriously  
+a) Wildlife protection as the starting point  
+33. The starting point of Crown consult ation must be its duty to preserve the marine 
+mammals the Inuit harvest because that is their treaty right . Protecting the wildlife resources to 
+which the treaty refers is part of reconciliation : building “a positive long -term relationship”52 
+between the Inuit and the Crown by implementing the treaty on the basis of “mutual res pect, and 
+shared responsibility,”53 such as a shared duty to preserve wildlife . 
+34. The Crown’s duty to conserve the marine mammals that Inuit have a treaty right to 
+harvest means  its first step before authorizing development that may affect  wildlife must be to 
+ascertain Inuit resource needs and ensure those  needs will not be compromised.  
+b) The minimum content 
+35. A recent report by James Igloliorte, the first Inuit judge in Canada, suggested how to 
+provide adequate consultation in the Qikiqtani region of Nunavut, which includ es Clyde River: 
+ Public consultation also needs to be significantly improved so that Inuit are given 
+adequate notice of opportunities for input into proposed policies and legislation, and are 
+                                                           
+46 Halifax (Regional Municipality) v. Canada (Public Works and Government Services) , 2012 SCC 29, para. 43.  
+47 Laurence Tribe, American Constitutional Law  (Mineola, N.Y.: Foundation Press, 1978), pp. 503 to 504. See also 
+R (Moseley) v . London Borough of Haringey , [2014] UKSC 56, para. 23.  
+48 South African Roads Board v City Council of Johannesburg (485/89) [1991] ZASCA 63; 1991 (4) SA 1 (AD). 
+49 Tribe, American Constitutional Law , p. 503. 
+50 Haida Nation, para. 46. 
+51 Haida Nation,  para. 47-49; West Moberly First Nations v. British Columbia , para. 143-149. 
+52 Beckman v. Little Salmon/Carmacks First Nation , para. 10.  
+53 TRC, Honouring the Truth, Reconciling for the Future: Summary of the Final Report, p. 253, Call to Action 4 6 
+(iv).  
+9 provided with solid and easily understood background information about issues and 
+options. Many community members are frustrated by consultation meetings at which they 
+are not provided enough information, and which are not attended by the officials or 
+politicians who could answer their questions and commit to addressing their concerns. 
+Furthermore, the communities know from past experience that their comments and 
+concerns might not be considered or incorporated in the final decision. In fact, many 
+community members believe that the government has a preferred outcome and only 
+conducts the consultations because they are a legal requirement. […]54 
+36. The minimum that consultation with the  Inuit should provide therefore includes: 
+providing information th ey themselves judge adequate and answers to the questions they raise; 
+ensuring that decision -makers actually meet the Inuit; and demonstrating that their concerns were 
+considered in reaching  the decision.  
+37. Accommodation must also follow international law , such as the marine ecosystem  
+approach, which includes assessment of cumulative impacts , conserving marine biodiversity , and 
+using the “best available knowledge, including traditional, indigenous and scientific.”55 
+c) The effect on the oil and gas regime  
+38. Taking Inuit treaty rights seriously means they must be protected even “against certain 
+decisions that a majority of citizens might want to make [in] the general or common interest .”56 
+It means rejecting the presumption that oil and gas development is always the best use of Arctic 
+waters by choosing preventa tive design  over permissive regulation .57 
+39. The Crown’s duty to consult lies “upstream” of statutory decision-making.58 A seismic 
+testing permit is an operational decision, but potential impacts should be addressed at the 
+planning stage. Postponing consultation till the operational stage results in “certain infringements 
+being viewed as the inevitable result of earlier planning decisions, or... certain possibilities of 
+accommodation being foreclosed […].”59  
+40. The Appellants are entitled to the strategic environmental assessment the y requested , in 
+order to decide whether the ecosystem can actually support such development.  
+…[B]efore opening an Arctic region to offshore oil and gas consideration, the 
+                                                           
+54 Qikiqtani Truth Commission, Final Report: Achieving Saimaqatigiingniq (Iqaluit: Qikiqtani Inuit Association, 
+April 2014), pp. 64- 65 (emphasis added).  
+55 Oceans Act,  Preamble; Report on the work of the UN Open-ended Informal Consultative Process , supra, Part A, 
+para. 4, 6(k), 7(d).  
+56 Ronald Dworkin, Taking Rights Seriously  (Cambridge Mass.: Harvard University Press, 1977), p. 133.  
+57 R. Michael M'Gonigle, et al., “Taking Uncertainty Serious ly: From Permissive Regulation to Preventative Design 
+in Environmental Decision Making,” (1994) 32 Osgoode Hall Law Journal 99.  
+58 West Moberly First Nations v. British Columbia , para. 60; Musqueam Indian Band v. British Columbia (Minister 
+of Sustainable Resource Management) , 2005 BCCA 128, para. 18- 19; Wahgoshig First Nation v. Ontario et al. , 
+2011 ONSC 7708, para.  41. 
+59 Grammond, Terms of Coexistence, p. 325 . See also: West Moberly First Nations v. British Columbia , para. 149.  government's failure to conduct strategic environmental assessments... makes 
+meaningful consultation with Inuit. .. very difficult. Inuit organizations need the kind of 
+data integration and analysis generated by a strategic environmental assessment to make 
+informed decisions. 
+This lack of a systematic process for evaluating the environmental consequences of 
+proposed actions in the first phase cannot be adequately remedied by more information in 
+subsequent stages. Important strategic decisions go into identifying potential development 
+zones through INAC's call for nominations that shape all subsequent stages. [ ... ]60 
+41. The importance of information-gathering and analysis before exploration cannot be 
+underestimated : the explosion of the Deepwater Horizon rig, while drilling an exploratory well in 
+the Gulf of Mexico in 2010, demonstrated the effects oil and gas projects could have in the 
+Arctic waters where the Inuit exercise their rights.61 
+E. The NEB's remaining duties 
+42. The process in this case led to precisely the result this honourable Court warned of 
+in Carrier Sekani:62 the Crown has been able to avoid its own duties because the NEB's limited 
+statutory mandate leaves the administrative tribunal incapable of consulting the Inuit and bereft 
+of the remedial powers needed to accommodate them. 
+43. Since the NEB nevertheless remains bound by s. 35 of the Constitution Act, 1982, it must 
+exercise its remaining discretion by declining to make a final decision until the Crown has met 
+its duty of consultation and accommodation. 63 
+PARTlY. Costs 
+44. The Intervener Makivik Corporation seeks no costs and asks that none be awarded 
+against it. 
+PARTY. Order sought 
+45. The Intervener Makivik Corporation requests permission to present oral argument at the 
+hearing of therppeal. 
+All~h ~ mittedintheCity~ 
+o~ David Schu e Nicholas Dodd 
+~' DIONNE Sc ULZE 
+Counsel for the Intervener Makivik Corporation 
+60 P01ia and Bankes, Becoming Arctic-Ready, p. 5 (emphasis added). 
+61 B. Baker, "Inuit Involvement in Offshore Oil and Gas Decisions in Alaska and the Western Canadian Arctic" 
+(20 13 ), 43 Environmental Law Repotier I 0925. 
+62 Rio Tinto A/can. v. Carrier Sekani, para. 62. . 
+63 Chippewas of the Thames First Nation v. Enbridge Pipelines Inc., para. 128 (per Rennie J.A., dissenting). 
+10  
+11 PART VI.  TABLE OF AUTHORITIES  
+Caselaw Referring 
+paragraphs 
+  
+114957 Canada Ltée (Spraytech, Société d’arrosage)  v. Hudson (Town) , 2001 
+SCC 40 17 
+  
+Baker v. Canada (Minister of Citizenship and Immigration) , [1999] 2 SCR 817 17 
+  
+Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53  8, 16, 26, 33 
+  
+Chippewas of the Thames First Nation v. Enbridge Pipelines Inc., 2015 FCA 222 23, 43 
+  
+Cold Lake First Nations v Alberta (Tourism, Parks and Recreation) , 2013 ABCA 
+443 26 
+  
+Doré v. Barreau du Québec , 2012 SCC 12 29 
+  
+Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73 3, 8, 25, 32 
+  
+Halifax (Regional Municipality) v. Canada (Public Works and Government 
+Services), 2012 SCC 29 30 
+  
+Hamlet of Clyde River v. TGS -NOPEC Geophysical Company ASA (TGS) , 2015 
+FCA 179 3, 23, 26, 28 
+  
+Lloyd v. Canada (Attorney General) , 2016 FCA 115 28 
+  
+Loyola High School v.  Quebec (Attorney General) , 2015 SCC 12  29 
+  
+Musqueam Indian Band v. British Columbia (Minister of Sustainable Resource 
+Management) , 2005 BCCA 128 39 
+  
+Nalcor Energy v. NunatuKavut Community Council Inc., 2012 CanLII 73234 (NL SCTD) 7 
+  
+Qikiqtani Inuit Association v. Canada (Minister of Natural Resources) , 2010 
+NUCJ 12 4 
+  
+Rio Tinto Alcan Inc. v.  Carrier Sekani Tribal Council , [2010] 2 RCS 650, 2010 
+CSC 43  24, 42 
+  
+R (Moseley) v London Borough of Haringey  [2014] UKSC 56  31 
+  
+Ross River Dena Council v. Government of Yukon, 2012 YKCA 14 20 
+ 2013 CanLII 59890 (SCC), leave to appeal denied    
+12 Caselaw Referring 
+paragraphs  
+   
+R.v. Flett, [1989] 4 C.N.L.R. 128 (Man. Q.B.)  13 
+ leave to appeal denied (1990), [1991] 1 C.N.L.R. 140 (Man. C.A.)   
+  
+R. v. Marshall , [1999] 3 SCR 456  15, 16 
+  
+R. v. Sparrow , [1990] 1 SCR 1075  14 
+  
+Saanichton Marina Ltd. v. Claxton  (1989), 57 DLR (4th) 161 (BCCA)  15 
+  
+Sikyea v. The Queen , [1964] SCR 642 13 
+  
+State of Washington v. Washington State Commercial, Passenger, Fishing Vessel 
+Association,  443 U.S. 658 (1979)  15 
+   
+South African Roads Board v City Council of Johannesburg  (485/89) [1991] 
+ZASCA 63; 1991 (4) SA 1 (AD)  31 
+  
+Taku River Tlingit First Nation v. British Columbia (Project Assessment 
+Director) , 2004 SCC 74  30 
+  
+U.S. v. State of Washington,  384 F. Supp. 312 (1974)  15 
+  
+U.S. v. State of Washington , 827 F.3d 836 (2016) (U.S.C.A. 9th Cir.) 15 
+  
+Wahgoshig  First Nation v. Ontario et al. , 2011 ONSC 7708  39 
+  
+West Moberly First Nations v. British Columbia (Chief Inspector of Mines) , 2011 
+BCCA 247  26, 32, 39  
+  
+  
+  
+  
+  
+  
+   
+13 Legislation and Treaties Referring 
+paragraphs  
+  
+Agreement for the Implementation of the Provisions of the United Nations 
+Convention on the Law of the Sea of 10 December 1982 , A/RES/54/32, 
+24 November 1999  18 
+  
+Canada Oil and Gas Operations Act , R.S.C., 1985, c 0 -7  
+  
+Canada Petroleum Resources Act , RSC 1985, c 36 (2nd Supp.) 19 
+  
+Canadian Environmental Assessment Act, 2012 , SC 2012, c 19  22 
+  
+Canadian Environmental Protection Act, 1999 , SC 1999, c 33  18 
+  
+James Bay and Northern Quebec Native Claims Settlement Act , SC 1976 -77, c. 32 7 
+  
+Labrador Inuit Land Claims Agreement Act , S.C. 2005, c. 27  7 
+  
+Nunavik Inuit Land Claims Agreement Act , SC 2008, c 2  2, 7, 12 
+  
+Nunavik Land Claims Agreement , Nunavik Inuit and Canada, 1 December 2006  12 
+  
+Nunavut Land Claims Agreement Act , SC 1993, c 29  2, 3, 7, 10 -
+12, 16, 18  
+  
+Nunavut Land Claims Agreement , Inuit of the Nunavut Settlement Area and 
+Canada, 25 May 1993  11 
+  
+Oceans Act , SC 1996, c 31  18, 37 
+  
+Regulations Designating Physical Activities,  SOR/2012 -147 22 
+  
+United Nations Convention on the Conservation of Biological Diversity, C.T.S. 
+1993/24 18 
+  
+Western Arctic (Inuvialuit) Claims Settlement Act , S.C. 1984, c. 24  7 
+  
+   
+14 Texts Referring 
+paragraphs  
+  
+Baker, Betsy. “Inuit Involvement in Offshore Oil and Gas Decisions in Alaska and 
+the Western Canadian Arctic” (2013), 43 Environmental Law Reporter  10925 41 
+  
+Doelle, Meinhard , N. Bankes, L. Porta. “Using Strategic Environmental 
+Assessments to Guide Oil and Gas Exploration Decisions in the Beaufort Sea: 
+Lessons Learned from Atlantic Canada,” CIRL Occasional Paper #39 (Calgary: 
+Canadian Institute of Resources Law, 2012)  22 
+  
+Dworkin, Ronald. Taking Rights Seriously  (Cambridge Mass.: Harvard University 
+Press, 1977)  38 
+  
+Grammond, Sébastien. Terms of Coexistence: Indigenous Peoples and Canadian 
+Law (Toronto: Carswell, 2013)  20, 39 
+  
+Imai, Shin. “Treaty Lands and Crown Obligations: The ‘Tracts Taken Up’ 
+Provision”, (2001), 27 Queen's L.J.  1 17 
+  
+M'Gonigle, R. Michael et al., “Taking Uncertainty Seriously: From Permissive 
+Regulation to Preventative Design in Environmental Decision Making,” (1994) 32 
+Osgoode Hall Law Journal  99 59 
+  
+Popowich, Morris. ”The National Energy Board as Intermediary between the 
+Crown, Aboriginal Peoples, and Industry,” (2006 -2007) 44 Alta. L. Rev. 837  24 
+  
+Porta, Louie and Nigel Bankes. Becoming Arctic-Ready: Policy Recommendations 
+for Reforming Canada’s Approach to Licensing and Regulating Offshore Oil and 
+Gas in the Arctic  (Washington, D.C.: The Pew Environment Group, 2011)  19, 21, 22, 
+40 
+  
+Sonya Savage, Bill C-38 and the Evolution of the National E nergy Board: The 
+Changing Role of the National Energy Board from 1959 to 2015  (Calgary: 
+Canadian Institute of Resources Law, 2016)  24 
+  
+Thériault, Sophie. “Repenser les fondements du régime minier québécois au 
+regard de l’obligation de la Couronne de consulter et d’accommoder les peuples autochtones” (2010), 6 McGill International Journal of Sustainable Development 
+Law and Policy  217 20 
+  
+Tribe, Lau rence. American Constitutional Law  (Mineola, N.Y.: Foundation Press, 
+1978) 31 
+  
+   
+15 Other Referring 
+paragraphs  
+  
+Environmental Commissioner of Ontario, Reconciling Our Priorities: Annual 
+Report 2006 -2007 20 
+  
+Qikiqtani Truth Commission, Final Report: Achieving Saimaqatigiingniq  (Iqaluit: 
+Qikiqtani Inuit Association, April 2014)  35 
+  
+National Energy Board , “Consideration of Aboriginal Concerns in National 
+Energy Board Decisions” (October 2011), A.R., Vol.  IV, Tab 59  24 
+  
+Report on the work of the United Nations  Open-ended Informal Consultative 
+Process on Oceans and the Law of the Sea at its 7th meeting , UN Doc. A/ 61/156, 
+17 July 2006  18 
+  
+Truth and Reconciliation Commission of Canada (TRC) , Honouring the Truth, 
+Reconciling for the Future: Summary of the Final Report  (Montreal: McGill-
+Queen’s University Press, 2015)  9, 33 
+ 
+   
+16 Agreement for the Implementation of the 
+Provisions of the United Nations Convention 
+on the Law of the Sea of 10 December 1982, 
+A/RES/54/32, 24 November 1999, Preamble Accord aux fins de l'application des 
+dispositions de la Convention des Nations Unies sur le droit de la mer du 10 décembre 1982, A/RES/54/32, 24 novembre 1999, 
+Préambule  
+Recognizing that the Agreement for the 
+Implementation of the Provisions of the United 
+Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and 
+Management of Straddling Fish Stocks and 
+Highly Migratory Fish Stocks 2 (“the Agreement”) sets forth the rights and obligations of States in authorizing the use of vessels flying their flags for fishing on the high seas,  Considérant que l'Accord aux fins de 
+l'application des dispositions de la Convention des Nations Unies sur le droit de la mer du 10 décembre 1982 relatives à la conservation et à la 
+gestion des stocks de poissons dont les 
+déplacements s'effectuent tant à l'intérieur qu'au-delà de zones économiques exclusives (stocks chevauchants) et des stocks de poissons grands migrateurs2 («l'Accord») définit les droits et 
+obligations des États qui autorisent des navires 
+battant leur pavillon à pêcher en haute mer,  
+Noting that while twenty -four States or entities 
+have ratified or acceded to the Agreement, the 
+Agreement has not yet entered into force,  Notant que l'Accord n'est p as encore entré en 
+vigueur, malgré la ratification ou l'adhésion de 
+vingt-quatre États ou entités,  
+Conscious of the need to promote and facilitate 
+international cooperation, especially at the 
+regional and subregional levels, in order to ensure the sustainable development and use of the living marine resources of the world’s oceans 
+and seas, consistent with the present resolution,  Consciente de la nécessité de promouvoir et 
+faciliter la coopération internationale, surtout aux 
+niveaux 
+régional et sous-régional, afin d'assurer une utilisation et une mise en valeur durables des 
+ressources 
+biologiques des mers et océans du monde, 
+conformément à la présente résolution,  
+Noting that the stock situation for some species 
+of straddling fish stocks and highly migratory fish stocks is of great concern owing to the fact 
+that those stocks have not been subject to 
+adequate regulatory measures,  Notant que l'état des stocks de certaines espèces 
+suscite une vive préoccupation du fait que ces 
+stocks de poissons chevauchants et stocks de 
+poissons grands migrateurs ne sont pas couverts 
+par une réglementation adéquate,  
+Recognizing the importance of actions States and 
+other entities should take in order to share 
+responsibly 
+in the use of high seas fishery resources, 
+including straddling fish stocks and highly migratory fish stocks, as outlined in Parts III and 
+IV of the Agreement,  Considérant qu'il importe que les États et autres 
+entités prennent des mesures pour assurer une 
+exploitation é quitable et responsable des 
+ressources halieutiques de la haute mer, y 
+compris les stocks de poissons chevauchants et les stocks de poissons grands migrateurs, comme 
+indiqué dans les parties III et IV de l'Accord,  
+Recognizing also the duty provided in the  
+Agreement and reiterated as a principle in the Code of Conduct for Responsible Fisheries of the Food and Agriculture Organization of the United Nations3 for flag States to exercise effective 
+control over fishing vessels flying their flag and 
+vessels flyin g their flag which provide support to 
+such vessels, and to ensure that the activities of such vessels do not undermine the effectiveness of conservation and management measures taken 
+in accordance with international law and adopted  Considérant également l'obligation que l'Accord 
+fait aux États, et que le Code de conduite pour une pêche responsable de l'Organisation des Nations Unies pour l'alimentation et l'agriculture réitère sous forme de principe3, d'exercer un 
+contrôle effectif sur les navires de pêche et les 
+bâtiments auxiliaires battant leur pavillon et de 
+s'assurer que les activités de ces navires ne nuisent pas à l'efficacité des mesures de conservation et de gestion des ressources marines 
+conformes au droit international qui sont   
+17  at the national, subregional, regional or global 
+levels, adoptées aux niveaux national, sous -régional, 
+régional ou mondial,  
+Recognizing further that a number of regional 
+fishing organizations and arrangements with 
+competence to establish conservation and 
+management measures regarding straddling fish 
+stocks and/or highly migratory fish stocks are already taking significant conservation measures to promote the recovery and long-term sustainable use of fish stocks worldwide, and that 
+in order for those efforts to succeed it is 
+important that all States and entities, including those which are not members of these organizations or party to these arrange ments, 
+cooperate and observe these conservation and 
+management measures,  Considérant en outre que bon nombre 
+d'organismes et d'arrangements régionaux de gestion des pêcheries qui sont compétents pour 
+appliquer des mesures notables de conservation 
+et de gestion des stocks de poissons chevauchants ou de poissons grands migrateurs prennent déjà des mesures visant à favoriser la reconstitution et l'exploitation durable des stocks 
+dans le monde entier et qu'il importe, pour que 
+ces efforts aboutissent, que tous les États et entités, y compris ceux qui ne sont pas membres de ces organismes ou parties à ces arrangements coopèrent, et respectent lesdites mesures de 
+conservation et de gestion,  
+Taking note of the obligation of States and other 
+entities and regional and subregional fishery management organizations and arrangements to take measures to prevent or eliminate overfishing, and encouraging all States to 
+participate in the work of the Food and 
+Agriculture Organization of the United Nations 
+on the subject,  Prenant note de l'obligation qui est faite aux 
+États et autres entités, ainsi qu'aux organismes et arrangements régionaux et sous-régionaux relatifs à la gestion des pêches de prendre des mesures pour prévenir ou empêcher la 
+surexploitation, et encourageant tous les États à 
+participer aux travaux que l'Organisation des Nations Unies pour l'alimentation et l'agriculture 
+mène en la matière,  
+Noting that some regional fisheries organizations 
+and arrangements, including those mentioned in the report of the Secretary-General, have recently taken measures to ensure that fishing vessels flying the flags of non -members of those 
+organizations or non-parties to those 
+arrangements do not undermine the regionally 
+adopted conservation and management measures,  Notant que certains organismes et arrangements 
+régionaux de gestion des pêcheries, dont ceux qui sont mentionnés dans le rapport du Secrétaire général, ont récemment pris des mesures visant à ce que des navires  de pêche battant le pavillon de 
+pays qui ne sont pas membres de ces organismes 
+ou parties à ces arrangements ne portent pas 
+atteinte aux mesures de conservation et de 
+gestion adoptées au niveau régional,  
+Recognizing that the Agreement to Promote 
+Compliance with International Conservation and 
+Management Measures by Fishing Vessels on the 
+High Seas6 builds upon the legal framework established by the United Nations Convention on the Law of the Sea, and also recognizing the importance of that Agreement and noting that it 
+also has not yet entered into force,  Considérant que l'Accord visant à favoriser le 
+respect par les navires de pêche en haute mer des 
+mesures internationales de conservation et de 
+gestion6 s'inscrit dans le cadre juridique établi par la Convention des Nations Unies sur le droit de la mer, et soulignant par ailleurs l'importance de cet accord, qui n'est pas encore entré en 
+vigueur,  
+Taking note with concern that straddling fish 
+stocks and highly migratory fish stocks in some parts of the world have been subject to heavy and little-regulated fishing efforts, and that some 
+stocks continue to be overfished, mainly as a result of unauthorized fishing, Constatant avec préoccupation que les stocks de 
+poissons chevauchants et les stocks de poissons grands migrateurs font l'objet dans certaines parties du monde d'une pêche intensive et peu 
+réglementée et que certains stocks continuent 
+d'être surexploités, essentiellement en raison 
+d'activités de pêches non autorisées,   
+18 Concerned that illegal, unre gulated and 
+unreported fishing, including that noted in the 
+report of the Secretary-General,7 threatens serious depletion of populations of certain fish species, and in that regard urging States and 
+entities to collaborate in efforts to address these 
+types of fishing activities,  Notant avec préoccupation que les activités de 
+pêche illégales, non réglementées et non contrôlées, y compris celles mentionnées dans le rapport du Secrétaire général7, risquent fort d'épuiser les stocks de certaines espèces de 
+poissons, et exhortant à cet égard les États et 
+entités à collaborer aux efforts visant à mettre fin 
+à ce type d'activités,  
+Noting the importance of the wide application of 
+the precautionary approach to the conservation, management and exploitation of straddling fish 
+stocks and highly migratory fish stocks, in 
+accordance with the Agreement,  Notant que, conformément à l'Accord, il importe 
+qu'un principe de précaution soit largement appliqué à l'égard de la conservation, de la 
+gestion et de l'exploitation  des stocks de poissons 
+chevauchants et de poissons grands migrateurs,  
+Reaffirming the importance it attaches to 
+compliance with its resolution 46/215 of 20 
+December 1991, in particular those provisions 
+calling for full implementation of a global moratorium on all large-scale pelagic drift -net 
+fishing on the high seas of the world’s oceans 
+and seas, including enclosed seas and semi - Réaffirmant l'importance qu'elle attache au 
+respect de sa résolution 46/215 du 20 décembre 
+1991, en particulier des dispositions qui appellent 
+à la pleine application d'un moratoire général sur la pêche hauturière au grand filet dérivant dans tous les océans et dans toutes les mers du globe, 
+y compris les mers fermées et semi -fermées,  
+Reaffirming also its resolution 49 /116 of 19 
+December 1994 on unauthorized fishing in zones of national jurisdiction and its impact on the living marine resources of the world’s oceans and seas, as well as its resolution 52/28 of 26 
+November 1997 and other relevant resolutions,  
+  Réaffirmant également sa résolution 49/116 du 
+19 décembre 1994 sur la pêche non autorisée 
+dans les zones relevant de la juridiction nationale et ses effets sur les ressources biologiques marines des océans et des mers de la planète, 
+ainsi que sa résolution 52/28 du 26 novembre 
+1997 et ses autres résolutions sur la question,  
+Canadian Environmental Assessment Act, 
+2012, SC 2012, c 19  Loi canadienne sur l'évaluation 
+environnementale (2012) , LC 2012, c 19  
+Activities regulated by regulatory body  
+13 A designated project for which the 
+responsible authority is referred to in any 
+of paragraphs 15(a) to (c) is subject to an environmental a ssessment.  Activités régies par un organisme exerçant des 
+fonctions de réglementation 
+13 Tout projet désigné dont l’autorité responsable est visée à l’un des alinéas 15a)
+ à c) 
+doit faire l’objet d’une évaluation 
+environnementale.  
+Regulations — Minister 
+84 The Minister may make regulations 
+(a) for the purpose of the definition designated project in subsection 2(1), designating a physical 
+activity or class of physical activities and 
+specifying for each designated physical activity 
+or class of physical activities one of the following federal authorities to which the physical activity is linked:  
+(i) the Canadian Nuclear Safety Commission, 
+(ii) the National Ene rgy Board, 
+(iii) any federal authority that performs 
+regulatory functions, that may hold public 
+hearings and that is prescribed in regulations 
+made under  paragraph 83 (b), or Règlement du ministre  
+84 Le ministre peut, par règlement : 
+a) pour l’application de la définition de projet désigné au paragraphe 2(1), désigner une activité 
+concrète ou une catégorie d’activités concrètes et 
+préciser, pour chaque activité ou catégorie ainsi 
+désignée, à laquelle des autorités fédérales ci-après elle est liée  : 
+(i) la Commission canadienne de sûreté nucléaire,  
+(ii) l’Office national de l’énergie,  
+(iii) toute autorité fédérale exerçant des fonctions 
+de réglementation et pouvant t enir des audiences 
+publiques prévue par règlement pris en vertu de 
+l’alinéa 83b) ,  
+19 (iv) the Agency;  (iv) l’Agence;  
+Canadian Environmental Protection Act, 
+1999, SC 1999, c 33  Canadian Environmental Protection Act, 
+1999, SC 1999, c 33 
+Whereas the Government of Canada seeks to 
+achieve sustainable development that is based on 
+an ecologically efficient use of natural, social 
+and economic resources and acknowledges the 
+need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; Attendu : 
+que le gouvernement du Canada vise au développement durable fondé sur l’utilisation 
+écologiquement rationnelle des ressources 
+naturelles, sociales et économiques et reconnaît la nécessité, pour lui et les organismes privés, de prendre toute décision en tenant compte des facteurs environnementaux, économiques et 
+sociaux; 
+Whereas the  Government of Canada is 
+committed to implementing pollution prevention as a national goal and as the priority approach to 
+environmental protection;  qu’il s’engage à privilégier, à l’échelle nationale, 
+la prévention de la pollution dans le cadre de la protection de l’environnement;  
+Whereas the Government of Canada 
+acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the 
+environment cannot be prevented;  qu’il reconnaît la nécessité de procéder à la 
+quasi-élimination des substances toxiques les plus persistantes et bioaccumulables et de limiter et gérer les polluants et déchets dont le rejet dans l’environnement ne peut être évité; 
+Whereas the Government of Canada recognizes 
+the importance of an ecosystem approach; 
+Whereas the Government of Canada will continue to demonstrat e national leadership in 
+establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; qu’il reconnaît l’importance d’adopter une 
+approche basée sur les écosystèmes;  
+qu’il continue à jouer un rôle moteur au plan national dans l’établissement de normes 
+environnementales, d’objectifs relatifs aux 
+écosystèmes et de directives et codes de pratique nationaux en matière de qualité de 
+l’environnement;  
+Whereas the Government of Canada is 
+committed to impleme nting the precautionary 
+principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent 
+environmental degradation;  qu’il s’engage à  adopter le principe de la 
+prudence, si bien qu’en cas de risques de dommages graves ou irréversibles, l’absence de certitude scientifique absolue ne doit pas servir de prétexte pour remettre à plus tard l’adoption de mesures effectives visant à prévenir la 
+dégradation de l’environnement;  
+Whereas the Government of Canada recognizes 
+that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face 
+environmental problems that can benefit from 
+cooperative resolution;  qu’il reconnaît que tous les gouvernements au 
+Canada disposent des pouvoirs leur permettant 
+de protéger l’environnement et qu’il est à leur avantage mutuel de collaborer pour résoudre les 
+problèmes environnementaux auxquels ils ont 
+tous à faire face;  
+Whereas the Government of Canada recognizes 
+the importance of endeavouring, in cooperation 
+with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately 
+contribute to sustainable development; qu’il reconnaît l’importance de s’efforcer, en 
+collaboration avec les gouvernements 
+provinciaux et territoriaux et les autochtones, d’atteindre le plus haut niveau possible de qualité de l’environnement pour les Canadiens et de 
+contribuer ainsi au développement durable;   
+20 Whereas the Government of Canada recognizes 
+that the risk of toxic substances in the 
+environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always  be contained within 
+geographic boundaries;  qu’il reconnaît que le risque de la présence de 
+substances toxiques dans l’environnement est une question d’intérêt national et qu’il n’est pas toujours possible de circonscrire au territoire touché la dispersion  de substances toxiques ayant 
+pénétré dans l’environnement;  
+Whereas the Government of Canada recognizes 
+the integral role of science, as well as the role of traditional aboriginal knowledge, in the process 
+of making decisions relating to the protection of 
+the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; qu’il reconnaît le rôle naturel de la science et le 
+rôle des connaissances autochtones traditionnelles dans l’élaboration des décisions 
+touchant à la protection de l’environnement et de 
+la santé humaine et la nécessité de tenir compte des risques d’atteinte à l’environnement ou à la santé ainsi que de toute question d’ordre social, économique ou technique lors de cette 
+élaboration;  
+Whereas the Government of Canada recognizes 
+the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the “polluter pays” 
+principle;  qu’il reconnaît la responsabilité de s utilisateurs et 
+producteurs à l’égard des substances toxiques, des polluants et des déchets et a adopté en conséquence le principe du pollueur-payeur;  
+Whereas the Government of Canada is 
+committed to ensuring that its operations and activities on federal and aboriginal lands are 
+carried out in a manner that is consistent with the 
+principles of pollution prevention and the 
+protection of the environment and human health;  qu’il est déterminé à faire en sorte que ses 
+opérations et activités sur le territoire domanial et 
+les terres autochtones respectent les principes de la prévention de la pollution et de la protection 
+de l’environnement et de la santé humaine; 
+Whereas the Government of Canada will 
+endeavour to remove threats to biological 
+diversity through pollution prevention, the 
+control and management of the risk of any 
+adverse effects of the use and release of toxic substances, pollutants and wastes, and the  virtual 
+elimination of persistent and bioaccumulative 
+toxic substances;  qu’il s’efforcera d’éliminer les menaces à la 
+diversité biologique au moyen de la prévention de la pollution, de la réglementation et de la 
+gestion des risques d’effets nocifs de l’ut ilisation 
+et du rejet de substances toxiques, de polluants et 
+de déchets et de la quasi- élimination des 
+substances toxiques persistantes et 
+bioaccumulables;  
+Whereas the Government of Canada recognizes 
+the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of 
+biotechnology;  qu’il reconnaît la nécessité de protéger 
+l’environnement — notamment la diversité biologique — et la santé humaine en assurant 
+une utilisation sécuritaire et effi cace de la 
+biotechnologie;  
+And whereas the Government of Canada must be 
+able to fulfil its international obligations in respect of the environment; 
+ qu’il se doit d’être en mesure de respecter les 
+obligations internationales du Canada en matière d’environnement, 
+   
+21 Nunavik Land Claims Agreement , Nunavik 
+Inuit and Canada , 1 December 2006  Accord sur les revendications territoriales des 
+Inuits du Nunavik , Inuit du Nunavik et 
+Canada, 1er décembre 2006  
+5.3.7. Subject to section 5.3.8, the NMRWB shall 
+presume as a matter of fact and without further 
+evidence that Nunavik Inuit need the total allowable take established by the NMRWB of: 5.3.7 Sous réserve de l ’article 5.3.8, le 
+CGRFRMN présume, comme question de fait et sans en exiger la preuve, que les Inuit du Nunavik ont besoin de la prise totale autorisé e 
+établie par le CGRFRMN à l’égard : 
+(a) all scallops and mussels;  
+(b) all beluga whales; (c) all polar bears; and (d) eiderdown from eider duck nests.
+ (a) de tous les pétoncles et de toutes les moules;  
+(b) de tous les belugas; (c) de tous les ours blancs; 
+(d) du duvet d’ai der disponible dans les nids de 
+canards. 
+Nunavut Land Claims Agreement Act , SC 
+1993, c 29 Loi concernant l'accord sur les 
+revendications territoriales du Nunavut , LC 
+1993, c 29  
+WHEREAS the Inuit of the Nunavut Settlement 
+Area have asserted an aboriginal title to that Area 
+based on their traditional and current use and 
+occupation of the lands, waters and land-fast ice 
+therein in accordance with their own customs and usages; 
+ Attendu : 
+que les Inuit de la région du Nunavut revendiquent sur celle-ci un titre ancestral fondé 
+sur leur utilisation, leur exploitation et leur 
+occupation — traditionnelles et actuelles  — des 
+terres, des eaux et de la banquise côtière, suivant 
+leurs us et coutumes;  
+WHEREAS the  Constitution Act, 
+1982 recognizes and affirms the existing 
+aboriginal and treaty rights of the aboriginal 
+peoples of Canada;  que la Loi constitutionnelle de 1982  reconnaît et 
+confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du 
+Canada; 
+WHEREAS Her Majesty the Queen in right of 
+Canada and the Inuit of the Nunavut Settlement 
+Area have negotiated an Agreement based on and 
+reflecting the following objectives:  que Sa Majesté la Reine du chef du Canada et les 
+Inuit de la région du Nunavut ont négocié un 
+accord dont le s objectifs sont les suivants : 
+to provide for certainty and clarity of rights to 
+ownership and use of lands and resources and 
+of rights for Inuit to participate in decision-
+making concerning the use, management and 
+conservation of land, water and resources, including the offshore, déterminer de façon claire et certaine les 
+droits de propriété, d’utilisation et d’exploitation des terres et des ressources, 
+ainsi que le droit des Inuit de participer à la 
+prise des décisions concernant l’utilisation, l’exploitation, la gestion et la conservation des terres, des eaux et des ressources, 
+notamment au large des côtes,  
+to provide Inuit with wildlife harvesting rights 
+and rights to participate in decision-making concerning wildlife harvesting, reconnaître aux Inuit des droits d’exploitation 
+des ressources fauniques et le droit de 
+participer à la prise de décisions en cette 
+matière, 
+to provide Inuit with financial compensation 
+and means of participating in economic opportunities, 
+ verser aux Inuit des indemnités pécuniaires et 
+leur fournir des moyens de tirer parti des possibilités économiques,  
+to encourage self -reliance and the cultural and 
+social well -being of Inuit;  favoriser l’autonomie et le bien -être culturel 
+et social des Inuit;   
+22 WHEREAS Her Majesty the Queen in right of 
+Canada and the Inuit of the Nunavut Settlement 
+Area, through their duly mandated 
+representatives, have entered into the Agreement through which Inuit shall receive defined rights 
+and benefits in exchange for the surrender of 
+certain claims, rights, title and interests, based on 
+their assertion of an aboriginal title;  que Sa Majesté la Reine du chef du Canada et les 
+Inuit de la région du Nunavut ont, par l’entremise de leurs mandataires respectifs, conclu un accord conférant aux Inuit des droits et des avantages déterminés  en contrepartie de leur renonciation à 
+certains droits, titres, intérêts et revendications pouvant découler du titre ancestral qu’ils 
+revendiquent;  
+WHEREAS the Agreement provides that it will 
+be a land claims agreement within the meaning 
+of section 35 of the Constitution Act, 1982 ; que l’accord dispose qu’il constitue un accord sur 
+des revendications territoriales au sens de l’
+article 35 de la  Loi constitutionnelle de 1982 ; 
+ 
+WHEREAS the Inuit of the Nunavut Settlement 
+Area have ratified the Agreement in accordance 
+with the provisions of the Agreement;  
+ que les Inuit de la région du Nunavut ont ratifié 
+l’accord en conformité avec les dispositions de celui-ci; 
+AND WHEREAS the ratification by Her Majesty 
+under Article 36 of the Agreement requires the enactment by Parliament of a statute ratifyi ng the 
+Agreement;  que, suivant le chapitre 36 de l’accord, la 
+ratification de celui-ci par Sa Majesté exige l’adoption d’une loi du Parlement, 
+Nunavut Land Claims Agreement , Inuit if the 
+Nunavut Settlement Area and Canada, 25 
+May 1993  Accord sur les revendications territoriales du 
+Nunavut, Inuit de la Région du Nunavut et 
+Canada, 25 mai 1993  
+5.1.2. This Article recognizes and reflects the 
+following principles:  5.1.2 Le présent chapitre reconnaît et reflète les 
+principes suivants :  
+(a) Inuit are traditional and current users of 
+wildlife; 
+ a) les Inuit sont des utilisateurs $ traditionnels et 
+actuels $ des ressources  
+fauniques;  
+(b) the legal rights of Inuit to harvest wildlife 
+flow from their traditional and current use; 
+ 
+ b) les droits reconnus par la loi aux Inuit en 
+matière de récolte de ressources fauniques découlent de leur utilisation et leur exploitation 
+traditionnelles et actuelles de ces ressources;  
+(c) the Inuit population is steadily increasing;  
+ c) la population d es Inuit croît à un rythme 
+régulier; 
+(d) a long -term, healthy, renewable resource 
+economy is both viable and desirable; 
+ d) il est à la fois possible et souhaitable d'avoir 
+une économie fondée sur les ressources renouvelables, robuste et visant le long terme; 
+(e) there is a need for an effective system of 
+wildlife management that complements Inuit harvesting rights and priorities, and recognizes Inuit systems of wildlife management that contribute to the conservation of wildlife and 
+protection of wildlife habitat;  
+ e) il est nécessaire d'établir un système efficace 
+de gestion des ressources fauniques qui complète 
+les droits et priorités des Inuit en matière de récolte et qui reconnaisse les mécanismes de gestion des ressources fauniques établis par les 
+Inuit et contribuant à la conservation de ces 
+ressources et à la protection de leur habitat;  
+(f) there is a need for systems of wildlife 
+management and land management that provide 
+optimum protection to the renewable resource economy; f) il est nécessaire d'établir des mécanismes de 
+gestion des ressources fauniques et de gestion des terres protégeant le plus possible l'économie fondée sur les ressources renouvelables;  
+23 (g) the wildlife management system and the 
+exercise of Inuit harvesting rights are governed 
+by and subject to the principles of conservation; g) le système de gestion des ressources fauniques 
+et l'exercice des droits de récolte des Inuit sont régis par les principes de la conservation;  
+(h) there is a need for an effective role for Inuit 
+in all aspects of wildlife management, including research; and 
+ h) il est nécessaire que les Inuit participent 
+concrètement à tous les aspects de la gestion des ressources fauniques, y compris aux activités de 
+recherche à cet égard;  
+(i) Government retains the ultimate responsibility 
+for wildlife management.  i) le Gouvernement demeure, en dernier ressort, 
+responsable de la gestion des ressources 
+fauniques.  
+5.1.5 The principles of conservation are:  
+ 5.1.5 Les principes de la conservation sont les 
+suivants :  
+(a) the maintenance of the natural balance of 
+ecological systems within the Nunavut 
+Settlement Area;  a) le maintien de l'équilibre naturel des systèmes 
+écologiques dans la région du Nunavut; 
+ 
+(b) the protection of wildlife habitat;  b) la protection de l'habitat des ressources 
+fauniques;  
+(c) the main tenance of vital, healthy, wildlife 
+populations capable of sustaining 
+harvesting needs as defined in this Article; and  c) le maintien en santé des populations fauniques 
+vitales, de manière à satisfaire les besoins en 
+matière de récolte prévus par le présen t chapitre;  
+(d) the restoration and revitalization of depleted 
+populations of wildlife and wildlife habitat.  d) la reconstitution des populations de ressources 
+fauniques décimées et la revitalisation de leur 
+habitat. 
+5.3.7 All decisions made by the NWMB in 
+relation to Subsection 5.2.34(a), (c), (d) or (f) or any of Parts 4 to 6 or Article 40 and subject to territorial government jurisdiction shall be made in the manner set out in Sections 5.3.8. to 5.3.15.  5.3.7 Les décision s prises par le CGRFN en 
+application soit des alinéas 5.2.34a), c ), d) et f), 
+soit des parties 4 à 6 ou du chapitre 40 et qui ressortissent de la compétence du gouvernement territorial doivent être prises conformément aux 
+dispositions des articles 5.3.8 à 5.3.15.  
+5.6.5 Subject to Section 5.6.6, the NWMB shall 
+presume as a matter of fact and without further evidence that Inuit need the total allowable harvest established by the NWMB of: 5.6.5 Sous réserve de l'article 5.6.6, le CGRFN 
+présume, comme question  de fait et sans en 
+exiger la preuve, que les Inuit ont besoin de la récolte totale autorisée établie par le CGRFN à 
+l'égard : 
+(a) all bears;  a) de toutes les espèces d'ours;  
+(b) musk-ox; b) du bœuf musqué;  
+(c) bowhead whales;  c) des baleines boréales;  
+(d) all migratory birds and their eggs except 
+migratory game birds, as listed in Part I of Schedule 5-3, during the fall season, beginning every September 1;  
+ d) des oiseaux migrateurs et de leurs œufs, à 
+l'exception des oiseaux migrateurs considérés comme gibier qui sont énumérés à la partie I de l'annexe 5 -3, durant l'automne, à compter du 1er 
+septembre chaque année;  
+(e) all raptors, including owls; and  e) des oiseaux de proie, y compris des hiboux;  
+(f) eiderdown from eider duck nests.  f) du duvet d'eider disponible dans les nids de 
+canards. 
+ 
+   
+24 Oceans Act , SC 1996, c 31  Loi sur les océans , LC 1996, c 31  
+WHEREAS Canada recognizes that the three 
+oceans, the Arctic, the Pacific and the Atlantic, 
+are the common heritage of all Canadians; 
+ 
+ Attendu : 
+que le Canada reconnaît que les trois océans qui le bordent, l’Arctique, le Pacifique et l’Atlantique, font partie du patrimoine de tous les 
+Canadiens;  
+WHEREAS Parliament wishes to reaffirm 
+Canada’s role as a world leader in oceans and marine resource management;  
+ que le Parlement désire réaffirmer le rôle du 
+Canada en tant que chef de file mondial en matière de gestion des océans et des ressources 
+marines; 
+WHEREAS Parliament wishes to affirm in 
+Canadian domestic law Canada’s sovereign rights, jurisdiction and responsibilities in the exclusive economic zone of Canada; que le Parlement désire affirmer, dans les lois 
+internes, les droits souverains du Canada sur sa zone économique exclusive et les responsabilités qu’il compte assumer à cet égard; 
+WHEREAS Canada promotes the understanding 
+of oceans, ocean processes, marine resources and marine ecosystems to foster the sustainable 
+development of the oceans and their resources; 
+ 
+ que le Canada est déterminé à promouvoir la 
+connaissance des océans, des phénomènes océaniques ainsi que des ressources et des 
+écosystèmes marins, en vue d’assurer la 
+préservation des océans et la durabilité de leurs ressources; 
+WHEREAS Canada holds that conservation, 
+based on an ecosystem approach, is of fundamental importance to maintaining 
+biological diversity and productivity in the 
+marine environment;  que le Canada estime que la conservation, selon 
+la méthode des  écosystèmes, présente une 
+importance fondamentale pour la sauvegarde de 
+la diversité biologique et de la productivité du 
+milieu marin;  
+WHEREAS Canada promotes the wide 
+application of the precautionary approach to the conservation, management and exploita tion of 
+marine resources in order to protect these resources and preserve the marine environment; 
+ que le Canada encourage l’application du 
+principe de la prévention relativement à la conservation, à la gestion et à l’exploitation des 
+ressources marines af in de protéger ces 
+ressources et de préserver l’environnement 
+marin; 
+WHEREAS Canada recognizes that the oceans 
+and their resources offer significant opportunities for economic diversification and the generation 
+of wealth for the benefit of all Canadians, and in 
+particular for coastal communities;  que le Canada reconnaît que les océans et les 
+ressources marines offrent des possibilités 
+importantes de diversification et de croissance 
+économiques au profit de tous les Canadiens et, 
+en particulier, des collect ivités côtières;  
+WHEREAS Canada promotes the integrated 
+management of oceans and marine resources;  
+ que le Canada est déterminé à promouvoir la 
+gestion intégrée des océans et des ressources marines;  
+25 AND WHEREAS the Minister of Fisheries and 
+Oceans, in collaboration with other ministers, 
+boards and agencies of the Government of 
+Canada, with provincial and territorial governments and with affected aboriginal 
+organizations, coastal communities and other 
+persons and bodies, including those bodies establishe d under land claims agreements, is 
+encouraging the development and implementation of a national strategy for the 
+management of estuarine, coastal and marine 
+ecosystems;  
+ que le ministre des Pêches et des Océans, en 
+collaboration avec d’autres ministres et organismes fédéraux, les gouvernements provinciaux et territoriaux et les organisations autochtones, les collectivités côtières et les autres 
+personnes de droit public et de droit privé 
+intéressées, y compris celles constituées dans le cadre d’accords sur des revendications territoriales, encourage l’élaboration et la mise en œuvre d’une stratégie nationale de gestion des 
+écosystèmes estuariens, côtiers et marins,  
+ 
+Regulations Designating Physical Activities,  
+SOR/2012 -147 Règlement désignant les activités concrètes , 
+DORS/2012 -147 
+40 The drilling, testing and abandonment of 
+offshore exploratory wells in the first drilling 
+program in an area set out in one or more exploration licences issued in accordance with the 
+Canada Petroleum Resources Act . 
+ 40 Le forage, la mise à l’essai et la fermeture  de 
+puits d’exploration au large des côtes faisant partie du premier programme de forage dans une zone visée par un ou plusieurs permis de prospection délivrés conformément à la 
+Loi 
+fédérale sur les hydrocarbures . 
+41 The construction, installation and operation of 
+a new offshore floating or fixed platform, vessel or artificial island used for the production of oil or gas
+. 41 La construction, la mise sur pied et 
+l’exploitation d’une nouvelle plate-forme flottante ou fixe, d’un nouveau navire ou d’une nouvelle île artificielle au large des côtes utilisés pour la production de pétrole ou de gaz. 
+ 
+United Nations Convention on the 
+Conservation of Biological Diversity , C.T.S. 
+1993/24 Convention des Nations Unies sur la diversité 
+biologique , R.T.N.U. 1993/24 
+8. Each Contracting Party shall. as far as possible 
+and as appropriate:  8. Chaque Partie contractante, dans la mesure du 
+possible et selon qu'il conviendra :  
+(d) Promote the protection of ecosystems, natural 
+habitats and the maintenance of viable 
+populations of species in natural surroundings; d) Favorise la protection des écosystèmes et des 
+habitats naturels. ainsi que le maintien de populations viables d'espèces dans leur milieu 
+naturel; 
+(j) Subject to its national legislation , respect, 
+preserve and maintain knowledge, innovations 
+and practices of indigenous and local 
+communities embodying traditional lifestyles 
+relevant for the conservation and sustainable use of biological diversity and promote their wider application with the approval and involvement of the holders of such knowledge, innovations and 
+practices and encourage the equitable sharing of 
+the benefits arising from th e utilization of such 
+knowledge, innovations and practices; j) Sous réserve des dispositions de sa l égislation 
+nationale, respecte, préserve et maintient le s 
+connaissances. innovations e t pratiques des 
+communauté s autochtones et locales qui 
+incarnent des modes  de vie traditionnels 
+présentant un inté rêt pour la conservation et  
+l’utilisation durable de la diversit é biologique et 
+en favorise l’ application sur une plus grande 
+échelle, avec l’accord et la  participation des 
+dépositaires de ces connaissances, innovations et pratiques et encourage le partage équitable des 
+avantages découlant de  l’utilisation de ces 
+connaissances, innovations et pratiques;   
+26 14. 1. Each Contracting Party, as far as possible 
+and as appropriate. 
+shall: 14. 1. Chaque Partie contractante. dans la mesure 
+du possible et selon qu'il conviendra :  
+ 
+(a) Introduce appropriate procedures requiring 
+environmental impact assessment of its proposed 
+projects that are likely to have significant adverse 
+effects on biological diversity with a view to 
+avoiding or minimizing suc h effects and. where 
+appropriate, allow for public participation in such 
+procedure s; a) Adopte des procédures permettant d'exiger 
+l'évaluation des impacts sur l’ environnement des 
+projets qu'elle a proposés et qui sont susceptibles 
+de nuire sensiblement à la diversité biologique en 
+vue d'éviter et de ré duire au minimum de tels 
+effets, et, s'il y a lieu , permet au public de 
+participer à ces procédures; 
+(b) Introduce appropriate arrangements to ensure 
+that the environmental consequences of its 
+programmes and policies that are likely to have significant adverse impacts on biological 
+diversity are tr uly taken into account; b) Prend les dispositions voulues pour qu'il soit 
+dûment tenu  compte des effets sur 
+l'environnement de ses programmes et politiques 
+susceptibles de nuire sensiblement à la diversité 
+biologique: 
+(c) Promote , on the basis of recipr ocity, 
+notification. exchange of information and 
+consultation on activities under their jurisdiction 
+or control which are likely to significantly affect 
+adversely the biological diversity of other States or areas beyond the limits of national jurisdiction, by encouraging the conclusion of bilateral, regional or  multilater al arrangements, 
+as appropriate; c) Encourage , sur une base de r éciprocité, la 
+notification , l’échange de renseignements et les 
+consultations au sujet des activité s relevant de sa 
+juridiction ou de son a utorité et susceptibles de 
+nuire sensiblement à la diversit é biologique 
+d'autres Etats ou de zones situé es hors des limi tes 
+de la juridiction nationale, en encourageant la conclusion d’accords bilatéraux, régionaux ou 
+multilatéraux, selon qu'il conviendra; 
+(d) In the case of imminent or grave danger or 
+damage, originating under its jurisdiction or control, to biological diversity within the  area 
+under jurisdiction of other States or in areas 
+beyond the limits of national jurisd iction, notify 
+immediately the potentially affected States  of 
+such danger or damage, as well as initiate action 
+to prevent or minimize such danger or damage; 
+and  
+ d) Dans le cas d'un danger ou d'un dommage 
+imminent ou grave trouvant son origine sous sa juridiction ou son contrôle et mena çant la 
+diversité biologique dans une zone relevant de la 
+juridiction d'autres Etats ou dans des zones 
+situées en dehors des limites de la juridiction des 
+Etats, en informe immé diatement les Etats 
+susceptibles d' être touchés par ce danger ou ce 
+dommage, et prend les mesures propres à prévenir ce danger ou ce dommage ou à en 
+atténuer autant que possible les effets ; 
+(e) Promote national arrangements for 
+emergency responses to  activities or events, 
+whether cause d naturally or otherwise, which 
+present a grave and imminent danger to biological diversity and encourage international cooperation to supplement such national efforts 
+arid, where appropriate and agreed by the States 
+or regional economic i ntegration organizations 
+concerned, to establish joint contingency plans. 
+ e) Facilite les arrangements nationaux aux fins de  
+l'adoption de mesures d'urgence au cas où des 
+activités ou des évènements. d'origine naturelle ou autre, présenteraient un danger grave ou imminent pour la diversité biologique, et 
+encourage la coopération international e en vue 
+d'étayer ces efforts nationaux et, selon qu'il est approprié et comme en  conviennent l es Etats ou 
+les organisations régionales d'intégration économique concernés, en vue d'établir des plans 
+d'urgence communs ;  
+27 2. The Conference of the Parties shall examine, 
+on the basis of studies to be carried out, the issue 
+of liability and redress, including restoration and compensation. for damage to biological diversity, except where such liability  is a purely internal 
+matter. 2. La Conf érence des Parties examine , sur la base 
+des études qui seront entreprises, la question de 
+la responsabilité et de la r éparation, y compris la 
+remise en état et l'indemnisation pour dommages 
+causés à la diversit é biologique, sauf si cette 
+responsabilité est d'ordre strictement interne. 
+ 

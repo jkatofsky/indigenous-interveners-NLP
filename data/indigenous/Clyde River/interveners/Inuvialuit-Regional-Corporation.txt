@@ -1,0 +1,795 @@
+SCC File No. 36692  
+IN THE SUPREME COURT OF CANADA  
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL)  
+BETWEEN:  
+ 
+HAMLET OF CLYDE RIVER, NAMMAUTAQ HUNTERS & TRAPPERS 
+ORGANIZATION – CLYDE RIVER, and JERRY NATANINE  
+APPELLANTS  
+(Applicants)  
+-and- 
+ 
+PETROLEUM GEO -SERVICES INC. (PGS), MULTI KLIENT INVEST AS (MKI), 
+TGS -NOPEC GEOPHYSICAL COMPANY ASA (TGS) and THE ATTORNEY 
+GENERAL OF CANADA 
+RESPONDENTS  
+(Respondents)  
+-and- 
+ 
+ATTORNEY GENERAL OF ONTARIO, ATTORNEY GENERAL OF 
+SASKATCHEWAN, NUNAVUT TUNNGAVIK INCORPORATED, NUNAVUT 
+WILDLIFE MANAGEMENT BOARD, INUVIALUIT REGIONAL CORPORATION and 
+CHIEFS OF ONTARIO  
+INTERVENERS  
+ 
+FACTUM  OF THE INTERVENER,  
+INUVIALUIT REGIONAL CORPORATION 
+(Pursuant to Rule 42 of the Rules of the Supreme Court of Canada)  
+INUVIALUIT REGIONAL 
+CORPORATION 
+107 Mackenzie Road  
+Inuvik, NT X0E 0T0  
+ 
+Kate Darling  
+Tel: (867) 777- 7077  
+Fax: ( 877) 289- 2389  
+Email: kdarling@inuvialuit.com 
+ 
+OLTHUIS KLEER TOWNSHEND LLP  
+250 University Ave, 8th Floor  
+Toronto, ON M5H 3E5  
+ 
+Lorraine Land  
+Tel: (416) 981- 9444  
+Fax: (416) 981- 9350  
+Email: lland@oktlaw.com 
+ 
+Co-Counsel for the Intervener  SUPREME ADVOCACY  
+340 Gilmour St., Suite 100 
+Ottawa, ON K2P 0R3  
+  
+Marie- France Major  
+Tel:     (613) 695- 8855  
+Fax:    (613) 695- 8580  
+Email: mfmajor@supremeadvocacy.ca  
+  
+     
+  
+Agent for the Intervener, Inuvialuit 
+Regional Corporation   
+STOCKWOODS LLP  
+TD North Tower  
+77 King Street West, Suite 4130  
+Toronto-Dominion Centre  
+Toronto, ON M5K 1H1  
+ 
+Nader R. Hasan  
+Justin Safayeni  
+Pam Hrick  
+Tel: 416 -593- 1668  
+Fax: 416- 593-9345 
+Email: NaderH@stockwoods.ca  
+ 
+Counsel for the Appellants, Hamlet of 
+Clyde River et al  
+ POWER LAW  
+Suite 1103-130 Albert Street 
+Ottawa, ON  
+K1P 5G4  
+ 
+ David Taylor
+ 
+Tel: 613 -702- 5563  
+Fax: 1- 888-604- 2227  
+Email: dtaylor@powerlaw.ca  
+ 
+  
+Agent for the Appellants, Hamlet of 
+Clyde River et al  
+ 
+BLAKE CASSELS & GRAYDON  
+Barristers & Solicitors  
+855 – 2nd Street South West 
+Suite 3500, Bankers Hall East Tower  
+Calgary, AB T2P 4J8  
+ 
+Sandy Carpenter/Ian Breneman  
+Tel: 403 -260- 9600  
+Fax: 403- 260-9700 
+Email: sandy.carpenter@blakes.com  
+ 
+Counsel for the Respondents,  PGS, MKI and TGS 
+ BLAKE CASSELS & GRAYDON  
+Barristers & Solicitors  
+855 – 2nd Street South West 
+Suite 3500, Bankers Hall East Tower  
+Calgary, AB T2P 4J8  
+ 
+Nancy Brooks  
+Tel: 613 -788- 2218  
+Fax: 613- 788-2247 
+Email: nancy.brooks@blakes.com  
+ Agent for the Respondents,
+  
+PGS, MKI and TGS 
+ 
+THE ATTORNEY GENERAL OF 
+CANADA  
+Department of Justice Canada Northwest Territories Regional Office  
+P.O. Box 2052  
+5019 – 52
+nd Street  
+2nd Floor, Nova Plaza Building  
+Yellowknife, NT X1A 2P5 
+ 
+Andrew Fox  
+Donna Keats  
+Tel: 867 -920- 6001  
+Fax: 867- 920-6025 
+Email: afox@justice.gc.ca  
+ 
+Counsel for the Respondent, Attorney 
+General of Canada  
+ THE ATTORNEY GENERAL OF 
+CANADA  
+Department of Justice Canada 50 O’Connor Street  
+Suite 500, Room 557  
+Ottawa, ON  K1A 0H8  
+ 
+  Christopher M. Rupar
+ 
+Tel: 867 -920- 6001  
+Fax: 867- 920-6025 
+Email: Christopher.rupar@justice.gc.ca  
+  
+Agent for the Respondent, Attorney 
+General of Canada   
+ATTORNEY GENERAL FOR ONTARIO  
+720 Bay Street , 8th Floor  
+Toronto, ON  M7A 2S9 
+ 
+Manizeh Fancy  
+Richard Ogden  
+Tel: (416) 314- 2177  
+Fax: (416) 326- 4181  
+E-mail: manizeh.fancy@ontario.ca  
+ 
+Counsel for the Intervener, Attorney 
+General for Ontario  
+ BURKE -ROBERTSON  
+441 MacLaren Street , Suite 200 
+Ottawa, ON  K2P 2H3  
+ 
+Robert E. Houston, Q.C. 
+Tel: (613) 236- 9665  
+Fax: (613) 235- 4430  
+E-mail: rhouston@burkerobertson.com  
+ 
+ 
+Agent for the Intervener, Attorney 
+General for Ontario  
+ATTORNEY GENERAL FOR 
+SASKATCHEWAN 
+Constitutional Law Branch, 8th Floor  
+820, 1874 Scarth St. 
+Regina, S K  S4P 4B3  
+ 
+Richard James Fyfe  
+Tel: (306) 787- 7886  
+Fax: (306) 787- 9111  
+E-mail: james.fyfe@gov.sk.ca  
+ Counsel for the Intervener, Attorney General for Saskatchewan  
+ GOWLING WLG (CANADA) INC.  
+160 Elgin Street , Suite 2600 
+Ottawa, ON   K1P 1C3  
+ 
+D. Lynne Watt  
+Tel: (613) 786- 8695  
+Fax: (613) 788- 3509  
+E-mail: lynne.watt@gowlingwlg.com  
+ 
+ Agent for the Intervener, Attorney 
+General for Saskatchewan  
+ 
+GOWLING WLG (CANADA) INC.  
+2600- 160 Elgin Street  
+P.O. Box 466, Station D  
+Ottawa, ON  K1P 1C3  
+ 
+Maxime Faille  
+Jaimie Lickers  
+Tel: (613) 233- 1781  
+Fax: (613) 563- 9869  
+E-mail: maxime.faille@gowlingwlg.com  
+ 
+Counsel for the Intervener, Chiefs of 
+Ontario  
+ 
+      
+ GOWLING WLG (CANADA) INC.  
+160 Elgin Street , Suite 2600 
+Ottawa, ON   K1P 1C3  
+ 
+Guy Régimbald  
+Tel: (613) 786- 0197  
+Fax: (613) 563- 9869  
+E-mail: guy.regimbald@gowlingwlg.com  
+  Agent for the Intervener, Chiefs of 
+Ontario  
+  
+DIONNE SCHULZE SENC  
+507, Place d'Armes , Bureau 1100 
+Montréal, QC  H2Y 2W8  
+ 
+David Schulze  
+Nicholas Dodd  
+Tel: (514) 842- 0748  
+Fax: (514) 842- 9983  
+E-mail: dschulze@dionneschulze.ca  
+ 
+Counsel for the Intervener, Makivik 
+Corporation  
+ POWER LAW  
+130 Albert Street , Suite 1103 
+Ottawa, ON  K1P 5G4  
+ 
+David Taylor  
+Tel: (613) 702- 5563  
+Fax: (613) 702- 5563  
+E-mail: dtaylor@powerlaw.ca  
+  Agent for the Intervener, Makivik 
+Corporation  
+ 
+WOODWARD & COMPANY  
+200-1022 Government Street  
+Victoria, B C  V8W 1X7  
+ 
+Dominique Nouvet  
+Tel: (250) 383- 2356  
+Fax: (250) 380- 6560  
+ 
+Counsel for the Intervener, Nunavut Tunngavik Incorporated  
+ Michael J. Sobkin  
+331 Somerset Street West  
+Ottawa, ON  K2P 0J8  Tel: (613) 282- 1712  
+Fax: (613) 288- 2896  
+E-mail: msobkin@sympatico.ca  
+ Agent for the Intervener, Nunavut 
+Tunngavik Incorporated  
+SUPREME ADVOCACY LLP  
+100 -  340 Gilmour Street  
+Ottawa,  ON  K2P 0R3  
+ 
+Eugene Meehan, Q.C.  
+Tel: (613) 695- 8855 Ext: 101 
+Fax: (613) 695- 8580  
+E-mail: emeehan@supremeadvocacy.ca  
+ 
+Counsel for the Intervener, Nunavut Wildlife Management Board  
+ SUPREME ADVOCACY LLP  
+100 -  340 Gilmour Street  
+Ottawa,  ON  K2P 0R3  
+ 
+Marie- France Major  
+Tel: (613) 695- 8855 Ext: 102 
+Fax: (613) 695- 8580  
+E-mail: mfmajor@supremeadvocacy.ca  
+ Agent for the Intervener, Nunavut 
+Wildlife Management Board  
+  
+ 
+ TABLE OF CONTENTS  
+ 
+PART I  OVERVIEW AND STATEMENT OF FACTS  1 
+PART II  QUESTION  IN ISSUE  2 
+PART III  STATEMENT OF ARGUMENT   2 
+A. Clarifying scope of deep consultation using FPIC is a logical 
+and necessary next step  2 
+B. This Court can avail itself of FPIC  as a useful framework for 
+deep consultation  3 
+C. FPIC aligns with Canadian law and will provide certainty to 
+negotiated settlements  5 
+D. The use of FPIC will promote treaty implementation and 
+reconciliation  10 
+PART IV  COSTS  10 
+PART V  ORDER REQUESTED  10 
+PART VI  TABLE OF AUTHORITIES  11 
+PART VII  STATUTORY PROVISIONS  13 
+ -1- 
+ 
+ PART I – OVERVIEW AND STATEMENT OF FACTS  
+1. The Inuvialuit Regional Corporation (IRC) is the authority representing the rights and 
+interests of more than 4500 Inuvialuit pursuant to the Inuvialuit Final Agreement  (IFA),1 which 
+is a modern land claims agreement protected by section 35 of the Constitu tion Act , 1982. 
+2. Protecting the  Inuvialuit’s important relationship with their Arctic marine environment  is 
+a central focus of  the IFA.  The ice and waters of the Beaufort Sea and Arctic Ocean comprise 
+over a third of the Inuvialuit Settlement Region (ISR) s urface area. The IFA establishes and 
+protects the ISR in law for present and future generations of Inuvialuit.  
+3. Since the 1970s, there has been significant development of renewable and non- renewable 
+resources in the ISR. The Beaufort Sea is home to both important marine wildlife populations 
+with respect to which Inuvialuit have harvesting rights2 and to numerous Crown -issued oil and 
+gas rights .3  
+4. IRC has gained  extensive experience in the process, communication, trust and 
+understanding that are necessary between modern treaty rights holders, Crown representatives, 
+industry proponents and regulators to ensure both the integrity of express treaty rights and the 
+maintenance of effective and mutually respectful relationships. Through negotiating  cooperation 
+and benefits agreements and participati ng in negotiations for the management of oil and gas 
+resources in the Beaufort Sea,4 IRC works to ensure  that the rights, interests and title expressed 
+in the IFA are not eroded over time  and that the basic goals of the IFA  are pursued reasonably 
+and responsibly by proponents, Crown representative s, Inuvialuit and other actors.  
+5. This appeal addresses  the scope of the  Crown ’s obligations when it  undertakes decisi ons 
+about development activities that may negatively impact the modern treaty rights  of Aboriginal 
+people s, like the Inuit of Clyde River and Inuvialuit of the Western Arctic, who live on 
+settlement lands and in marine areas of their settlement region.  
+6. IRC submits where deep consultation is required, the international legal principle of free, 
+prior and informed consent (“FPIC”) as outlined in the United Nations Declaration on the Rights 
+                                                           
+1 Inuvialuit Final Agreement  (25 June 1984), s. 6(1)(a), implemented by Western Arctic (Inuvialuit Claims) 
+Settlement Act, 1984, c 24, IRC Book of Authorities  (“IRC BOA”), Tab 17.  
+2 Ibid at subsection 14(29).  
+3 Indigenous and Northern Affairs Canada, Oil and Gas Rights  (June 22, 2016), (accessed: October 23, 2016), IRC 
+BOA, Tab 25.  
+4 See ss. 3.20 and 3.21 of the Northwest Territories Lands and Resources Devolution Agreement  (June 25, 2013), 
+IRC BOA Tab 27.  -2- 
+ 
+ of Indigenous Peoples5 (“the Declaration”) offers an incremental, logical and necessary 
+clarification of the scope and content of deep consultation in Canada in the context of a modern 
+treaty. It provides an appropriate standard upon which to complete and assess the work requir ed 
+to satisfy a duty of deep consultation, to achieve the purposes of a modern treaty , and to promote 
+reconciliation.  
+PART II – QUESTION  IN ISSUE  
+7. The issue in this appeal is the  scope of the duty to consult and accommodate where there 
+is a proven treaty right and deep consultation is required. 
+PART III – STATEMENT OF ARGUMENT 
+A. Clarifying scope of deep consultation using FPIC is a logical and necessary next step  
+8. In Haida Nation v. British Columbia, this Court explained that deep consultation is 
+required “where a strong prima facie  case for the claim is established, the right and the potential 
+infringement is of high significance to the Aboriginal peoples and the risk of non- compe nsable 
+damage is high”.6  
+9. Beyond identifying situation s that would trigger a duty of deep consultation, Canada’s 
+courts have yet to issue detailed guidanc e on the content  of the d uty of deep consultation.7 IRC 
+submits that this case provides an opportunity to explain what deep consultation means. 
+10. A principal draw  of a land claims settlement is  that, after years of negotiation, rights 
+holders get certainty that the rights defined and the objectives identifie d in their land claims 
+agreement will be diligently protected and pursued. After ratification and the ensuing 
+celebration, though, time does pass. The rights and interests that were so intimately understood 
+when the agreement was signed become  simply  a file  within government bureaus  and corporate 
+headquarters .  
+11. Clarifying the scope of deep consultation – defining its frame  in a way that reinforces 
+Inuit -to-Crown or Nation -to-Nation relationship s based on true mutual understanding – will 
+provide an ass urance in law that treaty rights will be afforded adequate process and protection 
+when new interest s are presented , engender  certainty among rights holders , and encourage the 
+continued settlement of modern treaties.  
+                                                           
+5 United Nations Declaration on the Rights of Indigenous Peoples , GA. Res. 61/295 GAOR, 61st Sess., Annex, UN 
+Doc. A/RES/61/295 (2007) [ Declaration ] at articles 19 and 32, IRC BOA, Tab 20.  
+6 Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 SCR 511 at para 44, IRC BOA, 
+Tab 5  [ Haida Nation ]. 
+7 Ibid. -3- 
+ 
+ 12. FPIC offers a frame for deep consultati on that  aligns with  and builds on the existing  
+Canadian jurisprudence  on the duty to consult . Article 19 of the D eclaration requires States to ,  
+[C]onsult  and cooperate in good faith with the indigenous peoples concerned 
+through their own representative institutions in order to obtain their free, prior and 
+informed consent before adopting and implementing legislative or administrative measures that may affect them.
+ 8  
+ 
+13. Article 32(2) further explains that States will,  
+[C]onsult and cooperate in good faith with the indigenous peoples concerned 
+through their own representative institutions in order to obtain their free prior and informed consent prior to the a pproval of any project affecting their lands or 
+territories and other resources, particularly in connection with the development, utilization or exploitation of mineral, water or other resources.
+9  
+ 
+B. This Court can avail itself of FPIC as a useful framew ork for deep consultation  
+14. The UN General Assembly adopted the Declaration on September 13, 2007 with 143 
+countries voting in favour.10 Canada, along with Australia, New Zealand and the United States , 
+initially voted against the Declaration.11 In 2010, Canada issued a statement of qualified support 
+for the Declaration.12 In 2016, Canada announced that it is a “full supporter of the Declaration 
+without qualification” and that “by adopting and implementing the declaration, we are breathing 
+life in to Section 35.”13 As the Declaration as a whole can help vivify Aboriginal rights in 
+Canada, so too can FPIC help animate deep consultation . 
+15. The Declaration, including the provisions relating to FPIC , was developed through the 
+dedicated work of Aboriginal and state leaders, legal practitioners and scholars, and civil society 
+representatives over more than 20 years.14 The Declaration embodies international human rights 
+principles and laws including those found in International Covenant on Civil and Political 
+                                                           
+8 Declaration, supra note 5 at article 19.  
+9 Declaration, supra note 5 at article 32.  
+10 Office of the UN High Commissioner for Human Rights, “Declaration on the Rights of Indigenous Peoples”, 
+online: <www.ohchr.org/EN/Issues/IPeoples/Pages/Declar ation.as px>, IRC BOA,Tab 28.  
+11 Tony Penikett, “An Unfinished Journey: Arctic Indigenous Rights, Lands, and Jurisdiction?” (2014) Seattle UL 
+Rev 1127 at pages 1139- 1140, IRC BOA, Tab 30.  
+12 Indigenous and Northern Affairs Canada, “Canada’s Statement of Supp ort on the United Nations Declaration on 
+the Rights of Indigenous Peoples” (November 12, 2010) Government of Canada,  online: <www.aadnc -
+aandc.gc.ca/eng/1309374239861/1309374546142> (accessed October 13, 2016), IRC BOA, Tab 24.  
+13 Government of Canada, “Speech delivered at the United Nations Permanent Forum on Indigenous Issues, New 
+York”, (May 10, 2016) Government of Canada, <news.gc.ca/web/article -en.do?nid=1064009> (accessed October 
+25, 2016), IRC BOA, Tab 22.  
+14 Office of the UN High Commissioner for Human Rights, “Mandate of the Working Group on Indigenous 
+Populations”, online: <www.ohchr.org /EN/Issues/IPeoples/ Pages/MandateWGIP.as px> (accessed October 13, 
+2016), IRC BOA, Tab 29.  -4- 
+ 
+ Rights (ICCPR) and the International Covenant on Economic, Social and Cultural Rights  
+(ICESCR) – both binding documents at international law.15 
+16. The principle of free, prior and informed consent serves  to place a balance of power – in 
+the form of influence on process, information, time, and meaningful participation – in the hands 
+of the people and communities who will  have to endure the consequences of  the proposed 
+activity. The Special R apporteur on the Rights of Indigenous Peoples (Special Rapporteur) has 
+explained that together, the “principles of consultation and consent function as instrumental to 
+rights of partic ipation and self -determination, and as safeguards for all those rights of indigenous 
+peoples that may be affected by external actors […]”16. 
+17. IRC submits that it is not necessary for this Court to make a determination on the  legal 
+status  of the Declaration in  order to avail itself of the principle of free, prior and informed 
+consent as a useful framework for the clarification of the duty of deep consultation in a way that aligns with domestic and international laws, values and principles.  
+18. This Court frequentl y looks to international human rights law to assist in the 
+interpretation of Canadian  constitutional  law.17 In Reference Re Public Service Employee 
+Relations Act (Alta.) , Chief Justice Dickson explained: “ The various sources of international 
+human rights law – declarations, covenants, conventions, judicial and quasi -judicial decisions of 
+international tribunals, customary norms – must, […] be relevant and persuasive sources for 
+interpretation of the Charter ’s provisions.”18 And further, “as the Canadian judiciary approaches 
+the often general and open textured language of the Charter , the more detailed and textured 
+provisions of the treaties may aid in supplying content to such imprecise concepts.”19 Dickson 
+C.J.’s approach proved to be a guide in Saskatchewan Federation of Labour, where this Court  
+                                                           
+15 International Covenant on E conomic, Social and Cultural Rights , 16 December 1966, 993 UNTS 3 (entered into 
+force 3 January 1976) at Art. 1, ICR BOA, Tab 19 [ICESCR]; International Covenant on Civil and Political 
+Rights , 19 December 1966, 999 UNTS 171, Can TS 1976 No 47 (entered into force 23 March 1976) at Art. 1, ICR 
+BOA, Tab 18 [ICCPR]. This Court has confirmed that ICCPR is binding on Canada: Divito v Canada (Public 
+Safety and Emergency Preparedness) , 2013 SCC 47, [2013] 3 SCR 623 at para 25, IRC BOA, Tab 3 [ Divito ].  
+16 Report of the Special Rapporteur on the rights of indigenous people, HRC, 24th Sess. UN Doc. A/HRC/24/41 
+(2013) at para 28, IRC BOA, Tab 32 [ Report of the Special Rapporteur (2013)].  
+17 Divito supra note 15 at 21- 29; Saskatchewan Federation of Labour v Saskatchewan, 2015 SCC 4, [2015] 1 SCR 
+245 at paras 62- 70, IRC BOA, Tab 14 [ Saskatchewan Federation]; R v Hape , 2007 SCC 26, [2007] 2 SCR 292 at 
+paras 53 -56, IRC BOA, Tab 10.  
+18 Reference Re Public Service Employee Relations Act (Alta.) , [1987] 1 SCR 313 at 348, IRC BOA,  Tab 12.  
+19 Ibid at para 58.  -5- 
+ 
+ relied on the “ emerging international consensus ” around the right to strike in international law to 
+assist in interpreting the scope of s. 2(d) of the Charter .20  
+19. IRC submits that, in line with the analysis above , the Declaration  is relevant to the 
+interpretation of the scope and content of constitutional principles relating to Aboriginal peoples , 
+including the duty to consult as a means for upholding Aboriginal rights in Canada.  
+C. FPIC aligns with Canadian law  and provides certainty to negotiated settlements  
+20. The principle of free, prior and informed consent provides a process  that is designed to  
+secure reconciliation of the substantive and procedural rights of Aboriginal peoples with the 
+interests of governments and third parties.21 FPIC is consistent with the existing body of case law 
+on the duty to consult and accommodate and the general canon o f administrative law .  
+Additionally, it  provide s additional tools to help realize the goal of reconciliation articulated in 
+the jurisprudence on s. 35.22 Free, prior and informed consent is designed to build dialogue  
+through which both States and indigenous peoples work in good faith toward consensus.23  
+21. IRC submits that the process require d to achieve free, prior and informed consent in 
+situations of deep consultation includes six key elements. In discharging the duty to cons ult, 
+these elements combine to reinforce “the procedural safeguards of natural justice mandated by 
+administrative law” .24 
+22. FPIC is consistent with this Court’s statements in Taku River  that a n exhaustive  checklist 
+for this level of consultation is impossible .25  Instead, FPIC provides a framework with sufficient 
+flexibility to adapt to different scenarios , which would prove  extremely helpful to modern treaty 
+rights holders, proponents, regulators and Crown representatives navigating  the consultation 
+process. I t would s ave time and resources dedicated to figuring out what qualifies as deep 
+consultation. 
+                                                           
+20 Saskatchewan Federation, supra note 17 at para 71.  
+21 Report of the Special Rapporteur on the situation of human rights and fundamental freedoms of indigenous 
+people , HRC, 12th Sess., UN Doc. A/HRC/12/34 (2009) at paras 46- 49, IRC BOA, Tab 32 [ Report of the Special 
+Rapporteur (2009)].  
+22 Rio Tinto Alcan Inc. v Carrier Sekani Tribal Council, 2010 SCC 43 at paras 56- 58, IRC BOA, Tab 13; see also, 
+Beckman v Little Salmon/Carmacks First Nation, [2010] 3 SCR 109 at para 39, IRC BOA, Tab 1 [ Beckman ]; Taku 
+River Tlingit First Nation v British Columbia , [2004] 3 SCR 550, at para 24, IRC BOA, Tab 15 [ Taku River ]. 
+23 Iaccobucci et al., “Free, Prior and Informed Consent in Canada: Towards a New Relationship with Indigenous 
+Peoples,” Torys LL P, (2016), at para 22, IRC BOA, Tab 23 [Iaccobucci].  
+24 Beckman, supra note 22 at para 46; Haida, supra note 6 at para 41.  
+25 Taku River, supra note 22 at para 32.  -6- 
+ 
+ 23.  The diligent pursuit of the following six key elements  will support the achievement of 
+deep consultation, enhance the certainty of treaty promises and promote the goal of 
+reconciliation :  
+a. Freedom from force, intimidation, manipulation, coercion or pressure by a proponent 
+[Freedom];  
+b. Mutual agreement on a process for consultation [Procedural Consensus];26  
+c. Robust and satisfactory engagement with the Aboriginal group prior to approval 
+[Robust Engagement];27 
+d. Sufficient and timely information exchange [Information and Understanding];28 
+e. Proper resourcing, both technical and financial, to allow the Aboriginal group to meaningfully participate [Meaningful Participation];
+29  
+f. Shared  objective of obtaining the reasonable consent of the Aboriginal group [Objective 
+of Consent].30  This is an  overarching objective that serves as a guide for the process as 
+a whole.  
+24. The Freedom  element reflects the fact that consent cannot be valid if it is extracted 
+through force, threats , or intimidation. In Canada, we are fortunate to have a strong legal 
+framework already in place that addresses this concern.  Nevertheless this element is esse ntial to 
+a meaningful process  of consent .  A conceivable infringement of this element could be  a threat  to 
+withhold emergency  services  unless consent is given to a development project within a rights 
+holder’s settlement area.  
+25. The Procedural Consensus element requires the Crown and the rights holders to come to 
+a common understanding about what steps are required to obtain reasonable consent. This 
+includes accommodati ng the needs of the participant Aboriginal group, for example by setting  a 
+schedule  for consultation  that provides for different harvesting seasons  or days of importance . In 
+line with Haida, “at all stages, good faith on both sides is required”.31 A requirement to work in  
+good faith to determine a reasonable process work s as a limit on the unreasonable intransigence 
+of one or both parties . While this element may add time and effort at the front end of the 
+consultation, procedural consensus will help manage expectations and maintain focus  on the 
+objective of reasonable consent.  
+                                                           
+26 Report of the Special Rapporteur (2009), supra note 21 at para 51.  
+27 Report of the Special Rapporteur (2013), supra  note 16 at para 67.  
+28 Ibid at 65 -66. 
+29 Report of the Special Rapporteur, HRC  (2009), supra note 21 at para 47.  
+30 Ibid at para 48.  
+31 Haida Nation, supra note 6 at para 42.  -7- 
+ 
+ 26. Robust Engagement must “take place before the government authorizes or a company 
+undertakes or commits to undertake any activity related to the project within Indigenous territory 
+or other lands subject to Indigenous rights.”32 It requires the commitment of  time, energy and  
+resources to understand the positions and interests of the Aboriginal group. The objective of 
+obtaining reasonable consent drives the entity seeking that consent to invest in fostering  a 
+working relationship with, teaching and learning fr om the Aboriginal party.  
+27. The Information and Understanding element is necessarily multidirectional. It requires 
+an exchange of information on the nature of the project, as well as a demonstrated understanding of the Aboriginal right at stake and the specific nature of the potential impacts on the Aboriginal 
+interests in question, including impacts on the rights of future generations.
+33 While it is 
+incumbent upon the Crown to furnish Aboriginal parties with information about the project, the 
+Crown also has a responsibility to receive and understand project concerns – including those 
+based in Traditional Knowledge – from the rights holders. This exchange will necessarily affect  
+the Crown’s decision to accept an Aboriginal party’s non- consent or, on the ot her hand, the 
+Crown’s justification of its decision to proceed without that consent  under the Sparrow  analysis 
+discussed below .  
+28. Consultation must be in good faith and with the intention of substantially addressing the 
+concerns of the A boriginal peoples whose lands  and rights  are at issue.34 As such, the Crown has 
+a duty to ensure that the representations of Aboriginal peoples are seriously considered.35 This is 
+the principle  that the Information and Understanding element targets.  
+29. To satisfy the  Meaningful Participation  element, attention must be given to the 
+“implications of power imbalances.”36 The party seeking to obtain consent must ensure  that the 
+treaty rights holder has adequate financial and technical resources to responsibly  study the risks 
+and rewar ds of a proposed development  on present and future generations , to understand their 
+legal rights with respect to the proposal , and to prese nt their positions for consideration. In order 
+for an Aboriginal  people to meaningfully participate , the Crown must provide them with a 
+reasonable amount of time commensurate with the significance of the possible impacts.  
+                                                           
+32 Report of the Special Rapporteur (2 013), supra  note 16 at para 27.  
+33 Report of the Special Rapporteur (2013) supra note 16 at para 65- 66. 
+34 Delgamuukw v British Columbia,  [1997] 3 SCR 1010 at para 168, IRC BOA, Tab 2 [ Delgamuukw ]. 
+35 Mikisew  Cree First Nation v Canada (Minister of Canadian Heritage), 2005 SCC 69, [2005] 3 SCR 388 at para 
+64, IRC BOA, Tab 7 [ Mikisew Cree ]. 
+36 Iaccobucci, supra note 23 at para 25.  -8- 
+ 
+ 30. The Objective of Consent  requirement often attracts the most controversy, as this has 
+been misinterpreted by some groups a s a veto for rights holders . A unilateral veto , however,  
+would provide for arbitrary decision- making, which is fundamentally inconsistent with free, 
+prior and informed consent and with the Canadian jurisprudence. Consent in FPIC is not a 
+binary , yes or no, concept. Rather, “consent is a complex process of building a relationship, 
+exchanging information, conducting analysis” and fully integrating an Aboriginal community in 
+the process of discussion, analysis and decision- making.37 The objective of consent acts as 
+overarching guide to the FPIC process.  
+31. In Mikisew , the Court reiterated that “consultation will not always lead to 
+accommodation, and accommodation may or may not result in an agreement”.38 Similarly, the 
+Special Rapporteur has explained that FPIC should not be regarded as according a general “veto 
+power” over decisions, but rather as establishing consent as the objective of consultations with 
+indigenous peoples.39  
+32. The Honourable Frank Iacobucci recently emphasi zed that the s tandard for consultation 
+that FPIC embodies is consultation with the objective of consent : “While a veto enables arbitrary 
+and uninformed decisions and inhibits meaningful consultation, consultation in the aim of 
+achieving consent emphasizes meaningful and  informed dialogue and accommodation”.40 The 
+emphasis is on bona fide  negotiations toward mutually acceptable arrangements where both 
+parties have a real opportunity to influence the decision. The  impetus of working to achieve 
+consent drives the parties tow ard meaningful consultation based on  respect  for each party ’s role 
+and status.  
+33. The focus of FPIC on obtaining reasonable consent is consistent with this Court’s 
+statements that in some cases, consent of an Aboriginal group may be required or 
+advantageous.41 This ensures that the consultation is more than merely an opportunity to “blow 
+                                                           
+37 Lorraine Land, “Who’s Afraid of the big, bad, FPIC? Evolving integration of the United Nations Declaration on 
+the Rights of Indigenous Peoples  into Canadian law and policy” (2016) 4:2 Northern Public Affairs  42 at 43, IRC 
+BOA, Tab 26.  
+38 Mikisew Cree, supra note 35 at para 66.  
+39 Report of the Special Rapporteur (2009), supra note 21 at  para 46.  
+40 Iaccobucci, supra note 23 at para 23.  
+41 Haida Nation,  supra  note 6 at paras 40, 44; Tsilhqot’in Nation v British Columbia , 2014 SCC 44, [2014] 2 SCR 
+257 at paras 2, 76, IRC BOA, Tab 16 [ Tsilhqot’in Nation ]; Delgamuukw supra note 34 at para 168.  -9- 
+ 
+ off steam.”42 Consultation has to be meaningful43 in order to satisfy the duty to consult and 
+accommodate. FPIC is a means to achieve this and a standard against which to assess  it.  
+34. As expressed in Tsilhqot’in , consent is the mechanism that will offer most certainty not 
+only to those who wish to pursue a project that may have a significant impact on express 
+Aboriginal rights ,44 but also to those Aboriginal peoples who have negotiated a land claims 
+agreement. Consultation with the objective of obtaining consent provides more certainty, and is more consistent with international legal  principles of self -determination for indigenous  
+peoples.
+45 
+35. Furthermore, because the concept of reasonableness is one of the most widely used 
+concepts in Canadian law, courts are well -equipped to assess decisions on a standard of 
+reasonableness where an indigenous government withholds consent.46 This prom otes certainty of 
+decisions for all parties, encourages balance, and sets a clear and familiar standard for the 
+Crown, indigenous groups, and third parties.  
+36. In the case of deep consultation and proven rights, the FPIC framework also provides a 
+sensible wa y to integrate the duty to consult and accommodate with the duty of the Crown not to 
+infringe proven rights without justification. If the Crown proves  that it has diligently pursued the 
+requirements of FPIC and the Aboriginal party withheld its consent unr easonably, then the 
+approval may proceed . 
+37. If the Aboriginal group withholds its consent, but does so reasonably, there are two 
+options:  
+a. The Crown accepts the decision and the project does not go ahead;  
+b. The Crown proceeds with the decision/project without t he consent of the 
+Aboriginal group if the Crown is able to justify the infringement of the Aboriginal 
+interest under the Sparrow  framework.47 
+                                                           
+42 Mikisew Cree supra note 35 at para 54.  
+43 Tsilhqot’in Nation, supra note 41 at para 96; Taku River supra  note 22 at para 2.  
+44 Boreal Leadership Council, “Understanding Successful Approaches to Free, Prior and Informed Consent in 
+Canada – Part I: Recent D evelopments and Effective Roles for Government, Industry and Indigenous 
+Communities” (September 2015) at 14, IRC BOA, Tab 21; Tsilhqot’in Nation, supra note 41 at para 2.  
+45 ICESCR, supra  note 15 at Art. 1; ICCPR, supra note 15 at Art. 1; Declaration, supra note 5 at Art. 3.  
+46 Dunsmuir v New Brunswick , [2008] 1 SCR 190, 2008 SCC 9 at para 46, IRC BOA, Tab 4; Newfoundland and 
+Labrador Nurses' Union v Newfoundland and Labrador, [2011] 3 SCR 708, at paras 12- 13, IRC BOA, Tab 8.  
+47 R. v Sparrow , [1990] 1 SCR 1075  at 1113, IRC BOA, Tab 11 (reiterated in Tsilhqot’in Nation, supra, at para 104).  -10- 
+ 
+ 38. IRC submits that the record produced through the application of the FPIC principles 
+would appropriately inform the justification analysis to allow for a  realistic balancing of present 
+and future public and Aboriginal interests. This will also promote predictability and fairness.   
+D. FPIC Supports Implementation of Treaties and Reconciliation  
+39. In Manitoba Métis Federation Inc. v . Canada (Attorney General) , this Court held that the 
+honour of the Crown governs treaty implementation and requires the Crown to act in a way that 
+accomplishes the intended purposes of the treaty. The honour of the Crown further requires that 
+the Crown take a broad , purposive approach to the interpretation of the promise and to act 
+diligently to fulfill it. Crown servants, therefore, “must seek to perform the obligation in a way that pursues the purpose behind the promise.”
+48 
+40. IRC submits th at, where modern treaty rights are at stake and deep consultation is 
+required, consulting with the objective of obtaining the reasonable consent of an Aboriginal 
+people is consistent with the Crown’s obligations to diligently fulfill treaty promises.49 By 
+implementing the principle of free, prior and informed consent, parties are engaged in “the 
+building of confidence and mutual respect.”50  
+41. FPIC also promotes reconciliation by encouraging Aboriginal peoples to continue to 
+enter into modern treaties. By setting reasonable consent as the shared objective of the 
+consultation process, FPIC supports the alignment of the goals of both parties. Not only will this 
+help to facilitate the success of the consultation process, but it will also provide cert ainty that the 
+compromise that indigenous groups have made through negotiated land claims settlements will 
+be respected. Aboriginal communities would have an assured and specified role, as well as more 
+precise powers and responsibilities. In this way, FPIC contributes to productive and peaceful 
+Nation -to-Nation relationships. 
+PART IV -  COSTS  
+42. The IRC does not seek costs and respectfully requests that no costs be ordered against it. 
+PART V – ORDER REQUESTED  
+43. The IRC respectfully requests that it be allowed to make an oral ar gument of not more 
+than ten (10) minutes.  
+                                                           
+48 Manitoba Métis Federation Inc. v Canada, [2013] 1 SCR 623 at paras 73- 80, IRC BOA, Tab 6.  
+49 Ibid at para 73;  Quebec (Attorney General) v Moses,  [2010] 1 SCR 557, at para 23, IRC BOA, Tab 9; Mikisew 
+Cree, supra note 35 at para 51.  
+50 Report of the Special Rapporteur (2009) supra note 21 at para 51.  -11- 
+ 
+ 
+ALL OF WHICH IS RESPECTFULLY SUBMITTED THIS  3rd day of November , 2016.  
+_________________________________ 
+Solicitors for the Intervener   -12- 
+ 
+ PART VI – TABLE OF AUTHORITIES  
+JURISPRUDENCE  
+TAB   Paragraph  
+ 1 Beckman v  Little Salmon Carmack First Nation,  2010 SCC 53, 
+[2010] 3 SCR 109  20, 21  
+ 2 Delgamuukw v British Columbia,  [1997] 3 SCR 1010  28, 33 
+ 3 Divito v Canada (Public Safety and Emergency Preparedness) , 2013 
+SCC 47, [2013] 3 SCR 623 15, 18 
+ 4 Dunsmuir v  New Brunswick , [2008] 1 SCR 190, 2008 SCC 9  35 
+ 5 Haida Nation v British Columbia (Minister of Forests), 2004 SCC 
+73, [2004] 3 SCR 511  8, 21, 25, 
+32, 33 
+ 6 Manitoba Métis Federation Inc. v Canada (Attorney General),  2013 
+SCC 14, [2013] 1 SCR 623 39, 40 
+ 7 Mikisew Cree First Nation v Canada (Minister of Canadian 
+Heritage), 2005 SCC 69, [2005] 3 SCR 388  28, 31, 33, 
+40 
+ 8 Newfoundla nd and Labrador Nurses' Union v  Newfoundland and 
+Labrador (Treasury Board), [2011] 3 SCR 708, 2011 SCC 62  35 
+ 9 Quebec (Attorney General) v  Moses , [2010] 1 SCR 557, 2010 SCC 
+17 40 
+10 R. v Hape , [2007] 2 SCR 292  18 
+11 R. v Sparrow , [1990] 1 SCR 1075  27, 37 
+12 Reference Re Public Service Employee Relations Act (Alta.) , [1987] 
+1 SCR 313  18 
+13 Rio Tinto Alcan Inc. v  Carrier Sekani Tribal Council , 2010 SCC 43  20 
+14 Saskatchewan Federation of Labour v Saskatchewan, 2015 SCC 4, 
+[2015] 1 SCR 245  18 
+15 Taku River Tlingit First Nation v  British Columbia  (Project 
+Assessment Director), [2004] 3 SCR 550, 2004 SCC 74  20, 22, 33 
+16 Tsilhqot’in Nation v British Columbia , 2014 SCC 44, [2014] 2  SCR 
+257 33, 34, 37 
+ 
+TREATIES  
+17 Inuvialuit Final Agreement  (25 June 1984), implemented by 
+Western Arctic (Inuvialuit Claims) Settlement Act, 1984, c 24 1, 2 
+18 International Covenant on Civil and Political Rights , 19 December 
+1966, 999 UNTS 171, Can TS 1976 No 47 (entered into force 23 15, 34 -13- 
+ 
+ March 1976)  
+19 International Covenant on Economic, Social and Cultural Rights , 
+16 December 1966, 993 UNTS 3 (entered into force 3 January 
+1976)  15, 34 
+ 
+INTERNATIONAL INSTRUMENTS  
+20 United Nations Declaration on the Rights of Indigenous Peoples,  
+GA Res. 61/295 GAOR, 61st Sess., Annex, UN Doc. A/RES/61/295 
+(2007)  12, 13, 14 
+15, 17, 34 
+ 
+SECONDARY SOURCES  
+21 Boreal Leadership Council, Understanding Successful Approaches 
+to Free, Prior and Informed Consent in Canada – Part I: Recent 
+Developments and Effective Roles for Government, Industry and 
+Indigenous Communities , September 2015  34 
+22 Government of Canada , “Speech delivered at the United Nations 
+Permanent Forum on Indi genous Issues, New York,”  (May 10, 
+2016)  Government of Canada, <news.gc.ca/web/article -
+en.do?nid=1064009> (accessed October 25, 2016 ) 14 
+23 Frank Iaccobucci  et al., “Free, Prior and Informed Consent in 
+Canada: Towards a New Relationship with Indigenous Peoples ,” 
+Torys LLP,  (2016)  20, 29, 32 
+24 Indigenous and Northern Affairs Canada, “Canada’s Statement of 
+Support on the United Nations Declaration on the Righ ts of 
+Indigenous Peoples” (November 12, 2010) Government of Canada, 
+online: <www.aadnc -aandc.gc.ca/eng/1309374239861/  
+1309374546142>  (accessed October 13, 2016)  14 
+25 Indigenous and Northern Affairs Canada, Oil and Gas Rights  (June 
+22, 2016), Government of Canada, online: https://www.aadnc -
+aandc.gc.ca/DAM/DAM -INTER -HQ-NOG/STAGING/texte -
+text/nog_df_rts_pdf_135059136 3283_eng.pdf (accessed: October 
+23, 2016)  3 
+26 Lorraine Land, “Who’s Afraid of the big, bad, FPIC? Evolving 
+integration of the United Nations  Declaration on the Rights of 
+Indigenous Peoples  into Canadian law and policy” (2016) 4:2 
+Northern Public Affairs  42 30 
+27 Northwest Territories Lands and Resources Devolution Agreement  
+(June 25, 2013)  
+ 
+ 4 -14- 
+ 
+ 28 Office of the UN High Commissioner for Human  Rights, 
+“Declaration on the Rights of Indigenous Peoples” , online: 
+<www.ohchr.org/EN/Issues/IPeoples/Pages/ Declaration.aspx > 
+(accessed October 13, 2016)  14 
+29 Office of the UN High Commissioner for Human Rights, “Mandate 
+of the Working Group on Indigeno us Populations” , online: 
+<www.ohchr.org/EN/Issues/ IPeoples/Pages/MandateWGIP.aspx> 
+(accessed October 1 3, 2016)  15 
+30 Tony Penikett, “An  Unfinished Journey: Arctic Indigenous Rights, 
+Lands, and Jurisdiction?” (2014) 37 Seattle UL Rev 1127 14 
+31 Report of the Special Rapporteur on the rights of indigenous people,  
+HRC, 24th Sess. UN Doc. A/HRC/24/41 (2013)  16, 23, 26, 
+27 
+32 Report of the Special Rapporteur on the situation of human rights 
+and fundamental freedoms of indigenous people , HRC, 12th Sess., 
+UN Doc. A/HRC/12/34 (2009)  20, 23, 31, 
+40 
+ 
+PART VII – STATUTORY PROVISIONS  
+33 The Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11s. 
+35 
+ 
+35.  (1) The existing aboriginal and 
+treaty rights of the aboriginal peoples of 
+Canada are hereby recognized and affirmed.  
+  
+ (2) In this Act, "aboriginal peoples of 
+Canada" includes the Indian, Inuit and Métis peoples of Canada.  
+ (3) For greater certainty, in subsection (1) "treaty rights" includes rights that now exist by way of land claims agreements or may be so acquired.   
+  (4) Notwithstanding any other provision 
+of this Act, the aboriginal and treaty rights referred to in subsection (1) are guaranteed equally to male and female persons.   
+ 35.  (1) Les droits existants — ancestraux ou 
+issus de traités — des peuples autochtones 
+du Canada sont reconnus et confirmés.   
+ 
+ (2) Dans la présente loi, « peuples 
+autochtones du Canada » s'entend 
+notamment des Indiens, des Inuit et des Métis du Canada.   
+ 
+ (3) Il est entendu que sont  compris parmi 
+les droits issus de traités, dont il est fait 
+mention au paragraphe (1), les droits 
+existants issus d'accords sur des 
+revendications territoriales ou ceux 
+susceptibles d'être ainsi acquis.   
+ 
+ (4) Indépendamment de toute autre 
+disposition de  la présente loi, les droits —  
+ancestraux ou issus de traités — visés au 
+paragraphe (1) sont garantis également aux 
+personnes des deux sexes.  
+ 

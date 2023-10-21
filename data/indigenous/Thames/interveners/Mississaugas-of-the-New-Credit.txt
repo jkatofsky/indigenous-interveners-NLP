@@ -1,0 +1,889 @@
+Court File No.: 36776 
+BETWEEN: 
+AND: IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL) 
+CHIPPEWAS OF THE THAMES FIRST NATION 
+ENBRIDGE PIPELINES INC., 
+THE NATIONAL ENERGY BOARD, and 
+THE ATTORNEY GENERAL OF CANADA APPELLANT 
+(Appellant) 
+RESPONDENTS 
+(Respondents) 
+AND: 
+ATTORNEY GENERAL FOR ONT ARIO, 
+ATTORNEY GENERAL FOR SASKATCHEWAN, 
+NUNAVUT WILDLIFE MANAGEMENT BOARD, 
+SUNCOR ENERGY MARKETING INC. 
+MOHAWK COUNCIL OF KAHNA W A:KE, 
+MISSISSAUGAS OF THE NEW CREDIT FIRST NATION and 
+CHIEFS OF ONTARIO 
+INTERVENERS 
+FACTUM OF THE INTERVENER, 
+MISSISSAUGAS OF THE NEW CREDIT FIRST NATION 
+(Pursuant to Rules 3 7 and 4 2 of the Rules of the Supreme Court of Canada) · 
+PAPE SALTER TEILLET LLP 
+546 Euclid A venue 
+Toronto, ON. M6G 2T2 
+Nuri G. Frame 
+Jason T. Madden 
+Jessica Labranche 
+Tel: (416)916-2989 
+Fax: (416)916-3726 
+Email: nframe@pstlaw.ca 
+Counsel for the Intervener, 
+Mississaugas of the New Credit First Nation GOWLING WLG (CANADA) LLP 
+Barristers & Solicitors 
+2600 -160 Elgin Street 
+Ottawa, ON. KIP 1C3 
+Matthew S. Estabrooks 
+Tel: (613) 786-0211 
+Fax: (613) 563-9869 
+Email: matthew.estabrooks@gowlingwlg.com 
+Ottawa Agent for Counsel for the Intervener, 
+Mississaugas of the New Credit First Nation NAHWEGAJBOW, CORBIERE, 
+ GENOODMAGEJIG  
+5884 Rama Road, Suite 109  
+Rama, ON.  L3V 6H6  
+David C. Nahwegahbow and  
+Scott Robertson  
+Tel:  (705)325 -0520  
+Fax: (705)325 -7294  
+Email:  dndaystar@mncfirm.ca  
+Counsel for the Appellant  SUPREME LAW GROUP 
+Barristers & Solicitors  
+900 – 275 Slater Street  
+Ottawa, ON.  K1P 5H9  
+Mora S. Dillon  
+Tel: (613)691 -1224  
+Fax: (613)691 -1338  
+Email:  mdillon@supremelawgroup.ca  
+Ottawa Agent for Counsel for the Appellant  
+DENTONS CANADA LLP  
+850 Second Street SW, Suite 1500  
+Calgary, AB.  T2P 0R8  
+Douglas E. Crowther, Q.C. &  
+Joshua A. Jantzi  
+Tel:  (403)268 -7000  
+Fax: (403)268 -3100  
+Email: douglas.crowther@dentons.com  
+Counsel for the Respondent, Enbridge  
+Pipelines Inc.  DENTONS CANADA L LP 
+99 Bank Street, Suite 1420  
+Ottawa, ON.  K1P 1H4  
+K. Scott McLean
+Tel:  (613)783 -9665
+Fax: (613)783 -9690
+Email:  scott.mclean@dentons.com
+Ottawa Agent for Counsel for the Respondent,  
+Enbridge Pipelines Inc. 
+JODY SAUNDERS and  
+KRISTEN LOZYNSKY  
+517 Tenth Avenue SW  
+Calgary, AB.  T2R 0A8  
+Tel: (403)299 -2715  
+Fax: (403)292 -5503  
+Email: jody.saunders@neb -one.gc.ca  
+Counsel for the Respondent, National Energy Bo ard CONWAY, BAXTER, WILSON LLP  
+111 Prince of Wales, Suite 401  
+Ottawa, ON.   K2C 3T2  
+Colin S. Baxter  
+Tel:  (613)780 -2012  
+Fax: (613)688 -0271  
+Email:  cbaxter@conway.pro  
+Ottawa Agent for Counsel for the Respondent, 
+National Energy Board  
+DEPARTMENT OF JUSTICE CANDA  
+130 King Street, W.  
+Suite 3400, Box 36  
+Toronto, ON.  M5X 1K6  
+Peter Southey  
+Mark Kindrachuk, Q.C.  
+Tel: (416)973 -2240  
+Fax: (416)973 -0809  
+Email:  peter.southey@justice.gc.ca  DEPARTMENT OF JUSTICE CANADA  
+50 O’Connor Street  
+Suite 500, Room 557  
+Ottawa, ON.  K1A 0H8  
+Christopher M. Rupar  
+Tel:  (613 )670-6290  
+Fax: (613)954 -1920  
+Email:  Christopher.rupar@justice.gc.ca  Counsel for the Respondent, Attorney General of Canada   Ottawa Agent for the Respondent, Attorney  
+General of Canada  
+ATTORNEY GENERAL FOR ONTARIO  
+8th – 720 Bay Street  
+Toronto, ON.  M7A 2S9 
+Manizeh Fancy  
+Tel:  (416)314 -2177  
+Fax: (416)326 -4181  
+Counsel for the Intervener, Attorney General for  
+Ontario  BURKE -ROBERTSON LLP  
+200 – 441 MacLaren Street  
+Ottawa, ON.  K2P 2H3  
+Robert E. Houston, Q.C.  
+Tel:  (613)236 -9665  
+Fax: (613)235 -4430  
+Ottawa Agent for Counsel for the Intervener,  
+Attorney General for Ontario  
+ATTORNEY GENERAL FOR SASKATCHEWAN  
+Constitutional Law Branch, 8th Floor  
+820, 1874 Scarth Street  
+Regina, SASK.  S4P 4B3  
+James Fyfe  
+Tel:  (306)787 -7886  
+Fax:  (306)787 -9111  
+Email:  james.fyfe@gov.sk.ca  
+Counsel for the Intervener, Attorney General for  
+Saskatchewan  GOWLING WLG (CANADA)  LLP 
+Barristers & Solicitors  
+2600 – 160 Elgin Street  
+Ottawa, ON.  K1P 1C3  
+D. Lynne Watt
+Tel:  (613) 788 -3509
+Fax:  (613) 563 -9869
+Email:  lynne.watt@gowlingwlg.com
+Ottawa Agent for Counsel for the Intervener, 
+Attorney General for Saskatchewan  
+SUPREME ADVOCACY LLP  
+100 – 340 Gilmour Street  
+Ottawa, ON.  K2P 0R3  
+Eugene Meehan, Q.C.  
+Tel:  (613)69 5-8855  Ext: 101  
+Fax:  (613)695 -8580  
+Email:  emeehan@supremeadvocacy.ca  
+Counsel for the Intervener, Nunavut Wildlife 
+Management Board  SUPREME ADVOCACY LLP 
+100 – 340 Gilmour Street  
+Ottawa, ON.  K2P 0R3  
+Marie -France Major  
+Tel:  (613)695 -8855  Ext: 102  
+Fax:  (613)695 -8580  
+Email:  mfmajor@supremeadvocacy.ca  
+Ottawa Agent for Counsel for the Intervener, 
+Nunavut Wildlife Management Board  
+OSLER HOSKIN HARCOURT LLP  
+450 – 1ST Street S.W.  
+Suite 2500, TransCanada Tower  
+Calgary, AB.  T2P 5H1  
+Martin Ignasiak  
+W. David RankinOSLER HOSKIN HARCOURT LLP  
+340 Albert Street  
+Suite 1900  
+Ottawa, ON.  K1R 7Y6  
+Patricia J. Wilson 
+Tel:  (613)787 -1009  Heather Weberg  
+Tel:  (403)260 -7007  
+Fax: (403)260 -7024  
+Email:  mignasiak@osler.com  
+Counsel for the Intervener, Suncor Energy Marketing 
+Inc. Fax: (613)235 -2867 
+Email:  pwilson@osler.com  
+Ottawa Agent for Counsel for the Intervener, 
+Suncor Energy Marketing Inc.  
+MOHAWK COUNCIL OF KAHNAWAKE LEGAL 
+SERVICES  
+P.O. Box 720  
+Mohawk Territory of Kahnawà:ke, QC J0L 1B0  
+Francis Walsh  
+Tel:  (450)632 -7500  
+Fax: (450)638 -3663  
+Email:  francis.walsh@mck.ca  
+Counsel for the Intervener Mohawk Council of 
+Kahnawà:ke  JURISTE POWER  
+Barristers & Solicitors  
+130 Albert Street  
+Ottawa, ON.  K1P 5G4  
+Justin Dubois  
+Tel:  (613)702 -5560  
+Fax:  (613)702 -5560  
+Email:  jdubois@juristespower.ca  
+Ottawa Agent for Counsel for the Intervener 
+Mohawk Council of Kahnawà:ke  
+GOWLING WLG (CANADA) LLP  
+Barristers & Solicitors  
+2600 – 160 Elgin Street  
+Ottawa, ON.  K1P 1C3  
+Maxime Faille  
+Jaimie Lickers  
+Guy Régimbald  
+Tel:  (613) 233 -1781  
+Fax: (613) 563 -9869  
+Email:  maxime.faille@gowlingwlg.com  
+Counsel for the Proposed Intervener, 
+Chiefs of Ontario  GOWLING WLG (CANADA)  LLP 
+Barristers & Solicitors  
+2600 – 160 Elgin Street  
+Ottawa, ON.  K1P 1C3  
+Guy Régimbald  
+Tel:  (613) 786 -0197 
+Fax:  (613) 563 -9869  
+Email:  guy.regimbald@gowlingwlg.com  
+Ottawa Agent for Counsel for the Proposed 
+Intervener, Chiefs of Ontario.  
+TABLE OF CONTENTS  
+      Page  i 
+INTRODUCTION  ................................ ................................ ................................ .........................  1 
+PART I – STATEMENT OF FACTS  ................................ ................................ ............................  1 
+PART II –ISSUES ON APPEAL  ................................ ................................ ................................ .. 2 
+PART III – ARGUMENT  ................................ ................................ ................................ ..............  2 
+PART IV – SUBMISSIONS ON COSTS  ................................ ................................ ...................  11 
+PART V – ORDER REQUESTED  ................................ ................................ .............................  11 
+PART VI – TABLE OF AUTHORITIES  ................................ ................................ ....................  12 
+PART VII – STATUTES, REGULATIONS AND RULES  ................................ .......................  13Court File No. 36776 
+INTRODUCTION  
+1.This appeal  is the first opportunity for this Court to consider the Crown’s duty to consult in
+the context of the unique pre -Confederation treaties and outstanding First Nation claims that
+span much of southern Ontario.  It also provides the first opportunity for this  Court to
+consider the confusion created by section  58 of the National Energy Board Act  (the “ NEB
+Act”) in relation to the operation of the Crown’s duty to consult in First Nation territories.
+2.The Mississaugas of the New Credit First Nation (“MNCFN ”) intervenes in support of the
+Appellant in this appeal.  It seek s a reso lution of this important Crown consultation case that
+will ensure that reconciliation  begin s—finally —to penetrate  its traditional home and
+territory , a territory  crisscrossed  by pre -existing pipelines, a territory that is now one of the
+most densely populated and industrialized regions in all of North America —Ontario’s
+“golden horseshoe.”  The stakes in this appeal for MNCFN and the Appellant  could not be
+higher . If allowed to stand, the majority below’s decision would maintain the status quo and
+enable pipeline companies such as  Enbridge to continue with “business as usual,”
+disregarding  the unique claims, interests , and ambitions of these First Nations.  The promise
+of section 35 of the Constitution Act, 1982  would largely be rendered meaningless to
+southern Ontario First Nations.  This cannot be in the age of reconciliation .
+PART I – STATEMENT OF FACTS  
+3.MNCFN  adopts the Appellant’s facts and adds  that MNCFN  is a Band under the Indian Act
+comprised of the descendants of the Mississauga people whose traditional territory extend s
+across much of southern Ontario  and encompasses present day Kitchener, Niagara Falls,
+Hamilton, and Toronto, including MNCFN’s reserve lands near Hagersville.
+4.MNCFN has a unique, ongoing, and incomplete treaty relationship with the Crown.  Between
+1781 and 1823, the ancestors of MNCFN entered into a number of different treaties with the
+Crown that variously reserved lands, waters, and fisheries for MNCFN’s exclusive us e.1
+1See Treaties No. 3, 3 ¾, 8, 13, 13a, 14, 22 & 23 in Indian Treaties and Surrenders from 1680 -1890 Vol. I  
+(Ottawa: S. E. Dawson, 1905) at pp. 5 -9, 22 -23, 32 -40, 50 -54, MNCFN Book of Authorities [MBoA] Vol I, Tab 
+8. 
+15.Enbridge’s Line 9 pipeline is one of several pipelines that transect MNCFN’s traditional
+territory. MNCFN was one of the four First Nations that were granted intervener status in the
+Line 9B hearing before the National Energy Board (“NEB”),2 and filed  evidence and final
+argument outlining, inter alia , concerns about the lack of Crown consultation on the project’s
+adverse impacts on its Aboriginal rights and treaty rights.3
+PART II – ISSUE S ON APPEAL  
+6.MNCFN interve nes in support of the Appellant  and makes submissions on the following :
+a.Reconciliation, the duty to consult , and the resolution of this appeal ;
+b.Southern Ontario cannot be allowed to become a “Crown consultation free zone ”;
+c.The importance of a preliminary assessment  in ensuring meaningfu l consultation ;
+d.Consultation cannot be a guessing game , achieved by happenstance ; and
+e.An ex post facto  declaratory remedy is inadequate .
+PART III – ARGUMENT  
+A.Reconciliation , the Duty to Consult , and the Resolution of this Appeal
+7.This Court has held that “[t]he fundamental objective of the modern law of aboriginal and
+treaty rights is the reconciliation of aboriginal peoples and non -aboriginal peoples  and their
+respective claims, interests and ambitions .”4 Real reconciliation  requires a renewed , diffi cult, 
+and meaningful conversation about how these sometimes differing  “claims, interests and 
+ambitions ” can be collectively advanced in the 21st Century and beyond.5 The Crown’s duty 
+to consult is a key legal  tool that helps initiate  and guide  this long overdue conversation.  But 
+in order for ho nourable consultation —and meaningful conversation —to be had , the Crown 
+2Appellant’s Record [AR] Vol I, Tab 1, p. 107 , NEB  Reasons for Decision  OH-002-2013 (Enbridge 
+Pipelines Inc) (16 March 2014) (Docket Number OH -002-2013), p. 90.  
+3AR Vol I, Tab 1, pp. 72 -73, 108 -109 & 112,  NEB  Reasons for Decision  OH-002-2013 (Enbridge 
+Pipelines Inc) (16 March 2014), pp. 55 -56, 91 -92 & 95.  
+4Mikisew Cree First Nation  v. Canada (Minister of Canadian Heritage) , [2005] 3 SCR 388, 2005 SCC 69 
+[Mikisew Cree ], MBoA Vol I, Tab 6 at para.  1. 
+5  Mikisew Cree , MBoA Vol I, Tab 6 at para. 1; see also Taku River Tlingit First Nation v. British 
+Columbia (Project Assessment Director) , [2004] 3 SCR 550  [Taku River ] ABoA Vol I, Tab 26 at para 24 . 
+2must actually be aware of , appreciate , and engage with respect to, the claims, interests , and 
+ambitions of an impacted First Nation  prior to authorizing an industrial development . That 
+did not happen  in this case. 
+8.Reconciliation fo r these First Nations  needs to occur in, and with an understanding of, the
+territor ies these nations  now have.  Their territories are among  the most densely populated
+areas in North America , crisscrossed  by multi -lane highways and pipelines.  Their treaty
+harvesting rights  and traditional practices in southwestern Ontario have long been impaired
+and constrained to make way for the influx of settlers, industrial developments , and rampant
+urbanization. For First Nations in southern Canada generally , and southern  Ontario
+speci fically, reconciliation will not be achieved by only measuring, quantifying , and
+potentially compensating for loss of site -specific traditional land use activities, as the NEB
+did here.6
+9.True consultation —and reconciliation —requires a conversation about h ow these First
+Nations can continue to “use and be sustained”7 by their territories, as they actually exist
+today.  McLachlin J. (as she was then), recognized that treaties, including the pre -
+Confederation treaties engaged in this appeal, must be understood  as arrangements that:
+…bear testimony to the acceptance by the colonizers of the principle that the aboriginal 
+peoples who occupied what is now Canada were regarded as possessing the aboriginal 
+right to live off their lands and the resources found in their forests and streams to the  
+extent they had traditionally done so.  The fundamental understanding —the Grundnorm  
+of settlement in Canada —was that the aboriginal people could only be deprived of the 
+sustenance they traditionally drew from the land and adjacent waters by solemn treaty 
+with the Crown, on terms that would ensure to them and to their successors a 
+replacement for the livelihood  that their lands, forests and streams had since ancestral 
+times provided them.8  
+10.A regulatory “engagement” process  that limits an assessment of  Aboriginal “rights and
+interests” to those understood through the lens of traditional land use is entirely inadequate .
+6Chippewas of the Thames First Nation  v. Enbridge Pipelines Inc. , 2015 FCA 222 [ FCA Decision ], AR Vol 
+I, Tab 2 at para. 17.  
+7R.v. Van der Peet , [1996] 2 SCR 507 [ Van der Peet ], MBoA Vol I, Tab 7 at para. 273 ( McLachlin J. 
+dissenting on other grounds) . 
+8Van der Peet,  MBoA Vol I, Tab 7 at para. 272 (McLachlin J. dissenting on other grounds) (emphasis 
+added).  
+3The NEB process at issue in this appeal utterly failed as a mechanism to appreciate and 
+reconcile the “rights, interests and ambitions” o f these First Nation s whose traditional 
+territories are no longer untouched and pristine wilderness.  In particular, the NEB process 
+preclude d any discussion about “replacement for the livelihood ” that have long been lost or 
+are being eroded . First Nation  requests  to consult on the  intent of their treaties and  the 
+achievement of their  ambitions through  economic participation fell on deaf ears.9 The 
+impacts from the stress of additional risk being placed on their territories were ignored.  They 
+continue to be seen as mere stakeholders in the territories, rather than stewards.  In effect, 
+these First Nations  are left in the same position they were in when Line 9 was originally 
+constructed in 1975 —a time before  section 35 of the Constitution  Act, 1982  and before  this 
+Court’s judicial guidance on consultation and reconciliation . It is déjà vu all over again.  
+11.This context must inform the Court’s resolution of this appeal. This is not simply a case
+about a legi slative peculiarity created by section  58 of the NEB Act . It is a case about whether
+and how reconciliation  will finally begin to penetrate southern Ontario.
+B.Southern Ontario Cannot Be Allowed to Become a “Crown Consul tation Free
+Zone”  … Again
+12.MNCFN’s traditional territory —much like  the Appellant ’s—is crisscrossed with pipelines,
+including not only Line 9, but also Enbridge’s Lines 7, 8, 10, and 11, among others.  The
+Respondents acknowledge that there was no consultation with First Nations during the 1970s
+when this extensive pipeline network was bu ilt in southern Ontario. Since 2011, Enbridge
+has filed no less than six applications for orders pursuant to section  58 related to various
+pipelines in MNCFN’s territory.10 And it does not stop with Enbridge. The NEB recently
+approved other pipeline project s in MNCFN’s territory pursuant to section  58 and it is
+9AR Vol VI, Tab 14,  pp. 116 -119, National Energy Board, Exhibit, Aamjiwnaang First Nation and 
+Chippewas of the Thames First Nation, Crown Letter dated 27 September 2013.  
+10NEB Letter Decision OH -005-2011 (Enbridge Pipelines Inc.) (27 July 2012)  Respondent Enbridge’s 
+Book of Authorities [EBoA] Vol II, Tab 27 ; NEB  Reason s for Decision  OH-002-2013 (Enbridge Pipelines Inc) 
+(16 March 2014), AR Vol I, Tab 1 ; NEB Letter Order XO -E101 -023-2013 (Enbridge Pipelines Inc.) (29 October 
+2013), MBoA Vol I, Tab 9 ; NEB Letter Order XO -E101 -018-2013 (Enbridge Pipeline Inc.) (25 July 2013 ), MBoA 
+Vol I, Tab 10 ; NEB Letter Order  XO-E101 -016-2014  (Enbridge Pipeline Inc.) (21 August 2014),  MBoA Vol I,  Tab 
+11; Hearing Order (Draft Conditions) OH -001-2016  (Enbridge Pipeline Inc.)  (14 October  2016),  MBoA Vol I,  Tab 
+12;
+4considering still more applications. And yet genuine Crown consultation on these projects (as 
+can be seen in this appeal) remains  all but non -existent .  
+13.The majority at the Court of Appeal was wrong when it concluded that the NEB can issue
+authorizations under section  58 even if it has been advised that Crown consultation has not
+occurred, as was the case here.11 To do so  contradicts this Court’s express di rections in
+Haida Nation , Carrier Sekani , and Little Salmon/Carmacks that the duty requires proactive
+and upstream Crown consultation prior to  a decision being made.12 The majority below’s
+interpretation of section  58 could effectively allow the creation of  a “Crown consultation -free
+zone” with respect to much of the significant pipeline redevelopment happening around the
+country, particularly in southern Ontario.
+14.The majority below’s reasoning would mean that, for  First Nations such as  MNCFN, the
+pipelines  that were built in their territories in the mid 20th Century —without any consultation
+and without any accommodation of their rights, interests, and claims —can today be re -
+purposed, redeveloped, and expanded without any meaningful Crown consultation.13 In
+effect, Crown consultation can be repeatedly evaded by discrete, proponent -driven
+applications under  section 58.  This approach allows the massive pipeline redevelopment that
+is ongoing in southwestern Ontario to avoid  triggering any strategic level Crown consultation
+with First Nations.
+11FCA Decision,  AR Vol I, Tab 2 Ryer J. for the Majority at paras. 10 & 59.  
+12“Haida Nation sets the framework for dialogue prior to the final resolution of claims by requiring the 
+Crown to take contested or established Aboriginal rights into account before  making a dec ision that may have an 
+adverse impact on them.” Rio Tinto Alcan Inc.  v. Carrier Sekani Tribal Council , [2010] 2 SCR 650, 2010 SCC 43 
+[Carrier Sekani ] Appellant’s Book of Authorities [ABoA] Vol I, Tab 22 at para. 35 (emphasis in original) . “The 
+Director was  then required, as a matter of both compliance with the legal duty to consult based on the honour of the 
+Crown  and procedural fairness to be informed about the nature and severity of such impacts before he made a 
+decision to determine (amongst other things ) whether accommodation was necessary or appropriate. ” Beckman  v. 
+Little Salmon/Carmacks First Nation , [2010] 3 SCR 103, 2010 SCC 53 [Little Salmon/Carmacks ], MBoA Vol I, 
+Tab 2 at para. 73  (emphasis in original) . 
+13See, e.g., NEB Letter Decision OH-005-2011 (Enbridge Pipelines Inc.) (27 July 2012)  Respondent 
+Enbridge’s Book of Authorities [EBoA] Vol II, Tab 27 ; NEB  Reasons for Decision  OH-002-2013 (Enbridge 
+Pipelines Inc) (16 March 2014), AR Vol I, Tab 1 ; NEB Letter Order XO-E101 -023-2013 (Enbridg e Pipelines Inc.) 
+(29 October 2013), MBoA Vol I, Tab 9 ; NEB Letter Order XO -E101 -018-2013 (Enbridge Pipeline Inc.) (25 July 
+2013), MBoA Vol I, Tab 10 ; NEB Letter Order  XO-E101 -016-2014  (Enbridge Pipeline Inc.) (21 August 
+2014),  MBoA Vol I,  Tab 11 ; Hearing Order (Draft Conditions) OH -001-2016  (Enbridge Pipeline 
+Inc.)  (14 October  2016),  MBoA Vol I,  Tab 12 ; NEB Decision and Order GHW -001-2014 (TransCanada PipeLines 
+Limited) (2 June 2015),  MBoA Vol I,  Tab 13 ; NEB Letter Order GH -001-2016 (TransCanada Pipelines Limited) (4 
+August 2016),  MBoA Vol I,  Tab 14 . 
+5 
+ 
+15. Such an interpretation of section  58 essentially renders this Court’s decisions in Haida 
+Nation  and Mikisew Cree  without application  to the massive  pipeline  redevelopment  that is 
+ongoing in MNCFN’s traditional territory.  As seen in this appeal, the much needed 
+conversation about the claims, interests , and ambitions of these First Nation s never happens. 
+The promise of section 35  of the Constitution Act, 1982 is denied and the lack of Crown 
+consultation that plagued the past can be —and is— repeated.  
+C. The Importance of a  Preliminar y Assessment  in Ensuring  Meaningful  
+Consultation  
+ 
+16. This appeal highlights the importance of this Court’s direction in Haida Nation  with respec t 
+to the need for some form of  “preliminary assessment” by the Crown of the potentially 
+impacted rights, interests , and claims of First Nations  in order to properly determine the 
+scope of consultations required.14 This type of assessment is essential to the proper discharge 
+of the duty because it frames the discussions and issues that must  form part of a meaningful 
+consultation  process . This preliminary assessment  ensures  the parties understand each other’s 
+positions and a conversation can be had. Without this type of assessment, reconci liation can 
+never begin.  
+17. Moreover, i n the context of historic treaties (such as the ones at issue in this appeal), this 
+Court has held that “[t]he determination of the content of the duty to consult will, as Haida  
+Nation  suggests, be governed by the context.”15 Mikisew Cree  identified various factors that 
+must be considered in determining the scope of the Crown’s duty, including “[t]he history of 
+dealings between the Crown and a particular First Nation.”16 In this appeal , the NEB ’s 
+Reasons for Decision includes  no appreciation of this history, the different treaties at issue in 
+this appeal nor, the distinct First Nation rights and interests that flow from those  agreements. 
+The NEB  had no knowledge of the state of the various  filed, ongoing , or settled land claims 
+that may be relevant to Line 9 (nor any means to obtain this information from the Crown). 
+The NEB  also failed to consider that First Nations in heavily urbanized and industrialized 
+                                                
+14  Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 73, [2004] 3 SCR 511 [ Haida Nation ], 
+ABoA Vol I, Tab 5  at paras. 36 & 68.  
+15  Mikisew Cree, MBoA Vol I, Tab 6 at para. 63.  
+16  Mikisew Cree, MBoA Vol I, Tab 6 at para. 63.  
+6areas have been forced to develop a daptive and complex relationships to their territories, 
+which often demand the use of private lands.17 
+18.The unique and unfinished history of treaty -making in southern Ontario, the dispossession of
+First Nations from their territories in what is now known as Ontario’s “golden horseshoe,”
+the lack of any consultation on past pipeline development, and the unique reconciliatory
+interests and ambitions of southern Ontario First Nations were all  necessary “context” for
+understanding the scope of the Crown’s duty in this appeal. Neither the NEB nor the Crown
+(as acknowledged in their submissions in this appeal) conside red any of this context in
+assessing the scope or content of the duty. This constituted an error in law in the
+determinations under  the first stage of the Haida Nation  framework, which should not now
+be determined or assessed by this Court because all of t he necessary evidence is not before it.
+D. Consultation Cannot be a Guessing Game or Occur by Happenstance
+19.In order for meaningful consultation to occur, First Nations cannot be left to simply guess
+with whom and where they should raise their claims, interests , and ambitions.  Mass
+confusion over who is ultimately responsible and accountable for consultation does not
+uphold the honour of the Crown or advance reconciliation . But that is the result the myriad of
+approaches advanced by the majority below a nd the various Respondents would lead  to.
+20.It is telling that the Respondents cannot even agree among themselves —or with the Court of
+Appeal —whether the NEB was empowered to fulfill the duty to consult owed in this appeal ,
+and if it was, to what extent.  Enbridge is adamant  that “Parliament has impliedly assigned to
+the Board the power to carry out consultation when it is exercising its jurisdiction under
+section 58 of the NEB Act.”18 Canada disagrees, asserting  that although “[t]he  Crown’s duty
+to consult was triggered by the Board’s consideration of whether to approve” Line 9, “the
+Crown [was] not delegating its duty” to the NEB.19 The majority below shares Canada’s
+view, holding  “there has been no delegation by the Crown to the Boa rd, under the NEB Act
+or otherwise, of the power to undertake the fulfillment of any applicable Haida  duty of the
+17AR Vol I, Tab 1, pp. 111, 114 -115, NEB  Reasons for Decision  OH-002-2013 (Enbridge Pipelines Inc) (16 
+March 2014) , pp. 94, 97 -98. 
+18Factum of the Respondent, Enbridge Pipelines Inc. [ Enbridge Factum ] at para. 47.  
+19Factum  of the Respondent, Attorney General of Canada [ Canada Factum ] at paras. 1 & 2.  
+7Crown in relation to the Project.”20 The NEB appears to take the position that  the duty could 
+be anywhere, and “it is essential to look at the substance of what has been done by any actor  
+who has the power to meaningful ly consult and provide relevant accommodatio n ...”21  
+21.While the Respondents  and the majority below cannot agree where consultation lies, they are
+optimistic that it must lie somewhere. The Court of Appeal observes  that “the Board’s
+section 58 application process may very well deal with, and hopefully remediate if necessary,
+the same Aboriginal concerns that arise when the Crown engages in Haida  duty
+consultations.”22 Canada ech oes the majority’s optimism, explaining  that the NEB “does not
+have the statutory power to discharge the Crown’s duty to consult, although it is aware that
+the Crown may rely on the Board’s section 35 Aboriginal consultation as discharging the
+Crown’s duty  to consult.”23 Canada hopes the  NEB’s engagement will be adequate but notes
+the Crown may “involve itself if there are issues of consultation and possible accommodation
+arising in a Board proceeding that are beyond jurisdiction to address.”24 When or how th e
+Crown might elect to engage when consultation issues arise beyond the  NEB ’s jurisdiction is
+left for First Nations  to guess.
+22.If, after a project approval,  the proponent, Canada in right of the Crown , the NEB , and the
+Court of Appeal cannot even agree abo ut where the duty to consult lies  and what it requires ,
+how can a First Nation have comfort meaningful consultation actually occurred ? The
+divergent perspectives of the  respondents demonstrates that  additional guidance from this
+Court is required . Lack of clarity on this issue frustrates the day -to-day operation of the duty.
+A First Nation  cannot  be left guessing where , and by whom,  their rights and interests will be
+address ed.25 While they may not ultimately agree with the outcome , MNCFN submits that
+First Nations are at least owed  clarity on who is accountable . The current situation  is
+tantamount t o a game of consultation “three -card Monte ,” forcing First Nations  to constantly
+20FCA Decision , AR Vol I, Tab 2  at para. 79.  
+21Factum of the Respondent, National Energy Board [NEB Factum] at para. 73 (emphasis in original).  
+22FCA Decision , AR Vol I, Tab  2 at para. 63.  
+23Canada Factum  at para. 69.  
+24Canada Factum  at para. 71.  
+25“The Crown’s duty is to carry on a process that is as transparent as possible. ” Ke-Kin-Is-Uqs v. British 
+Columbia (Minister of Forests) , [2008] BCJ No. 2089, 2008 BCSC 1505, MBoA Vol I, Tab 5 at para. 147.  
+8guess where the consultation card is hidden today.  This is not simply an issue of  form over 
+substance.  With limited capacity  and tight timelines in project approval processes, First 
+Nations must know where consultation is actually going to be dealt with so they can focus 
+their efforts there.  If First Nations  do not even know where to g o to consult, the difficult 
+work of reconciliation cannot ever be started, let alone be advanced.  
+E.An Ex Post Facto Declaratory Remedy is Inadequate
+23.For the duty to consult and accommodate to be effective and meaningful, adequate remedies
+must be afforded to Aboriginal peoples when the duty is breached or ignored , and to
+discourage breaches from occurring in the first place . The approach proposed by the Court of
+Appeal fails to do that. The maj ority below holds  that if a First Nation is  denied adeq uate
+consultation or accommodation by the Crown in respect of a development being reviewed by
+the NEB  under section  58, the authorization  should issue , the development should proceed,
+and the Aboriginal people  should simply seek recourse to the cour ts, by way of judicial
+review against the Crown.  Relying on such an “after -the-fact” approach to remediating a
+breach of the duty to consult is grossly inadequate, impoverishes the scope and meaning of
+the duty, and renders First Nations unable to avail themselve s of the sort of substantive
+accommodations and reconciliation that Crown consultation is intended to facilitate. It may
+also leave Aboriginal groups  with no meaningful judicial remedy at all.
+24.The majority below states that a First Nation denied Crown cons ultation should bring “an
+application for judicial review…with respect to that refusal” and through that judicial review
+avail itself of “the panoply of potential available judicial remedies [that] was described by the
+Supreme Court at paragraph 37 of Carr ier Sekani .”26 But the “panoply” of remedies
+described in Carrier Sekani  would not be available in such a judicial review. In the case at
+26FCA Decision , AR Vol I, Tab 2  Ryer J.’s Majority Reasons paras. 72 -73. The referenced paragraph from 
+Carrier Sekani  states “[t]he  Crown’s failure to consult can lead to a number of remedies ranging from injunctive 
+relief against the threatening activity altogether, to damages, to an order to carry out the consultation prior to 
+proceeding further with the proposed government conduct. ” Carrier Sekani , ABoA Vol I, Tab 22  at para. 37 (citing 
+Haida Nation, ABoA Vol I, Tab 5  at paras. 13 -14). 
+9 
+ 
+bar, most of those remedies would only have been available if the First Nation filed an 
+action —not if the breach of the  Crown’s duty was pursued by judicial review.27  
+25. As Rennie J. explained in dissent, “[t]he Minister does not propose to do anything and has no 
+power in respect of the decision . There is nothing to be enjoined, quashed or compelled … 
+[s]ubstantively, any con sultation or accommodation which might flow from a judicial review 
+would be too late.”28 Even an awa rd of damages would be denied , since “[i]t is trite to say 
+that damages cannot be awarded on application for judicial review.”29 A First Nation could 
+obtain , at best,  a pyrrhic  victory through a judicial review of the Crown’s failure to consult 
+with respect to a section  58 application . 
+26. Enbridge argues in support of an after the fact judicial remedy, asserting that “a declaration 
+would be a meaningful remedy to affirm the rule of law and provide a useful guidepost for 
+government actors and Aboriginal groups going forward.”30 But an ex post  declaration, after 
+a project has gone forward and after the damage has been done, is cold comfort to an 
+impacted Aboriginal pe ople.  Concern with the duty to consult  cannot simply be pushed 
+downstream and made the subject of an after -the-fact judicial review of Crown action after 
+the industrial development has already been approved . To do so is the antithesis of 
+reconciliation.  Given the inadequacy of ex post remedies in the section  58 context, Rennie J. 
+was correct that the proper course of action is that  the NEB “refuse to grant an approval if 
+there is an unfulfilled duty to consult.”31  
+                                                
+27  Denying consultation in advance, and then requiring a First Nation to file an action in an attempt to have its 
+rights recognized or vindicated, is  the exact problem that Haida Nation was seeking to forestall. A principal reason 
+for Haida Nation’s requirement of prior Crown consultation is because “Aboriginal claims litigation can be very 
+complex and require years and even decades to resolve in the c ourts . . . [w]hile Aboriginal claims can be and are 
+pursued through litigation, negotiation is a preferable way of reconciling state and Aboriginal interests.” Haida 
+Nation,  ABoA Vol I, Tab 5  at para. 14.  
+28  FCA Decision , AR Vol I, Tab 2  Rennie J.’s Disse nting Reasons at paras. 123 -24. 
+29  Hinton  v. Canada (Minister of Citizenship and Immigration) , [2009] 1 FCR 476, 2008 FCA 215, MBoA 
+Vol I, Tab 4 at para. 45 (citing Al-Mhamad  v. Canada (Radio -Television and Telecommunications Commissions) , 
+[2003] FCJ No 145 (QL),  2003 FCA 45, MBoA Vol I, Tab 1 ). See also Canada  v. Tremblay , [2004] 4 FCR 165, 
+2004 FCA 172, MBoA Vol I, Tab 3 at para. 34 (“monetary compensation… cannot be the subject of an application 
+for judicial review.”).  
+30  Enbridge Factum  at para. 127.  
+31  FCA Decision , AR Vol I, Tab 2  Rennie J.’s Dissenting Reasons at para. 106.  
+10PART IV – SUBMISSION ON COSTS  
+27.MNCFN  does not seek and ask that no costs be awarded against it in this appeal .
+PART V – ORDER REQUESTED  
+28.MNCFN  asks that  this Court grant it time to make oral representations at the hearing of this
+appeal.
+ALL OF WHICH IS RESPECTFULLY SUBMITTED  this 4th day of November , 2016 . 
+Nuri G. Frame   Jason Madden  
+Nuri G. Frame,  Jason  T. Madden  
+& Jessica Labranche Matthew Estabrooks  
+Pape Salter Teillet LLP Gowling WLG (Canada) LLP 
+546 Euclid Avenue 2600-160 Elgin Street 
+Toronto, Ontario, M6G 2T2 Ottawa, Ontario, K1P 1C3 
+Tel: (416) 916-2989 Tel: (613) 786-0211 
+Fax: (416) 916-3726 
+Email: nframe@pstlaw.ca  Fax: (613) 563-9869 
+Email: matthew.estabrooks@gowlingswlg .com 
+Counsel for the Intervener   Ottawa Agent for Counsel for the Intervener  
+11PART VI -- TABLE OF AUTHORITIES  
+Cases Cited at 
+Paragraph(s) 
+Al-Mhamad v. Canada (Radio-Television and Telecommunications 
+Commissions) , [2003] FCJ No 145 (QL),  2003 FCA 45  25 
+Beckman v. Little Salmon/Carmacks First Nation, [2010] 3 SCR 103, 2010 
+SCC 53 13 
+Canada v. Tremblay, [2004] 4 FCR 165, 2004 FCA 172 25 
+Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 
+3 SCR 511 13, 15, 16, 17, 
+18 
+Hinton v. Canada (Minister of Citizenship and Immigration), [2009] 1 FCR 
+476, 2008 FCA 215 25 
+Ke-Kin-Is-Uqs v. British Columbia (Minister of Forests) , [2008] BCJ No. 
+2089, 2008 BCSC 1505 22 
+Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 
+[2005] 3 SCR 388, 2005 SCC 69 7, 15, 17 
+Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, [2010] 2 SCR 650, 
+2010 SCC 43  13, 24 
+R.v. Van der Peet, [1996] 2 SCR 507 9 
+Taku River Tlingit First Nation v. British Columbia (Project 
+Assessment Director) , [2004] 3 SCR 550 7 
+Other Authorities Cited at 
+Paragraph(s) 
+Indian Treaties and Surrenders from 1680-1890 Vol. I (Ottawa: S. E. 
+Dawson, 1905)  4 
+NEB Letter Decision OH -005-2011 (Enbridge Pipelines Inc.) (27 July 2012)  12, 14  
+NEB Letter Order XO-E101-023-2013 (Enbridge Pipelines Inc.) (29 October 
+2013) 12, 14 
+NEB Letter Order XO-E101 -018-2013 (Enbridge Pipeline Inc.) (25 July 
+2013) 12, 14  
+NEB Letter Order XO-E101-016-2014 (Enbridge Pipeline Inc.) (21 August 
+2014) 12, 14 
+Hearing Order (Draft Conditions) OH-001-2016 (Enbridge Pipeline 
+Inc.) (14 October 2016) 12, 14 
+NEB Decision and Order GHW-001-2014 (TransCanada PipeLines Limited) 
+(2 June 2015)  12, 14 
+NEB Letter Order GH-001-2016 (TransCanada Pipelines Limited) (4 August 
+2016) 12, 14 
+12CANADA
+A Consolidation of
+THE
+CONSTITUTION
+ACTS
+1867 to 1982
+DEPARTMENT OF JUSTICE
+CANADA
+Consolidated as of January 1, 2013PART VII – STATUTES, REGULATIONS 
+AND RULES
+13Constitution Act, 1982
+63CITATION
+Citation
+34.This Part may be cited as the Canadian Charter of Rights and Freedoms.
+PART II
+RIGHTS OF THE ABORIGINAL PEOPLES OF CANADA
+Recognition of existing aboriginal and treaty rights
+35.(1) The existing 
+aboriginal and treaty rights of the aboriginal peoples of
+Canada are hereby recognized and affirmed.
+Definition of “aboriginal peoples of Canada”
+(2) In this 
+Act, “aboriginal peoples of Canada” includes the Indian, Inuit and
+Métis peoples of Canada.
+Land claims agreements
+(3) For greater certainty, in subsection (1) “treaty rights
+” includes rights that now
+exist by way of land claims agreements or may be so acquired.
+Aboriginal and treaty rights are guaranteed equally to both sexes
+(4) Notwithstanding any 
+other provision of this Act, the aboriginal and treaty
+rights referred to in subsection (1) are guaranteed equally to male and female per-
+sons. (96)
+Commitment to participation in constitutional conference
+35.1 The government 
+of Canada and the provincial governments are committed
+to the principle that, before any amendment is made to Class 24 of section 91 of the
+“Constitution Act, 1867 ”, to section 25 of this Act or to this Part,
+(a) a constitutional conference that includes in its agenda an item relating to the
+proposed amendment, composed of the Prime Minister of Canada and the first
+ministers of the provinces, will be convened by the Prime Minister of Canada;
+and
+(b) the Prime Minister of Canada will invite representatives of the aboriginal
+peoples of Canada to participate in the discussions on that item. (97)
+(96)Subsections 35(3) and (4) were added by the Constitution Amendment Proclama-
+tion, 1983 (see  SI/84-102).
+(97)Section 35.1 was added by the Constitution Amendment Proclamation, 1983  (see SI/
+84-102).
+14Current to October 11, 2016
+Last amended on June 19, 2016À jour au 11 octobre 2016
+Dernière modification le 19 juin 2016
+Published by the Minister of Justice at the following address:
+http://laws-lois.justice.gc.caPublié par le ministre de la Justice à l’adresse suivante :
+http://lois-laws.justice.gc.ca
+CANADA
+CONSOLIDATION
+N
+ational Energy Board ActCODIFICATION
+L
+oi sur l’Office national de
+l’énergie
+R.S.C., 1985, c. N-7 L.R.C. (1985), ch. N-7
+15National Energy Board Office national de l’énergie
+PART III Construction, Operation and Abandonment of Pipelines PARTIE III Construction, exploitation et cessation d’exploitation des pipelines
+Revocation and Suspension Annulation et suspension
+Sections 56-58 Articles 56-58
+Current to October 11, 2016
+Last amended on June 19, 201666 À jour au 11 octobre 2016
+Dernière modification le 19 juin 2016or suspend a certificate if any term or condition thereof
+has not been complied with or has been contravened.conseil, annuler ou suspendre un certificat en cas de
+contravention à 
+l’une ou l’autre des conditions dont ce-
+lui-ci est assorti.
+Notice and hearing Avis et audition
+(2) No order shall be made under subsection ( 1 ) unless
+notice of the alleged non-compliance or contravention
+has been given to the holder of the certificate and the
+Board has afforded the holder an opportunity of being
+heard.(2) L’Office ne peut rendre d’ordonnance aux termes du
+paragraphe (1) que s’il a avisé le titulaire du certificat de
+l’infraction reprochée et donné à celui-ci la possibilité de
+se faire entendre.
+Revocation or suspension on application, etc., of
+holderAnnulation ou suspension sur demande
+(3) Notwithstanding subsections (1) and (2), the Board
+may, by order, revoke or suspend a certificate on the ap-
+plication or with the consent of the holder thereof.
+R.S., c. N-6, s. 47; R.S., c. 27(1st Supp.), s. 13.(3) Malgré les paragraphes ( 1) et ( 2), l’Office peut, par
+ordonnance, annuler ou suspendre un certificat sur de-
+mande du titulaire de celui-ci, ou avec son consentement.
+S.R., ch. N-6, art. 47; S.R., ch. 27(1er suppl.), art. 13.
+Conditions to Certificate Conditions du certificat
+Compliance Observation
+57 Every certificate is subject to the condition that the
+provisions 
+of this Act and the regulations in force at the
+date of issue of the certificate and as subsequently enact-
+ed, made or amended, as well as every order made under
+the authority of this Act, will be complied with.
+R.S., 1985, c. N-7, s. 57; 1990, c. 7, s. 21(F).57 Constitue une condition du certificat l’observation
+des dispositions de la présente loi et de ses règlements en
+vigueur à la date de délivrance et par la suite, ainsi que
+des ordonnances prises ou rendues sous le régime de la
+présente loi.
+L.R. (1985), ch. N-7, art. 57; 1990, ch. 7, art. 21(F).
+Exemptions Exemptions
+Exempting orders respecting pipelines, etc. Pipelines
+58 (1) The Board may make orders exempting
+(a)
+ pipelines or branches of or extensions to pipelines,
+not exceeding in any case forty kilometres in length,
+and
+(b) any tanks, reservoirs, storage facilities, pumps,
+racks, compressors, loading facilities, interstation sys-
+tems of communication by telephone, telegraph or ra-
+dio, and real and personal property, or immovable and
+movable, and works connected to them, that the Board
+considers proper,
+from any or all of the provisions of sections 29 to 33 and
+47.58 (1) L’Office peut, par ordonnance, soustraire totale-
+ment ou partiellement à l’application des articles 29 à 33
+et 47 :
+a) les pipelines, ou embranchements ou extensions de
+ceux-ci, ne dépassant pas quarante kilomètres de long;
+b) les citernes, réservoirs, installations de stockage et
+de chargement, pompes, rampes de chargement, com-
+presseurs, systèmes de communication entre stations
+par téléphone, télégraphe ou radio, ainsi que les ou-
+vrages ou autres immeubles ou meubles, ou biens
+réels ou personnels, connexes qu’il estime indiqués.
+(2) [Repealed, 1990, c. 7, s. 22] (2) [Abrogé, 1990, ch. 7, art. 22 ]
+Terms Conditions
+(3) In any order made under this section the Board may
+impose such terms and conditions as it considers proper.(3)  L’Office peut assortir toute ordonnance qu’il rend
+aux termes du présent article des conditions qu’il estime
+indiquées.
+16National Energy Board Office national de l’énergie
+PART III Construction, Operation and Abandonment of Pipelines PARTIE III Construction, exploitation et cessation d’exploitation des pipelines
+Exemptions Exemptions
+Section 58 Article 58
+Current to October 11, 2016
+Last amended on June 19, 201667 À jour au 11 octobre 2016
+Dernière modification le 19 juin 2016Time limit Délais
+(4) If an application for an order under subsection ( 1) is
+made, the Board shall, within the time limit specified by
+the Chairperson, either make an order under that subsec-
+tion or dismiss the application.(4) Si une demande d’ordonnance au titre du paragraphe
+(1) est présentée, l’Office est tenu, dans le délai fixé par le
+président, soit de rendre une ordonnance en vertu de ce
+paragraphe soit de rejeter la demande.
+Maximum time limit and obligation to make it public Restriction et publicité
+(5) The time limit specified by the Chairperson must be
+no longer than 15 months after the day on which the ap-
+plicant has, in the opinion of the Board, provided a com-
+plete application. The Board shall make the time limit
+public.(5) Le délai fixé par le président ne peut excéder quinze
+mois suivant la date où le demandeur a, de l’avis de l’Of-
+fice, complété la demande. Le délai est rendu public par
+l’Office.
+Environmental assessment Évaluation environnementale
+(6) If the application relates to a designated project with-
+in the meaning of section 2 of the Canadian Environ-
+mental Assessment Act, 2012, the Board shall also, within
+the time limit,
+(a) prepare a report, as required by paragraph 22(b) of
+that Act, with respect to its environmental assessment
+of the designated project; and
+(b) comply with subsections 27(1) and 54(1) of that
+Act with respect to that assessment.(6) Si la demande vise un projet désigné au sens de l’ar-
+ticle 2 de la Loi canadienne sur l’évaluation environne-
+mentale (2012), l’Office est aussi tenu, dans le même dé-
+lai :
+a) d’une part, d’établir le rapport d’évaluation envi-
+ronnementale relatif au projet exigé par l’alinéa 22b)
+de cette loi;
+b) d’autre part, de se conformer, s’ils s’appliquent,
+aux paragraphes 27(1) et 54(1) de cette loi à l’égard de
+cette évaluation.
+Excluded period — applicant Période exclue du délai — demandeur
+(7) If the Board requires the applicant to provide infor-
+mation or undertake a study with respect to the pipeline
+or anything referred to in paragraph ( 1)(b) to which the
+application relates and the Board, with the Chairperson’s
+approval, states publicly that this subsection applies, the
+period that is taken by the applicant to comply with the
+requirement is not included in the calculation of the time
+limit.(7) Si l’Office exige du demandeur, relativement au pipe-
+line ou à tout élément visé à l’alinéa ( 1)b) faisant l’objet
+de la demande, la communication de renseignements ou
+la réalisation d’études et déclare publiquement, avec l’ap-
+probation du président, que le présent paragraphe s’ap-
+plique, la période prise par le demandeur pour remplir
+l’exigence n’est pas comprise dans le calcul du délai.
+Public notice of excluded period Avis publics – période exclue
+(8) The Board shall make public the dates of the begin-
+ning and ending of the period referred to in subsection
+(7) as soon as each of them is known.(8) L’Office rend publiques, sans délai, la date où com-
+mence la période visée au paragraphe ( 7) et celle où elle
+se termine.
+Excluded period — Governor in Council Période exclue du délai — gouverneur en conseil
+(9) If the Board has referred a matter to the Governor in
+Council under subsection 52(2) of the Canadian Envi-
+ronmental Assessment Act, 2012, the period that begins
+on the day on which the reference is made and ends on
+the day on which the Governor in Council makes a deci-
+sion in relation to the matter is not included in the calcu-
+lation of the time limit.(9) Si l’Office renvoie au gouverneur en conseil une ques-
+tion en application du paragraphe 52(2) de la Loi cana-
+dienne sur l’évaluation environnementale ( 2012), la pé-
+riode commençant le jour du renvoi et se terminant le
+jour où le gouverneur en conseil prend une décision sur
+la question n’est pas comprise dans le calcul du délai.
+Extension Prorogations
+(10) The Minister may, by order, extend the time limit
+by a maximum of three months. The Governor in Council(10) Le ministre peut, par arrêté, proroger le délai pour
+un maximum de trois mois. Le gouverneur en conseil
+17National Energy Board Office national de l’énergie
+PART III Construction, Operation and Abandonment of Pipelines PARTIE III Construction, exploitation et cessation d’exploitation des pipelines
+Exemptions Exemptions
+Sections 58-58.12 Articles 58-58.12
+Current to October 11, 2016
+Last amended on June 19, 201668 À jour au 11 octobre 2016
+Dernière modification le 19 juin 2016may, on the recommendation of the Minister, by order,
+further 
+extend the time limit by any additional period or
+periods of time.peut, par décret pris sur la recommandation du ministre,
+accorder une ou plusieurs prorogations supplémentaires.
+Continuation of jurisdiction and obligation Maintien de l’obligation et de la compétence
+(11) A failure by the Board to comply with subsection ( 4)
+within the required time limit does not affect its jurisdic-
+tion to deal with the application or its obligation to make
+the order or to dismiss the application, and anything
+done by it in relation to the application remains valid.
+R.S., 1985, c. N-7, s. 58; 1990, c. 7, s. 22; 2004, c. 25, s. 151; 2012, c. 19, s. 84.(11) Le défaut de l’Office de se conformer au paragraphe
+(4) dans le délai fixé ne porte atteinte ni à sa compétence
+à l’égard de la demande en cause ni à son obligation de
+rendre l’ordonnance ou de rejeter la demande ni à la vali-
+dité des actes posés à l’égard de la demande en cause.
+L.R. (1985), ch. N-7, art. 58; 1990, ch. 7, art. 22; 2004, ch. 25, art. 151; 2012, ch. 19, art.
+84.
+PART III.1 PARTIE III.1
+Construction and Operation of
+P
+ower LinesConstruction et exploitation de
+l
+ignes de transport d’électricité
+International Power Lines Lignes internationales
+Prohibition Interdiction
+58.1 No person shall construct or operate a section or
+part of an international power line except under and in
+accordance with a permit issued under section 58.11 or a
+certificate issued under section 58.16.
+1990, c. 7, s. 23.58.1 Il est interdit de construire ou d’exploiter une ligne
+internationale sans un permis ou un certificat, respecti-
+vement délivré en application des articles 58.11 ou 58.16,
+ou en contravention avec l’un ou l’autre de ces titres.
+1990, ch. 7, art. 23.
+Permits Permis
+Issuance Délivrance
+58.11 (1) Except in the case of an international power
+line designated by order of the Governor in Council un-
+der section 58.15 or in respect of which an election is
+made under section 58.23, the Board shall, on application
+to it and without holding a public hearing, issue a permit
+authorizing the construction and operation of an interna-
+tional power line.58.11 (1) Sauf si un décret ou une décision ont été pris
+au titre des articles 58.15 ou 58.23, l’Office délivre, sur de-
+mande et sans audience publique, les permis autorisant
+la construction et l’exploitation des lignes internatio-
+nales.
+Information Renseignements
+(2) The application must be accompanied by the infor-
+mation that under the regulations is to be furnished in
+connection with the application.
+1990, c. 7, s. 23.(2) Sont annexés à la demande les renseignements pré-
+vus par règlement et liés à celle-ci.
+1990, ch. 7, art. 23.
+Publication Publication
+58.12 (1) The applicant shall publish a notice of the ap-
+plication in the Canada Gazette  and such other publica-
+tions as the Board considers appropriate.58.12 (1) Le demandeur fait publier un avis de la de-
+mande dans la Gazette du Canada et toutes autres publi-
+cations que l’Office estime indiquées.
+18

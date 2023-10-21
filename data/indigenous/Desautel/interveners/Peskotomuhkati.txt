@@ -1,0 +1,1039 @@
+SCC File No. 38734 
+ 
+IN THE SUPREME COURT OF CANADA  
+(ON APPEAL FROM THE COURT OF APPEAL FOR BRITISH COLUMBIA)  
+ 
+BETWEEN:  
+ 
+HER MAJESTY THE QUEEN IN RIGHT OF BRITISH COLUMBIA  
+Appellant  
+ 
+AND:  
+RICHARD LEE DESAUTEL  
+ 
+Respondent  
+AND:  
+ 
+ATTORNEY GENERAL OF CANADA, ATTORNEY GENERAL OF ONTARIO, 
+ATTORNEY GENERAL OF QUE BÉC, ATTORNEY GENERAL OF NEW 
+BRUNSWICK, ATTORNEY GENERAL FOR SASKATCHEWAN, ATTORNEY 
+GENERAL OF ALBERTA, ATTORNEY GENERAL OF THE YUKON TERRITORY, 
+PESKOTOMUHKATI NATION, INDIGENO US BAR ASSOCIATION IN CANADA, 
+WHITECAP DAKOTA FIRST NATION, GRAND COUNCIL OF THE CREES (EEYOU 
+ISTCHEE)  and CREE NATION GOVERNMENT, OKANAGAN NATION ALLIANCE, 
+MOHAWK COUNCIL OF KAHNAWA:KE, ASSEMBLY OF FIRST NATIONS, M ÉTIS 
+NATIONAL COUNCIL  and MANITOBA M ÉTIS FEDERATION INC., NUCHATLAHT 
+FIRST NATION, CONGRESS OF ABORIGINAL PEOPLES and  LUMMI NATION  
+ 
+Interveners  
+ 
+ 
+FACTUM OF THE INTERVENER, PESKOTOMUHKATI NATION 
+(Pursuant to Rules 37 and 42 of the Rules of the Supreme Court of Canada)  
+ 
+Counsel for the  Intervener,  
+The Peskotomuhkati Nation  
+ Agent for the Intervener,  
+The Peskotomuhkati Nation  
+ 
+Geneviève Boulay  
+Westaway Law Group  
+55 Murray Street, Suite 230 
+Ottawa, ON  K1N 5M3  
+ 
+Tel: 613- 702-3042  
+Fax: 613- 722-9097  
+Email: genevieve@westawaylaw.ca  
+ Paul Williams  
+Box 91, Grand River Territory  Ohsweken, ON  N0A 1M0  
+ 
+Tel: 905- 506-1755  
+Email: orihwa@gmail.com  
+ Karenna Williams  
+Huberman Law Group  
+1620- 1075 West Georgia Street  
+Vancouver, BC  V6C 3E9  Tel: 604- 685-1229  
+Fax: 604- 685-0244  
+Email: karenna@hubermanlawgroup.com  ii 
+ 
+  
+ ORIGINAL TO:   
+ 
+The Registrar  
+Supreme Court of Canada  
+301 Wellington Street  Ottawa, ON  K1A 0J1  
+  COPIES TO:  
+ 
+ 
+ATTORNEY GENERAL OF BRITISH 
+COLUMBIA   
+  
+Glen R. Thompson  
+Attorney General of British Columbia  
+Legal Services Branch  
+1405 Douglas Street, 3rd Floor  
+Victoria, British Columbia  V8W 2G2  
+ Tel: (250) 387- 0417  
+Fax: (250) 387 -0343  
+Email: glen.r.thompson@gov.bc.ca
+  
+ 
+Counsel for the Appellant , the Attorney 
+General of British Columbia  Nadia Effendi  
+Borden Ladner Gervais LLP  
+1300- 100 Queen Street  
+Ottawa, Ontario  K1P 1J9   Tel: (613) 369- 4795  
+Fax: (613) 230 -8842  
+Email: neffendi@blg.com
+  
+ 
+Agent for the Appellant , the Attorney General 
+of British Columbia  
+  
+RICHARD LEE DESAUTEL  
+  
+Mark G. Underhill  
+Kate R. Phipps  
+Arvay Finlay LLP  
+1512- 808 Nelson Street  
+Box 12149, Nelson Square  
+Vancouver, British Columbia V6Z 2H2  
+ Tel: (604) 696- 9828  
+Fax: (888) 575 -3281  
+Email: munderhill@arvayfinlay.ca
+ 
+   
+Counsel for the Respondent , Richard Lee 
+Desautel  
+  
+Jeffrey W. Beedell  
+Gowling WLG (Canada) LLP  
+160 Elgin Street, Suite 2600 
+Ottawa, Ontario   K1P 1C3 
+  Tel: (613) 786- 0171  
+Fax: (613) 788 -3587  
+Email: jeff.beedell@gowlingwlg.com
+ 
+ Agent f or the Respondent, Richard Lee 
+Desautel  
+ 
+  iii 
+ 
+  
+ ATTORNEY GENERAL OF  CANADA  
+ 
+Anne M. Turley  
+Dayna Anderson  
+Attorney General of Canada  
+Department of Justice, Civil Litigation Section  
+50 O'Connor Street, 5th Floor  
+Ottawa, Ontario   K1A 0H8  
+ Tel: (613) 670- 6291  
+Fax: (613) 954 -1920  
+Email: anne.turley@justice.gc.ca
+ 
+ 
+Counsel for the Intervener, Attorney General 
+of Canada   
+ Christopher M. Rupar  
+Department of Justice  
+50 O'Connor Street  
+Suite 500 Ottawa, Ontario  K1A 0H8  
+   Tel: (613) 670- 6290  
+Fax: (613) 954 -1920  
+Email: christopher.rupar@justice.gc.ca
+ 
+ 
+Agent for the Intervener, Attorney General of 
+Canada  
+ 
+  
+ATTORNEY GENERAL OF ONTARIO  
+ Manizeh Fancy  
+Kisha Chatterjee  
+Attorney General of Ontario  
+8
+th Floor -  720 Bay Street  
+Toronto, Ontario  M7A 2S9  Tel: (416) 578- 3637  
+Fax: (416) 326 -4181  
+Email: manizeh.fancy@ontario.ca
+ 
+ Counsel for the Intervener, Attorney General of Ontario  
+  
+  Nadia Effendi  
+Borden Ladner Gervais LLP  
+1300- 100 Queen Street  
+Ottawa, Ontario   K1P 1J9  Tel: (613) 369- 4795  
+Fax: (613) 230 -8842  
+Email: neffendi@blg.com
+  
+ Agent for the Intervener, Attorney General of Ontario  
+ 
+ 
+ 
+           
+  iv 
+ 
+  
+ ATTORNEY GENERAL OF QUÉBEC  
+ 
+Rosemarie Fortier  
+Tania Clercq  
+Ministère de la Justice  
+1200, route de l'Église  
+4e étage  
+Québec, Quebec  G1V 4M1 
+ Tel: (418) 643- 1744  
+Fax: (418) 644 -7030  
+Email:rosemarie.fortier@justice.gouv.qc.ca
+ 
+Tania.clercq@justice.gouv.qc.ca  
+ 
+Counsel for the Intervener, Attorney General of Qu ébec 
+  
+Pierre Landry  
+Noël & Associés  
+111, rue Champlain  
+Gatineau, Quebec  J8X 3R1  
+  Tel: (819) 503- 2178  
+Fax: (819) 771 -5397  
+Email: p.landry@noelassocies.com
+ 
+  Agent for the Intervener, Attorney General of Québec 
+ 
+ 
+ATTORNEY GENERAL OF NEW BRUNSWICK  
+ Rachelle Standing  
+Rose Campbell  
+Attorney General of New Brunswick  
+P.O. Box 6000, Stn. A  
+675 King Street, Suite 2018 Fredericton, New Brunswick   E3B 5H1 
+ Tel: (506) 453- 2222  
+Fax: (506) 453 -3275  
+Email: rachelle.standing@gnb.ca
+  
+rose.campbell@gnb.ca   
+ Counsel for the Intervener, Attorney General 
+of New Brunswick  
+ 
+  
+ 
+   D. Lynne Watt  
+Gowling  WLG (Canada) LLP  
+160 Elgin Street  
+Suite 2600 Ottawa, Ontario   K1P 1C3 
+ Tel: (613) 786- 8695  
+Fax: (613) 788 -3509  
+Email: lynne.watt@gowlingwlg.com
+ 
+  Agent for the Intervener, Attorney General of 
+New Brunswick  
+ 
+ 
+ 
+       
+  
+        
+ v 
+ 
+  
+ ATTORNEY GENERAL FOR 
+SASKATCHEWAN  
+ 
+Richard James Fyfe  
+Attorney General for Saskatchewan  
+Constitutional Law Branch, 8th Floor  
+820, 1874 Scarth St. Regina, Saskatchewan   S4P 4B3  
+ Tel: (306) 787- 7886  
+Fax: (306) 787 -9111  
+Email: james.fyfe@gov.sk.ca
+ 
+ Counsel for the Intervener, Attorney General for Saskatchewan  
+ 
+  
+  D. Lynne Watt  
+Gowling WLG (Canada) LLP  
+160 Elgin Street  
+Suite 2600 Ottawa, Ontario   K1P 1C3 
+ Tel: (613) 786- 8695  
+Fax: (613) 788 -3509  
+Email: lynne.watt@gowlingwlg.com
+ 
+ Agent for the Intervener, Attorney General f or 
+Saskatchewan  
+ 
+ATTORNEY GENERAL OF ALBERTA  
+ Angela Edgington  
+Attorney General of Alberta  
+10th Floor  
+10025 -  102A Avenue  
+Edmonton, Alberta   T5J 2Z2  
+ Tel: (780) 427- 1482  
+Fax: (780) 643 -0852  
+Email: angela.edgington@gov.ab.ca
+ 
+ Counsel for the Intervener, Attorney General of Alberta  
+   
+ 
+          
+  
+ D. Lynne Watt  
+Gowling WLG (Canada) LLP  
+160 Elgin Street  
+Suite 2600 Ottawa, Ontario   K1P 1C3 
+ Tel: (613) 786- 8695  
+Fax: (613) 788 -3509  
+Email: lynne.watt@gowlingwlg.com
+ 
+ Agent for the Intervener, Attorney General of Alberta  
+ vi 
+ 
+  
+ ATTORNEY GENERAL OF THE 
+YUKON TERRITORY  
+ 
+Elaine Cairns  
+Kate Mercier  
+Attorney General of the Yukon Territory  
+Legal Services Branch  
+Government of Yukon  
+2130 -  2nd Avenue  
+Whitehorse, Yukon Territory  Y1A 5H6  
+ Tel: (867) 456- 5586  
+Fax: (867) 393 -6928  
+Email: Elaine.cairns@gov.yk.ca
+ 
+ 
+Counsel for the Intervener, Attorney General 
+of the Yukon Territory   
+   Marie- France Major  
+Supreme Advocacy LLP  
+100- 340 Gilmour Street  
+Ottawa, Ontario   K2P 0R3 
+   Tel: (613) 695- 8855 Ext: 102 
+Fax: (613) 695 -8580  
+Email: mfmajor@supremeadvocacy.ca
+ 
+ 
+Agent for the Intervener, Attorney General of 
+the Yukon Territory  
+ 
+ 
+INDIGENOUS BAR ASSOCIATION IN CANADA  
+ Bruce McI vor  
+Kate Gunn  
+First Peoples Law  
+55 East Cordova Street Suite 502 Vancouver, British Columbia   V6A OAS  
+ Tel: (604) 685- 4240  
+Fax: (604) 283 -9349  
+E-mail: bmcivor@firstpeopleslaw.com
+ 
+kgunn@firstpeopleslaw.com  
+ Counsel for the Intervener, Indigenous Bar Association in Canada  
+           
+  
+    Colleen Bauman  
+Goldblatt Partners LLP  500-30 Metcalfe St.  
+Ottawa, Ontario   KIP 5L4  
+ Tel: (613) 482- 2463  
+Fax: (613)235 -3041  
+E-mail: cbauman@goldblattpartners.com
+ 
+  Agent for the Intervener, Indigenous Bar 
+Association in Canada  
+ 
+          
+ vii 
+ 
+  
+ WHITECAP DAKOTA FIRST NATION  
+ 
+Maxime Faille  
+Keith Brown  
+Gowling WLG (Canada) LLP  550 Burrard Street  
+Suite 2300 Vancouver, British Columbia V6C2B5  Tel: (604) 891- 2733  
+Fax: (604) 443 -6784  
+E-mail: rnaxime.faille@gowlingwlg.com
+ 
+ Counsel for the Intervener, Whitecap Dakota First Nation  
+  GRAND COUNCIL OF THE CREES (EEYOU ISTCHEE) AND CREE NATION GOVERNMENT  
+ Jessica Orkin  
+Kim Stanton  
+Goldblatt Partners LLP  20 Dundas Street West  Suite 1100 Toronto, Ontario  M5G2G8  
+Tel: (416) 979- 4381  
+Fax: (416) 591 -7333  
+E-mail: jorkin@goldblattpartners.com
+ 
+kstanton@goldblattpartners.com  
+ James O’Reilly  
+O’Reilley & Associes  
+1155 boul. Robert -Bourassa, Bureau 1007  
+Montréal, Québec  M5G 2G2  
+ Tel: (514) 871- 8117  
+Fax: (514) 871 -9177  
+E-mail: james.oreilly@orassociates.ca
+  
+Counsel for the Intervener, Grand Council of the Crees (Eeyou Istchee) and Cree Nation Government  
+   
+  
+  Guy R égimbald  
+Gowling WLG (Canada) LLP  160 Elgin Street  
+Suite 2600 Ottawa, Ontario KIP 1C3  
+  Tel: (613) 786- 0197  
+Fax: (613) 563 -9869  
+E-mail: guy.regimbald@gowlingwlg.com
+ 
+ Agent for the Intervener, Whitecap Dakota 
+First Nation  
+       Darryl K orell  
+Goldblatt Partners LLP  30 Metcalfe Street  
+Suite 500  Ottawa, Ontario   KIP 5L4  
+Tel: (613) 482- 2467  
+Fax: (613) 2:35 -3041  
+E-mail: dkorell@goldblattpartners.com
+ 
+    
+ 
+     Agent for the Intervener, Grand Council of the Crees (Eeyou Istchee) and Cree Nation Government  
+   
+ viii 
+ 
+  
+ OKANAGAN NATION ALLIANCE  
+ 
+Rosanne Kyle  
+Crystal Reeves  
+Mandell Pinder LLP  
+Suite 422 -  I 080 Mainland Street Vancouver, 
+British Columbia V6B 2T4  
+ Tel: (604) 681- 4146  
+Fax: (604) 681 -0959  
+E-mail: rosanne@mandellpinder.com
+ 
+crystal@mandellpinder.com  
+ 
+Counsel for the Intervener, Okanagan Nation Alliance  
+  MOHAWK COUNCIL OF KAHNAWÁ:KE  
+ Francis Walsh  
+Stacey Douglas  
+P.O. Box720 
+Mohawk Territory of Kahna wá:ke, 
+Quebec  J0L IBO  
+ Tel: (450) 632- 7500  
+Fax: (450) 638 -3663  
+E-mail: francis.walsh@mck.ca
+  
+  
+Counsel for the Intervener, Mohawk Council of Kahnawá:ke  
+  ASSEMBLY OF FIRST NATIONS  
+ Stuart Wuttke  
+Julia McGregor  
+55 Metcalfe Street, Suite 1600 Ottawa, Ontario   KIP 6L5  
+ Tel: (613) 241- 6789 ext. 228 
+Fax: ( 613) 241 -5808  
+E-mail: swuttke@afn.ca
+ 
+jmcgregor@afn.ca  
+ 
+Counsel for the Intervener, Assembly of First 
+Nations   
+  Colleen Bauman  
+Goldblatt Partners LLP  500-30 Metcalfe St.  
+Ottawa, Ontario   KIP 5L4  
+ Tel: (613) 482- 2463  
+Fax: (613) 235 -3041  
+E-mail: cbauman@goldblattpartners.com
+ 
+ 
+ 
+Agent for the Intervener, Okanagan Nation 
+Alliance  
+     Maxine Vincelette  
+Power Law  
+130 Albert Street  
+Suite 1103  Ottawa, Ontario  KIP 5G4  
+ Tel: (613) 702- 5560  
+Fax: (613) 702 -5560  
+E-mail: mvincelette@powerlaw.ca
+ 
+ 
+Agent for the Intervener, Mohawk Council of Kahnawá:ke  
+ 
+   Moira Dillon  Supreme Law Group  
+900 -  275 Slater Street  
+Ottawa, Ontario   KlP 5H9  
+ Tel: (613) 691- 1224  
+Fax: (613) 691 -1338  
+E-mail: mdillon@supremelawgroup.ca
+ 
+ 
+ 
+Agent for the Intervener, Assembly of First 
+Nations  ix 
+ 
+  
+ MÉTIS NATIONAL COUNCIL AND 
+MANITOBA MÉTIS FEDERATION INC 
+ 
+Kathy L. Hodgson -Smith  
+Hodgson- Smith Law  
+311-21 Street East  
+Saskatoon, Saskatchewan  S7K 0Cl  
+ Tel: (306) 955- 0588  
+Fax: (306) 955 -0590  
+E-mail: kathy@khslaw.ca
+ 
+ Caroline Magnan  
+Audrey Maynard  
+Juristes Power  
+1103-  130, rue Albert  
+Ottawa, Ontario   KIP 504 
+Tel: (613) 702- 5566  
+Fax: (613) 702 -5566  
+E-mail: CMagnan@juristespower.ca
+ 
+AMaynard@juristespower.ca   
+ Counsel for the Intervener s, Metis National 
+Council and Manitoba Metis Federation Inc  
+  NUCHATLAHT FIRST NATION  Jack Woodward, Q.C.  302 -  871 Island Highway 
+Campbell River, British Columbia  V9W  2C2 
+  Tel: (778) 348- 2356  
+E-mail: jack@jackwoodward.ca
+ 
+  Counsel for the Intervener, Nuchatlaht First Nation  
+ 
+ 
+   
+ 
+  
+  Darius Boss é 
+Juristes Power  
+1103-  130, rue Albert  
+Ottawa, Ontario   KIP 504 
+ Tel: (613) 702- 5566  
+Fax: (613) 702 -5566  
+E-mail: DBosse@juristespower.ca
+ 
+           Agent for the Intervener s, Metis National 
+Council and Manitoba Metis Federation Inc  
+    David P. Taylor  
+Conway Baxter Wilson LLP  400 -  411 Roosevelt Avenue  
+Ottawa, Ontario   K2A 3X9  
+ Tel: (613) 691- 0368  
+Fax: (613) 688 -0271  
+E-mail: dtaylor@conway.pro
+ 
+ Agent for the Intervener, Nuchatlaht First Nation  
+  
+ 
+ 
+ 
+  
+ x 
+ 
+  
+ CONGRESS OF ABORIGINAL 
+PEOPLES  
+ 
+Andrew Lokan  
+Paliare Roland Rosenberg Rothstein LLP  
+155 Wellington Street West 35th Floor  
+Toronto, Ontario  M5V3Hl  
+  Tel: (416) 646- 4324  
+Fax: (416) 646 -4301  
+E-mail: andrew.lokan@paliareroland.com
+ 
+ Counsel for the Intervener, Congress of Aboriginal Peoples  
+  LUMMI NATION  
+ John W. Gailus  
+DGW Law Corporation  
+201 -  736 Broughton Street  
+Victoria, British Columbia  
+V8W 1El  
+ Tel: (250) 361- 9469  
+Fax: (250) 361 -9429  
+E-mail: john@dgwlaw.ca
+ 
+ Counsel for the Intervener, Lummi Nation   
+  
+ 
+ 
+Matthew Estabrooks  
+Gowling WLG (Canada) LLP  
+2600 -  160 Elgin Street  
+P.O. Box 466, Stn. A  
+Ottawa, Ontario   KIP 1C3  
+ Tel: (613) 786- 0211  
+Fax: (613) 788 -3573  
+Email: matthew.estabrooks@gowlingwlg.com
+ 
+ Agent for the Intervener, Congress of Aboriginal Peoples  
+  
+ 
+ 
+Moira Dillon  
+Supreme Law Group  
+900 -  275 Slater Street  
+Ottawa, Ontario  
+KIP 5H9  
+ Tel: (613) 691- 1224  
+Fax: (613) 691 -1338  
+E-mail: mdillon@supremelawgroup.ca
+ 
+ Agent for the Intervener, Lummi Nation  
+   xi 
+ 
+  
+  
+TABLE OF CONTENTS  
+I. OVERVIEW  .......................................................................................................................... 1 
+Facts  ....................................................................................................................................... 2 
+II. ISSUES  ................................................................................................................................... 4 
+III. ARGUMENT  ......................................................................................................................... 4 
+A. Aboriginal Peoples of Canada…  ................................................................................. 4 
+B. The Prerogative  ............................................................................................................ 5 
+C. Reconciling  .................................................................................................................... 9 
+IV. SUBMISSIONS ON COSTS  .............................................................................................. 10 
+V. ORDER SOUGHT  .............................................................................................................. 10 
+VI. TABLE OF AUTHORITIES  ............................................................................................. 11 
+ 
+  1 
+ 
+  
+ I. OVERVIEW  
+1. This appeal is not really about hunting rights. It is not about mobility rights. Like every other 
+collision between Indigenous peoples and Canadian law, it is about the connection between 
+the people and the land, and about the Crown’s w illingness to respec t it. 
+2. Does a Sinixt man carry the bundle of his rights with him across an imaginary and recent line, never leaving Sinixt land? Were the rights and identity of the Sinixt people on the south 
+side, including those Sinixt who were forced out of Canada, sudde nly transformed and 
+reduced after the Crown, 250 years ago, unilaterally drew that  line?  
+3. In the end, this is about belonging, and the right to belong. 
+4. Belonging to one people, not a split, broken people arbitrarily divided by other peoples’ 
+lines. Belonging to the clay you are made of, in ways generations of immigrants may never 
+know.  
+5. Reconcil iation, a word with multiple,  diffuse meanings, includes mutu al respect for the right 
+of nations to continue to exist and evolve as nations. It includes respect for the right of 
+Indigenous nations, peoples of habitat, people who never left, to belong to all their land, and 
+of individual citizens of those nations to belong -  period. 
+6. The Peskotomuhkati, like the Sinixt, belong to land and water on both sides of the border. 
+Unlike the Sinixt, their treaty relationship with the Crown as a single nation began in 1725, 
+when the Crown asserted its sovereignty over all their  land and all their people , and the 
+United States of America and the border did not yet exist. From 1725 on, the treaties are 
+about land and rights.  
+7. Can the Crown honourably say that a nation with whom it has treaty relations about l and that 
+is now in Canada is  only partly “an Aboriginal people of Canada,” and that the C rown will 
+now fulfill the relationship with only  part of the people? T hat is what it is  telling the 
+Peskotomuhkati.  
+8. Can the Crown honourably say that the rights of a people who have neve r made a treaty, and 
+whose reconciliation with the Crown’s assert ion of sovereignty is thus  much more 2 
+ 
+  
+ incomplete, have been abrogat ed by a unila teral prerogative act? T hat is what it is telling the 
+Sinixt.  
+9. In Canadian law, the prerogative act of creating a  border must respect and be compatible 
+with Aboriginal and treaty rights, because the Crown’s prerogative is limited and informed, 
+ab initio,  by the law of the land – which in Canada includes the laws of Indigenous nations. 
+Those laws are not inconsistent with Canadian sovereignty: they are part  of Canadian 
+sovereignty. The making of the border must be seen through that principled lens. 
+10. In Canadian law, Crown obligations to another nation- state, inclu ding about  border s, are not 
+superior to Crown obligations  to Indigenous nations. The latter are protected by the 
+Constitution of Canada. They are part of the supreme law of Canada. The former are not. Respecting treaty relations means respecting the continued integrity and existence of 
+Indigenous nations, especi ally where the treaties were made well before the creation of the 
+border. That respect must also flow to Indigenous peoples with whom the Crown has not yet, and may never, conclude treaties.  
+11. Canada’s history has been shaped by the many times the Crown reli ed on continuing treaty 
+relations with Indigenous nations, many of whom ended up partly or completely outside 
+Canada. Canada would not be here today if the Crown had not been able to call upon those 
+alliances in its wars with France and the United States.  
+12. These legal arguments are about the nature of the relationship, in Canadian law, between 
+Indigenous nations and the Crown. The most basic duty is  respect for the right of a pe ople 
+to remain a people. F or Indigenous peoples this means remaining a people of the land. 
+Without that respect, all talk of reconciliation, in any form, is  still a discourse of assimilation 
+and denial.  
+Facts  
+13. The Peskotomuhkati (Passamaquoddy) Nation is the Indigenous people of the watershed of Passamaquoddy Bay and the Skutik (St. Croix) River. There are three Peskotomuhkati 
+communities, two in the present State of Maine in the United States, and one in New 3 
+ 
+  
+ Brunswick.1 The three communities are close, geographically, culturally, politically, and 
+through shared families.2 They are and choose to be one people, one nation. Peskotomuhkati 
+territory  lies in both Canada and the United States. The international boundary was finally 
+decided by treaty in 1842.3  
+14. The treaty relationship between the Peskotomuhkati and the Crown began in 1725. It has 
+been reaffirmed and renewed several times since, most recently in 2016.4 It provides for 
+peaceful coexistence of Peskotomuhkati society and its expansi ve use of the land with the 
+Crown’s subjects and their more sedentary way of life. Pe skotomuhkati Aboriginal title is 
+intact . The treaties were made before t he creation of the U .S., when the Crown asserted 
+colonial sovere ignty over all the  territory, including the part that is now in Maine .  
+15. The Peskotomuhkati Nation has engaged in comprehensive, treaty- based negotiations about 
+Aboriginal and treaty rights, including issues of  land, waters, hunting and fishing rights, with 
+the Government of Canada since 2017 and the Government of New Brunswick since 2018.5 
+The Council of the Peskotomuhkati Nation at Skutik, the community on the Canadian side 
+of the r iver, has taken the lead for t he Peskotomuhkati Nation in the negotiations.  
+16. Though Canada acknowledges that the Peskotomuhkati have treaty and Aboriginal rights, it 
+has only recently moved toward recognizing some of the people as “Indians” and the 
+community in Canada as a “band” pursua nt to the Indian Act .6 
+17. As a result of the l oss of key reserved lands and prosecutions for hunting and fishing, many 
+Peskotomuhkati families were forced to move to Maine.7 The Peskotomuhkati experience 
+mirrors that of the Sinixt.  Today, Peskotomuhkati language and culture are strongest in the 
+two communities on the west (Ameri can) side of the river . The survival of the  language and 
+culture  depends upon the people continuing to live as one nation.  
+ 
+1 Affidavit of Hugh Akagi, sworn February 3, 2020 at para 6 [Akagi Affidavit].  
+2 Ibid at para 7.  
+3 Ibid at para 11.  
+4 Ibid at paras 9 -10. 
+5 Ibid at para 20.  
+6 Ibid at paras 17- 19. 
+7 Ibid at para 14.  4 
+ 
+  
+ 18. For three centuries, the treaty relationship has been the path to reconcile the Crown’s 
+assertion of sovereignty over the land and the continued existence of the Peskotomuhkati 
+Nation, its laws and government. That r econciliation is threatened if  the Crown treats only 
+some of the people of its treaty partner as holders of fundamental rights and title. Canada and New Brunswick have stated in  negotiations that in their view Peskotomuhkati people 
+who do not reside in Canada are not part of “an Aboriginal people of Canada.”  
+II. ISSUES  
+i. What is the meaning of the term an “Aboriginal people of Canada” in s. 35 of the Constitution Act, 1982 of Canada? What do “people” and “of Canada” mean? 
+ii. Is the prerogative, the authority by which the British Crown asserted its sovereignty over this land and  its peoples, by which it made and is negotiating treaties, and by which it 
+negotiated a  boundary w ith th e United States , limited by the law of the land, including 
+Indigenous laws?  
+iii. Is the Crown’s responsibility to the people of its Indigenous treaty partners affected by a later creation of that  boundary, and is that responsibility different when the Indigenou s 
+people do not yet have a treaty with the Crown about their land?  
+III. ARGUMENT  
+A. Aboriginal Peoples of Canada…  
+19. Though the words of s. 35 suggest  that there are three “Aboriginal peoples” in Canada 
+(Indian, Inuit and Métis),
+8 Canada’s adhesion to the United Nations Declaration on the 
+Rights of Indigenous Pe oples confirms  that “people” is a political rather than  a racial term.9 
+The term mirrors th e use of  “Nations or Tribes” in the Royal Proclamation of 1763, a 
+constitutional document of Canada. There are many peoples , each with their own languages 
+and laws . 
+ 
+8 Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11, s 35(1).  
+9 United Nations Declaration on the Rights of Indigenous Peoples,  UN GA Res 295, UNGAOR, 61st Sess, Supp No 
+49, UN Doc A/RES/61/295, 46 ILM 1013 (2007).  5 
+ 
+  
+ 20. “Of Canada” refers to the connection between the peoples and the land. The words are not 
+possessive: Canada, the political entity, does not own peoples. Nor does “of Canada” mean 
+the same as “Canadian”: a long history of denial of citizenship eliminates that interpretation.  
+21. The Attorney General of Québec argues that, to be an “Aboriginal people of Canada,” a people must be faisant partie de la société Canadienne dans son ensemble .
+10 Canada has 
+historically marginalized  Indigenous peoples, denying them citizenship, civil ri ghts, and land 
+rights. T hey could not be come part of Canadian society without “enfranchising” and 
+abandoning their identity. The argument  echoes  a policy  of assimilation that Canada has 
+explicitly abandoned. Crown actions forced t he Sinixt, like many Peskotomuhkati, to 
+beco me refug ees south of the border . They were deliberately excluded from Canada. Now 
+Quebec asks the Court to use that exclusion to justify further denial  of their rights. Quebec’s 
+position is inconsistent  with its own insistence on its difference from the rest of Canada.  
+22. Canada made “Indians” citizens shortly before affirming the United Nations Universal 
+Declaration of Human Rights. Article 15 of that Declaration states that no one shall be arbitrarily deprived of a nationality.
+11 Denying Sinixt  or Peskotomuhkati individuals the 
+same vital land rights as other citizens of their nations is in effect denial of nationality.  
+23. Statutes affecting Indigenous peoples must be interpreted liberally and purposively and 
+ambiguities resolved in their favour.12 Section 35 is fundamental: its interpretation in a 
+manner that respects, protects and preserves  the peoples is elementary.  
+B. The Prerogative  
+24. The boundary between Canada and the United States was created by the 1783 Treaty of 
+Paris. As a peace treaty, that Treaty was a prerogative act (unlike the later Jay Treaty in 1794, 
+a treaty of friendship, commerce and navigation which required legislative ratification).13 
+ 
+10 Factum of the Attorney General of Quebec, dated June 4, 2020 at para 19.  
+11Universal Declaration of Human Rights , GA Res 217A (III), UNGAOR, 3rd Sess, Supp No 13, UN Doc A/810 
+(1948) 71.  
+12 Nowegejick v. The Queen , [1983] 1 SCR 29 at 36, 1983 CanLII 18 (SCC).  
+13 Francis v. The Queen , [1956] SCR 618 at 625, 1956 CanLII 79 (SCC)  [Francis ]: “Assuming, then, a broader 
+authority under the prerogative in negotiating a peace treaty, neither the causes nor the purposes of the 1794 treaty 
+bring it within that category…in the case of a treaty not a peace treaty, the prerogative does  not extend”.  6 
+ 
+  
+ 25. The creation of the international boundary was an exercise of the Crown’s prerogative 
+authority. The Crown’s assertion of sovereignty was similarly a prerogative act. Treaties 
+between the Crown and Indigenous nations, including the treaty relationship betw een the 
+Crown and the Peskotomuhkati Nation, are also exercises of the prerogative authority, as is the common law’s incor poration of Aboriginal rights and title . Why should the 1783 Treaty 
+of Paris take precedence over constitutionally protected rights, i ncluding other treaty rights? 
+Surely reconciliation  resolves  this question, refuting the assumption that one kind of exercise 
+of preroga tive authority aut omatically overrides  another . 
+26. From the perspective of most Canadians, the Crown’s prerogative has been eroded to near -
+irrelevance. To Indigenous  peoples, the prerogative is a crucial source of Crown authority, 
+historic and present, to negotiate treaties, to reserve lands , or to create “bands.”
+14  
+27. The Crown’s prerogative authority is itself subject to limits, not only as gradually reduced 
+by Parliament, but from its inception. In 2019, the Prime Minister of the United Kingdom 
+asked the Queen to prorogue Parliament -  a prerogative of the m onarch. T he Supreme Court 
+of the United Kingdom decl ared the pr orogation void. The Court decided it had authority to 
+limit the prerogative, and that the prerogative had been limited from the beginning:  
+…political controversy did not deter the courts from holding, in the Case of 
+Proclamations , (1611) 12 Co Rep 74, that an attempt to alter the law of the 
+land by the use of the Crown’s prerogative powers was unlawful. The court concluded at p. 76 that “the King hath no prerogative but that which the law 
+of the land allows him,” indicating that the limits of prerogative powers were 
+set by law and were determined by the courts.
+15 
+28. “The law of the land,” which guides, shapes and limits Crown prerogative authority, includes  
+the elements of British law – Anglo- Saxon, Welsh, Scottish – and  equity. It is a meaningful 
+but not  yet deeply defined legal term.  
+ 
+14 Ross River Dena First Nation Band v. Canada, 2002 SCC 54 at para 54, and at paras 3 and 4: “…the power to create 
+reserves was originally based on the royal prer ogative. The power is thought to be part of the Crown’s prerogative to 
+administer and dispose of public property including Crown lands…There is no doubt that a royal prerogative can be 
+abolished or limited by clear and express statutory provision”; Howse v. Canada (Attorney General) , 2015 FC 1063 
+at para 37; Wells v. Canada (Attorney General) , 2018 FC 483 at para 48.  
+15 R on the application of Mille r v. The Prime Minister: Cherry and others v. Advocate General for Scotland , [2019] 
+UKSC 41 at para 32.  7 
+ 
+  
+ 29. Indigenous legal systems are part of the law in Canada. They have been , both since the arrival 
+of the Crown, and long before there was a Canada.16  
+30. More appropriately, they stand beside the common law , a separate but equally legitimate 
+stream (as equity remains a distinct stream): 
+The law in Canada has followed its own unique development reflecting the 
+diverse historical nature of Canadian society. In addition to the common law 
+and civil law, courts and governments, the latter through statutes and treaties, 
+have recognized and utilized Indigenous law.17 
+31. As part of the law of the land,18 they have guided, informed and limited the exercise of the 
+Crown’s prerogative authority from the time of the British Crown’s assertion of 
+sovereignty.19 The limits imposed on Crown prerogative by pre -existing Indigenous legal 
+systems, a different “law of the land” from place to place an d nation to nation, compel  the 
+reconciliation required by  Canada’s constitution.  
+32. The Appellant has asserted that the use of the Crown’s prerogative power to set a boundary 
+by treaty with  the United States can result in  a people with Aboriginal rights and title to land 
+in Canada not being an “Aboriginal people of Canada,” despite their soci ety and its laws 
+being part of the law of the land that pre -existed the making of the boundary and the assertion 
+of sovereignty by the Crown, and despite that people’s  treaties with the Crown.  
+ 
+16 Delgamuukw v. British Columbia, [1997] 3 SCR 1010 [Delgamuukw ] at para 159:  “The common law should develop 
+to recognize aboriginal rights as they were recognized by either de f acto practice or by aboriginal systems of 
+governance.” See also Delgamuukw  at para 133: “…aboriginal rights existed and were recognized under the common 
+law”; R. v. Van der Peet , [1996] 2 SCR 507 at para 28: “Aboriginal governments gave the constitution [of Canada] its 
+deepest and most resilient roots in Canadian soil”; Mitchell v. MNR , 2001 SCC 33 at para 129 [Mitchell].  
+17 Henry v. Roseau River First Nation Government , 2017 FC 1038 at para 8.  
+18 “Indigenous legal traditions are among Canada’s legal traditions. They form part of the law of the l and”: Pastion v. 
+Dene Tha’ First Nation , 2018 FC 648 at para 8.  
+19 Another prerogative constitutional document of Canada, the Royal Proclamation of 1763  distinguishes between 
+“our loving Subjects” and “the Nations or Tribes of Indians with whom We are connected, and who li ve under Our 
+Protection.” That is, Indians were not, at that time, considered subjects: George R, Proclamation, 7 October 1763 (3 
+Geo III), reprinted in RSC 1985, App II, No 1.  That distinction continued: see the 1794 Treaty of Friendship, 
+Commerce and Navigation (the Jay Treaty),  between Great Britain and the United States of America, signed 19 
+November 1794, at Article III.  8 
+ 
+  
+ 33. If being an “Aboriginal people of Canada” and not being resident in Canada infringes upon 
+Canadian sovereignty,20 it is only inconsistent with the assertion of that sovereignty if it is 
+not part of the law of the land. If it is part of that law, by being part of an Indigenous nation’s law, then it is part of Canadian sovereignty, rather than inconsistent with it.
+21 
+34. In Mitchell v. MNR , this  Court wondered whether it could recognize an Aboriginal right that  
+was inconsistent with Canadian sovereignty.22 But that asserted sovereignty is itself limited 
+by the need for reconciliation between Indigenous laws and the Crown’s laws, and the 
+requirement of finding a path to their coexistence.  Binnie, J. suggested that there is, in 
+Canada, “shared sovereignty” be tween the Crown and Indigenous peoples.23 This has 
+integrity only if the Indigenous share  is meaningful rather than merely assimilated.  
+35. The ongoing process of reconciliation, implemented through pragmatic negotiations, can 
+address any security issues associated with  an Aboriginal right to enter Canada, much as 
+negotiations between Canada, the United States and Mexico continue to resolve issues of citizens of the three countries moving about in an integrated North American economy. 
+Compromises of sovere ignty are not necessarily incompatible with sovereignty. They are 
+sometimes exercises of sovereignty.  
+36. While the creation of the boundary between Canada and the United States in 1783 was a 
+prerogative act,
+24 it had its limits. It could not declare by implic ation that an Indigenous 
+people no longer had rights to its land in Canada where part of that people now found itself living in the (new) United States. That would be an expropriation without consent or 
+compensation.  It could not override the existence and (common law, now constitutionalized) 
+rights of a people  whose pre -existence and laws the Crown was seeking to reconcile with its 
+asserted sovereignty. That is not honourable, and it is not reconciliation. 
+ 
+20 Frank v. Canada (Attorney General) , 2019 SCC 1. Canadian citizens have the right to vote regardless of their place 
+of residence.  
+21 See, for example, Ro:ri:wi:io v. Canada (Attorney General) , 2007 ONCA  100 at para 4: “We note that the appellant 
+does not assert aboriginal title over the land. Such a claim would not challenge Canada’s sovereignty because 
+aboriginal title exists within Canadian sovereignty”.  
+22Mitchell, supra  note 16. 
+23 Ibid at para 135.  
+24 Francis , supra note 13. 9 
+ 
+  
+ 37. British Columbia has asserted that the continued practice of Aboriginal rights by Sinixt 
+people resident in what is now the U.S. should not be recognized in Canadian law because 
+it is incompatible with Canadian sovereignty. But that sovereignty is limited ab initio  by the 
+law of the land. In Sinixt land, the root of that limit is the pre -existence of Sinixt society: 
+their continued existence (continuity is a key Aboriginal right) as a distinctive society of that land is what makes them “an Aboriginal people of Canada.”
+25  
+38. The Immigration and Refugee Prote ction Act  provides that an Indian registered pursuant to 
+the Indian Act has the same right to enter Cana da as a Canadian citizen. R esidence and 
+Canadian or U .S. citizenship are irrelevant to Indian status, or to the right to enter or be in 
+the country.26  
+C. Reconciling  
+39. “Reconciliation” has several different meanings . Some of them are being misused in this 
+case. We are not talking about the kind of reconciliation required after the crimes and abuses of the residential school system ,
+27 nor about Indigenous peoples reconciling themselves to 
+Crown sovereignty or control.28 The term addresses  the continuing contradiction of the 
+Crown’s unilateral asserti on of sovereignty over  land and the nations who were already here, 
+who had, and have, their own laws , governments and societies. One path to that reconciling 
+has been creating treaty relationships.29 Another is an abiding right to consultation and 
+accommodation.30 Another is good faith negotiations.31 Reconciling in this legal sense is a 
+verb, not a noun, for it is not over. 
+ 
+25 R. v. Côté , [1996] 3 SCR 139 at para 56.  
+26 In the Matter of a Reference for Review of Registrar’s Decision, James David Jock, [1980] 2 CNLR 75.  As to 
+citizenship, it is irrelevant to a status Indian’s right to enter and remain in Canada: Immigration and Refugee Protection 
+Act, SC 2001 c. 27, s 19(1) .  
+27 Canada (Attorney General) v. Fontaine,  2017 SCC 47.  
+28 “The modern law of Aboriginal rights was intended to reconcile interests of the local inhabitants…to a change in 
+sovereignty” Binnie, J. in Mitchell, supra  note 16 at para 144.  
+29 Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 73 at para 20: “Treaties serve to reconcile pre-
+existing Aboriginal sovereignty with assumed Crown sovereignty”.  
+30 Mikisew Cree First Nation v. Canada , 2005 SCC 69 at para. 57: “Treaty 8 therefore gives rise to Mikisew procedural 
+rights (e.g. consultation) as well as substantive rights (e.g. hunting, fishing and trapping rights).”  
+31 Delgamuukw , supra  note 16 at para 207: “The best approach in these kinds of cases is a process of negotiation and 
+reconciliation that properly considers the complex and com peting interests at stake”.  10 
+ 
+  
+ 40. Unilateral Crown action is the antithesis of reconciliation.32 For the Crown to suddenly and 
+unilaterally declare that part of a people who have a bundle of rights, especially where the 
+people have treaty relations with the Crown, are now no longer entitled to those rights, by 
+reason of residence (for both Canadian and U .S. citizen ship were withheld from Indians until 
+the 20th century), is not honourable.  
+41. Maintaining that Indigenous peoples “resident in the United States” have no rights or 
+relations in or with Canada is dishonourable in another sense . The Crown has often relied 
+upon its Indigenous all ies, protecting their rights in the 1794 Jay Treaty and 1815 Treaty of 
+Ghent . It supported its Haudenosaunee allies in their dealing s wit h the U .S. after 1783. It 
+actively supported and supplied Indigenous  resistance to the US  in the Ohio country in the 
+early 1790s, keeping its posts south of the boundary. In the War of 1812, the Crown’s 
+Indigenous allies on both sides of the boundary, including the Shawn ee, Lakota and 
+Anishinaabeg, protected Canada from falling to American invaders. The Crown supported 
+its Sauk and Fox allies in the Black Hawk War of 1832. The Crown has also historically 
+insisted that the U .S. honour its obligations to Indigenous peoples resident in Canada . It took 
+international action for  the Cayuga Nation in 1926.33 It is too late, with its  history of reliance 
+on Indigenous help, for the Crown to assert that this boundary has been anything but porous.  
+IV. SUBMISSIONS ON COSTS  
+42. The Peskotomuhkati Nation does not seek costs and request s that none be awarded against it.   
+V.  ORDER SOUGHT  
+43. The Peskotomuhkati Nation requests permission to present oral argument not exceeding five  
+(5) minutes at the hearing of this  appeal.  
+ALL OF WHICH IS RESPECTFULLY SUBMITTED THIS 19th DAY OF JUNE , 2020.  
+ 
+ 
+_______________________________  _______________________________ 
+Kayanesenh Paul Williams     Kahyoh’ noh Karenna Williams  
+Counsel for the Intervener,     Counsel for the Intervener,  
+the Peskotomuhkati Nation     the Peskotomuhkati Nation   
+ 
+32 Mikisew Cree First Nation v. Canada , 2018 SCC 40 at para 87.  
+33 Cayuga Indians Case , Permanent Court of Arbitration (1926) No. 300.  11 
+ 
+  
+ VI. TABLE OF AUTHORITIES  
+CASES  Paras.  
+1. Canada (Attorney General) v. Fontaine,  2017 SCC 47  39 
+2. Delgamuukw v. British Columbia , [1997] 3 SCR 1010 , 1997 CanLII 
+302 (SCC)  
+ 29, 39 
+3. Francis v. The Queen , [1956] SCR 618,  1956 CanLII 79 (SCC)   24, 36 
+4. Frank v. Canada (Attorney General) , 2019 SCC 1  33 
+5. Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 
+73 39 
+6. Henry v. Roseau River First Nation Government , 2017 FC 1038  
+ 30 
+7. Howse v. Canada (Attorney General) , 2015 FC 1063  26 
+8. In the Matter of a Reference for Review of Registrar’s Decision, 
+James David Jock, [1980] 2 CNLR 75 
+ 38 
+9. Mikisew Cree First Nation v. Canada , 2005 SCC 69  
+ 39 
+10. Mikisew Cree First Nation v. Canada , 2018 SCC 40  
+ 40 
+11. Mitchell v. MNR , 2001 SCC 33  
+ 29, 34, 39 
+12. Nowegejick v. The Queen , [1983] 1 SCR 29 , 1983 CanLII 18 (SCC ) 23 
+13. Pastion v. Dene Tha’ First Nation , 2018 FC 648  31 
+14. R on the application of Miller v. The Prime Minister: Cherry and 
+others v. Advocate General for Scotland , [2019] UKSC 41 
+ 27 
+15. R. v. Côté , [1996] 3 SCR 139 , 1996 CanLII 170 (SCC)  
+ 37 
+16. R. v. Van der Peet , [1996] 2 SCR 507 , 1996 CanLII 216 (SCC)  
+ 29 
+17. Ro:ri:wi:io v. Canada (Attorney General) , 2007 ONCA  100 
+ 33 
+18. Ross River Dena First Nation Band v. Canada , 2002 SCC 54  26 
+19. Wells v. Canada (Attorney General) , 2018 FC 483  26 
+ 
+  12 
+ 
+  
+ STATUTES  Paras.  
+20. Constitution Act, 1982 , being Schedule B to the Canada Act 1982  
+(UK), 1982, c 11, 35(1)  
+ 19 
+21. Immigration and Refugee Protection Act, SC 2001 c. 27 , 19(1)  38 
+ 
+INTERNATIONAL  Paras.  
+22. Cayuga Indians Case, Permanent Court of Arbitration  (1926) No. 
+300 41 
+23. Royal Proclamation of 1763  (George R, Proclamation, 7 October 
+1763 (3 Geo III), reprinted in RSC 1985, App II, No 1)  19, 31 
+24. Treaty of Friendship, Commerce and Navigation  (the Jay Treaty ), 
+between Great Britain and the United States of America, signed 19 
+November 1794  31 
+25. United Nations Declaration on the Rights of Indigenous Peoples,   
+UN GA Res 295, UNGAOR, 61st Sess, Supp No 49, UN Doc 
+A/RES/61/295, 46 ILM 1013 (2007)  19 
+26. Universal Declaration of Human Rights , GA Res 217A (III), 
+UNGAOR, 3rd Sess, Supp No 13, UN Doc A/810 (1948) 71  
+ 22 
+ 
+  13 
+ 
+  
+ Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11 
+ 
+ 
+RIGHTS OF THE ABORIGINAL 
+PEOPLES OF CANADA 
+ Recognition of existing aboriginal and treaty rights  
+  35. (1)  The existing aboriginal and treaty 
+rights of the aboriginal peoples of Canada are hereby recognized and affirmed.  
+ Definition of “aboriginal peoples of Canada”  
+ (2) In this Act, “aboriginal peoples of Canada” includes the Indian, Inuit and Métis peoples of Canada.  
+  Land claims agreements  
+ (3) For greater certainty, in subsection (1) “treaty rights” includes rights that now exist by way of land claims agreements or may be so acquired.  
+  
+ Aboriginal and treaty rights are guaranteed equally to both sexes  
+ (4) Notwithstanding any other provision of 
+this Act, the aboriginal and treaty rights referred to in subsection (1) are guaranteed equally to male and female persons.  
+ DROITS DES PEUPLES 
+AUTOCHTONES DU CANADA  
+ Confirmation des droits existants des peuples autochtones  
+ 35. (1)  Les droits existants — ancestraux ou 
+issus de traités — des peuples autochtones du Canada sont reconnus et confirmés.  
+ Définition de « peuples autochtones du Canada »  
+ (2) Dans la présente loi, « peuples autochtones du Canada » s’entend notamment des Indi ens, des Inuit et des Métis du Canada.  
+ Accords sur des revendications territoriales  
+ (3) Il est entendu que sont compris parmi les 
+droits issus de traités, dont il est fait mention au paragraphe (1), les droits existants issus d’accords sur des revendicat ions territoriales 
+ou ceux susceptibles d’être ainsi acquis.  
+ Égalité de garantie des droits pour les deux 
+sexes  
+  (4) Indépendamment de toute autre 
+disposition de la présente loi, les droits — ancestraux ou issus de traités — visés au paragraphe (1) sont garantis également aux personnes des deux sexes. 
+ 
+ 
+ 
+  14 
+ 
+  
+ Immigration and Refugee Protection Act, SC 2001 c. 27, 19(1)  
+ 
+ 
+Right of entry of citizens and Indians  
+ 
+19 (1)  Every Canadian citizen within the 
+meaning of the Citizenship Act and every person registered as an Indian under the Indian Act has the right to enter and remain in Canada in accordance with this Act, and an officer shall allow the person to enter Canada if satisfied following an examination on their 
+entry that the person is a citizen or registered Indian.  
+  
+ Droit d’entrer : citoyen canadien et Indien  
+ 19 (1)  Tout citoyen canadien, au sens de la 
+Loi sur la citoyenneté, et toute personne inscrite comme Indien, en vertu de la Loi sur les Indiens, a le droit d’entrer au Canada et d’y séjourner conformément à la présente loi; l’agent le laisse entrer sur preuve, à la suite d’un contrôle fait à son arrivée, de sa qualité.  
+  
+ 
+ 
+ 
+ 

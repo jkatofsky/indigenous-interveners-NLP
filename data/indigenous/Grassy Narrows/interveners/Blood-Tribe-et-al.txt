@@ -1,0 +1,936 @@
+S.C.C. File No. 35379 
+IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE COURT OF APPEAL FOR ONTARIO) 
+BETWEEN: 
+ANDREW KEEWATIN JR; and JOSEPH WILLI AM FOBISTER on their own behalf 
+and on behalf of all other member s of GRASSY NARROWS FIRST NATION  
+APPELLANTS 
+-and- 
+MINISTER OF NATURAL RESOURCES an d RESOLUTE FP CANADA INC. (formerly 
+ABITIBI-CONSOLIDATED INC.) 
+RESPONDENTS 
+(Defendants) 
+-and- 
+THE ATTORNEY GENERAL OF CANADA  
+RESPONDENT 
+(Third Party) 
+-and- 
+GOLDCORP INC. and LESLIE CAMERON on his ow n behalf and on behalf of all other 
+members of WABAUSKANG FIRST NATION 
+RESPONDENTS 
+(Interveners) 
+ 
+FACTUM OF THE INTERVENER 
+BLOOD TRIBE, BEAVER LAKE CREE NATION, ERMINESKIN CREE NATION, 
+SIKSIKA NATION and WHITEFISH LAKE FIRST NATION #128 
+(Pursuant to Rule 42 of the Rules of the Supreme Court of Canada) 
+ 
+Meaghan M. Conroy 
+Abram B. Averbach 
+MacPherson Leslie & Tyerman LLP 
+10235 101st Street, Suite 2200 
+Edmonton, AB  T5J 3G1  
+Tel: (780) 969-3500 
+Fax: (780) 969-3549 
+mconroy@mlt.com  
+ 
+Counsel for the Intervener, Blood Tribe, 
+Beaver Lake Cree Nation, Ermineskin Cree 
+Nation, Siksika Nation and Whitefish Lake 
+First Nation #128 
+ Marie-France Major  
+Supreme Advocacy LLP  
+100-340 Gilmour Street  
+Ottawa, ON  K2P 0R3   Tel : (613) 695-8855 Fax : (613) 695-8580  mfmajor@supremeadvocacy.ca  
+Ottawa Agent for  Counsel for Intervener, 
+Blood Tribe, Beaver Lake Cree Nation, 
+Ermineskin Cree Nation, Siksika Nation 
+and Whitefish Lake First Nation #128  
+ 
+ 
+ S.C.C. File No. 35379
+IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE COURT OF APPEAL FOR ONTARIO) 
+ 
+BETWEEN: 
+ 
+ANDREW KEEWATIN JR; and JOSEPH WILLI AM FOBISTER on their own behalf 
+and on behalf of all other member s of GRASSY NARROWS FIRST NATION 
+ 
+APPELLANTS
+-and- 
+ 
+MINISTER OF NATURAL RESOURCES an d RESOLUTE FP CANADA INC. (formerly 
+ABITIBI-CONSOLIDATED INC.) 
+RESPONDENTS
+(Defendants)
+-and- 
+ 
+THE ATTORNEY GENERAL OF CANADA  
+RESPONDENT
+(Third Party)
+-and- 
+ 
+GOLDCORP INC. and LESLIE CAMERON on his ow n behalf and on behalf of all other 
+members of WABAUSKANG FIRST NATION 
+RESPONDENTS
+(Interveners)
+AND BETWEEN: 
+LESLIE CAMERON on his own behalf and 
+on behalf of all other members  of WABAUSKANG  FIRST NATION 
+ 
+APPELLANTS
+(Interveners)
+-and- 
+ 
+ANDREW KEEWATIN JR; and JOSEPH WILLI AM FOBISTER on their own behalf 
+and on behalf of all other member s of GRASSY NARROWS FIRST NATION  
+ 
+RESPONDENTS
+(Plaintiffs)
+-and- 
+ 
+MINISTER OF NATURAL RESOURCES an d RESOLUTE FP CANADA INC. (formerly 
+ABITIBI-CONSOLIDATED INC.) 
+RESPONDENTS
+(Defendants)-and- 
+ 
+THE ATTORNEY GENERAL OF CANADA 
+RESPONDENT
+(Third Party)
+-and- 
+ 
+GOLDCORP INC. 
+RESPONDENT
+(Intervener)
+-and- 
+ 
+ATTORNEY GENERAL OF MANITOBA, ATTORNEY GENERAL OF BRITISH 
+COLUMBIA, ATTORNEY GENERAL OF SASKATCHEWAN, ATTORNEY GENERAL 
+OF ALBERTA, GRAND COUNCIL OF TREA TY #3, BLOOD TRIBE, BEAVER LAKE 
+CREE NATION, ERMINESKIN CREE NATI ON, SIKSIKA NATION AND WHITEFISH 
+LAKE FIRST NATION #128, FORT MCKA Y FIRST NATION, TE'MEXW TREATY 
+ASSOCIATION, OCHIICHAGWE’BABIGO’IN ING FIRST NATION, OJIBWAYS OF 
+ONIGAMING FIRST NATION, BI G GRASSY FIRST NATION AND 
+NAOTKAMEGWANNING FIRST NATION , MÉTIS NATION OF ONTARIO, 
+COWICHAN TRIBES, REPRESENTED BY CHIEF WILLIAM CHARLES SEYMOUR, 
+ON HIS OWN BEHALF AND ON BEHAL F OF THE MEMBERS OF COWICHAN 
+TRIBES, LAC SEUL FIRST NATION and SANDY LAKE FIRST NATION 
+ 
+INTERVENERS
+ 
+                  
+ Robert J.M. Janes  
+Janes Freedman Kyle Law Corporation  
+Suite 340, 1122 Maindland Street  
+Vancouver, BC  V6B 5L1 
+ Tel: 250 405-3460 Fax: 250 381-8567 rjanes@jfklaw.ca  
+ 
+Counsel for Andrew Keewatin Jr. and Joseph William Fobister and all other members of Grassy Narrows First Nation  
+ Guy Régimbald  
+Gowling Lafleur Henderson LLP  
+26th Floor, 160 Elgin Street  
+Ottawa, ON  K1P 1C3 
+ Tel: 613 786-0197 Fax: 613 563-9869 guy.regimbald@gowlings.com  
+ 
+Agent for Andrew Keewatin Jr. and Joseph William Fobister and all other members of Grassy Narrows First Nation  
+ 
+Michael Stephenson  
+Peter R. Lemmond  Mark Crow  
+Candice Telfer  
+Crown Law Office – Civil  
+8th Floor, 720 Bay Street  
+Toronto, ON M5G 2K1  
+ 
+Tel: 416 326-4008 / 416 326-4155 Fax: 416 326-4181 michael.R.Stephenson@ontario.ca  
+peter.Lemmond@ontario.ca 
+candice.Telfer@ontario.ca  
+ 
+Counsel for Minister of Natural Resources  
+ Robert E. Houston, Q.C.  
+Burke-Robertson LLP  
+Suite 200, 441 MacLaren Street  
+Ottawa, ON  K2P 2H3  
+ 
+Tel: 613 236-9665 Fax: 613 235-4430  rhouston@burkerobertson.com  
+ 
+ Agent for Minister of Natural Resources  
+Mark R. Kindrachuk, Q.C.  
+Mitchell R. Taylor, Q.C.  Attorney General of Canada  
+10
+th Floor, 123 2nd Ave. S.  
+Saskatoon, SK   S7K 7E6 
+ 
+Tel: 306 975-4765 Fax: 306 975-6240 mark.kindrachuk@justice.gc.ca 
+mitch.tayor@justice.gc.ca 
+ 
+Counsel for Attorney General of 
+Canada  
+ 
+  Christopher M. Rupar 
+Attorney General of Canada  
+Suite 500, Room 557 
+50 O’Connor Street  Ottawa, ON  K1P 6L2  Tel: 613 941-2351 / 613 370-6290 Fax: 613 954-1920 christopher.rupar@justice.gc.ca 
+ 
+Agent for Attorney General of Canada  Bruce McIvor  
+Kathryn Buttery  First Peoples Law  
+Suite 300, 111 Water Street 
+Vancouver, BC  V6B 1A7  
+ 
+Tel: 604 684-4240 Fax: 604 681-0912 bmcivor@firstpeopleslaw.com  
+kbuttery@firstpeopleslaw.com 
+ 
+Counsel for Leslie Cameron and all 
+other members of Wabauskang First Nation 
+ Guy Régimbald  
+Gowling Lafleur Henderson LLP  
+26thFloor, 160 Elgin Street  
+Ottawa, ON   K1P 1C3 
+ Tel: 613 786-0197 Fax: 613 563-9869 guy.regimbald@gowlings.com 
+ 
+Agent for Leslie Cameron and all other 
+members of Wabauskang First Nation  
+Christopher J. Matthews  
+Aird & Berlis LLP  
+Brookfield Place 
+Suite 1800, Box 754, 181 Bay Street  Toronto, ON M5J 2T9  Tel: 416 863-4146 Fax: 416 863-1515 cmatthews@airdberlis.com  
+ 
+Counsel for Resolute FP Canada Inc. (formerly Abitibi-Consolidated Inc.)  K. Scott McLean  
+Dentons Canada LLP  
+Suite 1420, 99 Bank Street  
+Ottawa, ON   K1P 1H4  Tel: 613 783-9600 Fax: 613 783-9690  scott.mclean@fmc-law.com 
+  
+Agent for Resolute FP Canada Inc. 
+(formerly Abitibi-Consolidated Inc.) 
+William J. Burden  
+Linda I. Knol  
+Erin Craddock  
+Cassels Brock & Blackwell LLP  
+Scotia Plaza 
+Suite 2100, 40 King Street West  
+Toronto, ON   M5H 3C2 
+ Tel: 416 869-5963 Fax: 416 640-3019  bburden@casselsbrock.com 
+lknol@casselsbrock.com 
+ecraddock@casselsbrock.com 
+ 
+Counsel for Goldcorp Inc.  
+   Patricia J. Wilson  
+Osler, Hoskin & Harcourt LLP  
+Suite 1900, 340 Albert Street  
+Ottawa, ON  K1R 7Y6  Tel: 613 787-1009 Fax: 613 235-2867  pwilson@osler.com 
+ 
+Agent for Goldcorp Inc. Michael Conner 
+Attorney General of Manitoba 
+1205 - 405 Broadway 
+Winnipeg, MB  R3C 3L6 
+ 
+Tel: (204) 945-6723 
+Fax: (204) 945-0053 
+mconner@gov.mb.ca  
+ 
+Counsel for the Intervener, Attorney 
+General of Manitoba 
+ Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin St 
+Ottawa, ON  K1P 1C3 
+ 
+Tel: (613) 233-1781 
+Fax: (613) 788-3433 
+henry.brown@gowlings.com  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Attorney General of Manitoba 
+Paul E. Yearwood 
+Attorney General of British Columbia 
+3rd floor, 1405 Douglas Street 
+Victoria, BC  V8W 9J5 
+ 
+Tel: (250) 356-6519 
+Fax: (250) 387-0343 
+Paul.Yearwood@gov.bc.ca  
+ 
+Counsel for the Intervener, Attorney 
+General of British Columbia 
+ Nadia Effendi 
+Borden Ladner Gervais LLP 
+World Exchange Plaza 
+100 Queen Street, suite 1300 
+Ottawa, ON  K1P 1J9 
+ 
+Tel: (613) 237-5160 
+Fax: (613) 230-8842 
+neffendi@blg.com  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Attorney General of British 
+Columbia 
+ 
+Richard James Fyfe 
+Attorney General for Saskatchewan 
+Constitutional Law Branch, 8th Floor 
+820, 1874 Scarth St. 
+Regina, SK  S4P 4B3 
+Tel: (306) 787-7886 
+Fax: (306) 787-9111 
+jfyfe@justice.gov.sk.ca  
+ 
+Counsel for the Intervener, Attorney 
+General of Saskatchewan 
+ 
+         Douglas B. Titosky 
+Attorney General of Alberta 
+Aboriginal Law 
+1000 - 10025 - 102A Avenue 
+Edmonton, AB  T5J 2Z2 
+Tel: (780) 643-0858 
+Fax: (780) 643-0852 
+doug.titosky@gov.ab.ca  
+ 
+Counsel for the Intervener, Attorney 
+General of Alberta 
+ Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin St 
+Ottawa, ON  K1P 1C3 
+ 
+Tel: (613) 233-1781 
+Fax: (613) 788-3433 
+henry.brown@gowlings.com  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Attorney General of Alberta 
+Peter W. Hutchins 
+Zachary Davis 
+Robin Campbell 
+Hutchins Légal inc. 
+204, rue du Saint-Sacrement, Bureau 300 
+Montréal, QC  H2Y 1W8 
+ 
+Tel: (514) 849-2403 
+Fax: (514) 849-4907 
+phutchins@hutchinslegal.ca  
+ 
+Counsel for the Intervener,  Grand Council 
+of Treaty #3 
+ Brian A. Crane, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin St 
+Ottawa, ON K1P 1C3 
+ 
+Tel: (613) 233-1781 
+Fax: (613) 563-9869 
+brian.crane@gowlings.com  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Grand Council of Treaty #3 
+Karin Buss  
+Henning Byrne LLP  
+1450, 10405 Jasper Avenue 
+Edmonton, AB  T5J 3N4  
+Tel: 780 421-1707 
+Fax: 780 425-9438  kbuss@k2blaw.com 
+ 
+Kirk Lambrecht, Q.C.  
+Shores Jardine LLP  
+Suite 2250, 10104 103 Avenue  
+Edmonton, AB  T5J 0H8 
+Tel: 780 448-9275 
+Fax: 780 423-0163  kirk@shoresjardine.com  
+ 
+Counsel for Intervener, Fort McKay First 
+Nation  
+ 
+ Marie-France Major 
+Supreme Advocacy LLP 
+100- 340 Gilmour Street 
+Ottawa, ON  K2P 0R3  
+Tel: (613) 695-8855  
+Fax: (613) 695-8580 
+mfmajor@supremeadvocacy.ca  
+ 
+Ottawa Agent for Counsel for the 
+Intervener , Fort McKay First Nation  
+ Karey Brooks 
+Janes Freedman Kyle Law Corporation 
+340-1122 Mainland Street 
+Vancouver, BC  V6B 5L1 
+ 
+Tel: (604) 687-0549 
+Fax: (604) 687-2696 
+kbrooks@jfklaw.ca  
+ 
+Counsel for the Intervener, Te'mexw Treaty 
+Association 
+ Brian A. Crane, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin St 
+Ottawa, ON K1P 1C3 
+ 
+Tel: (613) 233-1781 
+Fax: (613) 563-9869
+brian.crane@gowlings.com  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Te'mexw Treaty Association 
+Brian A. Crane, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin St 
+Ottawa, ON K1P 1C3 
+ 
+Tel: (613) 233-1781 
+Fax: (613) 563-9869
+brian.crane@gowlings.com  
+ 
+Counsel for the Intervener, 
+Ochiichagwe’Babigo’Ining First Nation, 
+Ojibways of Onigaming First Nation, Big 
+Grassy First Nation and 
+Naotkamegwanning First Nation 
+  
+Jason Madden 
+Nuri G. Frame  
+Pape Salter Teillet 
+546 Euclid Avenue 
+Toronto, ON  M6G 2T2 
+ 
+Tel: (416) 916-2989 
+Fax: (416) 916-3726 
+jmadden@pstlaw.ca  
+ 
+Counsel for the Intervener, Métis Nation of 
+Ontario 
+ 
+      Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin St 
+Ottawa, ON  K1P 1C3  
+Tel: (613) 233-1781 
+Fax: (613) 788-3433 
+henry.brown@gowlings.com  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Métis Nation of Ontario 
+ David M. Robbins  
+Woodward & Company 
+844 Courtney Street, 2nd Floor 
+Victoria, BC  V8W 1C4 
+ 
+Tel: (250) 383-2356 
+Fax: (250) 380-6560 
+drobbins@woodwardandcompany.com  
+ 
+Counsel for the Intervener, Cowichan 
+Tribes, represented by Chief William 
+Charles Seymour, on his own behalf and on 
+behalf of the members of Cowichan Tribes 
+ Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin St 
+Ottawa, ON  K1P 1C3 
+ 
+Tel: (613) 233-1781 
+Fax: (613) 788-3433 
+henry.brown@gowlings.com  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Cowichan Tribes, represented 
+by Chief William Charles Seymour, on his 
+own behalf and on behalf of the members of 
+Cowichan Tribes 
+David G. Leitch 
+Keshen & Major 
+120 Second Street South, Suite 200 
+Kenora, ON  P9N 1E9 
+ 
+Tel: (807) 468-3073 
+Fax: (807) 468-4893 
+davigleitch@sympatico.ca  
+ 
+Counsel for the Intervener, Lac Seul First 
+Nation 
+ Christopher Rootham 
+Nelligan O'Brien Payne LLP 
+1500-50 O'Connor Street 
+Ottawa, ON  K1P 6L2 
+ 
+Tel: (613) 231-8311 
+Fax: (613) 788-3667 
+christopher.rootham@nelligan.ca  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Lac Seul First Nation 
+ 
+David G. Leitch 
+Keshen & Major 
+120 Second Street South, Suite 200 
+Kenora, ON  P9N 1E9  
+Tel: (807) 468-3073 
+Fax: (807) 468-4893 
+davigleitch@sympatico.ca  
+ 
+Counsel for the Intervener, Sandy Lake 
+First Nation  Christopher Rootham 
+Nelligan O'Brien Payne LLP 
+1500-50 O'Connor Street 
+Ottawa, ON  K1P 6L2 
+ 
+Tel: (613) 231-8311 
+Fax: (613) 788-3667 
+christopher.rootham@nelligan.ca  
+ 
+Ottawa Agent for Counsel for the 
+Intervener, Sandy Lake First Nation 
+ 
+  TABLE OF CONTENTS 
+ PAGE 
+PART I – OVERVIEW and STATEMENT OF FACTS .................................................................1 
+PART II – STATEMENT OF ISSUES ...........................................................................................1 PART III – STATEMENT OF ARGUMENT .................................................................................2 
+A. In some circumstances, the duty to consult may not sufficiently protect Treaty 
+rights ........................................................................................................................ ............2 
+B. The Federal Crown has a positive duty to protect Treaty rights ..........................................5 
+C. Involvement of Federal Crown not  a Radical Paradigm Shift .............................................6 
+PART IV – COSTS ............................................................................................................... ...........8 
+PART V – OR DER SOUGHT ......................................................................................................... 8 
+PART VI – TABLE OF AUTHORITIES ........................................................................................9 PART VII – STATUTORY PROVISIONS ....................................................................................9  1 
+PART I – OVERVIEW and STATEMENT OF FACTS  
+1. The federal government has a Constitutional  obligation to implement and protect Treaty 
+rights . The harvesting right  in the numbered Treaties is no exception.   
+2. Where the province takes up la nd that causes a meaningful diminution of the continued 
+exercise of Treaty rights , the federal government , as a signatory to th ese Treaty promises, is 
+constitutionally obliged to intervene to protect those rights.   
+3. The situation in Alberta foreshadows what may  occur in Treaty 3 if sufficient safeguards 
+are not put in place , in advance of intensive resource development, to ensure the Treaty  
+harvesting promise.  In regions  faced with ongoing  and intensive resource  development, 
+particularly where the province stands to benefit financially from a proposed taking up (through 
+royalties for example), t he duty to consult  and accommodate, in the experience of the Intervener 
+Nations, is not sufficient to protect their Treaty harvesting rights.  
+4. The plain language of the harvesting clauses in Treaties 3 - 7, s. 91(24) , the promise of s.35  
+and the honour of Crown, demand the federal  government , as a Treaty signatory,  step-in to 
+ensure the Treaty pr omise is not eviscerated by provincial Cr own actions in relation to  public 
+lands .   
+ 
+PART II – STATEMENT OF ISSUES 
+5. The Blood Tribe, Siksika Nation, Beaver Lake Cree Nation, Ermineskin Cree Nation and 
+Whitefish Lake First Nation #128 (collectively, "Interve ner Nations"), wish  to make the 
+following  points : 
+a. In certain circumstances, where the province takes up lands  pursuant to their 
+jurisdiction over public lands and resources , the dut y to consult and accommodate 
+may be insufficient to protect Treaty harvesting rights; 
+b. The Government of Canada has a positive obligation  to protect Treaty rights, and 
+the harvesting right in the numbered Treaties is no exception;  and 
+c. The Government of Canada's involvement in protecting Treaty rights would not 
+present a co mpletely  new paradigm. Fears expressed by the Respondents and the  2 
+Ontario Court of Appeal about the "evisce ration" of the province's jurisdiction 
+over public lands  are vastly overstated .   
+ 
+PART III – STATEMENT OF ARGUMENT  
+ 
+A. In some  circumstances , the duty to c onsult may  not sufficiently protect Treaty rights  
+6. The situation in Alberta foreshadows what may occur in Treaty 3 if sufficient protections 
+are not in place to ensure the Treaty harvesting promise.  
+7. The Blood Tribe1 and Sikisika Nation2 are parties to Treaty 7.  Beaver Lake Cree Nation3, 
+Ermineskin Cree Nation4, and Whitefish Lake First Nation #1285 are Treaty 6 beneficiar ies. 
+Most of the lands in Treaties  6 and 7, and in the traditional territories of these Nations, have 
+already been taken up by agricu lture, oil and gas, forestry and other developments.  Remaining 
+lands suitable for the exercise of Treaty rights are rapidly being taken up for oil sands 
+development, coal mines,  forestry  and grazing leases.  
+8. The Intervener First Nations submit that when a  provincial Crown discharges  the dual 
+roles of :  a) taking -up land for resource extraction projects to generate provincial revenue, 
+through royalties for example; and b) consult ing about impacts of those projects on Treaty rights , 
+                                                 
+1 The Blood Tribe, also known as the Kainai, are comprised mainly of Niitsitapi  (Blackfoot) speaking people.  There 
+are approximately 11,820 Blood Tribe members.  Their reserve lands are located approximately 200 km south of 
+Calgary, Alberta near the city of Lethbridge, Alberta and include a timber reserve (IR 148 and IR 148A).  
+ 
+2 The Siksika Nation is comprised of mainly Niitsitapi (Blackfoot) speaking people.  The reserve lands of the 
+Siksika Nation are located approximately 100 km east of Calgary, Alberta (IR 146).  The current membership of the 
+Siksika Nation is approximately 6988 people.  
+ 
+3 Beaver Lake Cree Nation is comprised of mainly Nehiyaw (Cree) speaking people, with approximately 1092 
+members.  The nation's reserve lands are located approximately 17 km southeast of Lac La Biche, Alberta (IR 131).  
+ 
+4. Ermineskin Cree Nation' s reserve lands are lo cated in two separate locations, approximately 70 km south of 
+Edmonton, Alberta (IR 138 and IR 138A) near their traditional territory of Bear Hills and Pigeon Lake.  There are currently about 4 ,377 members of the N ation.   
+ 
+5 The reser ve lands of Whitefish Lake First Nation #128 are located approximately 200 km northeast of Edmonton, 
+Alberta (IR 128).  The current membership of the Nation of approximately 2,378 people, are the descendants of the 
+Whitefish Lake Cree  
+  3 
+there can be instances wh en the protection of Treaty rights is not at forefront of the reconciliation 
+exercise.  
+9. The duty to consult and , if indicated, accommodate, as interpreted and implemented by the 
+Alberta Crown, threatens the continued existence of Treaty harvesti ng rights, particularly in parts  
+of the province facing intensive  resource development. The shortcomings of the consultation 
+process for provincial ly regulated resource development s are thoroughly reviewed in a paper 
+recently published by the Canadian Institute of Re sources Law by David Laidlaw and Monique 
+Passelac- Ross.6 
+10. The Alberta Crown disregard s "the critical importance of  consultation on strategic 
+decision -making and on cumulative impacts management, preferring to focus on project -specific 
+consultation" .7 While taking -up land for an individual project  may not result in significant 
+impacts, hundreds of individually insignificant projects , taken together , can render large swaths 
+of traditional territory unsuitable for the  exercise of Treaty rights.8 
+11. First Nations should not have to wait until no meaningful ability to hunt, fish and trap, 
+exists to commence an  infringement action.  
+12. Consultation processes depend on good- faith efforts to share information and, if done 
+meaningfully , lead to the negotiation  of measures to mitigate impacts on Treaty rights.  Despite 
+the protection of s.35 and what the common law mandates, in the context of rapid and intensive  
+natural resource development on provincial Crown land, First Nations are seriously 
+disadva ntaged in these negotiations.  First, the Crown and industry generally come to the table 
+with significantly more financial and technical resources than  First Nations. While First Nations 
+have superior knowledge regarding their  members'  use of the provincial  Crown lands to be 
+impacted, they generally do not have the scientific and technical expertise that the Crown and 
+                                                 
+6 David Laidlaw and Monique Passelac- Ross, Alberta First Nations Consultation and Accommodation Handbook , 
+Canadian Institute of Resources Law, University of Calgary, Occasional Paper #44 (March, 2014) , Tab 1 1. 
+ 
+7 Ibid., at 60, Tab 11. 
+ 
+8 Gift Lake Métis Settlement v. Métis Settlements Appeal Tribunal (Land Access Panel),  2009 ABCA 143, at paras 
+31-32, Tab 2 .   4 
+industry have on hand.9  Second, this resourcing deficit is exacerbated by the sheer volume o f 
+project applications proposed within First Nati ons' traditional territories  and the short timelines 
+to respond.10  Thir d, an analysis of the cumulative impact of numerous projects on a Nation's 
+harvesting rights is largely absent from the project -specific approach to consultation favoured by 
+Alberta.11 
+13. In Alberta, t he administrative tribunals that oversee the regulation of resource projects 
+under provincial jurisdiction have, to date, been reluctant to consider whether a project approval 
+(which would lead to lands being taken- up) would adversely affect Tr eaty rights.12  Recent 
+changes to the legislative regime governing energy projects  in fact  remove d the tribunal's 
+jurisdiction to assess the adequacy of Crown consultation.13   
+14. While recourse to the courts remains an option, forcing First Nations to commence 
+litigation to challenge the decision s of provincial regulator s is less than ideal for all involved. 
+First, court challenges of this type are " expensive, extensive and complicated " for both First 
+Nations and project propone nts whose projects can be tied up for years.  Second, the usual 
+remedy is for the court "to direct the affected First Nation to engage in additional consultation 
+with the same parties that misunderstood their concerns the first time ."14 
+15. The Intervener Natio ns make these points  not to add to the record of this appeal or to ask 
+this Court to make factual findings about acti vities occurring in Alberta.  We make these points  
+to provide the Court with a First Nation perspective of what can happen,  on the ground, when 
+intensive  provincially regulated development conflicts with the ongoing exercise of Treaty 
+                                                 
+9 Alberta First Nations Consultation and Accommodation Handbook , supra at 3.4.1 – 3.4.3 , Tab 1 1. 
+ 
+10 Ibid., at 3.3.7, Tab 1 1. 
+ 
+11 Ibid., at 31 -32 and 60 , Tab 11. 
+ 
+12 Ibid., at 3.5.2 and 3.5.3 , Tab 11,  and the authorities cited therein, for example, see:  Dover Operating Corp, 2013 
+ABAER 14, 2013CarswellAlta 1393, where the Alberta Energy Regulator held that it would not consider 
+constitutional questions raised by the  intervener First Nation (at paras 22 -32), that its focus was on the "project -level 
+effects", and it would not consider cumulative effects (at paras 112 and 163- 174), Tab 1; Teck Resources Ltd ., 2013 
+ABAER 17, 2013 CarswellAlta 2024, at paras.105 and 112- 113, Tab 7. 
+ 
+13 Alberta First Nations Consultation and Accommodation Handbook , supra at 15 , Tab 11, which summarizes 
+section 21 of the Responsible Energy Development Act, SA 2012, c R -17.3.  
+ 
+14 Alberta First Nations Consultation and Accommodation Handbook , supra at 13 , Tab 11 [emphasis in original] .  5 
+harvesting rights , and to demonstrate the practical shortcomings of the duty to consult in this 
+context , when led by the provincial Crown.  
+16. The protection of  Treaty harvesting rights promised by the duty to consult and 
+accommodate has been largely illusory.  We are not aware of any decision in th e last quarter -
+century made by an Alberta tribunal in the context of a resource project application that require d 
+the taking up of lands  that has concluded the pr otection of Treaty rights trumped the economic 
+benefits of the project.  As this Court noted in Haida, when balancing Aboriginal interests with 
+the public interest, the scales tend to tip "in favour of protecting  jobs and government revenue, 
+with the result that Aboriginal interests tend to 'lose'"15. 
+B. The Federal Crown has a positive duty to protect Treaty rights  
+17. The Intervener Nations submit that the federal Crown has a positive  obligation to protect 
+First Nations  against any provincial decision or decisions which collectively result in anything 
+more than an insignificant interferenc e with Treaty harvesting rights, including  decisions that 
+result in the taking up of lands necessary for projects under provincial jur isdiction.  
+18. First, the plain language in the harvesting clauses of  Treaties 3 to 7 contemplate the taking 
+up of lands by the federal government , not the province . 
+19. Second, Treaty harvesting rights fall squarely within federal jurisdiction under s.91(24) .16 
+Any exercise of discretion by a province under s.92 of the Constitution Act  that causes more than 
+an insignificant interference with Treaty harvesting rights will be ultra vires .17 A Treaty promise 
+to guarantee hunting, fishing and trapping  represents a positive source of protection against 
+infringements  by the province.18   
+                                                 
+15 Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 73, [2004] 3 SCR 511 , at para 14, Tab 3 . 
+ 
+16 R v. Morris, 2006 SCC 59, 2 SCR 915, at para. 43 , Tab 5 . 
+ 
+17 Ibid., at paras. 47 -55, Tab 5 . 
+ 
+18 Simon v. The Queen , [1985] 2 SCR 387, at para. 26 , Tab 6 . 
+  6 
+20. Third, a solemn constitutional obligation to First Nations aimed at reconciling their 
+Aboriginal interests with Crown sovereignty engages  the honour of the Crown.19 
+21. Taken together, the pl ain language of the Treaty, s.91(24) and the honour of the Crown 
+require  the federal government to act with diligence  in ensuring the protection of Treaty 
+harvesting rights . 
+22. We acknowledge the Government of Canada has, to date, largely failed to take any a ctive 
+role to protect Treaty harvesting rights.20  Canada' s past omission s ought not relieve it  of its 
+Constitutional obligation s going forward. It would be inequitable, and we submit, contrary to the 
+purpose of s.35 and the honour of the Crown, to re ly on past failures to  fulfill and protect Treaty 
+rights to justify ongoing failures . Such an approach could act as a dis incentive  to fulfilling Treaty 
+promises  until a Court mandates otherwise .  This would undermine, not promote , reconciliation.  
+C. Involvement of Federal Crown not a Radical Paradigm Shift  
+23. Fears expressed by the Respondents and the Ontario Court of Appeal about the 
+"evisceration " of the province's legislative competence under s.92 and s.109 over public lands 
+are vastly overstated.21 
+24. Contrary to the assertions of the Respondents, involving the federal Crown to ensure the 
+protection of Treaty harvesting rights does not represent a radical paradigm shift.  
+25. The proactive protection of Aboriginal interests and Treaty rights  is not without precedent. 
+The federal government in the United States has on several occasions  commenced litigation to 
+protect Native American interests and Treaty rights.22 
+                                                 
+19 Manitoba Metis Federation Inc. v. Canada, 2013 SCC 14, [2013] 1 SCR 623, at para. 9 , Tab 4. 
+ 
+20 For example, Specific Claims Tribunal Act, S.C. 2008, c. 22, s.15(1)(g) : 
+15. (1) A First Nation may not file with the Tribunal a claim that  
+… 
+(g) is based on treaty rights related to activities of an ongoing and variable nature, such as 
+harvesting rights.  
+ 
+21 Keewatin v. Ontario (Natural Resources),  2013 ONCA 158 (CanLII) , at para 205, Appellants' Record, Volume 2, 
+Tab 3.  
+ 
+22 See: Winters v. United States , 207 U.S. 564 ,28 S. Ct. 207, 52 L. Ed. 340, 1908 U.S. LEXIS 1415, Tab 10;  United 
+  7 
+26. Moreover, pursuant to its jurisdiction under s.91(24), the Government of Canada  is 
+already i ntegrated into several areas of provincial jurisdiction, such as health and social 
+services.23 Likewise, under the Canadian Environmental Assessment Act , 201224 and the 
+previous version of the act25, federal regulators work and continue to work jointly with 
+provincial regulators to review proposed projects that fall under provincial and federal 
+jurisdiction.26 
+27. It would not be a significant burden on the federal Crown to take steps to actively ensure 
+that its Treaty promises are being fulfilled and respected by provincial governments. This 
+burden, given the Treaties and the honour of the Crown, should not fall solely on the shoulders 
+of First Nations.  
+28. Statements by the Respondent  Goldcorp Inc.27 that all existing  provi ncial permits and land 
+tenures are in jeopardy , lack any legal foundation.   
+29. Finally, t he Respondent s cite the need for "certainty" as a basis to reject  federal 
+involvement in the taking up of provincial public lands.  "Certainty" cannot be judged solely by 
+the perspective of industry and the Crown.  The Intervener Nations also seek certainty – the 
+certainty that their members ' and their decedents ' cultur e and way of life will survive based on 
+the continued opportunity to exercise harvesting rights as  promised in the Treaty.  
+ 
+                                                                                                                                                             
+States v. Walker River Irr. Dist ., 104 F.2d 334; 1939 U.S. App. LEXIS 483, Tab 8; United States v. Washington, 375 
+F. Supp. 2d 1050; 2005 U.S. Dist. LEXIS 1031, Tab 9 . 
+ 
+23 See for example, Health Canada  http://www.hc -sc.gc.ca/fniah -spnia/index- eng.php , as of April 30, 2013:  
+"Health Canada works with First Nations, Inuit,  other federal departments and provincial and territorial 
+partners to support healthy First Nations and Inuit individuals, families and communities."  
+ 
+24 SC 2012, c 19, s 52.  
+ 
+25 S.C. 1992, c. 37.  
+ 
+26 See for example: Joslyn North Mine Project, Total E&P Josl yn Ltd ., ERCB Decision 2011- 005, CEAA Reference 
+No. 08- 05-37519, http://www.aer.ca/documents/decisions/2011/2011- ABERCB -005.pdf  ; Shell Canada Energy, 
+2013 ABAER 011,  CEAA Refe rence No. 59540,  http://www.ceaa.gc.ca/050/documents/p59540/90873E.pdf  . 
+ 
+27 Goldcorp Inc. Factum, paras. 10, and 24   8 
+PART IV  – COSTS  
+30. The Intervener Nations do not seek costs, and ask that this Court refrain from ordering 
+costs against them.  
+ 
+PART V  – ORDER SOUGHT  
+31.  The Intervener Nations respectfully request an Order granting them leave to present oral 
+argument at the appeal hearing for a time not to exceed ten (10) minutes.  
+ 
+ALL OF WHICH IS RESPECTFULLY SUBMITTED , this 1st  day of May  2014.  
+ 
+__________________________________ 
+ Meaghan M. Conroy  
+Counsel for the Intervener,  
+Blood Tribe, Beaver Lake Cree Nation, 
+Ermineskin Cree Nation, Siksika Nation and 
+Whitefish Lake First Nation #128 
+ 
+   9 
+PART VI – TABLE OF AUTHORITIES  
+ Cases  PARA.  
+1. Dover Operating Corp ., 2013 ABAER 14, 2013CarswellAlta 1393  (Alberta 
+Energy Regulator)  12 
+2. Gift Lake Métis Settlement v. Métis Settlements Appeal Tribunal (Land Access 
+Panel), 2009 ABCA 143. 11 
+3. Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 
+SCR 511  17 
+4. Manitoba Metis Federation Inc. v. Canada (Attorney General),  2013 SCC 14, 
+[2013] 1 SCR 623.  21 
+5. R v. Morris , 2006 SCC 59, 2 SCR 915  20 
+6. Simon v. The Queen , [1985] 2 SCR 387  20 
+7. Teck Resources Ltd ., 2013 ABAER  17, 2013 CarswellAlta 2024(Alberta Energy 
+Regulator)  12 
+8. United States v. Walker River Irr. Dist ., 104 F.2d 334; 1 939 U.S. App. LEXIS 
+483 26 
+9. United States v. Washington , 375 F. Supp. 2d 1 050; 2005 U.S. Dist. LEXIS 1031  26 
+10. Winters v. United States , 207 U.S. 564 ,28 S. Ct. 207, 52 L. Ed . 340, 1908 U.S. 
+LEXIS 1415  26 
+ Other   
+11. David Laidlaw and Monique Passelac -Ross, " Alberta First Nations Consultation 
+& Accommodation Handbook ", Canadian Institute of Resources Law, University 
+of Calgary, Occasional Paper #44 (March, 2014)  10, 11, 
+13, 14, 
+15 
+ 
+PART VII – STATUTORY PROVISIONS  
+ 
+Canadian Charter of Rights and Freedoms , s.35  
+Canadian Environmental Assessment Act, 2012, SC 2012, c 19, s 52 Constitution Act , s. 91(24), .92  
+Specific Claims Tribun al Act , S.C. 2008, c. 22, s.15(1)(g)  
+   10 
+Canadian Charter of Rights and Freedoms , s.35  
+ 
+35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby 
+recognized and affirmed.  
+(2) In this Act,  “aboriginal peoples of Canada” includes the Indian, Inuit and Métis peoples of 
+Canada.  
+(3) For greater certainty, in subsection  (1) “treaty rights”  includes rights that now exist by way 
+of land claims agreements or may be so acquired.  
+(4) Notwithstanding any other provision of t his Act, the aboriginal and treaty rights referred to 
+in subsection (1) are guaranteed equally to male and female persons.  (96) 
+ 
+35. (1) Les droits existants — ancestraux ou issus de traités — des peuples autochtones du 
+Canada sont reconnus et confirmés.  
+(2) Dans la présente loi,  « peuples autochtones du Canada »  s’entend notamment des Indiens, 
+des Inuit et des Métis du Canada.  
+(3) Il est entendu que sont compris  parmi les droits issus de traités, dont il est fait mention au 
+paragraphe  (1), les droits existants issus d’accords sur des revendications territoriales ou ceux 
+susceptibles d’être ainsi acquis.  
+(4) Indépendamment de toute autre disposition de la présente  loi, les droits — ancestraux ou 
+issus de traités — visés au paragraphe  (1) sont garantis également aux personnes des deux 
+sexes.  (96)  
+   11 
+Canadian En vironmental Assessment Act, 2012, SC 2012, c 19, s 52 
+52. (1) For the purposes of sections 27, 36, 47 and 51, the decision maker referred to in those 
+sections must decide if, taking into account the implementation of any mitigation measures that 
+the decisi on maker considers appropriate, the designated project  
+(a) is likely to cause significant adverse environmental effects referred to in subsection 
+5(1); and  
+(b) is likely to cause significant adverse environmental effects referred to in subsection 
+5(2).  
+(2) If the decision maker decides that the designated project is likely to cause significant 
+adverse environmental effects referred to in subsection 5(1) or (2), the decision maker must 
+refer to the Governor in Council the matter of whether those effects a re justified in the 
+circumstances.  
+(3) If the decision maker is a responsible authority referred to in any of paragraphs 15( a) to (c ), 
+the referral to the Governor in Council is made through the Minister responsible before 
+Parliament for the responsible au thority.  
+(4) When a matter has been referred to the Governor in Council, the Governor in Council may 
+decide  
+(a) that the significant adverse environmental effects that the designated project is likely 
+to cause are justified in the circumstances; or  
+(b) that the significant adverse environmental effects that the designated project is likely 
+to cause are not justified in the circumstances.  
+ 
+52. (1) Pour l’application des articles 27, 36, 47 et 51, le décideur visé à ces articles décide si, 
+compte tenu de l ’application des mesures d’atténuation qu’il estime indiquées, la réalisation du 
+projet désigné est susceptible :  
+a) d’une part, d’entraîner des effets environnementaux visés au paragraphe 5(1) qui sont 
+négatifs et importants; 
+b) d’autre part, d’entraîner des effets environnementaux visés au paragraphe 5(2) qui 
+sont négatifs et importants  
+(2) S’il décide que la réalisation du projet est susceptible d’entraîner des effets 
+environnementaux visés aux paragraphes 5(1) ou (2) qui sont négatifs et importants, le décideur 
+renvoie au gouverneur en conseil la question de savoir si ces effets sont justifiables dans les 
+circonstances.  
+(3) Si le décideur est une autorité responsable visée à l’un des alinéas 15 a) à c), le renvoi se fait 
+par l’entremise du ministre respon sable de l’autorité devant le Parlement  
+(4) Saisi d’une question au titre du paragraphe (2), le gouverneur en conseil peut décider  : 
+a) soit que les effets environnementaux négatifs importants sont justifiables dans les 
+circonstances;  
+b) soit que ceux -ci ne sont pas justifiables dans les circonstances.    12 
+Constitution Act, s. 91(24), .92  
+ 
+91. It shall be lawful for the Queen, by and with the Advice and Consent of the Senate and 
+House of Commons, to make Laws for the Peace, Order, and good Government of Canada, in 
+relation to all Matters not coming within the Classes of Subjects by this Act assigned exclusively 
+to the Legislatures of the Provinces; and for greater Certainty, but not so as to restrict the 
+Generality of the foregoing Terms of this Section, it is  hereby declared that (notwithstanding 
+anything in this Act) the exclusive Legislative Authority of the Parliament of Canada extends to 
+all Matters coming within the Classes of Subjects next hereinafter enumerated; that is to say,  
+(24) Indians, and Lands  reserved for the Indians.  
+ 
+92. In each Province the Legislature may exclusively make Laws in relation to Matters coming 
+within the Classes of Subjects next hereinafter enumerated; that is to say,  
+ 
+1.  Repealed. (48)  
+2.  Direct Taxation within the Province  in order to the raising of a Revenue for Provincial 
+Purposes. 3.  The borrowing of Money on the sole Credit of the Province.  
+4.  The Establishment and Tenure of Provincial Offices and the Appointment and Payment of 
+Provincial Officers.  
+5.  The Management and Sale of the Public Lands belonging to the Province and of the Timber and Wood thereon.  
+6.  The Establishment, Maintenance, and Management of Public and Reformatory Prisons in and for the Province.  
+7.  The Establishment, Maintenance, and Management of H ospitals, Asylums, Charities, and 
+Eleemosynary Institutions in and for the Province, other than Marine Hospitals. 
+8.  Municipal Institutions in the Province. 9.  Shop, Saloon, Tavern, Auctioneer, and other Licences in order to the raising of a Revenue for 
+Provincial, Local, or Municipal Purposes. 
+10.  Local Works and Undertakings other than such as are of the following Classes:  
+(a)  Lines of Steam or other Ships, Railways, Canals, Telegraphs, and other Works and 
+Undertakings connecting the Province with any  other or others of the Provinces, or extending 
+beyond the Limits of the Province:  
+(b)  Lines of Steam Ships between the Province and any British or Foreign Country:  
+(c)  Such Works as, although wholly situate within the Province, are before or after their  
+Execution declared by the Parliament of Canada to be for the general Advantage of Canada or for the Advantage of Two or more of the Provinces. 
+11. The Incorporation of Companies with Provincial Objects.   13 
+12. The Solemnization of Marriage in the Province. 
+13. Property and Civil Rights in the Province.  
+14. The Administration of Justice in the Province, including the Constitution, Maintenance, and 
+Organization of Provincial Courts, both of Civil and of Criminal Jurisdiction, and including Procedure in Civil Ma tters in those Courts. 
+15. The Imposition of Punishment by Fine, Penalty, or Imprisonment for enforcing any Law of the Province made in relation to any Matter coming within any of the Classes of Subjects enumerated in this Section.  
+16. Generally all Matter s of a merely local or private Nature in the Province.  
+ 
+91. Il sera loisible à la Reine, de l’avis et du consentement du Sénat et de la Chambre des 
+Communes, de faire des lois pour la paix, l’ordre et le bon gouvernement du Canada, 
+relativement à toutes le s matières ne tombant pas dans les catégories de sujets par la présente loi 
+exclusivement assignés aux législatures des provinces; mais, pour plus de garantie, sans toutefois 
+restreindre la généralité des termes ci -haut employés dans le présent article, il  est par la présente 
+déclaré que (nonobstant toute disposition contraire énoncée dans la présente loi) l’autorité 
+législative exclusive du parlement du Canada s’étend à toutes les matières tombant dans les 
+catégories de sujets ci -dessous énumérés, savoir  : 
+(24) Les Indiens et les terres réservées pour les Indiens. 
+ 
+92. Dans chaque province la législature pourra exclusivement faire des lois relatives aux matières 
+tombant dans les catégories de sujets ci -dessous énumérés, savoir :  
+1. Abrogé. (48)  
+2. La taxati on directe dans les limites de la province, dans le but de prélever un revenu pour des 
+objets provinciaux;  
+3. Les emprunts de deniers sur le seul crédit de la province;  
+4. La création et la tenure des charges provinciales, et la nomination et le paiement d es officiers 
+provinciaux;  
+5. L’administration et la vente des terres publiques appartenant à la province, et des bois et forêts 
+qui s’y trouvent;  
+6. L’établissement, l’entretien et l’administration des prisons publiques et des maisons de 
+réforme dans la pr ovince;  
+7. L’établissement, l’entretien et l’administration des hôpitaux, asiles, institutions et hospices de 
+charité dans la province, autres que les hôpitaux de marine;  
+8. Les institutions municipales dans la province;  
+9. Les licences  de boutiques, de cabarets, d’auberges, d’encanteurs et autres licences, dans le but 
+de prélever un revenu pour des objets provinciaux, locaux, ou municipaux;  
+10. Les travaux et entreprises d’une nature locale, autres que ceux énumérés dans les catégories  14 
+suivantes :  
+a) Lignes de bateaux à vapeur ou autres bâtiments, chemins de fer, canaux, télégraphes et autres 
+travaux et entreprises reliant la province à une autre ou à d’autres provinces, ou s’étendant au -
+delà des limites de la province;  
+b) Lignes de bate aux à vapeur entre la province et tout pays dépendant de l’empire britannique 
+ou tout pays étranger;  
+c) Les travaux qui, bien qu’entièrement situés dans la province, seront avant ou après leur 
+exécution déclarés par le parlement du Canada être pour l’avant age général du Canada, ou pour 
+l’avantage de deux ou d’un plus grand nombre des provinces;  
+11. L’incorporation des compagnies pour des objets provinciaux;  
+12. La célébration du mariage dans la province;  
+13. La propriété et les droits civils dans la provinc e; 
+14. L’administration de la justice dans la province, y compris la création, le maintien et 
+l’organisation de tribunaux de justice pour la province, ayant juridiction civile et criminelle, y 
+compris la procédure en matières civiles dans ces tribunaux;  
+15. L’infliction de punitions par voie d’amende, pénalité, ou emprisonnement, dans le but de 
+faire exécuter toute loi de la province décrétée au sujet des matières tombant dans aucune des 
+catégories de sujets énumérés dans le présent article;  
+16.  Généralement toutes les matières d’une nature purement locale ou privée dans la province.  
+   15 
+Specific Claims Tribunal Act, S.C. 2008, c. 22, s.15(1)(g)  
+ 
+15. (1) A First Nation may not file with the Tribunal a claim that  
+(g) is based on treaty rights related to activities of an ongoing and variable nature, such 
+as harvesting rights.  
+ 
+15. (1) La première nation ne peut saisir le Tribunal d’une revendication si, selon le cas  : 
+g) elle est fondée sur des droits conférés par traité relativement à des activités 
+susceptibles d’être exercées de façon continue et variable, notamment des droits de 
+récolte.  
+ 

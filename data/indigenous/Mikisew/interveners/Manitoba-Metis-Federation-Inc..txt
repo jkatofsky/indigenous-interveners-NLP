@@ -1,0 +1,640 @@
+File No. 37441 
+  IN THE SUPREME COURT OF CANADA  
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL)  
+ 
+BETWEEN:  
+ 
+CHIEF STEVE COURTOREILLE ON BEHALF OF HIMSELF AND THE MEMBERS 
+OF THE MIKISEW CREE FIRST NATION  
+Appellants 
+- and - 
+ 
+THE GOVERNOR GENERAL IN COUNCIL, MINISTER OF ABORIGINAL AFFAIRS 
+AND NORTHERN DEVELOPMENT, MINISTER OF FINANCE, MINISTER OF THE 
+ENVIRONMENT, MINISTER OF FISHERIES AND OCEANS, MINISTER OF 
+TRANSPORT AND MINISTER OF NATURAL RESOURCES  
+Respondents 
+- and - 
+ATTORNEY GENERAL OF QUEBEC, ATTORNEY GENERAL OF NEW 
+BRUNSWICK, ATTORNEY GENERAL OF BRITISH COLUMBIA, ATTORNEY 
+GENERAL OF SASKATCHEWAN, ATTORNEY GENERAL OF ALBERTA, 
+CHAMPAGNE AND AISHIHIK FIRST NATIONS, KWANLUN DÜN FIRST NATION, 
+LITTLE SALMON CARMACKS FIRST NATION, FIRST NATION OF NA -CHO NYAK 
+DUN, TESLIN TLINGIT COUNCIL, FIRST NATIONS OF THE MAA- NULTH 
+TREATY SOCIETY, ASSEMBLY OF FIRST NATIONS, GRAND COUNCIL OF THE 
+CREES (EEYOU ISTCHEE), CREE NATION GOVERNMENT, MANITOBA MÉTIS 
+FEDERATION INC., ADVOCATES FOR THE RULE OF LAW, FEDERATION OF 
+SOVEREIGN INDIGENOUS NATIONS AND GITANYOW HEREDITARY CHIEFS  
+Intervener s 
+ 
+FACTUM OF THE INTERVENER  
+MANITOBA METIS FEDERATION INC. 
+(Pursuant to Rules 37 and 42 of the Rules of the Supreme Court of Canada ) 
+ 
+PAPE SALTER TEILLET LLP  
+546 Euclid Avenue Toronto, Ontario, M6G 2T2 
+Jason T. Madden 
+Alexandria Winterburn  Megan Strachan  
+Tel.: 416-916-3853 
+Fax: 416-916-3726 
+jmadden@pstlaw.ca  
+Counsel for the Intervener  
+Manitoba Me tis Federation Inc.  SUPREME ADVOCACY LLP  
+340 Gilmour Street, Suite 100  
+Ottawa, Ontario, K2P 0R3 
+Marie- France Major  
+Tel.: 613-695-8855 
+Fax: 613-965-8580 
+mfmajor@supremeadvocacy.com  Ottawa Agent for Counse l for the Intervener 
+Manitoba Metis Federation Inc  
+  TO: THE REGISTRAR OF THIS HONOURABLE COURT  
+Supreme Court of Canada 
+301 Wellington Street Ottawa, ON K1A 0J1  
+ 
+COPIES TO:   
+  
+JFK LAW CORPORATION 816 – 1175 Douglas Street Victoria, BC V8W 2E1  
+Telephone: (250) 405-3460  
+Facsimile: (250) 381-8567 Email: rjanes@jfklaw.ca  
+Robert J.M. Janes, Q.C. / Karey Brooks, Counsel for the Appellant  GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street Ottawa, ON K1P 1C3  
+Telephone: (613) 786-0197 Facsimile: (613) 563-9869 Email: guy.regimbald@gowlingwlg.com  
+Guy Régimbald, Agent for the Appellant  
+  
+ATTORNEY GENERAL OF CANADA  
+Department of Justice Canada  
+National Litigation Sector  
+500 - 50 O’Connor Street Ottawa, ON K1A 0H8  
+Telephone: (613) 670-6290 Facsimile: (613) 954-1920 Email: christopher.rupar@justice.gc.ca 
+Christopher Rupar / Michael Lema / 
+Cynthia Dickins, Counsel for the Respondents  DEPUTY ATTORNEY GENERAL OF CANADA  
+Department of Justice Canada  
+National Litigation Sector  
+500 - 50 O’Connor Street Ottawa, ON K1A 0H8  
+Telephone: (613) 670-6289 Facsimile: (613) 954-1920 Email: rfrater@justice.gc.ca  
+Robert Frater, Q.C., Agent for the Respondents  
+  
+ATTORNEY GENERAL OF ALBERTA  
+1000, 10025 – 102a Avenue Edmonton, AB T5J 2Z2 
+Telephone: (780) 643-0854 
+Facsimile: (780) 643-0852 Email: krista.epton@gov.ab.ca 
+Krista Epton, Counsel for the Intervener, 
+the Attorney General of Alberta  GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street Ottawa, ON K1P 1C3  
+Telephone: (613) 786-8695 Facsimile: (613) 788-3509 Email: lynne.watt@gowlingwlg.com  
+D. Lynne Watt, Agent for the Intervener, the Attorney General of Alberta  
+   ATTORNEY GENERAL OF BRITISH  
+COLUMBIA 
+3rd Floor, 1405 Douglas Street 
+Victoria, BC V8W 2G2 
+Telephone: (250) 387-0417 
+Facsimile: (250) 387-0343 Email: Glen.R.Thompson@gov.bc.ca 
+Glen R. Thompson, Counsel for the Intervener, the Attorney General of British Columbia  BOR DEN LADNER GERVAIS LLP  
+World Exchange Plaza 1300 – 100 Queen Street Ottawa, ON K1P 1J9  
+Telephone: (613) 237-5160 Facsimile: (613) 230-8842 Email: neffendi@blg.com 
+Nadia Effendi, Agent for the Intervener, 
+the Attorney General of British Columbia  
+  
+ATTORNEY GENERAL OF NEW BRUNSWICK  
+PO Box 6000 Fredericton, NB E3B 5H1 
+Telephone: (506) 453-2222 
+Facsimile: (506) 453-3275 
+William Gould and Rachelle Standing, 
+Counsel for the Intervener, the Attorney General of New Brunswick  GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street  
+Ottawa, ON K1P 1C3  
+Telephone: (613) 786-8695  Facsimile: (613) 788-3509 Email: lynne.watt@gowlingwlg.com  
+D. Lynne Watt, Agent for the Intervener, the Attorney General of New Brunswick  
+  
+ATTORNEY GENERAL OF QUEBEC  
+1200, route de l’Église, 2e étage  
+Québec, QC G1V 4M1 
+Telephone: (418)-643-1477, Ext. 20732 
+Facsimile: (418) 644-7030 Email: tania.clerqc@justice.gouv.qc.ca  
+Tania Clerqc, Counsel for the Intervener, the Attorney General of Quebec NOËL & ASSOCIÉS  
+111, rue Champlain Gatineau, QC J8X 3R1 
+Telephone: (819) 771-7393 
+Facsimile: (819) 771-5397 Email: p.landry@noelassocies.com 
+Pierre Landry, Agent for the Intervener, 
+the Attorney General of Quebec 
+   ATTORNEY GENERAL FOR 
+SASKATCHEWAN  Constitutional Law Branch, 8
+th Floor 
+820-1874 Scarth Street  
+Regina, SK S4P 4B3 
+Telephone: (306) 787-7886 
+Facsimile: (306) 787-9111 Email: james.fyfe@gov.sk.ca 
+Richard James Fyfe, Counsel for the 
+Intervener, the Attorney General for Saskatchewan GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street Ottawa, ON K1P 1 C3 
+Telephone: (613) 786-8695 Facsimile: (613) 788-3509 Email: lynne.watt@gowlingwlg.com  
+D. Lynne Watt, Agent for the Intervener, the Attorney General for Saskatchewan  
+  
+RATCLIFF & COMPANY LLP  
+500 – 221 West Esplanade North Vancouver, BC V7M 3J3 
+Telephone: (604) 988-5201 
+Facsimile: (604) 988-1452 Email: gmcdade@ratcliff.com  
+Gregory J. McDade Q.C. , Kate Blomfield and R. Brent Lehman, Counsel for the Intervener, BC/Yukon Treaty Coalition SUPREME LAW GROUP  
+900 – 275 Slater Street  
+Ottawa, ON K1P 5H9  
+Telephone: (613) 691-1224 Facsimile: (613) 691-1338 Email: mdillon@supremelawgroup.ca 
+Moira S. Dillon, Agent for the Intervener, 
+BC/Yukon Treaty Coalition 
+  
+ASSEMBLY OF FIRST NATIONS  
+1600 - 55 Metcalfe Street, Suite 1600  
+Ottawa, ON K1P 6L5  
+Telephone: (613) 241-6789 Ext. 228 Facsimile: (613) 241-5808 Email: swuttke@afn.ca  
+Stuart Wuttke and Julie McGregor, Counsel for the Intervener, Assembly of First Nations  SUPREME LAW GROUP  
+900 – 275 Slater Street  
+Ottawa, ON K1P 5H9  
+Telephone: (613) 691-1224 Facsimile: (613 ) 691-1338 
+Email: mdillon@supremelawgroup.ca 
+Moira S. Dillon, Agent for the Intervener, 
+Assembly of First Nations 
+   GOWLING WLG (CANADA) LLP  
+1 Place Ville -Marie, 37 th Floor 
+Montréal, QC H3B 3P4 
+Telephone: (514) 878-9641 
+Facsimile: (514) 878-1450 Email: john.hurley@gowlingwlg.com 
+John Hurley and François Dandonneau, Counsel for the Intervener, Grand Council of the Crees (Eeyou Istchee), Cree Nation Government  GOWLING WLG (CANADA) LLP  
+2600, 160 Elgin Street Ottawa, ON K1P 1C3  
+Telephone: (613) 786-0197 Facsimile: (613) 563-9869 
+Email: guy.regimbald@gowlingwlg.com  
+Guy Régimbald, Agent for the Intervener, Grand Council of the Crees (Eeyou Istchee), Cree Nation Government  
+  
+MCCARTHY TÉTRAULT LLP  
+Suite 5300, Toronto Dominion Bank Tower Toronto, ON M5K 1E6 
+Telephone: (416) 601-8200 
+Facsimile: (416) 868-0673 Email: bkain@mccarthy.ca  
+Brandon Kain, Bryn Gray and Brandon Mattalo, Counsel for the Intervener, Advocates for the Rule of Law  CONWAY BAXTER WILSON LLP  
+400 - 411 Roosevelt Avenue Ottawa, ON K2A 3X9  
+Telephone: (613) 780-2012 Facsimile: (613) 688-0271 Email: cbaxter@conway.pro  
+Colin S. Baxter, Agent for the Intervener, Advocates for the Rule of Law  
+  
+FEDERATION OF SOVEREIGN INDIGENOUS NATIONS  
+Suite 100, 103-A Packham Avenue Saskatoon, SK S7N 4K4 
+Telephone: (306) 850-7479 
+Facsimile: (306) 244-4413 Email: victor.carter@fsin.com 
+Victor Carter, Counsel for the Intervener, 
+Federation of Sovereign Indigenous Nations WESTAWAY LAW GROUP  
+230, 55 Murray Street Ottawa, ON K1N 5M3  
+Telephone: (613) 722-9091 Facsimile: (613) 722-9097 Email: darryl@westawaylaw.ca  
+Darryl Korell, Agent for the Intervener, Federation of Sovereign Indigenous Nations 
+   GRANT HUBERMAN, BARRISTERS & 
+SOLICITORS  
+1620-1075 W Georgia Street Vancouver, BC V6E 3C9 
+Telephone: (604) 685-1229 
+Facsimile: (604) 685-0244 Email: pgrant@grantnativelaw.com 
+Peter R. Grant, Jeff Huberman and 
+Karenna Williams, Counsel for the Intervener, Gitanyow Hereditary Chiefs   
+ 
+   
+i TABLE OF CONTENTS  
+PART I:  OVERVIEW AND FACTS .................................................................................... 1 
+PART II:  ISSUES ................................................................................................................... 2 
+PART III:  ARGUMENT  .......................................................................................................... 2 
+A. Section 35 Requires  All Branches of Government to Advance 
+Reconciliation —Legislative Action Cannot Be Immune from the  
+Duty to Consult ............................................................................................... 2 
+B. A Purposive and Contextual Interpretation of Section 35 Leads to  
+the Application of the Duty in Relation to Legislative Action  ........................ 5 
+C. An Illusory View of the Separation of Powers Cannot Cloak the  Executive from Crown Consultation ............................................................... 8
+ 
+D. Legislative Recognition and Implementation of Aboriginal  
+Self-Government Requires Crown Consultation ............................................. 8 
+PART IV:  COSTS .................................................................................................................. 10 
+PART VI:  TABLE OF AUTHORITIES  ................................................................................ 11 
+PART VII:  STATUTES ........................................................................................................... 14  
+ PART I:  OVERVIEW AND FACTS  
+1. This appeal is about whether one branch of government—the branch that has been 
+responsible for some of the most devastating and destructive acts against Indigenous peoples 
+throughout Canada’s history—is wholly exempt from “one of the best available legal tools”1 for 
+advancing  reconciliation with Indigenous peoples. Based on the constitutional principles 
+engaged, as well as the authorities of this Court, neither Parliament nor the legislatures are 
+exempt from the  national proj ect of reconciliation. Parliamentary sovereignty cannot trump the 
+dictate of the Constitution. T he duty to consult must apply to legislative action.  
+2. The Manitoba Metis Federation (“M MF”) adopts the facts as set out by the Appellants and 
+adds the following:  
+(a) This appeal will impact all of the “aboriginal peoples of Canada” included in 
+section 35(2) of the Constitution Act , 1982—Indians, Inuit and Métis alike. It is 
+not a case that will only affect the “Indian peoples” and their governments 
+(i.e., First Nations).  
+(b) The Manitoba g overnment already recognizes that the Crown’s duty to consult 
+“applies when any proposed provincial law, regulation, decision or action may 
+infringe upon or adversely affect the exercise of a treaty or aboriginal rights. ”2 
+There is also a history in Manitoba of consultation and co-development of various 
+legislative and regulatory initiatives with  Indigenous peoples, including with  the 
+MMF.3 
+                                                 
+1 Ktunaxa Nation v British Columbia, 2017 SCC 54 at para 86 [ Ktunaxa].  
+2 Government of Manitoba, Interim  Provincial Policy for Crown Consultations with First 
+Nations, Métis Communities and Other Aboriginal Communities , 4 May 2009 ( emphasis added ). 
+3 See The Child and Family Services Authorities Act , CCSM c C90  that includes legislative 
+devolution to a Métis as well as First Nation authorities; Manitoba Government- Manitoba Metis 
+Federation Points of Agreement on Métis Harvesting in Manitoba (29 September 2012) (Manitoba- MMF Harvesting Agreement ), s. 7. 2 
+ PART II:  ISSUES  
+3. The MMF will address the firs t issue in this appeal: does the duty to consult apply to 
+legislative action? As detailed further below, the MMF makes submissions that it does. 
+PART III:  ARGUMENT  
+A. Section 35 Requires  All Branches of Government to Advance Reconciliation —
+Legislative Action Cannot Be Immune from the Duty  to Consult 
+4. Section 35 of the Constitution Act, 1982 is unique in the world. No other na tion-state has 
+fettered its sovereignty —through the constitutional protection and recognition of Aboriginal and 
+treaty rights —in the same way.  In 1982, Canada —as a coun try from coast to coa st to coast —
+agreed to begin to shake off the shackles of colonialism and start  the long journey of 
+reconciliation  with Indigenous peoples. This process is  anchored  on: (1) section 35’s 
+constitutional base; (2) legally enforceable and constitutionally protected Aboriginal and treaty 
+rights; and, (3) constitutional duties and obligations to guide and smooth the way forward.  
+5. Section 35 binds all  of the branches of government  in Canada—the executive branches , 
+Parliament and the legislatures , as well as the judiciary —to work together to advance the 
+national project  of reconcili ation within their respective spheres  and jurisdictions. Reconcili ation 
+is “a process flowing from rights guaranteed by s. 35(1) of the Constitution Act , 1982.”4 In order 
+for reconcili ation to be advanced, neither Parliament5 nor the legislatures  can be insulated  from 
+section 35’s constitutional imperative  or the constitutional principles that animate its operation, 
+including the procedural protections provided through the duty to consult.6  
+6. An affirmative answer to the fundamental question underlying this appeal —whether the 
+duty to consult applies to leg islative action —is required in order to fulfill section 35’s promise. 
+The national project of r econciliation would be severely undermined if “cons ultation free zones” 
+                                                 
+4 Haida Nation v British Columbia  (Minister of Forests ), 2004 SCC 73 at para 32 [ Haida]. 
+5 Daniels v Canada ( Indian Affairs and Northern Development ), 2016 SCC 12 at para 37: 
+“Reconciliation with  all of Canada’s Aboriginal peoples is Parliament’s  goal.”  
+6 Reference re Secession of Quebec, [1998] 2 SCR 217 at para 48; Beckman v Little 
+Salmon/Carmacks First Nation, 2010 SCC 53 at para 42).  3 
+ could be arbitrarily established  by members of the executive or bureaucrats , who could simply 
+claim their policy related work is “legislative in nature ”7 in order to evade the duty or if the 
+“consultation patchwork ” that already exists  (where some jurisdictions already recognize that the 
+duty applies to the development of laws  that impact Aboriginal and treaty rights  while 
+Parliament and other legislatures do not) becomes a race to the bottom .8 These results would 
+thwart reconciliation , not support or advance it.  
+7. Moreover, contrary to the Respondents’ submissions, parliamentary sovereignty has 
+never been absolute in Canada. Legislation that is adopted in a “manner and  form” that is 
+inconsistent with the Constitution will be found to be invalid.9 In these situations, the legislation 
+at issue is not declared invalid because an underlying breach of a constitutional right has been 
+established or because the legislation is  ultra vires . The legislation  is invalidated because 
+procedural protections or processes—mandated by the Constitution —have not been met.10  
+                                                 
+7 Canada v Mikisew Cree First Nation, 2016 FCA 311 at para 30 [ Mikisew FCA ]. 
+8 Consultation on proposed legislation that may adversely impact Aboriginal and treaty rights is 
+not an impossible task, and is in fact already undertaken by several provinces and territorial 
+governments as a matter of policy. For a review of existing provincial and territorial approaches 
+see: Zachary Davis, The Duty to Consult and Legislative Action, Saskatchewan Law Review 
+2016 Vol 79 at pp 19–20 [MMF Book of Authorities, Tab 1]. 
+9 Peter W Hogg, Constitutional Law of Canada, Looseleaf (Scarb orough: Carswell, 2016-R1) at 
+12-11; Bribery Commissioner v Ranasinghe , [1964] All ER 785 at 7 ; Gallant v The King, [1949] 
+2 DLR 425 at 431; Re Manitoba Language Rights , [1985] 1 SCR 721 at 747.  
+10 For example, section 23 of the Manitoba Act, 1870 (a constitutional provision) requires that 
+the Province’s statutes be enacted in both English and French, making bills passed by the legislature in only one of these languages invalid (see Re Manitoba Language Rights at para 45). 
+Or, no bill passed by a legislature can have force of law unless it is assented to by the Lieutenant Governor, as royal assent is required by the Constitution ( Constitution Act, 1867, 30 & 31 Vict, 
+c3 at ss 55, 90).  4 
+ 8. In the same way, the duty to consult—as “a constitutional imperative ”11 and “a 
+procedural duty  that arise s from the honour of the Crown”12—applies  to legislative action . While 
+Parliament and the legislatures reign supreme over their own internal processes, they cannot be 
+immune to the dictates of the Constitution , which require that the procedural protections afforded 
+to Aboriginal peoples—based on the honour of the Crown and section  35— are met  prior to the 
+passage of legislation .  
+9. In the same way that the executive branch or an administrative decision-maker needs to 
+ensure that the “constitutional imperative ” of the duty has been met or risk having their decision 
+declared invalid,13 so too must Parliament and the legislatures. The courts —as the “guardians of 
+the Constitution”14—must ensure that legislation is adopted in “manner and form” that is 
+consistent with the requirements of the Constitution , including the procedural requirements of 
+the duty to consult. If the duty is not met, legislation should be invalidated. This is what is 
+required in the age of reconciliation. 
+10. Similar to how the duty is determined and assessed in other circumstances, consultation 
+requirements will vary depending on the rights and claims at stake and the potential for adverse 
+impacts. At the very least , Parliament and the legislatures will need to ensure that government or 
+private members demonstr ate consultation has taken plac e where Aboriginal and treaty rights are 
+adversely impacted by proposed legislation. This is not an impossible task. As noted above, 
+many governments already ensure compliance with this “constitutional imperative ” prior to 
+introducing legislation.  Moreover , legislatures  may provide opportunities for impacted 
+Aboriginal groups to be heard to ensure the duty is met. Section 35 fettered Parliamentary 
+sovereignty; prior to enacting legislation, it must ensure the duty has been discharged.  
+                                                 
+11 Clyde River ( Hamlet) v Petroleum Geo -Services Inc, 2017 SCC 40 at paras 19, 24: “The duty 
+to consult…has both a constitutional and a legal dimension…its constitutional dimension is 
+grounded in the honour of the Crown. This principle is in turn enshrined in s. 35(1)….”  
+12 Tsilhqot’in Nation v British Columbia, 2014 SCC 44 at para 78.  
+13 Clyde River  at para 24. 
+14 Manitoba Metis Federation Inc  v Canada, 2013 SCC 14 at para 135, 140 [ MMF]. 5 
+ 11. As this Court has recently acknowledged, these constitutionally- mandated procedural 
+protections do not guarantee a “particular outcome,” however, they ensure Parliament and the 
+legislatures are both informed about the scope of the effects of the legislation on Aboriginal and 
+treaty rights prior to enacting a law, and are not free to ignore one of “the best available legal 
+tools in the reconciliation basket.”15  
+B. A Purposive and Contextual Interpretation of Section 35 Leads to the Application of 
+the Du ty in Relation to Legislat ive Action  
+12. A purposive and contextual interpretation  of section 35 also leads to the application of the 
+duty to consult to legislative action . As it has done in the past,16 the Court’s interpretation of 
+section 35—based on the unique fact situation in this appeal —must be informed by the honour 
+of the Crown, a “generous” and “purposive” reading  of the provision17 and be consistent with the 
+linguistic, philosophical, and historical context of section 35.18 
+13. Section 35 comes out of an era where any  government legislation  trumped Aboriginal  
+rights, including those  rights expressly  protected within treaties or other agreements ( i.e., the 
+Natural Resources Transfer Agreements ).19 Even Indian harvesting rights—being exercised on 
+reserve lands —were not protected .20 It arose from a time when proposed legislative amendments 
+to the Indian Act —which controlled almost every aspect of Indian peoples’ lives from cradle to 
+grave—still represented a “dialogue of the deaf” between legislators and First Nations.21  
+                                                 
+15 Ktunaxa at para 86.  
+16R v Sparrow , [1990] 1 SCR 1075 at 1102–1105 [ Sparrow]; R v Powley, 2003 SCC 43 at 
+para 13 [ Powley]; MMF  at paras 75 –77. 
+17 MMF at paras 73, 76. 
+18 Reference re Supreme Court Act , 2014 SCC 21 at para 19; Reference re Senate Reform , 
+2014 SCC 32 at para 25 [ Senate Reference].  
+19 Sparrow at 1103: “We cannot recount with much pride the treatment accorded to the native 
+people of this country.” 
+20 R v White  (1964), 50 DLR (2d) 613 (BCCA), affirmed by Supreme Court of Canada at (1965), 
+52 DLR (2d) 481; Daniels v White , [1968] SCR 517.  
+21 Report of the Royal Commission on Aboriginal Peoples , Volume 1: Looking Forward, Looking 
+Back (Canada, October 1996) at 237 (“RCAP”).  6 
+ 14. For the Métis , section 35 arose from an era where they existed in a “legal lacuna” with  no 
+protection for their rights or interests: “[a]lthough widely recognized as a culturally distinct 
+Aboriginal people living in culturally distinct communities, the law remained blind to the unique 
+history of the Métis and their unique needs.” 22  
+15. Simply put, legislative action —through its all-encompassing presence or complete 
+absence—represented one of the greatest harms to Indigenous peoples within Canada. This is the 
+historic conte xt that informed  the negotiation and adoption of s ection 35. The proposition that 
+legislative action would escape scrutiny going forward ignores this history and is antithetical to reconciliation.  
+16. While section 35 constitutionally protects “Aboriginal and treaty rights,” it also fetter s, 
+and builds  in procedural protections ( i.e., the duty to consult) against, future legislative reach into 
+the lives of Indigenous peoples and  the internal affairs of their communities and governments, 
+which was so destructiv e in the past . This is why it was heralded  as a “turning point,” and a 
+“political watershed” that did “away with the paternalism that [Aboriginal peoples] have often 
+felt relative to other Canadians and Canadian institutions.”
+23 This is why section 35 right s are 
+uniquely beyond the reach of the “notwithstanding clause” in Canada’s Constitution.24 Unilateral 
+and indifferent legislative action, without any consultation, was to be a thing of the past. 
+17. In Sparrow, this Court first acknowledged that legislative action, post-1982, must uphold 
+the honour of the Crown and respect the modern era of Crown-Indigenous relations.25 This Court 
+                                                 
+22 Alberta (Abori ginal Affair) v Cunningham , 2011 SCC 37 at para 7-8 [ Cunningham ]. 
+23 See Canada, Debates of the Senate , 32nd Parl, 1st Sess, No 3 (7 December 1981) at 3317–3318 
+(Jean Marchand, P.C) ; Canada, House of Commons  Debates, 32nd Parl, 1st Sess, No 7 
+(20 February 1981) at 7520–7521. 
+24 Section 33 of the Canadian Charter of Rights and Freedoms  does not apply to the rights 
+protected by section 35 of the Constitution Act , 1982. See Sparrow at 1101–1102. 
+25 Sparrow at 1110. 7 
+ has further recognized that the honour of the Crown requires Ministers and government officials 
+to “conduct themselves with honour when acting on behalf of the sovereign.”26  
+18. A refusal to consult on contemplated legislation that adversely affect s constitutionally -
+protected Aboriginal or treaty rights is not honourable. It is these types of decisions —made in 
+secret or “behind closed doors” —that have “engendered deep suspicions on the part of 
+[Aboriginal] people about the ultimate intentions of Canadian policy makers towards them.”27 
+This type of approach undermines  the very purpose of section 35 as well as reconciliation’s most 
+important and practical work: building trust and renew ing Crown-Indigenous relationships.28 
+Consultation on these i ssues must be confirmed as legally enforceable. 
+19. In Haida Nation, this Court first recognized the duty to consult as an effective and 
+durable constitutional tool to balance the honour of the Crown, future Crown-Indigenous 
+relations, and Crown conduct in order to advance section 35’s purpose.29 This appeal requires 
+this Court to now apply the duty to contemplated legislative action that adversely impacts 
+Aboriginal and treaty rights. This is a modest task , necessary to  ensure no branch of government 
+is exempt from the national project of reconciliation.  As noted above, many jurisdictions already 
+acknowledge this constitutional requirement.  
+20. While the parties may not agree with respect to what legislative action should ultimately 
+be taken,30 legislative action by ambush —as seen in this appeal —has no place in the era of 
+reconciliation.  
+                                                 
+26 MMF  at para 65.  
+27 RCAP, Volume 1 at 237. 
+28 Taku River Tlingit First Nation v British Columbia  (Project Assessment Director ), 2004 SCC 
+74 at para 24: “In all its dealings with Aboriginal peoples, the Crown must act honourably, in 
+accordance with its historical and future relationship  with the Aboriginal peoples in question” 
+[emphasis added]. 
+29 Haida Nation v British Columbia  (Minister of Forests ), 2004 SCC 73 at para 38 [ Haida]. 
+30 Haida at para 48.  8 
+ C. An Illusory View of the Sep aration of Powers Cannot Cloak the Exec utive from 
+Crown Consultation 
+21. Conceiving of the separation of executive and legislative powers as water- tight 
+compartments, as urged by the Respondents, distorts how government in Canada actually works: 
+“[t]he separation of powers is not a rigid and absolute structure. The Court should not be blind to 
+the reality of Canadian governance that, except in certain rare cases, the executive frequently 
+and de facto controls the legislature.”31 
+22. In Canada, “true executive power lies in the Cabinet”32 and “legislative bodies have little 
+real influence in policy -making.”33 Indeed, making the policy decisions that lie behind the 
+government’s legislative agenda is among the executive’s most important functions. An 
+approach that allows the executive to potentiall y insulate itself against the duty by deeming all 
+policy development work that may adversely impact Aboriginal or treaty rights as “legislative in nature”
+34 is unworkable and runs the risk of allowing the executive to unilaterally neuter the 
+duty—with no ju dicial supervision.  
+23. The executive must not be allowed to cloak its actions in legislative cloth to evade its 
+constitutional responsibilities to Aboriginal people. “All executive powers, whether they derive from statute, common law or prerogative, must be adapted to conform with constitutional 
+imperatives.”
+35 Once triggered, the duty to consult must be discharged36—even by Cabinet, and 
+even when Cabinet’s decisions are upstream in  the legislative process.  
+D. Legislative Recognition and Implementation of Abor iginal Self -Government 
+Requires Crown Consultation 
+24. While the MMF recognizes that this  appeal is not about Aboriginal self-government, the 
+Court should be aware that a complete denial of the duty to consult in relation to proposed 
+                                                 
+31 Wells  v Newfoundland, [1999] 3 SCR 199 at para 54 [ Wells]. 
+32 Reference Re Canada Assistance Plan, [1991] 2 SCR 525 at 547 as cited in  Wells  at para 53.  
+33 Hogg at 5-47 to 5-48 [Hogg] . 
+34 Mikisew FCA at para 30. 
+35 Air Canada v B ritish Columbia ( Attorney General ), [1986] 2 SCR 539 at para 12.  
+36 Tsilhqot’in  at para 78; see also Clyde River  at para 39 . 9 
+ legislative action  will have negative implications  on ongoing self -government negotiations as 
+well as the future implementation —through legislation —of these negotiated agreements .  
+25. This Court, as well as the federal government , has recognized that Aboriginal  peoples 
+have an inherent right to self-government, though the contours of this right require definition on 
+a case-by-case basis .37 Some courts have also recognized that Aboriginal self-government is 
+“akin to a legislative power to make laws, survived as one of the unwritten ‘underlying values’ 
+of the Constitution outside of the powers distributed to Parliament and the legislatures in 1867”38 
+and that “[t]hese subsisting [self-government] rights curtailed the powers of colonial governments, just as they later curtailed the powers of Parliament and the legislative 
+assemblies.”
+39 
+26. Despite varying interpretations on the legal basis and scope of Aboriginal self -
+government rights , it is common ground that these issues are ideally dealt with through 
+negotiation s. Modern- day treaty or self-government agreement negotiations provide the 
+necessary space for the recognition of Indigenous jurisdictions and governance. Such 
+arrangements , however, ultimately require legislative action to give  them full legal force and 
+effect. In order to maintain trust and good faith, consultation on implementation legislation is 
+commonplace and even built into many agreements. G iven the issues at stake,  however, 
+consultation on this type of legislation cannot be discretionary or merely good policy practice.  
+ 
+ 
+                                                 
+37 Canada, Government of Canada’s Approach to Implementation of the Inherent Right and the 
+Negotiation of Aboriginal Self- Government  at 4; R v Pamajewon, [1996] SCR 821 at para 26 . 
+38 Campbell v British Columbia ( Attorney General ), 2000 BCSC 1123 at  para 81 [Campbell ]. 
+39 Campbell  at para 93. 10 
+ 
+It is constitutionally required based on the  honour of the Crown, section 35,  and the fact that 
+modern-day Aboriginal self- government arrangements weave together federal, provincial , and 
+Indigenous jurisdictions.40  
+27. The history and legacy of the Indian Act  provides the cautionary tale on why consultation 
+on Aboriginal self-government legislation is required. Section 35 must act as a shield to protect 
+Aboriginal self -government during  the legislative process, not merely a sword to challenge parts 
+of legislation ‘after -the-fact.’ The recognition of the duty in this context is fundamental to the 
+continuing the  advancement of  Aboriginal self-government and modern day treaty- making. 
+While at this moment in time, it would be unthinkable to many that a replication of an Indian 
+Act-like piece of legislation could occur , without legal certainty and protection to this effect—
+which the recognition of the duty in the context of proposed legislative action would provide—
+section 35’s constitutional promise could ring hollow in the future.  
+PART IV:  COSTS  
+28. The MMF  does not seek costs and ask s that costs not be awarded against it in this appeal.  
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 14th day of November 2017. 
+ 
+ 
+ JASON T. MADDEN  
+                                                 
+40 Canada, Report of the Royal Commission on Aboriginal Peoples, Volume 5: Renewal: A 
+Twenty-Year Commitment (Canada, October 1996) at 150: “The enactment of section 35 of the 
+Constitution Act , 1982 has  had far-reaching significance… It provides the basis for recognizing 
+Aboriginal governments as one of three distinct orders of government in Canada: Aboriginal, 
+provincial and federal. The governments making up these three orders are sovereign within their 
+several spheres and hold their powers by virtue of their inherent or constitut ional status rather 
+than by delegation. They share the sovereign powers of Canada as a whole, powers that represent a pooling of existing sovereignties.” 11 
+  
+PART VI:  TABLE OF AUTHORITIES  
+JURISPRUDENCE  
+Item Paragraph(s) 
+Air Canada v British Columbia ( Attorney General ), [1986] 2 SCR 539  23 
+Alberta (Aboriginal Affairs and Northern Development ) v Cunningham , 
+2011 SCC 37  14 
+Beckman v Little Salmon /Carmacks First Nation, 2010 SCC 53  5 
+Bribery Commissioner v Ranasinghe , [1964] All ER 785  7 
+Campbell v British Columbia  (Attorney General ), 2000 BCSC 1123  25 
+Canada ( Governor General in Council ) v Mikisew Cree First Nation , 
+2016 FCA 311  6, 22 
+Clyde River  (Hamlet) v Petroleum Geo -Services Inc, 2017 SCC 40  8, 9, 23 
+Daniels v Canada ( Indian Affairs and Northern Development ), 2016 
+SCC 12  5 
+Daniels v White, [1968] SCR 517  13 
+Gallant v The King, [1949] 2 DLR 425  7 
+Haida Nation v Bri tish Columbia ( Minister of Forests ), 2004 SCC 73  5, 19 
+Ktunaxa Nation v British Columbia ( Forests, Lands and Natural 
+Resource Operations ), 2017 SCC 54  1, 11 
+Manitoba Métis Federation Inc  v Canada, 2013 SCC 14  9, 12, 17 
+R v Pamajewon, [1996] SCR 821  25 
+R v Powley, 2003 SCC 43  12 
+R v Sparrow , [1990] 1 SCR 1075  12, 13, 16, 17 
+R v White  (1964), 50 DLR (2d) 613 (BCCA)  13 
+Re Manitoba Language Rights , [1985] 1 SCR 721  7 12 
+ JURISPRUDENCE  
+Item Paragraph(s) 
+Reference Re Canada Assistance Plan ( BC), [1991] 2 SCR 525  22 
+Reference re Secession of Quebec, [1998] 2 SCR 217  5 
+Reference re Senate Reform , 2014 SCC 32  12 
+Reference re Supreme Court Act , ss. 5 and 6, 2014 SCC 21  12 
+Taku River Tlingit First Nation v British Columbia  (Project Assessment 
+Director), 2004 SCC 74  18 
+Tsilhqot’in Nation v British Columbia, 2014 SCC 44  8, 23 
+Wells v  Newfoundland, [1999] 3 SCR 199  21 
+ 
+LEGISLATION  
+Item Paragraph 
+The Child and Family Services Authorities Act , CCSM c C90  2 
+Constitution Act, 1867, 30 & 31 Vict, c3 at ss 35, 55, 90  7, 16 
+Manitoba Act , 33 Vict, c3 , s 23 7 
+ 
+OTHER  
+Item Paragraph 
+Canada, Debates of the Senate , 32nd Parl, 1st Sess, No 3 (7 December 
+1981) at 3317–3318 (Jean Marchand, P.C)  16 
+Canada, Federal Policy Guide, Aboriginal Self -Government : The 
+Government of Canada’s Approach to the Implementation of the 
+Inherent Right and the Negotiation of Aboriginal Self- Government . 
+Minister of Indian Affairs and Northern Development, Ottawa, 1995  25 
+Canada, House of Commons Debates , 32nd Parl, 1st Sess, No 7 
+(20 February 1981) at 7520–7521  16 13 
+ OTHER  
+Item Paragraph 
+Canada, Report of the Royal Commission on Aboriginal Peoples, 
+Volume 1: Looking Forward, Looking Back (Canada, October 1996)  13, 18 
+Canada, Report of the Royal Commission on Aboriginal Peoples, 
+Volume 5: Renewal: A Twenty -Year Commitment (Canada, October 
+1996) 26 
+Zachary Davis, The Duty to Consult and Legislative Action , 
+Saskatchewan Law Review, 2016 Vol 79 at pp 19–20 ( MMF Book of 
+Authorities, Tab 1) 6 
+Peter W. Hogg, Constitutional Law of Canada, Looseleaf (Scarb orough: 
+Carswell, 2016- R1) ( MMF Book of Authorities, Tab 2) 7, 22 
+Government of Manitoba, Interim Provincial Policy for Crown 
+Consultations with First Nations , Métis Communities and Other 
+Aboriginal Communities , 4 May 2009  2 
+Manitoba Government-Manitoba Metis Federation Points of Agreement 
+on Métis Harvesting in Manitoba (29 September 2012)  2 
+ 
+   14 
+ PART VII:  STATUTES  
+Constitution Act, 1867 , 30 & 31 Vict, c3 
+35. Until the Parliament of Canada otherwise 
+provides, the Presence of at least Fifteen 
+Senators, including the Speaker, shall be 
+necessary to constitute a Meeting of the 
+Senate for the Exercise of its Powers.  
+55. Where a Bill passed by the Houses of t he 
+Parliament is presented to the Governor 
+General for the Queen's Assent, he shall 
+declare, according to his Discretion, but 
+subject to the Provisions of this Act and to 
+Her Majesty's Instructions, either that he 
+assents thereto in the Queen's Name, or that 
+he withholds the Queen's Assent, or that he 
+reserves the Bill for the Signification of the 
+Queen's Pleasure.  
+90. The following Provisions of this Act 
+respecting the Parliament of Canada, namely, 
+— the Provisions relating to Appropriation 
+and Tax Bills, the Recommendation of 
+Money Votes, the Assent to Bills, the 
+Disallowance of Acts, and the Signification of 
+Pleasure on Bills reserved, — shall extend 
+and apply to the Legislatures of the several 
+Provinces as if those Provisions were here re-
+enacted and mad e applicable in Terms to the 
+respective Provinces and the Legislatures 
+thereof, with the Substitution of the 
+Lieutenant Governor of the Province for the 
+Governor General, of the Governor General 
+for the Queen and for a Secretary of State, of 
+One Year for T wo Years, and of the Province 
+for Canada.  35. Jusqu'à ce que le parlement du Canada en 
+ordonne autrement, la présence d'au moins 
+quinze sénateurs, y compris l'orateur, sera 
+nécessaire pour constituer une assemblée du 
+Sénat dans l'exercice de ses fonctions.  
+55. Lorsqu'un bill voté par les chambres du 
+parlement sera présenté au gouverneur-
+général pour la sanction de la Reine, le 
+gouverneur- général devra déclarer à sa 
+discrétion, mais sujet aux dispositions de la 
+présente loi et aux instructions de Sa Majesté,  
+ou qu'il le sanctionne au nom de la Reine, ou 
+qu'il refuse cette sanction, ou qu'il réserve le 
+bill pour la signification du bon plaisir de la 
+Reine. 
+90. Les dispositions suivantes de la présente 
+loi, concernant le parlement du Canada, 
+savoir: les disposi tions relatives aux bills 
+d'appropriation et d'impôts, à la 
+recommandation de votes de deniers, à la 
+sanction des bills, au désaveu des lois, et à la 
+signification du bon plaisir quant aux bills 
+réservés, — s'étendront et s'appliqueront aux 
+législatures de s différentes provinces, tout 
+comme si elles étaient ici décrétées et rendues 
+expressément applicables aux provinces 
+respectives et à leurs législatures, en 
+substituant toutefois le lieutenant-gouverneur 
+de la province au gouverneur- général, le 
+gouverneur- général à la Reine et au secrétaire 
+d'État, un an à deux ans, et la province au 
+Canada. 
+Manitoba Act , 33 Vict, c3  
+23. Either the English or the French language 
+may be used by any person in the debates of 
+the Houses of the Legislature, and both those 
+languages shall be used in the respective 
+Records and Journals of those Houses; and 
+either of those languages may be used by any  15 
+ person, or in any Pleading or Process, in or 
+issuing from any Court of Canada established 
+under the British North America Act, 1867, or 
+in or from all or any of the Courts of the 
+Province. The Acts of the Legislature shall be 
+printed and published in both those 
+languages.  
+  
+ 

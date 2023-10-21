@@ -1,0 +1,688 @@
+Court File No. 36776 
+ 
+IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL) 
+ 
+BETWEEN: 
+ 
+CHIPPEWAS OF THE THAMES FIRST NATION 
+Appellant 
+ 
+– and – 
+ 
+ 
+ENBRIDGE PIPELINES INC., THE  NATIONAL ENERGY BOARD and 
+ATTORNEY GENERAL OF CANADA 
+Respondents 
+ 
+– and –  
+  
+ATTORNEY GENERAL FOR ONTARIO, ATTORNEY GENERAL FOR SASKATCHEWAN , 
+NUNAVUT WILDLIFE MANAGEMENT BOARD, SUNCOR ENERGY MARKETING INC. , 
+MOHAWK COUNCIL OF KAHNAWÀ:KE, M ISSISSAUGAS OF THE NEW CREDIT FI RST 
+NATION and CHIEFS OF ONTARIO 
+Interveners 
+ 
+ 
+ 
+ 
+FACTUM OF THE INTERVENER, 
+MOHAWK COUNCIL OF KAHNAWÀ:KE 
+ 
+   
+Francis Walsh 
+Mohawk Council of Kahnawà:ke Legal Services
+P.O. Box 720 
+Mohawk Territory of Kahnawà:ke,  
+Quebec  J0L 1B0 
+Tel: (450) 632-7500 
+Fax: (450) 638-3663 
+E-mail: francis.walsh@mck.ca 
+ 
+Counsel for the Intervener Mohawk Council of Kahnawà:ke  Justin Dubois 
+Power Law 
+130 Albert Street, 
+Suite 1103 
+Ottawa, Ontario  K1P 5G4 
+Tel: (613) 702-5560 
+Fax: (613) 702-5560 
+E-mail: jdubois@juristespower.ca 
+ 
+Agent for the Intervener 
+Mohawk Council of Kahnawà:ke  - 2 - 
+ 
+ORIGINAL: TO REGISTRAR OF THE SUPREME COURT OF CANADA 
+  AND TO: 
+ 
+David C. Nahwegahbow 
+Scott Robertson 
+Nahwegahbow, Corbiere Genoodmagejig 
+5884 Rama Road, 
+Suite 109 
+Rama, Ontario  L3V 6H6 
+Tel: (705) 325-0520 
+Fax: (705) 325-7204 
+E-mail: dndaystar@nncfirm.ca 
+ 
+Counsel for the Applicant 
+Chippewas of the Thames First Nation 
+ 
+ Moira Dillon 
+Supreme Law Group 
+900 - 275 Slater Street, 
+Ottawa, Ontario  K1P 5H9 
+Tel: (613) 691-1224 
+Fax: (613) 691-1338 
+E-mail: mdillon@supremelawgroup.ca 
+  
+ 
+Agent for the Applicant 
+Chippewas of the Thames First Nation  
+Douglas E. Crowther, Q.C. 
+Joshua A. Jantzi 
+Dentons Canada LLP 
+15th Floor, Bankers Court 
+850-2nd Street SW 
+Calgary, Alberta  T2P 0R8 
+Tel: (403) 268-6821 
+Fax: (403) 268-3100 
+E-mail: douglas.crowthers@dentons.com 
+ 
+Counsel for the Respondent 
+Enbridge Pipelines Inc.  
+ K. Scott McLean 
+Dentons Canada LLP 
+1420 - 99 Bank Street 
+Ottawa, Ontario  K1P 1H4 
+Tel: (613) 783-9600 
+Fax: (613) 783-9690 
+E-mail: scott.mclean@dentons.com    
+Agent for the Respondent 
+Enbridge Pipelines Inc.  
+Jody Saunders 
+Kristen Lozynsky 
+National Energy Board 
+517 Tenth Avenue SW 
+Calgary, Alberta  T2R 0A8 
+Tel: (403) 299-2715 
+Fax: (403) 292-5503 
+E-mail: jody.saunders@neb-one.gc.ca 
+ 
+Counsel for the Respondent 
+National Energy Board 
+ 
+ Colin S. Baxter 
+Conway Baxter Wilson LLP 
+400 - 411 Roosevelt Avenue 
+Ottawa, Ontario  K2A 3X9 
+Tel: (613) 780-2012 
+Fax: (613) 688-0271 
+E-mail: cbaxter@conway.pro  
+ 
+Agent for the Respondent 
+National Energy Board  
+  - 3 - 
+Peter Southey 
+Mark Kindrachuk, Q.C. 
+Attorney General of Canada 
+The Exchange Tower, Box 36, 
+Suite 3400, 130 King Street West 
+Toronto, Ontario  M5X 1K6 
+Tel: (416) 973-2240 
+Fax: (416) 973-0809 
+E-mail: peter.southey@justice.gc.ca 
+ 
+Counsel for the Respondent, 
+Attorney General of Canada 
+  Christopher M. Rupar 
+Attorney General of Canada 
+50 O'Connor Street,  
+Suite 500, Room 557 
+Ottawa, Ontario  K1A 0H8 
+Tel: (613) 670-6290 
+Fax: (613) 954-1920 
+E-mail: christopher.rupar@justice.gc.ca  
+ 
+Agent for the Respondent, 
+Attorney General of Canada  
+Manizeh Fancy 
+Attorney General of Ontario 
+720 Bay Street 
+8th Floor 
+Toronto, Ontario  M7A 2S9 
+Tel: (416) 314-2177 
+Fax: (416) 326-4181 
+E-mail: manizeh.fancy@ontario.ca 
+ 
+Counsel for the Intervener, 
+Attorney General for Ontario  Robert E. Houston, Q.C. 
+Burke-Robertson 
+441 MacLaren Street, 
+Suite 200 
+Ottawa, Ontario  K2P 2H3 
+Tel: (613) 236-9665 
+Fax: (613) 235-4430 
+E-mail: rhouston@burkerobertson.com 
+ 
+Agent for the Intervener, 
+Attorney General for Ontario  
+ 
+Richard James Fyfe 
+Attorney General for Saskatchewan 
+Constitutional Law Branch, 8th Floor 
+820, 1874 Scarth St. 
+Regina, Saskatchewan  S4P 4B3 
+Tel: (306) 787-7886 
+Fax: (306) 787-9111 
+E-mail: james.fyfe@gov.sk.ca 
+ 
+Counsel for the Intervener, Attorney General for Saskatchewan  D. Lynne Watt 
+Gowling WLG (Canada) LLP 
+160 Elgin Street, 
+Suite 2600 
+Ottawa, Ontario  K1P 1C3 
+Tel: (613) 786-8695 
+Fax: (613) 788-3509 
+E-mail: lynne.watt@gowlingwlg.com 
+ 
+Agent for the Intervener, 
+Attorney General for Saskatchewan 
+ 
+Eugene Meehan, Q.C. 
+Supreme Advocacy LLP 
+100 - 340 Gilmour Street 
+Ottawa, Ontario  K2P 0R3 
+Tel: (613) 695-8855 Ext: 101 
+Fax: (613) 695-8580 
+E-mail: emeehan@supremeadvocacy.ca 
+ 
+Counsel for the Intervener, 
+Nunavut Wildlife Management Board 
+ 
+ Marie-France Major 
+Supreme Advocacy LLP 
+100- 340 Gilmour Street 
+Ottawa, Ontario  K2P 0R3 
+Tel: (613) 695-8855 Ext: 102 
+Fax: (613) 695-8580 
+E-mail: mfmajor@supremeadvocacy.ca 
+ 
+Agent for the Intervener, 
+Nunavut Wildlife Management Board  - 4 - 
+Martin Ignasiak 
+W. David Rankin 
+Heather Weberg 
+Osler, Hoskin & Harcourt LLP 
+450 - 1st Street S.W., 
+Suite 2500, TransCanada Tower 
+Calgary, Alberta  T2P 5H1 
+Tel: (403) 260-7007 
+Fax: (403) 260-7024 
+E-mail: mignasiak@osler.com 
+ 
+Counsel for the Intervener, 
+Suncor Energy Marketing Inc. 
+ 
+ Patricia J. Wilson 
+Osler, Hoskin & Harcourt LLP 
+340 Albert Street, 
+Suite 1900 
+Ottawa, Ontario  K1R 7Y6 
+Tel: (613) 787-1009 
+Fax: (613) 235-2867 
+E-mail: pwilson@osler.com 
+ 
+ 
+ 
+Agent for the Intervener, Suncor Energy Marketing Inc.  
+Patricia J. Wilson 
+Osler, Hoskin & Harcourt LLP 
+340 Albert Street, 
+Suite 1900 
+Ottawa, Ontario  K1R 7Y6 
+Tel: (613) 787-1009 
+Fax: (613) 235-2867 
+E-mail: pwilson@osler.com 
+ 
+Counsel for the Intervener, 
+Mississaugas of the New Credit First Nation  Matthew Estabrooks 
+Gowling WLG (Canada) LLP 
+2600 - 160 Elgin Street 
+P.O. Box 466, Stn. A 
+Ottawa, Ontario  K1P 1C3 
+Tel: (613) 786-0211 
+Fax: (613) 788-3573 
+E-mail: matthew.estabrooks@gowlingwlg.com 
+ Agent for the Intervener, Mississaugas of the New Credit First Nation 
+ 
+Maxime Faille 
+Jaimie Lickers 
+Gowling WLG (Canada) LLP 
+2600-160 Elgin Street 
+P.O. Box 466, Station D 
+Ottawa, Ontario  K1P 1C3 
+Tel: (613) 233-1781 
+Fax: (613) 563-9869 
+E-mail: maxime.faille@gowlingwlg.com 
+ 
+Counsel for the Intervener, 
+Chiefs of Ontario  Guy Régimbald 
+Gowling WLG (Canada) LLP 
+160 Elgin Street, 
+Suite 2600 
+Ottawa, Ontario  K1P 1C3 
+Tel: (613) 786-0197 
+Fax: (613) 563-9869 
+E-mail: guy.regimbald@gowlingwlg.com 
+ 
+ 
+Agent for the Intervener, 
+Chiefs of Ontario  - i - 
+ 
+TABLE OF CONTENTS 
+ 
+PART I: STATEMENT OF FACTS  .............................................................. ......................... 1 
+PART II: OVERVIEW AND POSITI ON ON APPELLANT’S QUESTIONS  ................... 1 
+PART III: ARGUMENT  .............................................................. ............................................ 1 
+A. The NEB had an obligation to ass ess whether the Crown fulfil led the duty to consult ......... 1 
+B. The NEB’s process did not a nd could not satisfy the requirem ents of s. 35(1) .................... 3 
+i) Scope of the project ....................................... ............................................................ 3 
+ii) Reconciliation and the importan ce of Crown engagement in th e context of 
+ large projects ............................................... .............................................................. 3 
+ 
+iii) The NEB was not delegated the duty to consult and accommod ate ......................... 6 
+iv) The NEB Reasons do not constitute accommodation or fulfill the s. 35(1) duty ..... 6 
+C. The NEB should assess adequac y by determining whether the du ty was fully met ............. 9 
+D. Conclusion ................................................. ............................................................... ............. 10 
+PART IV: COSTS  .............................................................. ....................................................... 10 
+PART V: ORAL ARGUMENT  .............................................................. ................................. 10 
+PART VI – TABLE OF AUTHORITIES  .............................................................. ................. 11 
+PART VII: STATUTORY PROVISIONS  .............................................................. ................ 13 - 1 - 
+ 
+PART I: STATEMENT OF FACTS 
+1. The Mohawk Council of Kahnawà:ke (“MCK”) adopts the facts as  outlined in the Chippewas 
+of the Thames First Nation’ s (“Appellant”) Factum. 
+PART II: OVERVIEW AND POSITION  ON APPELLANT’S QUESTIONS 
+2. The MCK agrees with the Attorney General of Canada (“AGC”) a nd the Appellant that the 
+duty to consult and accommodate was triggered by the National E nergy Board’s (“NEB”) decision 
+and with the Appellant that the  duty was at the high end of the  spectrum.1 
+3. Regarding the other questions i n issue, the MCK submits that : 
+(A) the NEB had an obligation to assess whether the Crown fulfi lled its duty to consult and 
+accommodate prior to issuing an order under s. 58 of the National Energy Board Act2 (“NEB 
+Act”); 
+(B) the NEB’s process and Reasons for Decision (“NEB Reasons”) did not and could not 
+satisfy the requirements of s. 35(1) of the Constitution Act, 19823 (“s. 35(1)”); and 
+(C) this Court should direct the NEB to assess the fulfillment of the Crown’s duty by applying 
+the legal test that will be proposed herein. 
+PART III: ARGUMENT 
+A. The NEB had an obligation to as sess whether the Crown fulfil led the duty to consult 
+4. The NEB’s statutory grant of authority to determine question s of law includes the authority to 
+assess whether consultation was required and had taken place bu t does not include the express or 
+implicit authority to carry out t he Crown’s duty to consult and  accommodate.4 
+5. The NEB was obligated to exercise the authority to assess co nsultation because it was the final 
+                                                            
+1 Factum of the Appellant at paras 46, 51, 54, 58, 62-64 [Appell ant Factum]. See also Factum of the Attorney General of 
+Canada at para 58 [AGC Factum]. 
+2 National Energy Board Act , RSC 1985, c N-7, [ NEB Act ], ACG Factum, Part VII (Statutes), Tab 1, pp 1-35 . 
+3 Constitution Act, 1982 , being Schedule B to the Canada Act 1982  (UK), 1982, c 11.  
+4 AGC Factum at para 69; Factum o f the Respondent Enbridge at pa ra 46 [Enbridge Factum].  Chippewas of the Thames 
+First Nation v Enbridge , 2015 FCA 222, [2016] 3 FCR 96 at paras 106, 111-112 [ Chippewas ], Appellant’s Record [AR], 
+Vol I, Tab 3, pp 194-196 ; Rio Tinto Alcan Inc. v Carrier Sekani Tribal Council , 2010 SCC 43, [2010] SCR 650 at para 57 
+[Carrier Sekani ], Appellant’s Book of Authorities [ABA], Vol I, Tab 22, p 223 . - 2 - 
+ 
+decision-maker for a project with adverse and potential adverse  effects on Aboriginal rights; it is 
+irrelevant whether the Crown w as a party to the NEB hearings.5 
+6. In Gitxaala , the majority decided that the  Governor in Council must consid er whether Canada 
+has fulfilled its duty to consult prior to rendering a final de cision pursuant to  s. 52 of the NEB Act . 
+The NEB has the same legal oblig ation in exercising final decis ion-making authority pursuant to 
+s. 58 of the NEB Act , since it has delegated authority from Parliament.6 
+7. In addition to the reasons identified by Justice Rennie,7 there are many practical reasons why 
+the NEB was most suited to determine whether the Crown had fulf illed the duty to consult and 
+accommodate. The NEB had the remedial powers to complete a full , explicit and timely assessment 
+of Crown consultation.8  
+8. The NEB could have also requested information from the parti es and the Crown on whether 
+there were any outstanding project  related issues that were not  addressed through the hearing 
+process and on how the government would have proposed to deal w ith those issues:  
+[…] the Board may also rely on the fact that there are other pr ocesses to deal with the issue, 
+and that those processes, and that any decisions resulting ther efrom, must comply with any 
+relevant laws, including c onstitutional obligations. 
+Where the Board cannot act beyond its mandate established by le gislation to regulate matters 
+beyond its jurisdiction, it can take into consideration matters  outside of its jurisdiction when 
+making its public interest decision or recommendation.9 
+9. Had the NEB exercised this authority, all parties would have  had the opportunity to submit 
+evidence on Crown consultation early on, including preliminary issues such as the scope of the 
+duty. The NEB could have ensured that the Crown consulted Indig enous interveners regarding any 
+outstanding issues throughout the hearing process and prior to making a final decision. In assessing 
+and then supervising consultation, the NEB could have been an e ffective body in ensuring the 
+preservation of the Honour of th e Crown. This integrated approa ch addresses concerns of 
+                                                            
+5 Appellant Factum at paras 75, 79-86; Chippewas , supra  note 4 at paras 104-106, 111-112, AR, Vol I, Tab 3, pp 193-196 . 
+6 Gitxaala Nation v Canada , 2016 FCA 187 at paras 168 and 237 [ Gitxaala ], Intervenor Mohawk Council of 
+Kahnawà:ke’s Book of Au thorities [IMBA], Tab 4 . 
+7 See Justice Rennie’s dissent in Chippewas , supra  note 4 at paras 114-119, AR, Vol I, Tab 3, pp 196-198 . 
+8 NEB Act , supra  note 2  at s 12(2), ACG Factum, Part VII (Statutes), Tab 1, pp 1-35 ; National Energy Board Rules of 
+Practice and Procedure, 1995 , SOR/95-208 at s 18, ACG Factum, Part VII (Statutes), Tab 4, p 146 ; See also  Sari 
+Graben & Abbey Sinclair, “Tribuna l Administration and the Duty to Consult: A Study of the National Energy Board” 
+(2015) 65 UTLJ 382 at  399, 432-433 [Graben & Sinclair], IMBA, Tab 16 . 
+9 Factum of the Respondent National Energy Board at paras 64-65 [NEB Factum]. - 3 - 
+ 
+proponents and government pertai ning to efficiency, duplication  and confusion. 
+10. What the MCK is proposing is not radical. For the Georgia S trait project, the NEB stated that 
+it was required to assess and supervise Crown consultation thro ughout the hearing process; this 
+resulted in the conclusion of s atisfactory agreements with affe cted Indigenous Nations.10  
+11. However, due to the NEB’s failure to assess and supervise c onsultation during the hearing 
+process, the Appellant’s concerns were not addressed and the on ly recourse was to pursue 
+expensive and time-consuming litigation with the courts, result ing in uncertainty f or all parties.  
+12. The question of whether the N EB had the obligation to asses s if the Crown had a duty to 
+consult and whether it was fulfilled is reviewable on the stand ard of correctness.11 
+B. The NEB’s process did not and could not satisfy the requirem ents of s. 35(1) 
+i) Scope of the project 
+13. The assertion that Enbridge’s project is minor is specious.  The application involved a major 
+repurposing of an old pipeline to  authorize the transportation of 300,000 barrels of heavy crude oil 
+per day. The number and scope of issues covered by the hearing order, the hearing duration and 
+the number of interveners demonstr ate that this was a very larg e and complex project, assessed in 
+consideration of the  national interest.12 
+14. Secondly, the scope of the project is not relevant to deter mining whether the NEB should 
+have assessed Crown consultation. The determination of scope wo uld be relevant to the NEB’s 
+appreciation of the content of t he duty to consult, but under n o circumstances would it negate the 
+legal obligation for the NEB  to assess Crown consultation. 
+ii) Reconciliation and the import ance of Crown engagement in th e context of large 
+projects 
+15. The overarching goal of s. 35(1) is reconciliation.13 Included in this framework is the duty to 
+                                                            
+10 GSX Canada Limited Partnership (Re) , 2003 LNCNEB 13 (November 2003) at pp 38-41, IMBA, Tab 5 . 
+11 Chippewas , supra  note 4 at para 21, AR, Vol I, Tab 3, p 167 ; Carrier Sekani , supra  note 4 at paras 64-67, ABA,  Vol I, 
+Tab 22, pp 225-226 ; Beckman v Little Salmon/Carmacks First Nation , 2010 SCC 53, [2010] 3 SCR at para 48, 
+Respondent National Energy Board’ s Book of Authorities, Tab 3, p 12 [RNBA] . 
+12 See National Energy Board, Reasons for Decision, Enbridge Pipe lines Inc., dated March 6 , 2014 (Docket Number OH-
+002-2013) at ss 2.1.2, 2.2 and 2. 3 at 8-14 [NEB Reasons], AR, Vol I, Tab 1, pp 25-31 . 
+13 Tsilhqot’in Nation v British Columbia , 2014 SCC 44, [2014] 2 SCR 256 at para 118, IMBA, Tab 9 ; Haida Nation v 
+British Columbia (Minister of Forests) , 2004 SCC 73, [2004] 3 SCR 511 at para 32 [ Haida ], ABA, Vol I, Tab 5, p 37 . - 4 - 
+ 
+consult and accommodate Indigenous Nations.  
+16. This duty is rooted in the recognition that Indigenous Nati ons were here before Europeans 
+and were never conquered; it ensures that the Honour of the Cro wn is preserved pending the 
+determination of Aboriginal ri ghts and the conclusion of nation -to-nation treaties.14 For the MCK, 
+the goal is to move toward a renewed relationship that is “root ed in the two-row wampum tradition 
+of autonomy, mutual respect and friendship”.15 
+17. As this Court has explained, consultation “is a distinct an d often complex constitutional 
+process and, in certain circums tances, a right involving facts,  law, policy and compromise”.16 
+18. The courts have not fully considered how Indigenous governa nce rights inform the duty to 
+consult.17 However, international law rec ognizes that achieving reconcili ation encompasses the 
+recognition of the jurisdictiona l rights of Indigenous Nations.18 This is especially true for decisions 
+pertaining to large or complex projects where policy and nation al public interest decisions are at 
+issue, as was the case with the NEB’s decision.19 
+19. The nation-to-nation relationship involves the reconciliati on of sovereignties and 
+worldviews, including fundament ally different philosophical and  cultural systems:20 
+The reconciliation is of sovereignties, with its ultimate expre ssion being in developing 
+shared and collaborative pattern s of how sovereigns will intera ct with each other with respect 
+to governing and making decisions. Reconciliation of this natur e and scope is not a mere 
+adjustment to processes of Cro wn decision-making, or a mechanis tic and formulaic 
+                                                            
+14 Haida , supra  note 13  at paras 20, 25, ABA, Vol I, Tab 5, p 33-34 .  
+15 Jennifer Dalton, “Constitutional  Reconciliation and Land Negot iations: Improving Relationship between Aboriginal 
+Peoples and the Government of On tario” (2009) 3 Journal of Parl iamentary and Political Law 277 at 1, online: Thomson 
+Reuters <http://www.specific-claims-law.com/images/stories/spec ific_claims_docs/06-academic_literature/ 
+Dalton_2009_secure.pdf>, IMBA, Tab 13 . 
+16 Carrier Sekani , supra  note 4 at para 60, ABA,  Vol I, Tab 22, p  224. 
+17 Maria Morellato, “The Crown’s Co nstitutional Duty to Consult a nd Accommodate Aboriginal  and Treaty Rights” (2008) 
+National Centre for First Nations Governance Research Paper at 64-65, online: 
+<http://fngovernance.org/resources_docs/Crown_Duty_to_Consult__ Accommodate.pdf>, IMBA, Tab 14 . 
+18 The United Nations Declaration on the Rights of Indigenous Peoples  recognizes jurisdictional rights as integral to state 
+consultation obligations; See United Nations Declaration on the Rights of Indigenous Peoples , GA Res 61/295, UNGAOR, 
+61st Sess, Supp No 49, A/RES/61/ 295, (2007) at arts 18, 19, 32,  IMBA, Tab 18 . This should be reflected in this Court’s 
+interpretation of the duty as per Baker v Canada (Minister of Citizenship and Immigration)  [1999] 2 SCR 817, 174 DLR 
+(4th) 193 at paras 70-71, 74, IMBA, Tab 1 . 
+19 See NEB Reasons, supra  note 12 at p 4,  AR, Vol I, Tab 1, p 21 . 
+20 Roshan Danesh & Jessica Dickson , “Alternative Dispute Resoluti on and Aboriginal-Crown Reconciliation in Canada” in 
+Humberto Dalla Bernardina de Pinho & Juliana Loss de Andrade, e ds, Contemporary Tendencies in Mediation  (Madrid: 
+Editorial Dykinson, 2005) 67 at 77, 81, IMBA, Tab 15 . - 5 - 
+ 
+exchange of information. It is m uch broader, extensive and comp lex than this.21 
+20. In recent cases, the courts have implied that the Crown has  discretion to develop the 
+consultation processes in which Indigenous Nations must partici pate.22 The MCK submits that this 
+is not established law and that there are compelling arguments challenging this view.23 Regardless, 
+when the Crown does unilaterally establish a process, it is imp ortant that there be “[…] an openness 
+to challenges from those who see exclusions and limitations in the design of a given dispute 
+resolution process, and mechanisms  to adjust procedures in an o ngoing way”.24 
+21. These fundamental aspects of r econciliation were completely  ignored in the present case. The 
+Crown’s unilateral determinati on that the NEB process was suffi cient, its non-existent engagement 
+within the context of the hearing,25 combined with the categorical refusal to discuss outstanding 
+concerns pertaining to the process and project are incompatible  w i t h  t h e  M C K ’ s  v i e w  o n  
+reconciliation. This creates a “disconnect between Aboriginal p eoples and the Crown”26 and is 
+contrary to the requirements a nd purpose of the duty.  The Crow n ran roughshod ove r the Honour 
+of the Crown, perpetuating the practice condemned by Kahane: 
+It is tempting for members of dominant cultures to try to escap e these dilemmas by appealing 
+to neutralist models of adjudica tion or by using general templa tes for interpreting cultures and 
+incorporating them into deliberative processes […] both neutral ist models and “one size fits 
+all” accounts of intercultural decision making tend to privileg e dominant worldviews, at the 
+expense of the perspectives and i nterests of marginalized group s.27 
+22. Moreover, the Crown could not use the NEB process as ground s to refuse to engage with 
+                                                            
+21 The First Nations Leadership C ouncil, “Advancing Indigenous Fr amework for Consultation and Accommodation in BC: 
+Report on Key Findings of the BC Fi rst Nations Consultation and  Accommodation Working Group” (2013) at 11, online: 
+<http://www.fns.bc.ca/pdf/319_UBCIC_IndigActionBook-Text_loresS preads.pdf>, IMBA, Tab 17 . 
+22 Gitxaala , supra  note 6 at para 203, IMBA, Tab 4 ; Cold Lake First Nations v Alberta (Tourism, Parks and Recreation) , 
+2013 ABCA 443, 566 AR  259 at para 39, IMBA, Tab 3 . 
+23 The MCK supports the view that the mechanisms of consultation must be developed in consultation; See Chiefs of 
+Ontario Notice of Motion at para 14(b)(ii).  
+24 David Kahane, “Dispute Resolution and the Politics of Cultural Generalization” (2003) 19 Negotiation Journal 5 at 21 
+[Kahane], IMBA, Tab 12 . 
+25 While Environment Canada responded that it would “consider the  concerns of First Nations related to our department’s 
+mandate”, no “consideration” or engagement occurred in any way during or after the hearing process, AGC Factum at 
+footnote 59 citing Environment Ca nada Response dated 12 Septemb er 2013 to IR No 1 of Jess e McCormick (Exhs C36-5-
+1, C36-5-2 and C36-6- 1), response 1.8, Joint Record of the Respondent s, Vol 3, Tab 22, pp 563 and 620- 621.  
+26 Kaitlin Ritchie, “Issues Associated with the Implementation of  the Duty to Consult and Accommodate Aboriginal 
+Peoples: Threatening the Goals o f Reconciliation and Meaningful  Consultation” (2013) 46 UBC L Rev 397 at 414-415 
+[Ritchie], ABA, Vol II, Tab 31, pp 72-73 .  
+27 Kahane,  supra note 24 at 23, IMBA, Tab 12 . - 6 - 
+ 
+the Appellant; such refusals ar e routinely considered breaches of the Crown’s duty.28  
+iii) The NEB was not delegated the duty to consult and accommod ate 
+23. Enbridge argues that the NEB was implicitly empowered to ca rry out the Crown’s duty to 
+consult and accommodate. This is false. The NEB was responsible  for assessing the biophysical 
+impacts of the project on Aboriginal rights and for measuring t hese impacts against the public 
+interest.29 While there may be some overlap  between the NEB’s role and the Crown’s duty, there 
+is no equivalency between the NE B’s role and the Crown’s duty, and therefore there can be no 
+implicit empowerment:  
+[…] the difficulty with the NEB  reasoning is that the meaning o f ‘adverse effect’ in Haida 
+and the meaning of ‘harm’ or ‘impact’ used by the NEB represent  very different standards 
+when considering whether the duty has been triggered and whethe r it has been 
+accommodated.  
+[…] the meaning of ‘adverse effect’ as articulated in Haida  is much broader than that of 
+‘impact’ and ‘harm’ used by the NEB. Unlike ‘impact’ or ‘harm’ tests, the ‘adverse effects’ 
+test does not need to have an immediate or tangible impact on l ands and resources. It can 
+flow from abstract Crown conduct,  such as high-level managerial , organizational or policy 
+changes […]30 
+24. Secondly, there is no reason w hy the Crown’s choice to rely  on an administrative body’s 
+Aboriginal consultation should amo unt to implicit delegation to  carry out the Crown’s duty. 
+iv) The NEB Reasons do not constitute accommodation or fulfill the s. 35(1) duty 
+25. Canada’s interpretation of the NEB Reasons, including the c onditions imposed for approval 
+of the project, as full accomm odation of all of the Appellant’s  issues is wrong.  
+26. Any tribunal that purports to consult and accommodate by it self must possess the necessary 
+remedial powers.31 In this case, the NEB had the remedial powers to assess and su pervise 
+consultation but it did not have the powers necessary to discha rge the duty itself. As will be 
+                                                            
+28 See Coastal First Nations v British Columbia (Environment) , 2016 BCSC 34 at para 209, IMBA, Tab 2 ; Sambaa K’e 
+Dene Band v Duncan , 2012 FC 204, [2012] FCJ  No 216 at para 161, IMBA, Tab 8 ; Ka’a’Gee Tu First Nation v Canada 
+(Attorney General) , 2007 FC 763, [2007] FCJ No 1006  at para 121, IMBA, Tab 6 . 
+29 See NEB Reasons, supra  note 12 at s 7 at pp 87-88, AR, Vol I, Tab 1, pp 104-105 . 
+30 Graben & Sinclair, supra note 8 at 417-418, IMBA, Tab 16 .  
+31 Carrier Sekani  at para 60, ABA,  Vol I, Tab 22, p  224. - 7 - 
+ 
+demonstrated, the situation desc ribed below by the NEB applies to this case: 
+[…] there may be certain instances where an issue raised or ide ntified by an Aboriginal 
+group during consultation on a project cannot be remedied throu gh the proponent’s actions 
+or through the imposition of conditions by the Board.32 
+27. The AGC also acknowledged the limitations of the NEB’s powe rs in indicating that 
+tribunals can accommodate Aborig inal concerns only “to the exte nt possible”.33 
+28. In an attempt to justify any shortcomings, Enbridge mistake nly relies on administrative law 
+to support the assertion that the NEB Reasons do not have to be  perfect or comprehensive.34 As 
+determined in Gitxaala , providing reasons under administrative law does not mean that t he separate 
+constitutional duty to consult a nd accommodate has been fulfill ed.35 
+29. The NEB’s assertion that inter veners had the opportunity to  express all concerns related to 
+the project is false. Interve ners, including the Appellant and the MCK, were limited by the NEB’s 
+exclusive List of Issues. For example, concerns related to ener gy policy, the upstream or 
+downstream GHG emissions related to the project36 and cumulative impacts37 could not be raised. 
+Similar to Gitxaala , the List of Issues only covere d some subjects on which consul tation was 
+required and was narrower than the Crown’s duty.38  
+30. On several occasions, the AGC and Enbridge significantly ov erstate the extent to which the 
+NEB Reasons address the Appellant’s concerns. For example, in r esponse to concerns pertaining 
+to “providing economic accommoda tion for potential impacts to t he Appellant’s rights”, the AGC 
+answers that: “the Board’s decision outlines the steps required  of the proponent Enbridge to ensure 
+its financial responsibility for any damages or impacts arising  in the unlikely event of an impact on 
+Aboriginal rights.”39 The NEB Reasons cited by the AGC do not address the Appellant’ s concerns 
+in any way, as they do not mention the Appellant’s Aboriginal r ights or the manner in which 
+Enbridge addresses financial resp onsibility for impacts to thes e rights. This type of vague 
+                                                            
+32 NEB Factum at para 63 (emphasis added). Similar to Conway , the NEB was not statutor ily empowered with the “free 
+remedial rein” required to take over all aspects of the duty to  consult from the Crown, see R v Conway , [2010] 1 SCR 765, 
+2010 SCC 22 at par as 82 and 97, IMBA, Tab 7 ; See also AGC Factum in Clyde River at para 64. 
+33 AGC Factum at para 64. 
+34 Enbridge Factum at paras 111-112. 
+35 Gitxaala , supra  note 6 at paras 156-158, IMBA, Tab 4 .  
+36 NEB Reasons, supra  note 12 at p 2, AR, Vol I, Tab 1, p 19 . 
+37 Graben & Sinclair, supra note 8 at 405-407, IMBA, Tab 16 . 
+38 Gitxaala , supra  note 6 at para 240, IMBA, Tab 4 . 
+39 AGC Factum at para 36. - 8 - 
+ 
+“addressing of concerns” was condemned in Gitxaala.40 
+31. In fact, the NEB solely assessed the biophysical impacts of  the project on Aboriginal rights 
+and measured these against the public interest. The additional recommendations and outstanding 
+concerns raised by the Appellant  and other Indigenous intervene rs were never assessed by the NEB 
+or the Crown with respect to the duty to consult. The NEB never  measured the project’s potential 
+adverse impacts on the Appellant  with respect to “any known leg al standard nor treated 
+constitutional obligations to cons ult as relevant to approval”.41  
+32. Further, the NEB lacked the power to order many types of ac commodation measures that 
+could apply to large projects su ch as pipelines. For example, t he NEB could not ord er the creation 
+of intergovernmental monitoring bod ies that include Indigenous governments, whereas the Crown, 
+acting through a government depart ment, can negotiate the creat ion of such bodies.42  
+33. In addition, the use of adminis trative tribunals to carry o ut Crown accommodation for large 
+projects is not desirable from a policy standpoint. Courts have  been reticent to impose 
+accommodation, and have preferred a supervisory role in orderin g the parties to negotiate in good 
+faith.43 This allows for effective and substantive negotiations, the pr eferred means to achieving 
+reconciliation. It is time for this Court to direct tribunals t o play a similar role. 
+34. Since the NEB did not assess whether the duty was fulfilled , or whether there were any 
+outstanding concerns that require d consideration, it would be i nappropriate for this Court to 
+conduct its own “after the fact” assessment of the sufficiency of the NEB’s process:  
+Judicial review requires the court to rely on the accuracy and completeness of the expert 
+tribunal’s findings. [...] If th e tribunal’s record is incomple te and/or silent on whether the 
+duty has been triggered and fulfilled, the court’s assessment o f the adequacy of Crown 
+consultation may be equally lacking.44 
+35. The AGC’s assertion that partic ipation in the NEB’s process  meant that deep consultation 
+occurred is unfounded. The MCK agrees with the Appellant that, in spite of participation in the 
+NEB’s process, many of the Appellant’s concerns were not addres sed or were not substantially 
+addressed.45 To the extent that the Crown re lied on the NEB process to addr ess these outstanding 
+                                                            
+40 Gitxaala , supra  note 6 at paras 286-287, IMBA, Tab 4 . 
+41 Graben & Sinclair, supra note 8 at 432, IMBA, Tab 16 . 
+42 Ritchie, s upra note 26 at 416, 436, ABA, Vol II, Tab 31, pp 74 and 94 . 
+43 See for example, Wii’litswx v HMTQ , 2008 BCSC 1620, [2009] 1 CNL R 359 at paras 22-23, IMBA, Tab 11 . 
+44 Graben & Sinclair, supra note 8 at 429, IMBA, Tab 16 . 
+45 Appellant Factum at para 23. - 9 - 
+ 
+concerns for the fulfillment of the constitutional duty to cons ult, it did so in error.46 
+C. The NEB should assess adequacy by determining whether the du ty was fully met 
+36. If this Court grants the appeal, quashes the order and send s the application back to the NEB 
+for a final decision, this Cour t should provide guidance to the  NEB on the applicable legal test for 
+assessing whether the Crown m et the duty to consult and accommo date. 
+37. At the FCA, Justice Rennie argues, building on Carrier Sekani , that if the NEB was the final 
+decision-maker it “[…] was requi red to ask whether the consulta tion had taken place”47 as a first 
+step in its assessment of whether the duty was met. 
+38. Subsequently, in Gitxaala , the majority proposed a “reason able satisfaction” standard fo r 
+determining whether the duty to consult has been fulfilled, in order “not to hold Ca nada to anything 
+approaching the sta ndard of perfection”.48 This standard must be rejected; given the constitutional 
+nature of the duty to consult, t he duty must be fully met.49 
+39. The majority in Gitxaala  confused the process and outcome of consultation and 
+accommodation (neither of which must result in perfect satisfac tion, as per Haida50) with the 
+applicable standard for reviewi ng whether the duty has been ful filled. 
+40. While the MCK agrees with the majority in Gitxaala  that final decision-makers must ensure 
+that the specific concerns rai sed by Indigenous Nations are “sp ecifically addressed”, we disagree 
+that deep consultation must lead to the demonstration of seriou s “consideration of 
+accommodation”. The Crown must demonstrate more than considerat ion of accommodation 
+(which is procedural), it must a lso demonstrate that it has spe cifically and substantially addressed 
+and accommodated each concern raised by Indigenous Nations, as appropriate.51 
+41. To determine the appropriate  level of consultation, the NEB  should have first determined 
+where this project was on the spectrum of the duty to consult ( based on the Haida  f a c t o r s52). 
+Following this assessment, the MCK submits that the NEB should have applied this test: 
+                                                            
+46 Appellant Factum at para 18. 
+47 Chippewas , supra  note 4 at para 112 (emphasis added), AR, Vol I, Tab 3, p 196 . 
+48 Gitxaala , supra  note 6 at paras 183-185, IMBA, Tab 4 . 
+49 Carrier Sekani , supra  note 4 at para 63, ABA,  Vol I, Tab 22, p 225 . 
+50 Haida , supra  note 13  at para 62, ABA, Vol I, Tab 5, pp 50-51 . 
+51 Haida , supra  note 13  at para 42, ABA, Vol I, Tab 5, p 41 ; White River First Nation v Yukon Government , 2013 YKSC 
+66, [2013] YJ No 74 at para 108, IMBA, Tab 10 . 
+52 Haida , supra  note 13  at paras 43-44, ABA, Vol I, Tab 5, pp 41-42 . - 11 - 
+ 
+PART VI – TABLE OF AUTHORITIES 
+Cases Paragraphs  
+Baker v Canada (Minister of Citizenship and Immigration)  [1999] 2 SCR 817, 
+174 DLR (4th) 193 18 
+Beckman v Little Salmon/Carmacks First Nation , 2010 SCC 53, [2010] 3 SCR 103 12 
+Chippewas of the Thames First Nation v Enbridge Pipelines Inc. , 2015 FCA 222, [2016] 
+3 FCR 96 4, 5, 7, 12, 37
+Coastal First Nations v British Columbia (Environment) , 2016 BCSC 34 22 
+Cold Lake First Nations v Alberta (Tourism, Parks and Recreation) , 2013 ABCA 443, 
+566 AR 259  20 
+Gitxaala Nation v Canada , 2016 FCA 187 6, 20, 28, 29, 
+30, 38, 39, 40
+GSX Canada Limited Partnership (Re) , 2003 LNCNEB 13 (N ovember 2003) 10 
+Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 SCR 511 15, 16, 23, 
+39, 40, 41 
+Ka’a’Gee Tu First Nation v Canada (Attorney General) , 2007 FC 763, [2007] FCJ No 
+1006 22 
+National Energy Board, Reasons f or Decision, Enbridge Pipelines  Inc., dated March 6, 
+2014 (Docket Number OH-002-2013)  13, 18, 23, 29
+R v Conway , [2010] 1 SCR 765, 2010 SCC 22 26 
+Rio Tinto Alcan Inc. v Carrier Sekani Tribal Council , 2010 SCC 43, [2010] 2 SCR 650 4, 12, 17, 26, 
+38 
+Sambaa K’e Dene Band v Duncan , 2012 FC 204, [2012] FCJ No 216 22 
+Tsilhqot’in Nation v British Columbia , 2014 SCC 44, [2014] 2 SCR 256 15 
+White River First Nation v Yukon Government , 2013 YKSC 66, [2013] YJ No 74 40 
+Wii’litswx v HMTQ , 2008 BCSC 1620, [2009] 1 CNLR 359 33 
+ 
+ - 12 - 
+ 
+Other Authorities Paragraphs  
+David Kahane, “Dispute Resoluti on and the Politics of Cultural Generalization” (2003) 
+19 Negotiation Journal 5.  20, 21 
+Jennifer Dalton, “Constitutional Reconciliation and Land Negoti ations: Improving the 
+Relationship between the Aborigin al Peoples and the Government of Ontario” (2009) 3 
+Journal of Parliamentary and Political Law 277 online: Thomson Reuters 
+<http://www.specific-claims-law.c om/images/stories/specific_clai ms_docs/06-
+academic_literature/Dalton_2009_secure.pdf >. 16 
+Kaitlin Ritchie, “Issues Associat ed with the Implementation of the Duty to Consult and 
+Accommodate Aboriginal Peoples: Threatening the Goals of Reconc iliation and 
+Meaningful Consultation ” (2013) 46 UBC L Rev 397.  21, 32 
+Maria Morellato, “The Crown’s Constitutional Duty to Consult an d Accommodate 
+Aboriginal and Treaty Rights” (2008 ), National Centre for First  Nations Governance 
+Research Paper, online: 
+<http://fngovernance.org/resources_docs/Crown_Duty_to_Consult__A ccommodate.pdf > 18 
+Roshan Danesh & Jessica Dickson, “ Alternative Dispute Resolutio n and Aboriginal-
+Crown Reconciliation in Canada” in  Humberto Dalla Bernardina de  Pinho & Juliana 
+Loss de Andrade, eds, Contemporary Tendencies in Mediation  (Madrid: Editorial 
+Dykinson, 2005) 67 19 
+Sari Graben & Abbey Sinclair, “ Tribunal Administration and the Duty to Consult: A 
+Study of the National Energy Boa rd” (2015) 65 Univ. of Toronto L.J. 382. 7, 23, 29, 31, 
+34 
+The First Nations Leadership C ouncil, “Advancing Indigenous Fra mework for 
+Consultation and Accommodation i n BC: Report on Key Findings of  the BC First 
+Nations Consultation and Accomm odation Working Group” (2013), o nline: 
+<http://www.fns.bc.ca/pdf/319_UBCIC _IndigActionBook-Text_loresSp reads.pdf >  19 
+United Nations Declaration on th e Rights of Indigenous Peoples , GA Res 61/295, 
+UNGAOR, 61st Sess, Supp No 49, A/RES/61/295, (2007) 18 
+ 
+     - 13 - 
+ 
+ 
+PART VII: STATUTORY PROVISIONS 
+ 
+Constitution Act, 1982 , being Schedule B to the Canada Act 1982 (UK ), 1982, c 11, s 35(1) 
+Appellant Factum, Part VII (Statutes), p 35 . 
+ 
+National Energy Board Act , RSC 1985, c. N-7, ss 2.1, 12(2), 52, 54 and 58 
+ACG Factum, Part VII (Statutes), Tab 1, pp 1-35 . 
+ 
+National Energy Board Rules of Practice and Procedure, 1995, SOR/95-208, s 18 
+ACG Factum, Part VII (Statutes), Tab 4, p 146 . 

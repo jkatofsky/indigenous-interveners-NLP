@@ -1,0 +1,604 @@
+Court File No.: 35945 
+IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL) 
+BETWEEN: 
+HARRY DANIELS, GABRIEL DANIELS, LEAH GARDNER, 
+TERRY JOUDREY, and THE CONGRESS OF ABORIGINAL PEOPLES 
+Appellants (Respondents) 
+-and-
+HER MAJESTY THE QUEEN as represented by THE MINISTER OF INDIAN 
+AFFAIRS AND NORTHERN DEVELOPMENT CANADA 
+Respondents (Respondents) 
+-and-
+ATTORNEY GENERAL OF SASKATCHEWAN, ATTORNEY GENERAL OF 
+ALBERTA, NATIVE COUNCIL OF NOVA SCOTIA, NEW BRUNSWICK 
+ABORIGINAL PEOPLES COUNCIL AND NATIVE COUNCIL OF PRINCE 
+EDWARD ISLAND, METIS SETTLEMENTS GENERAL COUNCIL, TE'MEXW 
+TREATY ASSOCIATION, METIS FEDERATION OF CANADA, ASENIWUCHE 
+WINEW AK NATION, CHIEFS OF ONTARIO, GIFT LAKE METIS 
+SETTLEMENT, NATIVE ALLIANCE OF QUEBEC, ASSEMBLY OF FIRST 
+NATIONS, METIS NATIONAL COUNCIL 
+(Interveners) 
+MEMORANDUM OF ARGUMENT OF THE INTERVENER, 
+GIFT LAKE METIS SETTLEMENT 
+Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP lC3 
+Maxime Faille 
+Paul Seaman 
+T: (613) 783.8801 
+F: (613) 788.3577 
+Email: maxime.faille@gowlings.com 
+paul.seaman(al,gowlings.com 
+Counsel for the Intervener, Gift Lake 
+Metis Settlement Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP 1 C3 
+Guy Regimbald 
+Tel: (613) 786.0197 
+Fax: (613) 563.9869 
+Email: guy.regimbald@gowlings.com 
+Agent for the Intervener, Gift Lake 
+Metis Settlement University of Ottawa, Faculty of Law 
+357 -57 Louis Pasteur St. 
+Ottawa, ON KIN 6N5 
+Joseph E. Magnet 
+Andrew K. Lokan 
+Lindsay Scott 
+T: 613-562-5800 ext. 3315 
+F: 613-562-5124 
+Email: josephe.magnet@uottawa.ca 
+Counsel for the Appelants, Harry 
+Daniels, Gabriel Daniels, Leah Gardner, 
+Terry Joudrey and The Congress of 
+Aboriginal Peoples 
+Attorney General of Canada 
+50 O'Connor Street, Suite 500, Room 557 
+Ottawa, ON KIA OH8 
+Christopher M. Rupar 
+Shauna K. Bedingfield 
+Mark R. Kindrachuk, Q.C. 
+T: 613-670-6290 
+F: 613-954-1920 
+Email: christopher.ruparia{justice.gc.ca 
+Counsel for the Respondent, Her 
+Majesty the Queen as represented by 
+The Minister of Indian Affairs and 
+Northern Development 
+Attorney General of Alberta 
+10025 -102A Avenue, 10th Floor 
+Edmonton, AB T5J 2Z2 
+Angela Edgington 
+Neil Dobson 
+T: 780-427-1482 
+F: 780-643-0852 
+Email: angela.edgington@gov.ab.ca 
+Counsel for the Intervener, Attorney 
+General of Alberta Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP lC3 
+Brian A. Crane, Q.C. 
+T: 613-233-1781 
+F: 613-563-9869 
+Email: brian.crane@gowlings.com 
+Agent for the Appelants, Harry Daniels, 
+Gabriel Daniels, Leah Gardner, Terry 
+Joudrey and The Congress of Aboriginal 
+Peoples 
+Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP lC3 
+D. Lynne Watt 
+T: 613-786-8695 
+F: 613-788-3509 
+Email: lynne.watt@gowlings.com 
+Agent for the Intervener, Attorney 
+General of Alberta Witten LLP 
+2500, 10303 Jasper 
+Edmonton, AB T5J 3N6 
+Garry Appelt 
+Keltie Lambert 
+T: 780-428-0501 
+F: 780-429-2559 
+Counsel for the Intervener, Metis 
+Settlements General Council 
+Metis National Council 
+340 MacLaren, Unit 4 
+Ottawa, ON K2P OM6 
+Clement Chartier, Q.C. 
+Marc Leclair 
+Kathy L. Hodgson-Smith 
+T: 613-232-3216 
+F: 613-232-4262 
+Counsel for the Intervener, Metis 
+National Council 
+Burchell Hayman Parish 
+1801 Hollis Street, Suite 1800 
+Halifax, NS B3J 3N4 
+D. Bruce Clarke 
+T: 902-423-6361 
+F: 902-420-9326 
+Email: bc1arke@burchells.ca 
+Counsel for the Intervener, Native 
+Council of Nova Scotia, New Brunswick 
+Aboriginal Peoples Council and Native 
+Council of Prince Edward Island Supreme Advocacy LLP 
+IOO -340 Gilmour Street 
+Ottawa, ON K2P OR3 
+Marie-France Major 
+T: 613-695-8855 Ext: 102 
+F: 613-695-8580 
+Email: mfmajor@supremeadvocacy.ca 
+Agent for the Intervener, Metis 
+Settlements General Council 
+Power Law 
+1103 -130 Albert Street 
+Ottawa, ON KIP 5G4 
+Fran~ois Laroque 
+T: 613-702-5560 
+F: 888-404-2227 
+Email: flarogue@powerlaw.ca 
+Agent for the Intervener, Metis National 
+Council 
+Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP lC3 
+Jeffrey W. Beedell 
+T: 613-786-0171 
+F: 613-788-3587 
+Email: jeff.beedell@gowlings.com 
+Agent for the Intervener, Attorney 
+General of Alberta Janes Freedman Kyle Law Corporation 
+816 -1175 Douglas Street 
+Victoria, Be V8W 2El 
+Robert J.M. Janes 
+T: 250-405-3460 
+F: 250-381-8567 
+Email: rjanes@jfklaw.ca 
+Counsel for the Intervener, Te'mexw 
+Treaty Association 
+Devlin Gailus Westaway 
+736 Broughton Street, 2nd Floor 
+Victoria, Be V8W lEI 
+Christopher G. Devlin 
+T: 250-361-9469 
+F: 250-361-9429 
+Email: christopher(Q).dgwlaw.ca 
+Counsel for the Intervener, Metis 
+Federation of Canada 
+Janes Freedman Kyle Law Corporation 
+340-1122 Mainland Street 
+Vancouver, Be V6B 5Ll 
+Karey Brooks 
+T: 604-687-0549 
+F: 604-687-2696 
+Email: kbrooks@jfklaw.ca 
+Counsel for the Intervener, Aseniwuche 
+Winewak Nation Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP le3 
+Guy Regimbald 
+Tel: (613) 786.0197 
+Fax: (613) 563.9869 
+Email: guy.regimbald@gowlings.com 
+Agent for the Intervener, Te'mexw 
+Treaty Association 
+Devlin Gailus Westaway 
+Suite 230, 55 Murray Street 
+Ottawa ON KIN 5M3 
+Cynthia Westaway 
+Tel: (613) 722-6339 
+Fax: (613) 722-9097 
+Email: cynthia@dgwlaw.ca 
+Agent for the Intervener, Metis 
+Federation of Canada 
+Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP le3 
+Guy Regimbald 
+Tel: (613) 786.0197 
+Fax: (613) 563.9869 
+Email: guy.regimbald@gowlings.com 
+Agent for the Intervener, Aseniwuche 
+Winewak Nation Nahwegahbow, Corbiere 
+Genoodmagejig 
+5884 Rama Road, Suite 109 
+Rama, ON L3V 6H6 
+David e. Nahwegahbow 
+T: 705-325-0520 
+F: 705-325-7204 
+Email: dndaystar@nnctirm.ca 
+Counsel for the Intervener, CWefs of 
+Ontario 
+Gagne, Letarte, S.E.N.e. 
+79, boul. Rene-Levesque Est, Bureau 400 
+Quebec, QC G 1 R 5N 5 
+Marc Watters 
+T: 418-522-7900 
+F: 418-523-7900 
+Email: mwatters@gagneletarte.qc.ca 
+Counsel for the Intervener, Native 
+Alliance of Quebec 
+Attorney General for Saskatchewan 
+Aboriginal Law Branch 
+820 -1874 Scarth St 
+Regina, SK S4P 4B3 
+P. Mitch McAdam, Q.e. 
+T: 306-787-7846 
+F: 306-787-9111 
+Counsel for the Intervener, Attorney 
+General of Saskatchewan Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP lC3 
+Guy Regimbald 
+Tel: (613) 786.0197 
+Fax: (613) 563.9869 
+Email: guy.regimbald@gowlings.com 
+Agent . for the Intervener, Chiefs of 
+Ontario 
+Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP 1 C3 
+Guy Regimbald 
+Tel: (613) 786.0197 
+Fax: (613) 563.9869 
+Email: guy.regimbald@gowlings.com 
+Agent for the Intervener, Native Alliance 
+of Quebec 
+Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP lC3 
+D. Lynne Watt 
+T: 613-786-8695 
+F: 613-788-3509 
+Email: lynne.watt@gowlings.com 
+Agent for the Intervener, Attorney 
+General of Saskatchewan Assembly of First Nations 
+55 Metcalfe Street, Suite 1600 
+Ottawa, ON KIP 6L5 
+Stuart Wuttke 
+T: 613-241-6789 
+F: 613-241-5808 
+Counsel for the Intervener, Assembly of 
+First Nations Gowling Lafleur Henderson LLP 
+160 Elgin Street, Suite 2600 
+Ottawa, ON KIP lC3 
+Guy Regimbald 
+Tel: (613) 786.0197 
+Fax: (613) 563.9869 
+Email: guy.regimbald@gowlings.com 
+Agent for the Intervener, Assembly of 
+First Nations INDEX 
+PART I -FACTS........................................................................ 1 
+PART II -ISSUES...................................................................... 4 
+PART III -ARGUMENT.............................................................. 5 
+PART IV -COSTS...................................................................... 10 
+PART V -ORDER SOUGHT........................................................ 10 
+PART VI -TABLE OF AUTHORITIES............................................. 11 1 
+PART I -OVERVIEW AND STATEMENT OF FACTS 
+A. Overview 
+1. Gift Lake Metis Settlement ("Gift Lake") is one of eight land-based, self­
+governing Metis communities created by Alberta's Metis Settlements Act ("MSA,,).l It is 
+situated some 400 km North of Edmonton. 
+2. The particular circumstances surrounding the the Metis of northern 
+Alberta, as set out in the existing evidentiary record, are directly relevant to two key 
+issues raised in this appeal: namely that Metis are "Indians" within the meaning of the 
+phrase "Indians and lands reserved for Indians" found within s. 91(24) of the Constitution 
+Act, 1867 (the "First Declaration"), and that there is clear utility to issuing a declaration 
+to this effect. 
+3. In this regard, it is noteworthy that Canada dealt with the Metis of 
+Northern Alberta (where Gift Lake is situated) by way of a scrip commission in 1899 that 
+operated in direct parallel to the treaty commission of that same year that was mandated 
+by the Dominion to deal with the First Nation inhabitants of that same broad territory. 
+This reality underscores the central fact that notwithstanding the clear distinctiveness of 
+Metis people and culture, Metis communities were considered by Canada to have 
+Aboriginal rights similar though not identical to those of First Nations, which rights 
+needed to be addressed as part of the Canadian government's nation-building project. 
+4. It is also noteworthy that the history of the Alberta Metis is punctuated by 
+Canada's selective exercise of its 91(24) jurisdiction. The genesis of the Alberta Metis 
+settlements arises almost singularly from Canada's failure to fulfil its promise to provide 
+the Alberta Metis with land under the scrip system initiated and administered by Canada 
+in the late 19th and early 20th centuries. Over the ensuing decades, and in the absence of 
+clarity as to whether Metis and non-status Indians are "Indians" for the purposes of 
+91 (24), the Alberta Metis have been negatively impacted in real ways. Thus, clarification 
+1 R.S.A. 2000, c. M-14. 2 
+as to legislative authority in regard to Metis peoples is not only practical, but essential to 
+the unfinished proj ect of reconciliation with the Metis. 
+5. However, and contrary to the position taken by the Appellants and certain 
+other interveners, there is a lack of utility in broadly re-asserting the existence of 
+fiduciary and consultative duties by the Crown -whether federal or provincial -toward 
+Metis peoples. 
+B. Facts relevant to this intervention 
+6. The Metis' history in northern Alberta and history of dealings with 
+Canada provide an important context and perspective to the issue of Metis inclusion in 
+91(24). Canada operated its scrip system between 1870 and 1930 to provide Metis with 
+allocations of land or money. The intent of this system was to extinguish any "Indian 
+title or claim" of Metis. It was employed in Manitoba in 1870, throughout the northwest 
+in the 1880s, and later on in the area of Treaty 8, in what is now northern Alberta.2 
+7. In Manitoba, Canada promised to distribute 1.4 million acres "towards the 
+extinguishment of the Indian Title to the lands in the Province" while assuring the 
+Manitoba Metis that it would "be of a nature to meet the wishes of the half-breed 
+residents" and distributed "in the most effectual and equitable manner.,,3 In MMF, this 
+Court held that Canada failed to live up to that promise. Following this failure, the Metis 
+were soon displaced by settlers and forced to move further west.4 
+8. In 1881, Metis located at the historic Metis community of Fort Edmonton 
+petitioned Canada for scrip allocations in fulfilment of Canada's promise to them.5 The 
+scrip commission eventually arrived in Edmonton in 1885 and 1886 and provided scrip to 
+eligible Metis. Most Metis did not take the land, but rather sold it for cash.6 
+9. In 1889, the Superintendent of Mines wrote the following regarding scrip: 
+2 Trial decision, , 316. 
+3 Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 see 14'31,38 ("MMF'). 
+4 MMF, 39,128,150. 10. 3 
+I know of no single case where the original grantee obtained the land; he sells his scrip 
+and locates it for the purchaser wherever the latter may desire it. In this way lands are 
+acquired at a nominal rate, in some cases as low as 70 cents an acre? 
+By 1895, the Metis were becoming destitute. In response to the need to 
+provide the Metis with land, a Metis reserve and industrial school were established by 
+Canada in the area that is now known as St. Paul, Alberta. It proved to be a failure and 
+was closed.8 
+11. In 1899, the Minister of the Interior wrote to the Governor in Council 
+requesting a scrip commission be appointed to address claims of those Metis who were 
+not otherwise eligible under the Manitoba Act, 1870. The Minister recommended that 
+Metis claims be addressed concurrently with Indian treaties as part of Order in Council 
+918: 
+12. [ ... J 15th July, 1870, was selected as the date applicable to the Halfbreeds because it was 
+the date of the transfer from the Hudson's Bay Company, But the Halfbreeds of the 
+District of Athabasca and adjoining country were not affected by the transfer. Whatever 
+rights they have, they have in virtue of their Indian blood; and the first interference with 
+such rights will be when a surrender is effected of the territorial claims of the Indians. It 
+is obvious that while differing in degree, Indian and Halfbreed rights in an unceded 
+territory must be co-existent, and should properly be extinguished at the same time.9 
+This scrip was to be provided under the Dominion Lands Act. The Act 
+provided that the grants would issue "on such terms and conditions, as may be deemed 
+expedient." However, as was the case in Manitoba, no "terms and conditions" were 
+spelled out by the Act, and the scrip was issued on an ad hoc basis, facilitating predatory 
+land speculation. 
+13. In 1899, s. 90 of the Dominion Lands Act was amended to allow granting 
+"lands in satisfaction of claims of half-breeds arising out of the extinguishment of Indian 
+title." 1 0 Despite serious concerns raised in Parliament in relation to the risk of land 
+5 [Volume 37, Exhibit P346, p. 10297.] 
+6 R v. Hirsekorn, 2010 ABPC 385 ~ 103. 
+7 [Volume 3, ExhibitP18, p. 555] 
+8 Trial decision, ~ 437-444. 
+9 [Volume 38, Exhibit P372, p. 10628.] [emphasis added] 
+10 [Volume 38, ExhibitP374, p. 10666]. 4 
+speculators taking advantage of Metis, no effective protections were implemented.11 
+Between 1899 and 1921, Canada abandoned any idea of protecting Metis from 
+speCUlation, and began issuing cash compensation to Metis in parallel with treaty 
+payments to members of First Nations and Metis who had taken treaty. 12 
+14. Ultimately, the scrip system failed the Alberta Metis as it did the Manitoba 
+Metis, and they were left destitute. As the trial judge observed, in 1930 a dialogue 
+occurred between Alberta and Canada regarding responsibility for "indigent half­
+breeds.,,13 In 1934, Alberta appointed a Royal Commission to investigate Metis problems, 
+and subsequently accepted his recommendations. This led to the creation of 12 Metis 
+"colonies" under the Metis Population Betterment Act in 1938, which evolved into the 
+current MSA after a process of negotiation in the 1980s.14 
+15. Today, the Metis settlement lands are held and self-governed by Metis 
+people. Protections on the lands are now entrenched in Alberta's constitution, in 
+contemplation that they may one day be included in the constitution of Canada. 15 This 
+Court has described the MSA as "the result of a negotiation process between the Metis of 
+Alberta and the Province and the outcome of an ongoing struggle for self-preservation.,,16 
+PART II -POSITION ON QUESTIONS IN ISSUE 
+16. Gift Lal(e makes the following submissions: 
+(a) The history of the Metis of northern Alberta from whom the members of 
+Gift Lake are descended supports the conclusion that the Metis are 
+included in 91(24); 
+(b) There is utility and indeed necessity in determining whether Parliament 
+has legislative jurisdiction over Metis in order to advance the unfinished 
+project of reconciliation with Metis; 
+11 [Volume 38, Exhibit P374]. 
+12 [Volume 3, Exhibit P18, p. 572, 580-581]. 
+13 Trial decision, ~ 56. 
+14 See also Alberta (Aboriginal Affairs and Northern Development) v. Cunningham, [2011] 2 S.C.R. 670, 
+2011 SCC 37 ~ 5-19 where this Court provided a factual summary of the contemporary history of the MSA. 
+15 Cunningham ~ 5-19. 
+16 Cunningham ~ 63-64,66. 5 
+(c) It is not necessary to attempt to exhaustively define 'who' the Metis are to 
+decide that they are included in 91(24); and 
+(d) It is not necessary to consider the issues raised by the Second and Third 
+Declarations in relation to Crown consultative or fiduciary duties, and this 
+Court should not do so in a factual vacuum. 
+PART III-STATEMENT OF ARGUMENT 
+B. The lower Courts' conclusions on 91(24) were correct and factually 
+supported 
+17. The trial judge's key legal conclusion was premised on the purpose of 
+91(24), holding that it encompassed at least three objectives: (i) the intent to control all 
+people of aboriginal heritage, (ii) to honour Crown obligations inherited from Britain to 
+extinguish aboriginal interests in land, and (iii) to "civilize and assimilate" Aboriginal 
+peoples.I7 
+18. Canada's creation of the scrip system was a key consideration in the trial 
+judge's conclusion in that regard. He acknowledged that even with Metis, who were of 
+varying degrees of mixed Aboriginal ancestry, "the federal government accepted the 
+existence of a title or interest on the part of Indians that had to be addressed in some 
+way.,,18 
+19. Indeed, Canada chose to exercise the 91(24) power within the scrip system 
+in attempting to extinguish Metis "Indian title." The creation of a system that purported 
+to address the "Indian title" held by the Metis is persuasive evidence that the government 
+counted the Metis as being part of the "people sharing a native hereditary base" that the 
+91 (24) power was designed to address in order to facilitate the obj ects of confederation. 19 
+20. The scrip process commenced shortly after Confederation. It was 
+inextricably linked to the federal government's efforts to treat with the prior Aboriginal 
+occupants of the land, in order to quiet title, with a view to settling, developing and 
+uniting the new nation by transcontinental railway. The relevant statutes and instruments 
+17 Trial decision, ~ 352-354,566. 
+18 Trial decision, ~ 411. Laws to control and "civilize and assimilate" Metis were also enacted: ~ 443-452 6 
+consistently reference the purpose of scrip as being "in extinguishment of Indian title.,,2o 
+In northern Alberta, the scrip process was intimately connected to the negotiation of 
+Treaty 8, and operated in parallel to the Treaty 8 treaty commission, in clear exercise of 
+the federal 91(24) power.21 
+21. While the scrip process began prior to the establishment of Alberta as a 
+province in 1905, it did so as part of the effort to quiet Aboriginal title and rights, and 
+continued well after the creation of the province. There was no transfer of responsibility 
+from the federal government to the province for the issuance of scrip. 
+22. In Gift Lake's submission, the trial judge was correct in holding that the 
+inclusion of the Metis in 91(24) accords with its historical purpose.22 The primary 
+purpose of 91(24) is today as it was in 1867: a responsibility to deal honourably with 
+Aboriginal peoples before settlement may occur, in a manner consonant with the Royal 
+Proclamation, 1867 and the the honour of the Crown.23 In 1867, the dominant object of 
+so doing was to build a nation; today, it is to achieve reconciliation within that nation. 
+23. Contrary to Canada's submission,24 s. 91 (24)'s historic roots in the Royal 
+Proclamation, 1763 does not speak to that power being one of paternalism or to a need to 
+deal with Aboriginal people as "wards." As this Court has found, the Royal 
+Proclamation was a recognition of Aboriginal "strength, not weakness and need of 
+protection". 25 
+B. The First Declaration's practical utility 
+19 Trial decision, ~ 412. 
+20 Trial decision, ~ 4ll. 
+21 Trial decision, ~ 418,454. See also [Volume 38, ExhibitP372, p. 10628.] 
+22 Appeal decision ~ 130-144. 
+23 MMF ~ 66. See also Hogg, Peter W. Constitutional Law of Canada, 5th ed. Supp., vol. 1. Toronto: 
+Carswell, 2007 at 28-2: "[t]he Royal Proclamation of 1763 had established that treaty-making with the 
+Indians was the sole responsibility of the (imperial) Crown in right of the United Kingdom. After 
+confederation, the federal govermnent was the natural successor to that responsibility." 
+24 Canada's factum on cross-appeal at paras. 194-202. 
+25 MMF~66. 7 
+24. In Gift Lake's respectful submission, it does not lie in Canada's mouth to 
+argue that the First Declaration lacks "practical utilty". Canada's longstanding refusal to 
+acknowledge underlying legislative authority in relation to Metis people is at the heart of 
+prolonged federal indifference toward Metis. As stated by this Court in Cunningham: : 
+25. [ ... ] The MSA, as discussed earlier, is the result of a negotiation process between the 
+Metis of Alberta and the Province and the outcome of an ongoing struggle for self­
+preservation. The Metis considered themselves as one of three Aboriginal groups in 
+Canada, but this was not recognized until the Constitution Act, 1982. Unlike Indians, 
+however, they enjoyed no land base from which to strengthen their identity and culture or 
+govern themselves. Nor did they enjoy the protection of an equivalent to the Indian Act. 
+Their aboriginality, in a word, was not legally acknowledged or protected. Viewed in this 
+perspective, the ameliorative program embodied in the MSA emerges as an attempt to 
+provide to Alberta's Metis settlements similar protections to those which various Indian 
+bands have enjoyed since early times.26 [emphasis added] 
+This issue has manifested itself as a serious issue of disparity in relation to 
+programs, services, and other benefits available to Alberta Metis. In Cunningham, the 
+litigants were Metis persons who were eligible to register as status Indians, and had of 
+necessity done so to obtain federal medical benefits available to status Indians and Inuit 
+but not Metis, and thereby terminated their Metis Settlement memberships.27 
+26. In this regard, this Court commented that preserving an impetus for Metis 
+persons to pursue such important issues of parity with the federal government was 
+supportive ofthe MSA's ameliorative objects, and drawing bright lines as between status 
+Indians and Metis settlement members under its provisions?8 
+27. Second, the Court of Appeal held that the First Declaration had utility in 
+assisting "in extra-judicial negotiations with the Crown in pursuit of the overarching 
+constitutional goal of reconciliation reflected in section 35 of the Constitution Act, 
+1982,,29 and in clarifying the jurisdictional lines where claims may be at issue, such as 
+treaties or land claims agreements relating to unextinguished Metis Aboriginal rights.3o 
+26 Cunningham ~ 66. 
+27 Cunningham ~ 25. 
+28 Cunningham ~ 78. 
+29 Appeal decision ~ 68. 
+30 Appeal decision ~ 72. 8 
+28. Indeed, since the adoption of s. 35, this Court has laid an important 
+foundation, and constructed large portions of the architecture, of Aboriginal rights in 
+relation to First Nation peoples. Most recently, it confirmed the landmark Aboriginal title 
+claim of the Tsilhqot'in/1 and clarified provincial-federal responsibilities under First 
+Nation treaties.32 
+29. The same project in relation to Metis is however in its infancy. In R. v. 
+Powley, this Court adjusted the Van der Peet test to recognize the Metis' inclusion as one 
+of the Aboriginal peoples of Canada, and in particular "the important differences between 
+Indian and Metis claims" and "the unique post-contact emergence of Metis communities, 
+and the post-contact foundation of their aboriginal rights.,,33 More recent decisions by 
+this Court in the MMF and Cunningham cases have further developed this jurisprudence. 
+While its is clear that the provincial Crowns bear certain responsibilities toward Metis 
+Gust as they do toward First Nations), the limits of that provincial jurisdiction, and the 
+scope of federal authority, if any, require delineation in order to foster the ongoing 
+project of reconciliation. 
+30. In this regard, reconciliation may include the obligation to exercise the 
+91(24) power honourably, in appropriate circumstances.34 This Court has recently 
+emphasized that both levels of government are responsible for keeping treaty promises.35 
+While this case is not about treaty promises per se, it is clear that matters have arisen of 
+unique and central concern to Metis, and jurisdictional uncertainty or unwillingness to act 
+have frustrated the resolution of these issues.36 
+c. It is not necessary or appropriate to attempt to exhaustively define who the 
+Metis are in order to find that they are 'Indians' under 91(24) 
+31 Tsilhqot'in Nation v. British Columbia, 2014 sec 44. 
+32 Grassy Narrows First Nation v. Ontario (Natural Resources), 2014 sec 48. 
+33 
+Powley~ 18. 
+34 Resort may be had to the unwritten principles in triggering a requirement to act in relation to Metis 
+interests or concemts. This Court has previously held that the unwritten principles may give rise to "very 
+abstract and general obligations, or they may be more specific and precise in nature.": Secession Reference 
+~55~~assy Narrows First Nation v. Ontario (Natural Resources), 2014 sec 48 ~ 35. 
+36 Appeal decision, ~ 70-71. 9 
+31. Gift Lake submits that this case is not the proper vehicle for determining 
+who is and who is not Metis; rather, that determination must be made in cases that engage 
+that issue expressly, and based on a detailed factual record directed to that issue. 
+32. The issue in this case is which order of government has legislative 
+authority over Metis, however defined. This Court has held that in constititutional cases 
+it is improper to attempt to answer unnecessary questions, or precisely define a head of 
+power.37 
+33. Although Metis were first textually acknowledged in s. 35(2), so too were 
+Inuit, who are included as 'Indians' in 91(24).38 Accordingly, the distinctiveness of Metis 
+vis-a-vis Indians or Inuit is not a bar to inclusion as 'Indians' in 91(24). Nor does it give 
+rise to a need to define who is or is not Metis. Such definitional issues may arise in 
+subsequent cases, informed though not constrained by the limited guidance provided by 
+this Court in Powley?9 
+D. It is not necessary for this Court to address the issues related to the Second 
+and Third Declarations in relation to Crown consultative or fiduciary duties 
+34. In MMF and Grassy Narrows, this Court confirmed that the Crown's 
+relationship with the Metis "viewed generally, is fiduciary in nature" but its content may 
+vary with the circumstances40 and that either level of Crown contemplating conduct that 
+may affect Aboriginal rights may give rise to a duty of consultation.41 
+35. Accordingly, the requested Second and Third declarations would merely 
+repeat the existing state of the law. Fiduciary and consultative duties toward Metis 
+peoples are that of the Crown. Depending on the circumstances, such duties as toward 
+Metis may fall to either level of Crown.42 A finding of federal jurisdiction over Metis 
+37 Phillips v. Nova Scotia (Commission of Inquiry into the Westray Mine Tragedy), [1995] 2 S.C.R. 97 'TI 7. 
+R. v. Crown Zellerbach Canada Ltd., [1988] 1 S.C.R. 401 'TI 27. 
+38 Reference whether "Indians" includes "Eskimo", [1939] S.C.R. 104. 
+39 Powley'TI 18, 30. 
+40 M.MF'TI 48-49. 
+41 . [2014] 2 SCR 447,2014 SCC 48 ("Grassy Narrows") 'TI 33-37. 
+42 Grassy Narrows 'TI 33-37, affmning Keewatin v. Ontario (Minister of Natural Resources), 2013 ONCA 
+158 ("Keewatin") 'TI 139-140. See also Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 
+73 ("Haida") 'TI 57-59. 10 
+peoples should not be taken to detract from the existence and exercise, in appropriate 
+circumstances, of a provincial fiduciary or consultative duty toward Metis. 
+E. Conclusion 
+36. The lower Courts' decision to issue the First Declaration is well-supported 
+in fact and law, and had practical utility. This is not the proper case to define 'Metis'. 
+37. The honour of the Crown and its consultative and fiduciary duties apply 
+broadly to the Metis as one of the Aboriginal peoples of Canada, and both the content and 
+the bearer of those duties may vary with different factual circumstances. The requested 
+Second and Third Declarations would merely repeat the existing state of the law. 
+PART IV -SUBMISSION ON COSTS 
+38. Gift Lake does not seek costs and asks that no costs be ordered against it. 
+PART V -ORDER SOUGHT 
+39. Gift Lake submits that this case should be decided in line with the above 
+principles, and requests permission to address the Court orally at the hearing of this 
+appeal. 
+ALL OF WHICH IS RESPECTULLY SUBMITTED 
+Dated at Ottawa, Ontario this 27th day of July, 2015. 
+Gow)1ng La !. ur Henderson LLP 
+2600(-160 Elg;m St., 
+Otta~,O)(KIP lC3 
+MaximeFaille 
+Paul Seaman 
+T: (613) 783.8801 
+F: (613) 788.3577 
+Email: maxime.faille@gowlings.com 
+paul.seaman@gowlings.com 
+Counsel for the Intervener, Gift Lake Metis 
+Settlement 11 
+PART V -TABLE OF AUTHORITIES 
+Case Law Paragraph(s) 
+Alberta (Aboriginal Affairs and Northern Development) v. Cunningham, 14-15,24-26 
+2011 SCC 37, [2011] 2 S.C.R. 670. 
+Grassy Narrows First Nation v. Ontario (Natural Resources), 2014 SCC 28,30 
+48, [2014] 2 S.C.R. 447. 
+Haida Nation v. British Colombia (Minister of Forests) , 2004 SCC 73, 33 
+[2004] 3 S.C.R. 511. 
+Keewatin v. Ontario (Minister of Natural Resources), 2013 ONCA 158. 33 
+Lebar v. Canada, [1988] F.C.J. No. 940 (C.A.). 
+Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 7,22 
+SCC 14, [2013] 1 S.C.R. 623. 
+Philips v. Nova Scotia (Commission of Inquiry into the Westray Mine 32 
+Tragedy), [1995] 2 S.C.R. 97. 
+R. v. Blais, 2003 SCC 44, [2003] 2 S.c.R. 236. 
+R. v. Crown Zellerbach Canada Ltd., [1998] 1 S.C.R. 401. 32 
+R. v. Hirsekorn, 2010 ABPC 385. 8 
+R. v. Powley, [2003] 2 SCR 207 29 
+Reference re Secession of Quebec, [1998] 2 S.C.R. 217. 30 
+Reference whether "Indians" includes "Eskimo", [1939] S.C.R. 104. 33 
+Tsilhqot'in Nation v. British Columbia, 2014 SCC 44. 28 
+Doctrine Paragraph(s) 
+Peter W. Hogg, Constitutional Law of Canada, 5th ed (Carswell, 22 
+Toronto, 2007) (loose-leafSupp), vol I at 28-2. 
+OTT_LAw\ 5465985\1 

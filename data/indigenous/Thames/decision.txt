@@ -1,0 +1,2461 @@
+[2017] 1 R.C.S.1099
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE
+Chippewas of the Thames First Nation  
+Appelante
+c.
+Pipelines Enbridge inc.,  
+Office national de l’énergie et  
+procureure générale du Canada Intimés
+et
+Procureur général de l’Ontario,  
+procureur général de la Saskatchewan,  
+Conseil de gestion des ressources fauniques 
+du Nunavut, Suncor Energy Marketing Inc.,  
+Mohawk Council of Kahnawà:ke,  
+Mississaugas of the New Credit First Nation 
+et Chiefs of Ontario Intervenants
+Répertorié : Chippewas of the Thames First 
+Nation  c. Pipelines Enbridge inc.
+2017 CSC 41
+No du greffe : 36776.
+2016 : 30 novembre; 2017 : 26 juillet.
+Présents : La juge en chef McLachlin et les juges Abella, 
+Moldaver, Karakatsanis, Wagner, Gascon, Côté, Brown 
+et Rowe.
+EN APPEL DE LA COUR D’APPEL FÉDÉRALE
+Droit constitutionnel — Droits ancestraux — Droits 
+issus de traités — Couronne — Obligation de consul -
+tation — Décision d’un organisme de réglementation 
+fédéral indépendant qui pourrait avoir une incidence 
+sur des droits ancestraux et issus de traités — Pipeline 
+traversant le territoire traditionnel d’une première na -
+tion — Approbation par l’Office national de l’énergie 
+d’une modification du pipeline — La décision envisagée 
+par l’Office relativement à l’approbation du projet peut-
+elle être considérée comme une mesure de la Couronne 
+ayant donné naissance à l’obligation de consulter? — 
+La consultation incombant à la Couronne peut-elle être 
+menée dans le cadre d’un processus réglementaire? — 
+Rôle d’un tribunal administratif lorsque la Couronne 
+n’est pas partie au processus réglementaire — Étendue Chippewas of the Thames First Nation  
+Appellant
+v.
+Enbridge Pipelines Inc.,  
+National Energy Board and  
+Attorney General of Canada Respondents
+and
+Attorney General of Ontario,  
+Attorney General of Saskatchewan,  
+Nunavut Wildlife Management Board,  
+Suncor Energy Marketing Inc.,  
+Mohawk Council of Kahnawà:ke,  
+Mississaugas of the New Credit First Nation 
+and Chiefs of Ontario Interveners
+Indexed as: Chippewas of the Thames First 
+Nation v. Enbridge Pipelines Inc.
+2017 SCC 41
+File No.: 36776.
+2016: November 30; 2017: July 26.
+Present: McLachlin C.J. and Abella, Moldaver, 
+Karakatsanis, Wagner, Gascon, Côté, Brown and 
+Rowe JJ.
+ON APPEAL FROM THE FEDERAL COURT OF  
+APPEAL
+Constitutional law — Aboriginal rights — Treaty 
+rights — Crown — Duty to consult — Decision by fed -
+eral independent regulatory agency which could impact 
+Aboriginal and treaty rights — Pipeline crossing tradi -
+tional territory of First Nation — National Energy Board 
+approving modification of pipeline — Whether Board’s 
+contemplated decision on project’s approval amounted 
+to Crown conduct triggering duty to consult — Whether 
+Crown consultation can be conducted through regulatory 
+process — Role of regulatory tribunal when Crown not a 
+party to regulatory process — Scope of duty to consult — 
+Whether there was adequate notice to First Nation that 
+Crown was relying on Board’s process to fulfill its duty to 
+consult — Whether Crown’s consultation obligation ful -
+filled — Whether Board’s written reasons were sufficient 1100 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE
+to satisfy Crown’s obligation — National Energy Board 
+Act, R.S.C. 1985, c. N-7, s. 58.
+The National Energy Board (NEB), a federal adminis -
+trative tribunal and regulatory agency, was the final deci -
+sion maker on an application by Enbridge Pipelines Inc. 
+for a modification to a pipeline that would reverse the flow 
+of part of the pipeline, increase its capacity, and enable 
+it to carry heavy crude. The NEB issued notice to Indig -
+enous groups, including the Chippewas of the Thames 
+First Nation (Chippewas), informing them of the project, 
+the NEB’s role, and the NEB’s upcoming hearing process. 
+The Chippewas were granted funding to participate in the 
+process, and they filed evidence and delivered oral argu -
+ment delineating their concerns that the project would in -
+crease the risk of pipeline ruptures and spills, which could 
+adversely impact their use of the land. The NEB approved 
+the project, and was satisfied that potentially affected In -
+digenous groups had received adequate information and 
+had the opportunity to share their views. The NEB also 
+found that potential project impacts on the rights and in -
+terests of Aboriginal groups would likely be minimal and 
+would be appropriately mitigated. A majority of the Fed -
+eral Court of Appeal dismissed the Chippewas’ appeal.
+Held : The appeal should be dismissed.
+When an independent regulatory agency such as the 
+NEB is tasked with a decision that could impact Ab -
+original or treaty rights, the NEB’s decision would itself 
+be Crown conduct that implicates the Crown’s duty to 
+consult. As a statutory body with the delegated executive 
+responsibility to make a decision that could adversely af -
+fect Aboriginal and treaty rights, the NEB acted on be -
+half of the Crown in approving Enbridge’s application. 
+Because the authorized work could potentially adversely 
+affect the Chippewas’ asserted Aboriginal and treaty 
+rights, the Crown had an obligation to consult.
+The Crown may rely on steps taken by an adminis -
+trative body to fulfill its duty to consult so long as the de l’obligation de consulter — La première nation a-t-
+elle été avisée adéquatement du fait que la Couronne 
+s’en remettait au processus de l’Office pour satisfaire à 
+son obligation de consulter? — La Couronne s’est-elle 
+acquittée de son obligation de consulter? — Les motifs 
+écrits de l’Office étaient-ils suffisants pour satisfaire à 
+l’obligation de la Couronne? — Loi sur l’Office national 
+de l’énergie, L.R.C. 1985, c. N-7, art. 58.
+L’Office national de l’énergie (ONÉ), tribunal admi -
+nistratif fédéral et organisme de réglementation, était le 
+décideur ultime concernant une demande présentée par 
+Pipelines Enbridge inc. en vue que soit apportée à une ca -
+nalisation une modification qui aurait pour effet d’inver -
+ser le sens de l’écoulement dans une partie du pipeline, 
+d’accroître sa capacité et de permettre le transport de pé -
+trole brut lourd. L’ONÉ a envoyé un avis à des groupes 
+autochtones, y compris aux Chippewas of the Thames 
+First Nation (Chippewas), afin de les informer du projet, 
+du rôle de l’ONÉ et du processus d’audience à venir. Les 
+Chippewas ont obtenu les fonds nécessaires pour partici -
+per au processus, et ils ont déposé des éléments de preuve 
+et présenté des observations orales à l’audience faisant 
+état de leur crainte que le projet n’augmente le risque 
+de ruptures du pipeline et de déversements, ce qui pour -
+rait avoir des effets préjudiciables sur leur utilisation du 
+territoire. L’ONÉ a approuvé le projet, estimant que les 
+groupes autochtones susceptibles d’être touchés avaient 
+été suffisamment renseignés à son sujet et avaient eu l’oc -
+casion de faire connaître leurs points de vue. L’ONÉ a 
+également conclu que les effets éventuels du projet sur les 
+droits et les intérêts des groupes autochtones seraient vrai -
+semblablement négligeables et atténués de façon conve -
+nable. Les juges majoritaires de la Cour d’appel fédérale 
+ont rejeté l’appel des Chippewas.
+Arrêt : Le pourvoi est rejeté.
+Lorsqu’un organisme de réglementation indépendant 
+tel l’ONÉ doit rendre une décision susceptible de por -
+ter atteinte à des droits ancestraux ou issus de traités, la 
+décision de l’ONÉ constituerait en soi une mesure de 
+la Couronne emportant pour celle-ci une obligation de 
+consulter. En tant qu’organisme d’origine législative in -
+vesti du pouvoir délégué de rendre une décision suscep -
+tible de porter atteinte à des droits ancestraux et issus de 
+traités, l’ONÉ agissait au nom de la Couronne lorsqu’il 
+a approuvé la demande d’Enbridge. Comme les travaux 
+autorisés étaient susceptibles de porter atteinte aux droits 
+ancestraux et issus de traités invoqués par les Chippewas, 
+la Couronne avait une obligation de consulter.
+La Couronne peut se fonder sur les mesures prises par 
+un organisme administratif pour satisfaire à son obligation [2017] 1 R.C.S.1101
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE
+agency possesses the statutory powers to do what the duty 
+to consult requires in the particular circumstances, and so 
+long as it is made clear to the affected Indigenous group 
+that the Crown is so relying. However, if the agency’s 
+statutory powers are insufficient in the circumstances or 
+if the agency does not provide adequate consultation and 
+accommodation, the Crown must provide further avenues 
+for meaningful consultation and accommodation prior to 
+project approval. Otherwise, a regulatory decision made 
+on the basis of inadequate consultation will not satisfy 
+constitutional standards and should be quashed.
+A regulatory tribunal’s ability to assess the Crown’s 
+duty to consult does not depend on whether the govern -
+ment participated in the hearing process. The Crown’s 
+constitutional obligation does not disappear when the 
+Crown acts to approve a project through a regulatory 
+body such as the NEB. It must be discharged before the 
+government proceeds with approval of a project that 
+could adversely affect Aboriginal or treaty rights. As 
+the final decision maker on certain projects, the NEB is 
+obliged to consider whether the Crown’s consultation 
+was adequate if the concern is raised before it. The re -
+sponsibility to ensure the honour of the Crown is upheld 
+remains with the Crown. However, administrative deci -
+sion makers have both the obligation to decide necessary 
+questions of law and an obligation to make decisions 
+within the contours of the state’s constitutional obliga -
+tions.
+The duty to consult is not the vehicle to address his -
+torical grievances. The subject of the consultation is the 
+impact on the claimed rights of the current decision under 
+consideration. Even taking the strength of the Chippewas’ 
+claim and the seriousness of the potential impact on the 
+claimed rights at their highest, the consultation under -
+taken in this case was manifestly adequate. Potentially af -
+fected Indigenous groups were given early notice of the 
+NEB’s hearing and were invited to participate in the pro -
+cess. The Chippewas accepted the invitation and appeared 
+before the NEB. They were aware that the NEB was the 
+final decision maker. Moreover, they understood that no 
+other Crown entity was involved in the process for the 
+purposes of carrying out consultation. The circumstances 
+of this case made it sufficiently clear to the Chippewas 
+that the NEB process was intended to constitute Crown 
+consultation and accommodation. Notwithstanding the 
+Crown’s failure to provide timely notice that it intended to de consulter, dans la mesure où ce dernier dispose du pou -
+voir légal de faire ce que l’obligation de consulter impose 
+dans les circonstances, et dans la mesure où il est claire -
+ment indiqué au groupe autochtone touché que la Cou -
+ronne s’en remet à ce processus. Toutefois, si les pouvoirs 
+que la loi confère à l’organisme sont insuffisants dans les 
+circonstances, ou si l’organisme ne prévoit pas des consul -
+tations et des accommodements adéquats, la Couronne 
+doit prévoir d’autres avenues de consultation et d’accom -
+modement véritables avant que le projet ne soit approuvé. 
+Autrement, la décision que l’organisme de réglementation 
+aura prise sans consultation adéquate ne respectera pas les 
+normes constitutionnelles et devrait être annulée.
+Le pouvoir d’un tribunal administratif d’apprécier 
+l’obligation de consulter de la Couronne n’est pas tribu -
+taire de la participation du gouvernement au processus 
+d’audience. L’obligation constitutionnelle de la Couronne 
+ne disparaît pas lorsqu’elle s’engage dans le processus 
+d’approbation d’un projet par l’intermédiaire d’un orga -
+nisme de réglementation tel l’ONÉ. Il doit être satisfait à 
+cette obligation avant que le gouvernement n’approuve un 
+projet susceptible d’avoir un effet préjudiciable sur des 
+droits ancestraux ou issus de traités. En tant que décideur 
+ultime en ce qui concerne certains projets, l’ONÉ doit, 
+lorsque la question est soulevée devant lui, se demander si 
+les consultations par la Couronne relativement à un projet 
+donné ont été adéquates. La responsabilité de veiller à ce 
+que l’honneur de la Couronne soit préservé continue de 
+reposer sur cette dernière. Toutefois, les décideurs admi -
+nistratifs ont l’obligation de trancher les questions de droit 
+pertinentes soulevées devant eux, ainsi que l’obligation 
+de rendre leurs décisions dans le respect des obligations 
+constitutionnelles de l’État.
+L’obligation de consulter n’est pas un moyen appro -
+prié de régler des griefs historiques. La consultation s’in -
+téresse à l’effet sur les droits revendiqués de la décision 
+actuellement considérée. Même en considérant de la fa -
+çon la plus favorable aux Chippewas la solidité de leur 
+revendication et la gravité de l’impact potentiel sur les 
+droits qu’ils invoquent, la consultation menée en l’espèce 
+a manifestement été adéquate. Les groupes autochtones 
+susceptibles d’être touchés ont été avisés à l’avance de la 
+tenue des audiences de l’ONÉ et ont été invités à partici -
+per au processus. Les Chippewas ont accepté l’invitation 
+et ils ont comparu devant l’ONÉ. Ils savaient que l’ONÉ 
+était le décideur ultime. De plus, ils comprenaient qu’au -
+cun autre organisme de l’État ne participait au processus 
+pour effectuer des consultations. Les circonstances indi -
+quaient de façon suffisamment claire aux Chippewas que 
+le processus de l’ONÉ constituait le processus de consul -
+tation et d’accommodement de la Couronne. Malgré son 1102 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE
+rely on the NEB’s process to fulfill its duty to consult, its 
+consultation obligation was met.
+The NEB’s statutory powers under s. 58 of the National 
+Energy Board Act were capable of satisfying the Crown’s 
+constitutional obligations in this case. Furthermore, the 
+process undertaken by the NEB in this case was sufficient 
+to satisfy the Crown’s duty to consult. First, the NEB pro -
+vided the Chippewas with an adequate opportunity to par -
+ticipate in the decision-making process. Second, the NEB 
+sufficiently assessed the potential impacts on the rights 
+of Indigenous groups and found that the risk of negative 
+consequences was minimal and could be mitigated. Third, 
+in order to mitigate potential risks, the NEB provided ap -
+propriate accommodation through the imposition of condi -
+tions on Enbridge.
+Finally, where affected Indigenous peoples have 
+squarely raised concerns about Crown consultation, the 
+NEB must usually provide written reasons. What is nec -
+essary is an indication that the NEB took the asserted 
+Aboriginal and treaty rights and interests into consider -
+ation and accommodated them where appropriate. In this 
+case, the NEB’s written reasons are sufficient to satisfy 
+the Crown’s obligation. Unlike the NEB’s reasons in the 
+companion case Clyde River (Hamlet) v. Petroleum Geo-
+Services Inc. , 2017 SCC 40, [2017] 1 S.C.R. 1069, the 
+discussion of Aboriginal consultation was not subsumed 
+within an environmental assessment. The NEB reviewed 
+the written and oral evidence of numerous Indigenous 
+groups and identified, in writing, the rights and inter -
+ests at stake. It assessed the risks that the project posed 
+to those rights and interests and concluded that the risks 
+were minimal. Nonetheless, it provided written and bind -
+ing conditions of accommodation to adequately address 
+any negative impacts on the asserted rights from the ap -
+proval and completion of the project.
+Cases Cited
+Applied:  Clyde River (Hamlet) v. Petroleum Geo-
+Services Inc. , 2017 SCC 40, [2017] 1 S.C.R. 1069; Rio 
+Tinto Alcan Inc. v. Carrier Sekani Tribal Council , 2010 
+SCC 43, [2010] 2 S.C.R. 650; referred to:  Haida Nation 
+v. British Columbia (Minister of Forests) , 2004 SCC omission de donner avis en temps utile de son intention 
+de s’en remettre au processus de l’ONÉ pour s’acquitter 
+de son obligation de consulter, la Couronne a respecté 
+son obligation de mener des consultations.
+Du fait des pouvoirs que l’art. 58 de la Loi sur l’Office 
+national de l’énergie  confère à l’ONÉ, ce dernier était en 
+mesure de satisfaire aux obligations constitutionnelles de 
+la Couronne dans le présent cas. En outre, le processus 
+mené par l’ONÉ en l’espèce était suffisant pour satisfaire 
+à l’obligation de consulter qui incombait à la Couronne. 
+Premièrement, l’ONÉ a fourni aux Chippewas une pos -
+sibilité adéquate de participer au processus décisionnel. 
+Deuxièmement, l’ONÉ a suffisamment apprécié les ef -
+fets potentiels du projet sur les droits des groupes autoch -
+tones, ce qui l’a amené à conclure que le risque d’effets 
+préjudiciables était minime et pouvait être atténué. Troi -
+sièmement, l’ONÉ a pris des mesures d’accommodement 
+appropriées pour atténuer les risques potentiels du projet 
+sur les droits des groupes autochtones en imposant des 
+conditions à Enbridge.
+Enfin, lorsque des groupes autochtones touchés sou -
+lèvent directement des préoccupations concernant les 
+consultations incombant à la Couronne, l’ONÉ doit ha -
+bituellement motiver sa décision par écrit. Ce qu’il faut, 
+c’est que l’ONÉ indique qu’il a pris en considération les 
+droits ancestraux et issus de traités invoqués et qu’il a 
+pris des accommodements à leur égard lorsqu’il conve -
+nait de le faire. En l’espèce, les motifs écrits exposés 
+par l’ONÉ sont suffisants et permettent de satisfaire à 
+l’obligation de la Couronne. Contrairement aux motifs 
+de l’ONÉ dans l’affaire connexe Clyde River (Hameau) 
+c. Petroleum Geo-Services Inc. , 2017 CSC 40, [2017] 1 
+R.C.S. 1069, l’analyse de la consultation menée auprès 
+des Autochtones n’était pas intégrée dans une évaluation 
+environnementale. L’ONÉ a examiné les éléments de 
+preuve présentés par écrit et de vive voix par de nom -
+breux groupes autochtones et il a identifié, par écrit, les 
+droits et intérêts en jeu. Il a apprécié les risques que le 
+projet posait à l’égard de ces droits et intérêts et conclu 
+qu’ils étaient minimes. Néanmoins, il a imposé par écrit, 
+sous forme de conditions contraignantes, des mesures 
+d’accommodement en vue de remédier adéquatement à 
+tout effet préjudiciable sur les droits invoqués par suite 
+de l’approbation et de la réalisation du projet.
+Jurisprudence
+Arrêts appliqués  : Clyde River (Hameau) c. Petroleum 
+Geo-Services Inc. , 2017 CSC 40, [2017] 1 R.C.S. 1069; 
+Rio Tinto Alcan Inc. c. Conseil tribal Carrier Sekani , 2010 
+CSC 43, [2010] 2 R.C.S. 650; arrêts mentionnés : Nation 
+haïda c. Colombie-Britannique (Ministre des Forêts) , 2004 [2017] 1 R.C.S.1103
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE
+73, [2004] 3 S.C.R. 511; Quebec (Attorney General) v. 
+Canada (National Energy Board) , [1994] 1 S.C.R. 159; 
+Ocean Port Hotel Ltd. v. British Columbia (General 
+Manager, Liquor Control and Licensing Branch) , 2001 
+SCC 52, [2001] 2 S.C.R. 781; Standing Buffalo Dakota 
+First Nation v. Enbridge Pipelines Inc. , 2009 FCA 308, 
+[2010] 4 F.C.R. 500; Tsilhqot’in Nation v. British Colum -
+bia, 2014 SCC 44, [2014] 2 S.C.R. 257; R. v. Conway , 
+2010 SCC 22, [2010] 1 S.C.R. 765; West Moberly First 
+Nations v. British Columbia (Chief Inspector of Mines) , 
+2011 BCCA 247, 18 B.C.L.R. (5th) 234; Kainaiwa/Blood 
+Tribe v. Alberta (Energy) , 2017 ABQB 107; Baker v. Can -
+ada (Minister of Citizenship and Immigration) , [1999] 2 
+S.C.R. 817.
+Statutes and Regulations Cited
+Constitution Act, 1982 , s. 35.
+National Energy Board Act , R.S.C. 1985, c. N-7, ss. 3, 
+22(1), Part III, 30(1), 52, 54(1), 58.
+Oil Pipeline Uniform Accounting Regulations , C.R.C., 
+c. 1058.
+Authors Cited
+Woodward, Jack. Native Law , vol. 1. Toronto: Thomson 
+Reuters, 1994 (loose-leaf updated 2017, release 2).
+APPEAL from a judgment of the Federal Court 
+of Appeal (Ryer, Webb and Rennie  JJ.A.), 2015 
+FCA 222, [2016] 3 F.C.R. 96, 390 D.L.R. (4th) 735, 
+[2016] 1 C.N.L.R. 18, 479 N.R. 220, [2015] F.C.J. 
+No. 1294 (QL), 2015 CarswellNat 5511 (WL Can.), 
+affirming a decision of the National Energy Board, 
+No. OH-002-2013, March 6, 2014, 2014 LNCNEB 4 
+(QL). Appeal dismissed.
+David C. Nahwegahbow and Scott Robertson , 
+for the appellant.
+Douglas E. Crowther , Q.C. , Joshua A. Jantzi  
+and Aaron Stephenson , for the respondent Enbridge 
+Pipelines Inc.
+Jody Saunders  and Kristen Lozynsky , for the re -
+spondent the National Energy Board.
+Peter Southey  and Mark R. Kindrachuk , Q.C. , for 
+the respondent the Attorney General of Canada.
+Manizeh Fancy  and Richard Ogden , for the in -
+tervener the Attorney General of Ontario.CSC 73, [2004] 3 R.C.S. 511; Québec (Procureur général) 
+c. Canada (Office national de l’énergie) , [1994] 1 R.C.S. 
+159; Ocean Port Hotel Ltd. c. Colombie-Britannique (Ge -
+neral Manager, Liquor Control and Licensing Branch) , 
+2001 CSC 52, [2001] 2 R.C.S. 781; Première nation 
+dakota de Standing Buffalo c. Enbridge Pipelines Inc. , 
+2009 CAF 308, [2010] 4 R.C.F. 500; Nation Tsilhqot’in 
+c. Colombie-Britannique , 2014 CSC 44, [2014] 2 R.C.S. 
+257; R. c. Conway , 2010 CSC 22, [2010] 1 R.C.S. 765; 
+West Moberly First Nations c. British Columbia (Chief 
+Inspector of Mines) , 2011 BCCA 247, 18 B.C.L.R. (5th) 
+234; Kainaiwa/Blood Tribe c. Alberta (Energy) , 2017 
+ABQB 107; Baker c. Canada (Ministre de la Citoyenneté 
+et de l’Immigration) , [1999] 2 R.C.S. 817.
+Lois et règlements cités
+Loi constitutionnelle de 1982 , art. 35.
+Loi sur l’Office national de l’énergie , L.R.C. 1985, 
+c. N-7, art. 3, 22(1), partie III, 30(1), 52, 54(1), 58.
+Règlement de normalisation de la comptabilité des oléo -
+ducs, C.R.C., c. 1058.
+Doctrine et autres documents cités
+Woodward, Jack. Native Law , vol. 1, Toronto, Thomson 
+Reuters, 1994 (loose-leaf updated 2017, release 2).
+POURVOI contre un arrêt de la Cour d’appel fé -
+dérale (les juges Ryer, Webb et Rennie), 2015 CAF 
+222, [2016] 3 R.C.F. 96, 390 D.L.R. (4th) 735, 
+[2016] 1 C.N.L.R. 18, 479 N.R. 220, [2015] A.C.F. 
+no 1294 (QL), 2015 CarswellNat 10332 (WL Can.), 
+qui a confirmé une décision de l’Office national de 
+l’énergie, no OH-002-2013, datée du 6 mars 2014, 
+2014 LNCONE 4 (QL). Pourvoi rejeté.
+David C. Nahwegahbow et Scott Robertson , pour 
+l’appelante.
+Douglas E. Crowther , c.r., Joshua A. Jantzi  et 
+Aaron Stephenson , pour l’intimée Pipelines En -
+bridge inc.
+Jody Saunders  et Kristen Lozynsky , pour l’intimé 
+l’Office national de l’énergie.
+Peter Southey  et Mark R. Kindrachuk , c.r., pour 
+l’intimée la procureure générale du Canada.
+Manizeh Fancy  et Richard Ogden , pour l’inter -
+venant le procureur général de l’Ontario.1104 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+Richard James Fyfe , for the intervener the Attor -
+ney General of Saskatchewan.
+Marie-France Major  and Thomas Slade , for 
+the intervener the Nunavut Wildlife Management 
+Board.
+Martin Ignasiak , W. David Rankin  and Thomas 
+Kehler , for the intervener Suncor Energy Marketing 
+Inc.
+Francis Walsh  and Suzanne Jackson , for the in -
+tervener the Mohawk Council of Kahnawà:ke.
+Nuri G. Frame , Jason T. Madden  and Jessica 
+Labranche , for the intervener the Mississaugas of 
+the New Credit First Nation.
+Maxime Faille , Jaimie Lickers  and Guy 
+Régimbald , for the intervener the Chiefs of Ontario.
+The judgment of the Court was delivered by
+Karakatsanis and Brown JJ. —
+I. Introduction
+[1] In this appeal and in its companion, Clyde 
+River (Hamlet) v. Petroleum Geo-Services Inc. , 2017 
+SCC 40, [2017] 1 S.C.R. 1069, this Court must con -
+sider the Crown’s duty to consult with Indigenous 
+peoples prior to an independent regulatory agency’s 
+approval of a project that could impact their rights. 
+As we explain in the companion case, the Crown 
+may rely on regulatory processes to partially or com -
+pletely fulfill its duty to consult.
+[2] These cases demonstrate that the duty to con -
+sult has meaningful content, but that it is limited 
+in scope. The duty to consult is rooted in the need 
+to avoid the impairment of asserted or recognized 
+rights that flows from the implementation of the 
+specific project at issue; it is not about resolving 
+broader claims that transcend the scope of the pro -
+posed project. That said, the duty to consult requires Richard James Fyfe , pour l’intervenant le procu -
+reur général de la Saskatchewan.
+Marie-France Major  et Thomas Slade , pour l’in -
+tervenant le Conseil de gestion des ressources fau -
+niques du Nunavut.
+Martin Ignasiak , W.  David Rankin  et Thomas 
+Kehler , pour l’intervenante Suncor Energy Marketing 
+Inc.
+Francis Walsh  et Suzanne Jackson , pour l’inter -
+venant Mohawk Council of Kahnawà:ke.
+Nuri  G. Frame , Jason  T. Madden  et Jessica 
+Labranche , pour l’intervenante Mississaugas of the 
+New Credit First Nation.
+Maxime Faille , Jaimie Lickers  et Guy Régimbald , 
+pour l’intervenant Chiefs of Ontario.
+Version française du jugement de la Cour rendu 
+par
+Les juges Karakatsanis et Brown —
+I. Introduction
+[1] Dans le présent pourvoi et le pourvoi connexe, 
+Clyde River (Hameau) c. Petroleum Geo-Services 
+Inc., 2017 CSC 40, [2017] 1 R.C.S. 1069, la Cour 
+est appelée à examiner l’obligation qui incombe à la 
+Couronne de consulter les peuples autochtones avant 
+qu’un organisme de réglementation indépendant 
+n’approuve un projet susceptible de porter atteinte à 
+leurs droits. Comme nous l’expliquons dans le pour -
+voi connexe, la Couronne peut s’en remettre à des 
+processus réglementaires pour satisfaire, en tout ou 
+en partie, à son obligation de consulter.
+[2] Il ressort de ces décisions que l’obligation de 
+consulter a un contenu significatif, mais que sa por -
+tée est limitée. L’obligation de consulter tire son ori -
+gine du besoin d’éviter qu’il soit porté à des droits 
+revendiqués ou reconnus une atteinte découlant de 
+la mise en œuvre d’un projet donné; elle n’a pas 
+pour objet de résoudre des revendications plus larges 
+dépassant le cadre du projet en question. Cela dit, [2017] 1 R.C.S.1105
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+an informed and meaningful opportunity for dia -
+logue with Indigenous groups whose rights may be 
+impacted.
+[3] The Chippewas of the Thames First Nation has 
+historically resided near the Thames River in south -
+western Ontario, where its members carry out tradi -
+tional activities that are central to their identity and 
+way of life. Enbridge Pipelines Inc.’s Line 9 pipeline 
+crosses their traditional territory.
+[4] In November 2012, Enbridge applied to the 
+National Energy Board (NEB) for approval of a 
+modification of Line 9 that would reverse the flow 
+of part of the pipeline, increase its capacity, and en -
+able it to carry heavy crude. These changes would 
+increase the assessed risk of spills along the pipe -
+line. The Chippewas of the Thames requested 
+Crown consultation before the NEB’s approval, but 
+the Crown signalled that it was relying on the NEB’s 
+public hearing process to address its duty to consult.
+[5] The NEB approved Enbridge’s proposed 
+modification. The Chippewas of the Thames then 
+brought an appeal from that decision to the Fed -
+eral Court of Appeal, arguing that the NEB had no 
+jurisdiction to approve the Line 9 modification in 
+the absence of Crown consultation. The majority of 
+the Federal Court of Appeal dismissed the appeal, 
+and the Chippewas of the Thames brought an ap -
+peal from that decision to this Court. For the rea -
+sons set out below, we would dismiss the appeal. 
+The Crown is entitled to rely on the NEB’s process 
+to fulfill the duty to consult. In this case, in light of 
+the scope of the project and the consultation pro -
+cess afforded to the Chippewas of the Thames by 
+the NEB, the Crown’s duty to consult and accom -
+modate was fulfilled.l’obligation de consulter exige une véritable possi -
+bilité de dialogue avec les groupes autochtones dont 
+les droits peuvent être touchés.
+[3] L’appelante, Chippewas of the Thames First 
+Nation (Chippewas de la Thames), vit depuis long -
+temps près de la rivière Thames dans le Sud-Ouest 
+de l’Ontario, où ses membres poursuivent des acti -
+vités traditionnelles qui sont au cœur de leur iden -
+tité et de leur mode de vie. La canalisation 9 de 
+Pipelines Enbridge inc. traverse son territoire tra -
+ditionnel.
+[4] En novembre 2012, Enbridge a demandé à 
+l’Office national de l’énergie (ONÉ) d’approuver, 
+à l’égard de la canalisation 9, une modification qui 
+aurait pour effet d’inverser le sens de l’écoulement 
+dans une partie du pipeline, d’accroître sa capacité 
+et de permettre le transport de pétrole brut lourd. 
+Ces changements aggraveraient les risques de dé -
+versements le long du pipeline qui ont été évalués. 
+Les Chippewas de la Thames ont demandé à la 
+Couronne de les consulter avant que l’ONÉ n’ap -
+prouve le projet, mais la Couronne a répondu qu’elle 
+s’en remettait au processus d’audience publique de 
+l’ONÉ pour satisfaire à son obligation de consulter.
+[5] L’ONÉ a approuvé la modification proposée 
+par Enbridge. Les Chippewas de la Thames ont alors 
+interjeté appel de cette décision à la Cour d’appel fé -
+dérale, soutenant que l’ONÉ n’avait pas compétence 
+pour approuver le changement proposé à la canali -
+sation 9 en l’absence de consultations menées par la 
+Couronne. Les juges majoritaires de la Cour d’ap -
+pel fédérale ont rejeté l’appel et les Chippewas de la 
+Thames ont porté cette décision en appel devant la 
+Cour. Pour les motifs exposés ci-après, nous sommes 
+d’avis de rejeter l’appel. La Couronne est autorisée à 
+s’en remettre au processus de l’ONÉ pour satisfaire 
+à son obligation de consulter. En l’espèce, compte 
+tenu de la portée du projet et du processus de consul -
+tation de l’ONÉ dont ont bénéficié les Chippewas de 
+la Thames, la Couronne a satisfait à son obligation 
+de consultation et d’accommodement.1106 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+II. Background
+A. The Chippewas of the Thames First Nation
+[6] The Chippewas of the Thames are the descen -
+dants of a part of the Anishinaabe Nation that lived 
+along the shore of the Thames River in southwest -
+ern Ontario prior to the arrival of European settlers 
+in the area at the beginning of the 18th century. 
+Their ancestors’ lifestyle involved hunting, fishing, 
+trapping, gathering, growing corn and squash, per -
+forming ceremonies at sacred sites, and collecting 
+animals, plants, minerals, maple sugar and oil in 
+their traditional territory.
+[7] The Chippewas of the Thames assert that they 
+have a treaty right guaranteeing their exclusive use 
+and enjoyment of their reserve lands. They also as -
+sert Aboriginal harvesting rights as well as the right 
+to access and preserve sacred sites in their tradi -
+tional territory. Finally, they claim Aboriginal title to 
+the bed of the Thames River, its airspace, and other 
+lands throughout their traditional territory.
+B. Legislative Scheme
+[8] The NEB is a federal administrative tribunal 
+and regulatory agency established under s. 3 of the 
+National Energy Board Act , R.S.C. 1985, c. N-7 
+(NEB Act ), whose functions include the approval and 
+regulation of pipeline projects. The NEB Act prohib -
+its the operation of a pipeline unless a certificate of 
+public convenience and necessity has been issued 
+for the project and the proponent has been given 
+leave under Part III to open the pipeline (s. 30(1)).
+[9] The NEB occupies an advisory role with re -
+spect to the issuance of a certificate of public con -
+venience and necessity. Under ss. 52(1) and 52(2), 
+it can submit a report to the Minister of Natural 
+Resources setting out: (i) its recommendation on 
+whether a certificate should be issued based on its 
+consideration of certain criteria; and (ii) the terms II. Contexte
+A. Les Chippewas de la Thames
+[6] Les Chippewas de la Thames sont les des -
+cendants d’une partie de la Nation Anishinaabe 
+qui vivait au bord de la rivière Thames, dans le 
+Sud-Ouest de l’Ontario, avant que les colons euro -
+péens ne s’établissent dans cette région au début du 
+18e siècle. Leurs ancêtres avaient un mode de vie 
+axé sur la chasse, la pêche, le piégeage, la cueillette 
+et la culture du maïs et de la courge; ils célébraient 
+des cérémonies sur des sites sacrés et pouvaient 
+trouver sur leur territoire traditionnel des animaux, 
+des plantes, des minéraux, du sucre d’érable et de 
+l’huile.
+[7] Les Chippewas de la Thames soutiennent qu’ils 
+possèdent un droit issu de traités qui leur garantit 
+l’utilisation et la jouissance exclusives de leurs terres 
+de réserve. Ils affirment par ailleurs posséder des 
+droits ancestraux de récolte ainsi que le droit d’accé -
+der à des sites sacrés sur leur territoire traditionnel et 
+de les protéger. Enfin, ils revendiquent le titre ances -
+tral sur le lit de la rivière Thames et sur son espace 
+aérien, ainsi que sur d’autres terres de leur territoire 
+traditionnel.
+B. Régime législatif
+[8] L’ONÉ est un tribunal administratif fédéral et 
+un organisme de réglementation constitué sous le 
+régime de l’art. 3 de la Loi sur l’Office national de 
+l’énergie , L.R.C. 1985, c. N-7 ( Loi sur l’ONÉ ). Il a 
+notamment pour fonction d’approuver et d’enca -
+drer les projets de pipeline. La Loi sur l’ONÉ  inter -
+dit l’exploitation d’un pipeline sans qu’un certificat 
+d’utilité publique ait été délivré à l’égard du projet 
+et que le promoteur ait été autorisé aux termes de la 
+partie III à mettre le pipeline en service (par. 30(1)).
+[9] L’ONÉ exerce un rôle consultatif pour ce qui 
+est de la délivrance des certificats d’utilité publique. 
+Les paragraphes 52(1) et 52(2) prévoient qu’il peut 
+présenter au ministre des Ressources naturelles un 
+rapport où figurent  : (i) sa recommandation motivée 
+à savoir si un certificat devrait être délivré eu égard 
+à certains critères; (ii) les conditions qu’il estime [2017] 1 R.C.S.1107
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+and conditions that it considers necessary or desir -
+able in the public interest to be attached to the proj -
+ect should the certificate be issued. The Governor in 
+Council may then direct the NEB either to issue the 
+certificate or to dismiss the application (s. 54(1)).
+[10]  Under s. 58 of the NEB Act , however, the 
+NEB may make orders, on terms and conditions 
+that it considers proper, exempting smaller pipeline 
+projects or project modifications from various re -
+quirements that would otherwise apply under Part 
+III, including the requirement for the issuance of 
+a certificate of public convenience and necessity. 
+Consequently, as in this case, smaller projects and 
+amendments to existing facilities are commonly 
+sought under s. 58. The NEB is the final decision 
+maker on s. 58 exemptions.
+C. The Line 9 Pipeline and the Project
+[11]  The Line 9 pipeline, connecting Sarnia to 
+Montreal, opened in 1976 with the purpose of 
+transporting crude oil from western Canada to east -
+ern refineries. Line 9 cuts through the Chippewas 
+of the Thames’ traditional territory and crosses the 
+Thames River. It was approved and built without 
+any consultation of the Chippewas of the Thames.
+[12]  In 1999, following NEB approval, Line 9 
+was reversed to carry oil westward. In July 2012, 
+the NEB approved an application from Enbridge, 
+the current operator of Line 9, for the re-reversal 
+(back to eastward flow) of the westernmost seg -
+ment of Line 9, between Sarnia and North Westo -
+ver, called “Line 9A”.
+[13]  In November 2012, Enbridge filed an ap -
+plication under Part III of the NEB Act  for a modi -
+fication to Line 9. The project would involve 
+reversing the flow (to eastward) in the remaining 
+639-kilometre segment of Line 9, called “Line 9B”, 
+between North Westover and Montreal; increas -
+ing the annual capacity of Line 9 from 240,000 utiles, dans l’intérêt public, de rattacher au projet 
+dans le cas où le certificat serait délivré. Le gou -
+verneur en conseil peut ensuite donner instruction 
+à l’ONÉ de délivrer le certificat ou de rejeter la de -
+mande (par. 54(1)).
+[10]  En vertu de l’art. 58 de la Loi sur l’ONÉ , ce-
+pendant, l’ONÉ peut, par ordonnance et aux condi -
+tions qu’il estime indiquées, soustraire les projets 
+de pipeline de petite envergure ou les modifications 
+apportées à un projet à l’application de diverses 
+exigences autrement applicables sous le régime de 
+la partie III, notamment à l’obligation d’obtenir un 
+certificat d’utilité publique. Par conséquent, comme 
+c’est le cas en l’espèce, les demandes concernant les 
+projets de moindre envergure et les modifications 
+à des installations existantes sont habituellement 
+fondées sur l’art. 58. C’est donc l’ONÉ qui est le 
+décideur ultime en ce qui concerne les exemptions 
+prévues à l’art. 58.
+C. La canalisation 9 et le projet
+[11]  La canalisation 9, qui relie Sarnia à Mont-
+réal, a été mise en service en 1976 afin de transpor -
+ter du pétrole brut de l’Ouest du Canada jusqu’aux 
+raffineries de l’Est. La canalisation 9 traverse le 
+territoire traditionnel des Chippewas de la Thames 
+ainsi que la rivière Thames. Elle a été approuvée 
+et construite sans que les Chippewas de la Thames 
+aient été consultés.
+[12]  En 1999, après approbation de l’ONÉ, le 
+débit de la canalisation 9 a été inversé vers l’ouest. 
+En juillet 2012, l’ONÉ a approuvé une demande 
+d’Enbridge, l’exploitante actuelle de la canalisa -
+tion 9, visant à ce qu’il soit inversé de nouveau (et 
+s’écoule vers l’est) dans le tronçon le plus à l’ouest, 
+entre Sarnia et North Westover, appelé « canalisa -
+tion 9A ».
+[13]  En novembre 2012, Enbridge a présenté une 
+demande de modification à la canalisation 9 fon -
+dée sur la partie III de la Loi sur l’ONÉ . Le projet 
+consistait à inverser (vers l’est) le sens de l’écou -
+lement pour le tronçon restant de la canalisation 9, 
+appelé «  canalisation  9B  », d’une longueur de 
+639 kilomètres entre North Westover et Montréal, 1108 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+to 300,000 barrels per day; and allowing for the 
+transportation of heavy crude. While the project 
+involved a significant increase of Line 9’s through -
+put, virtually all of the required construction would 
+take place on previously disturbed lands owned by 
+Enbridge and on Enbridge’s right of way.
+[14]  Enbridge also sought exemptions under s. 58 
+from various filing requirements which would oth -
+erwise apply under Part III of the NEB Act , the Oil 
+Pipeline Uniform Accounting Regulations , C.R.C., 
+c. 1058,  and the NEB’s Filing Manual. The most 
+significant requested exemption was to dispense 
+with the requirement for a certificate of public con -
+venience and necessity, which as explained above is 
+subject to the Governor in Council’s final approval 
+under s. 52 of the NEB Act . Without the need for a 
+Governor in Council-approved certificate, the NEB 
+would have the final word on the project’s approval.
+[15]  In December 2012, the NEB, having deter -
+mined that Enbridge’s application was complete 
+enough to proceed to assessment, issued a hearing 
+order, which established the process for the NEB’s 
+consideration of the project. This process culminated 
+in a public hearing, the purpose of which was for the 
+NEB to gather and review information that was rel -
+evant to the assessment of the project. Persons or or -
+ganizations interested in the outcome of the project, 
+or in possession of relevant information or expertise, 
+could apply to participate in the hearing. The NEB 
+accepted the participation of 60 interveners and 
+111 commenters.
+D. Indigenous Consultation on the Project
+[16]  In February 2013, after Enbridge filed its ap -
+plication and several months before the hearings, 
+the NEB issued notice to 19 potentially affected 
+Indigenous groups, including the Chippewas of the 
+Thames, informing them of the project, the NEB’s 
+role, and the NEB’s upcoming hearing process.  à accroître la capacité annuelle de la canalisation 9, 
+qui passerait de 240 000 à 300 000 barils par jour, 
+et à permettre le transport de pétrole brut. Si le 
+projet impliquait une augmentation importante du 
+débit de la canalisation 9, la presque totalité des 
+travaux nécessaires devaient toutefois avoir lieu sur 
+des terres déjà perturbées appartenant à Enbridge et 
+dans les limites de l’emprise d’Enbridge.
+[14]  Se fondant sur l’art. 58, Enbridge a également 
+demandé d’être soustraite à certaines exigences en 
+matière de dépôt prévues par la partie III de la Loi 
+sur l’ONÉ , par le Règlement de normalisation de la 
+comptabilité des oléoducs , C.R.C., c. 1058 , et par le 
+Guide de dépôt de l’ONÉ. Elle demandait surtout à 
+être exemptée de l’obligation d’obtenir un certificat 
+d’utilité publique qui, comme nous l’avons expliqué, 
+est assujetti à l’approbation finale du gouverneur 
+en conseil en vertu de l’art. 52 de la Loi sur l’ONÉ . 
+Sans cette obligation concernant l’obtention d’un 
+certificat approuvé par le gouverneur en conseil, 
+l’ONÉ aurait le dernier mot sur l’approbation du 
+projet.
+[15]  En décembre 2012, après avoir déterminé 
+que la demande d’Enbridge était assez complète 
+pour qu’il puisse procéder à son évaluation, l’ONÉ 
+a rendu une ordonnance d’audience qui fixait la 
+marche à suivre pour l’examen du projet. Le pro -
+cessus a abouti à une audience publique qui devait 
+permettre à l’ONÉ de recueillir et d’examiner des 
+renseignements pertinents pour l’examen du projet. 
+Les personnes ou organisations intéressées par l’is -
+sue du projet, ou possédant des informations ou des 
+compétences pertinentes, pouvaient présenter une 
+demande de participation à l’audience. L’ONÉ a ac -
+cédé à la demande de 60 intervenants et de 111 au -
+teurs d’une lettre de commentaires.
+D. Consultation des peuples autochtones au sujet 
+du projet
+[16]  En février 2013, après le dépôt de la demande 
+d’Enbridge et plusieurs mois avant les audiences, 
+l’ONÉ a envoyé un avis à 19 groupes autochtones 
+susceptibles d’être touchés par le projet, y compris 
+aux Chippewas de la Thames, afin de les informer du 
+projet, du rôle de l’ONÉ et du processus d’audience à [2017] 1 R.C.S.1109
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+Between April and July 2013, it also held informa -
+tion meetings in three communities upon their re -
+quest.
+[17]  In September 2013, prior to the NEB hear -
+ing, the Chiefs of the Chippewas of the Thames and 
+the Aamjiwnaang First Nation wrote a joint letter 
+to the Prime Minister, the Minister of Natural Re -
+sources, and the Minister of Aboriginal Affairs and 
+Northern Development. The letter described the as -
+serted Aboriginal and treaty rights of both groups 
+and the project’s potential impact on them. The 
+Chiefs noted that no Crown consultation with any 
+affected Indigenous groups had taken place with 
+respect to the project’s approval, and called on the 
+Ministers to initiate Crown consultation. No re -
+sponse arrived until after the conclusion of the NEB 
+hearing.
+[18]  In the meantime, the NEB’s process un -
+folded. The Chippewas of the Thames were granted 
+funding to participate as an intervener, and they filed 
+evidence and delivered oral argument at the hearing 
+delineating their concerns that the project would in -
+crease the risk of pipeline ruptures and spills along 
+Line 9, which could adversely impact their use of 
+the land and the Thames River for traditional pur -
+poses.
+[19]  In January 2014, after the NEB’s hearing 
+process had concluded, the Minister of Natural 
+Resources responded to the September 2013 let -
+ter. The response acknowledged the Government of 
+Canada’s commitment to fulfilling its duty to consult 
+where it exists, and stated that the “[NEB’s] regu -
+latory review process is where the Government’s 
+jurisdiction on a pipeline project is addressed. The 
+Government relies on the NEB processes to address 
+potential impacts to Aboriginal and treaty rights 
+stemming from projects under its mandate” (A.R., 
+vol. VI, at p. 47). In sum, the Minister indicated that 
+he would be relying solely on the NEB’s process to 
+fulfill the Crown’s duty to consult Indigenous peo -
+ples on the project.venir. D’avril à juillet 2013, l’ONÉ a également tenu 
+des séances d’information dans trois communautés, à 
+la demande de celles-ci.
+[17]  En septembre  2013, avant l’audience de 
+l’ONÉ, les chefs des Chippewas de la Thames et 
+de la Aamjiwnaang First Nation ont écrit conjoin -
+tement au premier ministre, au ministre des Res -
+sources naturelles et au ministre des Affaires 
+autochtones et du Nord. Dans leur lettre, ils décri -
+vaient les droits ancestraux et issus de traités in -
+voqués par les deux groupes et les répercussions 
+potentielles du projet sur ces droits. Les chefs sou -
+lignaient le fait que la Couronne n’avait consulté 
+aucun des groupes touchés au sujet de l’appro -
+bation du projet et ils ont demandé aux ministres 
+d’amorcer un processus de consultation menée par 
+la Couronne. Ils n’ont reçu une réponse qu’une fois 
+l’audience de l’ONÉ terminée.
+[18]  Entre-temps, le processus de l’ONÉ a suivi 
+son cours. Les Chippewas de la Thames ont ob -
+tenu les fonds nécessaires pour y participer en qua -
+lité d’intervenants. Ils ont déposé des éléments de 
+preuve et présenté des observations orales à l’au -
+dience. Ils ont dit craindre que le projet n’augmente 
+le risque de ruptures du pipeline et de déversements 
+le long de la canalisation 9, ce qui pourrait avoir 
+des effets préjudiciables sur leur utilisation tradi -
+tionnelle du territoire et de la rivière.
+[19]  En janvier 2014, une fois le processus d’au -
+dience de l’ONÉ terminé, le ministre des Ressources 
+naturelles a répondu à la lettre qu’il avait reçue en 
+septembre 2013. La réponse faisait état de l’enga -
+gement du gouvernement du Canada à s’acquitter 
+de l’obligation de consulter lorsqu’elle existe et pré -
+cisait que [ TRADUCTION ] « le processus d’examen 
+réglementaire [de l’ONÉ] est le cadre dans lequel 
+la question de la compétence du gouvernement à 
+l’égard d’un projet de pipeline est examinée. Le gou -
+vernement s’en remet au processus de l’ONÉ pour 
+l’examen des effets potentiels sur les droits ances -
+traux et issus de traités que peuvent avoir les projets 
+qui relèvent de son mandat » (d.a., vol. VI, p. 47). En 
+somme, le ministre indiquait qu’il s’en remettait ex -
+clusivement au processus de l’ONÉ pour satisfaire à 
+l’obligation qui incombe à la Couronne de consulter 
+les peuples autochtones au sujet du projet.1110 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+III. The Decisions Below
+A. The NEB’s Decision, 2014 LNCNEB 4 (QL)
+[20]  The NEB approved the project, finding that 
+it was in the public interest and consistent with 
+the requirements in the NEB Act . It explained that 
+the approval “enables Enbridge to react to market 
+forces and provide benefits to Canadians, while at 
+the same time implementing the Project in a safe 
+and environmentally sensitive manner” (para. 20). 
+The NEB imposed conditions on the project related 
+to pipeline integrity, safety, environmental protec -
+tion, and the impact of the project on Indigenous 
+communities.
+[21]  In its discussion of Aboriginal Matters (Chap -
+ter 7 of the NEB’s reasons), the NEB explained that 
+it “interprets its responsibilities, including those 
+outlined in section 58 of the NEB Act, in a manner 
+consistent with the Constitution Act, 1982 , including 
+section 35” (para. 293). It noted that proponents are 
+required to make reasonable efforts to consult with 
+Indigenous groups, and that the NEB hearing pro -
+cess is part of the consultative process. In deciding 
+whether a project is in the public interest, the NEB 
+“considers all of the benefits and burdens associated 
+with the project, balancing the interests and con -
+cerns of Aboriginal groups with other interests and 
+factors” (para. 301).
+[22]  The NEB noted that, in this case, the scope 
+of the project was limited. It was not an assess -
+ment of the current operating Line 9, but rather of 
+the modifications required to increase the capacity 
+of Line 9, transport heavy crude on Line 9, and re -
+verse the flow of Line 9B. Enbridge would not need 
+to acquire any new permanent land rights for the 
+project. Most work would take place within exist -
+ing Enbridge facilities and its existing right of way. 
+Given the limited scope of the project, the NEB was 
+satisfied that potentially affected Indigenous groups 
+had received adequate information about the proj -
+ect. It was also satisfied that potentially affected In -
+digenous groups had the opportunity to share their 
+views about the project through the NEB hearing 
+process and through discussions with Enbridge. III. Les décisions des juridictions inférieures
+A. La décision de l’ONÉ, 2014 LNCONE 4 (QL)
+[20]  L’ONÉ a approuvé le projet, estimant qu’il 
+était dans l’intérêt public et qu’il répondait aux exi -
+gences de la Loi sur l’ONÉ . Il a expliqué que sa 
+décision « donne à Enbridge la possibilité de réagir 
+aux forces du marché et procure des avantages à la 
+population canadienne. Elle permet également la 
+mise en œuvre du projet d’une manière sécuritaire 
+et écologique » (par. 20). L’ONÉ a assorti le projet 
+de conditions relatives à l’intégrité et à la sécurité 
+du pipeline, à la protection de l’environnement et à 
+ses effets sur les communautés autochtones.
+[21]  Dans son analyse des questions autochtones 
+(chapitre 7 de ses motifs), l’ONÉ explique qu’il 
+« conçoit ses attributions, dont celles conférées par 
+l’article 58 de la Loi, en conformité avec la Loi 
+constitutionnelle de 1982, notamment l’article 35 » 
+(par. 293). Il indique que les promoteurs doivent 
+faire des efforts raisonnables pour consulter les 
+groupes autochtones, et que le processus d’audience 
+de l’ONÉ fait partie du processus de consultation 
+global. Pour décider si un projet est d’intérêt public, 
+l’ONÉ « en examine l’ensemble des retombées et 
+des inconvénients et met en balance les intérêts et 
+préoccupations des Autochtones, d’une part, et tous 
+les autres facteurs et intérêts, d’autre part » (p. 301).
+[22]  L’ONÉ a noté qu’en l’espèce le projet était 
+d’envergure limitée. Ce faisant, il ne se prononçait 
+pas sur la canalisation 9 alors en exploitation, mais 
+sur les modifications requises pour accroître sa ca -
+pacité, permettre le transport de pétrole brut lourd et 
+inverser le sens d’écoulement de la canalisation 9B. 
+Il ne serait pas nécessaire pour Enbridge d’acquérir 
+de nouveaux droits fonciers permanents pour réaliser 
+le projet. La plupart des travaux se dérouleraient dans 
+les limites de l’emprise et des installations existantes 
+d’Enbridge. Compte tenu de l’envergure limitée du 
+projet, l’ONÉ a estimé que les groupes autochtones 
+susceptibles d’être touchés avaient été suffisamment 
+renseignés à son sujet. Il a ajouté que ceux-ci avaient 
+eu l’occasion de faire connaître leurs points de vue 
+sur le projet à la faveur du processus d’audience de [2017] 1 R.C.S.1111
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+The NEB expected that Enbridge would continue 
+consultations after the project’s approval.
+[23]  While Enbridge acknowledged that the proj -
+ect would increase the assessed risk for some parts 
+of Line 9, the NEB found that “any potential Proj -
+ect impacts on the rights and interests of Aboriginal 
+groups are likely to be minimal and will be appro -
+priately mitigated” (para. 343) given the project’s 
+limited scope, the commitments made by Enbridge, 
+and the conditions imposed by the NEB. While the 
+project would occur on lands used by Indigenous 
+groups for traditional purposes, those lands are 
+within Enbridge’s existing right of way. The project 
+was therefore unlikely to impact traditional land use. 
+The NEB acknowledged that a spill on Line 9 could 
+impact traditional land use, but it was satisfied that 
+“Enbridge will continue to safely operate Line 9, 
+protect the environment, and maintain comprehen -
+sive emergency response plans” ( ibid.).
+[24]  The NEB imposed three conditions on the 
+project related to Indigenous communities. Condi -
+tion 6 required Enbridge to file an Environmental 
+Protection Plan for the project including an Ar -
+chaeological Resource Contingency plan. Condi -
+tion 24 required Enbridge to prepare an Ongoing 
+Engagement Report providing details on its dis -
+cussions with Indigenous groups going forward. 
+Condition 26 “directs Enbridge to include Ab -
+original groups in Enbridge’s continuing education 
+program (including emergency management exer -
+cises), liaison program and consultation activities 
+on emergency preparedness and response” ( ibid.).
+B. Appeal to the Federal Court of Appeal, 2015 
+FCA 222, [2016] 3 F .C.R. 96
+[25]  The Chippewas of the Thames brought an ap -
+peal from the NEB’s decision to the Federal Court 
+of Appeal pursuant to s. 22(1) of the NEB Act . They l’ONÉ et de leurs discussions avec Enbridge. L’ONÉ 
+s’attendait à ce qu’Enbridge poursuive les consulta -
+tions une fois le projet approuvé.
+[23]  Bien qu’Enbridge ait reconnu que le projet 
+ferait augmenter le risque évalué à l’égard de cer -
+tains tronçons de la canalisation 9, l’ONÉ a conclu 
+que « les effets éventuels du projet sur les droits et 
+les intérêts des groupes autochtones seront vraisem -
+blablement négligeables et atténués de façon conve -
+nable » (par. 343), compte tenu de la portée limitée 
+du projet, des engagements pris par Enbridge et 
+des conditions imposées par l’ONÉ. Quoique le 
+projet doive être réalisé sur des terres utilisées par 
+les groupes autochtones à des fins traditionnelles, 
+ces terres sont situées dans les limites de l’em -
+prise actuelle d’Enbridge. Le projet n’aurait donc 
+vraisemblablement pas d’effets sur les utilisations 
+traditionnelles des terres. L’ONÉ a reconnu qu’un 
+déversement sur la canalisation 9 pourrait avoir des 
+effets sur les utilisations traditionnelles des terres, 
+mais il était convaincu qu’« Enbridge continuera[it] 
+d’exploiter la canalisation 9 de façon sécuritaire, 
+de veiller à la protection de l’environnement et de 
+s’appuyer sur des plans exhaustifs d’intervention en 
+cas d’urgence » ( ibid.).
+[24]  L’ONÉ a imposé à l’égard du projet trois 
+conditions relatives aux communautés autochtones. 
+La condition 6 obligeait Enbridge à présenter un 
+plan de protection de l’environnement incluant 
+un plan d’urgence relatif aux ressources archéolo -
+giques. La condition 24 exigeait d’Enbridge qu’elle 
+prépare un rapport d’engagement permanent conte -
+nant des détails sur les discussions à venir avec les 
+groupes autochtones. Enfin, la condition 26 « de -
+mand[ait] qu’Enbridge inclue les groupes autoch -
+tones dans son programme d’éducation permanente 
+(y compris les exercices de sécurité civile), son pro -
+gramme de liaison et ses consultations en matière 
+de protection civile et d’intervention » ( ibid.).
+B. Appel à la Cour d’appel fédérale, 2015 CAF 
+222, [2016] 3 R.C.F . 96
+[25]  Les Chippewas de la Thames ont interjeté 
+appel de la décision de l’ONÉ à la Cour d’appel fé -
+dérale, conformément au par. 22(1) de la Loi sur 1112 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+argued that the decision should be quashed, as the 
+NEB was “without jurisdiction to issue exemptions 
+and authorizations to [Enbridge] prior to the Crown 
+fulfilling its duty to consult and accommodate” 
+(para. 2).
+[26]  The majority of the Federal Court of Appeal 
+(Ryer and Webb JJ.A.) dismissed the appeal. It con -
+cluded that the NEB was not required to determine, 
+as a condition of undertaking its mandate with re -
+spect to Enbridge’s application, whether the Crown 
+had a duty to consult under Haida Nation v. Brit -
+ish Columbia (Minister of Forests) , 2004 SCC 73, 
+[2004] 3 S.C.R. 511, and, if so, whether the Crown 
+had fulfilled this duty.
+[27]  The majority also concluded that the NEB 
+did not have a duty to consult the Chippewas of the 
+Thames. It noted that while the NEB is required 
+to carry out its mandate in a manner that respects 
+s. 35(1) of the Constitution Act, 1982 , the NEB had 
+adhered to this obligation by requiring Enbridge 
+to consult extensively with the Chippewas of the 
+Thames and other First Nations.
+[28]  Rennie J.A. dissented. He would have al -
+lowed the appeal. In his view, the NEB was required 
+to determine whether the duty to consult had been 
+triggered and fulfilled. Given that the NEB is the 
+final decision maker for s. 58 applications, it must 
+have the power and duty to assess whether consul -
+tation is adequate, and to refuse a s. 58 application 
+where consultation is inadequate.
+IV . Analysis
+A. Crown Conduct Triggering the Duty to Consult
+[29]  In the companion case to this appeal, Clyde 
+River , we outline the principles which apply when 
+an independent regulatory agency such as the NEB 
+is tasked with a decision that could impact Ab -
+original or treaty rights. In these circumstances, the 
+NEB’s decision would itself be Crown conduct that l’ONÉ . Ils ont fait valoir que la décision devait être 
+annulée, car « il n’entrait pas dans les pouvoirs de 
+l’Office d’exempter et d’autoriser [Enbridge] avant 
+que la Couronne ne se soit acquittée de son obliga -
+tion de consulter l’appelante et de trouver des ac -
+commodements » (par. 2).
+[26]  Les juges majoritaires de la Cour d’appel fé -
+dérale (les juges Ryer et Webb) ont rejeté l’appel. 
+Ils ont conclu que l’ONÉ n’avait pas à décider, pour 
+remplir son mandat en ce qui concerne la demande 
+d’Enbridge, si la Couronne était tenue à une obli -
+gation de consulter au sens de l’arrêt Nation Haïda 
+c. Colombie-Britannique (Ministre des Forêts) , 2004 
+CSC 73, [2004] 3 R.C.S. 511, et, le cas échéant, si la 
+Couronne avait satisfait à cette obligation.
+[27]  Les juges majoritaires ont également conclu  
+que l’ONÉ n’était pas tenu de consulter les Chippewas  
+de la Thames. Ils ont indiqué que, bien qu’il doive 
+s’acquitter de son mandat conformément aux dis -
+positions du par. 35(1) de la Loi constitutionnelle 
+de 1982 , l’ONÉ avait satisfait à cette obligation en 
+exigeant d’Enbridge qu’elle participe à des consulta -
+tions approfondies avec les Chippewas de la Thames 
+et d’autres Premières Nations.
+[28]  Le juge Rennie, dissident, aurait accueilli 
+l’appel. À son avis, l’ONÉ était tenu de détermi -
+ner si l’obligation de consulter avait pris naissance 
+et si on y avait satisfait. Puisque l’ONÉ décide en 
+dernier ressort des demandes fondées sur l’art. 58, il 
+doit avoir le pouvoir et l’obligation de décider si une 
+consultation est adéquate et de refuser une demande 
+présentée au titre de l’art. 58 si la consultation est 
+inadéquate.
+IV . Analyse
+A. Mesures de la Couronne donnant naissance à 
+l’obligation de consulter
+[29]  Dans le pourvoi connexe Clyde River , nous 
+exposons les principes applicables lorsqu’un orga -
+nisme de réglementation indépendant tel que l’ONÉ 
+doit rendre une décision susceptible de porter at -
+teinte à des droits ancestraux ou issus de traités. 
+Dans un tel cas, la décision de l’ONÉ constituerait [2017] 1 R.C.S.1113
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+implicates the Crown’s duty to consult ( Clyde River , 
+at para. 29). A decision by a regulatory tribunal 
+would trigger the Crown’s duty to consult when the 
+Crown has knowledge, real or constructive, of a po -
+tential or recognized Aboriginal or treaty right that 
+may be adversely affected by the tribunal’s decision 
+(Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Coun -
+cil, 2010 SCC 43, [2010] 2 S.C.R. 650, at para. 31; 
+Clyde River , at para. 25).
+[30]  We do not agree with the suggestion that be -
+cause the Crown, in the form of a representative of 
+the relevant federal department, was not a party be -
+fore the NEB, there may have been no Crown con -
+duct triggering the duty to consult (see C.A. reasons, 
+at paras. 57 and 69-70).
+[31]  As the respondents conceded before this 
+Court, the NEB’s contemplated decision on the 
+project’s approval  would amount to Crown conduct. 
+When the NEB grants an exemption under s. 58 of 
+the NEB Act from the requirement for a certificate of 
+public convenience and necessity, which otherwise 
+would be subject to Governor in Council approval, 
+the NEB effectively becomes the final decision 
+maker on the entire application. As a statutory body 
+with the delegated executive responsibility to make 
+a decision that could adversely affect Aboriginal 
+and treaty rights, the NEB acted on behalf of the 
+Crown in approving Enbridge’s application. Because 
+the authorized work — the increase in flow capac -
+ity and change to heavy crude — could potentially 
+adversely affect the Chippewas of the Thames’ as -
+serted Aboriginal and treaty rights, the Crown had 
+an obligation to consult with respect to Enbridge’s 
+project application.
+B. Crown Consultation Can Be Conducted 
+Through a Regulatory Process
+[32]  The Chippewas of the Thames argue that 
+meaningful Crown consultation cannot be carried out en soi une mesure de la Couronne emportant pour 
+celle-ci une obligation de consulter ( Clyde River , 
+par. 29). Une décision d’un tribunal administratif 
+donnerait naissance à l’obligation de la Couronne 
+de consulter lorsque celle-ci a connaissance, concrè -
+tement ou par imputation, de l’existence d’un droit 
+ancestral ou issu d’un traité, potentiel ou reconnu, 
+sur lequel la décision pourrait avoir un effet préjudi -
+ciable ( Rio Tinto Alcan Inc. c. Conseil tribal Carrier 
+Sekani , 2010 CSC 43, [2010] 2 R.C.S. 650, par. 31; 
+Clyde River , par. 25).
+[30]  Nous ne partageons pas l’opinion voulant 
+que, parce que la Couronne n’a pas pris part à l’ins -
+tance devant l’ONÉ par l’entremise d’un représen -
+tant du ministère fédéral compétent, il est possible 
+qu’il n’y ait eu aucune de mesure de la Couronne 
+ayant donné naissance à l’obligation de consulter 
+(voir les motifs de la C.A., par. 57 et 69-70).
+[31]  Comme l’ont concédé les intimés devant la 
+Cour, la décision relative à l’approbation du pro -
+jet envisagée par l’ONÉ pouvait être considérée 
+comme une mesure de la Couronne. Lorsque l’ONÉ 
+accorde, sous le régime de l’art. 58 de la Loi sur 
+l’ONÉ , une exemption quant à l’obligation relative 
+au certificat d’utilité publique dont la délivrance est 
+par ailleurs assujettie à l’approbation du gouverneur 
+en conseil, c’est effectivement à l’ONÉ que revient 
+la décision définitive sur l’ensemble de la demande. 
+En tant qu’organisme d’origine législative investi du 
+pouvoir délégué de rendre une décision susceptible 
+de porter atteinte à des droits ancestraux et issus de 
+traités, l’ONÉ agissait au nom de la Couronne lors -
+qu’il a approuvé la demande d’Enbridge. Comme 
+les travaux autorisés — une augmentation de la ca -
+pacité d’écoulement et une modification permettant 
+le transport de pétrole brut lourd — étaient suscep -
+tibles de porter atteinte aux droits ancestraux et issus 
+de traités invoqués par les Chippewas de la Thames, 
+la Couronne avait une obligation de consulter relati -
+vement à la demande d’Enbridge.
+B. La consultation incombant à la Couronne peut 
+être menée dans le cadre d’un processus régle -
+mentaire
+[32]  Les Chippewas de la Thames soutiennent 
+qu’une véritable consultation par la Couronne ne 1114 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+wholly through a regulatory process. We disagree. 
+As we conclude in Clyde River , the Crown may rely 
+on steps taken by an administrative body to fulfill 
+its duty to consult (para. 30). The Crown may rely 
+on a regulatory agency in this way so long as the 
+agency possesses the statutory powers to do what 
+the duty to consult requires in the particular circum -
+stances ( Carrier Sekani , at para. 60; Clyde River , at 
+para. 30). However, if the agency’s statutory powers 
+are insufficient in the circumstances or if the agency 
+does not provide adequate consultation and accom -
+modation, the Crown must provide further avenues 
+for meaningful consultation and accommodation in 
+order to fulfill the duty prior to project approval. Oth -
+erwise, the regulatory decision made on the basis of 
+inadequate consultation will not satisfy constitutional 
+standards and should be quashed on judicial review 
+or appeal.
+[33]  The majority of the Federal Court of Appeal 
+in this case expressed concern that a tribunal like 
+the NEB might be charged with both carrying out 
+consultation on behalf of the Crown and then ad -
+judicating on the adequacy of these consultations 
+(para. 66). A similar concern was expressed in Que-
+bec (Attorney General) v. Canada (National Energy 
+Board) , [1994] 1 S.C.R. 159, where, in a pre- Haida  
+decision, the Court held that quasi-judicial tribu -
+nals like the NEB do not owe Indigenous peoples 
+a heightened degree of procedural fairness. The 
+Court reasoned that imposition of such an obliga -
+tion would risk compromising the independence of 
+quasi-judicial bodies like the NEB (pp. 183-84).
+[34]  In our view, these concerns are answered 
+by recalling that while it is the Crown  that owes a 
+constitutional obligation to consult with potentially 
+affected Indigenous peoples, the NEB is tasked 
+with making legal decisions that comply with the 
+Constitution. When the NEB is called on to assess 
+the adequacy of Crown consultation, it may con -
+sider what consultative steps were provided, but peut être menée entièrement dans le cadre d’un pro -
+cessus réglementaire. Nous ne sommes pas d’accord. 
+Comme nous le concluons dans l’arrêt Clyde River , 
+la Couronne peut se fonder sur les mesures prises 
+par un organisme administratif pour satisfaire à son 
+obligation de consulter (par. 30). La Couronne peut 
+ainsi s’en remettre à un organisme de réglementation 
+dans la mesure où ce dernier dispose du pouvoir lé -
+gal de faire ce que l’obligation de consulter impose 
+dans les circonstances ( Carrier Sekani , par.  60; 
+Clyde River , par. 30). Toutefois, si les pouvoirs que 
+la loi confère à l’organisme sont insuffisants dans les 
+circonstances, ou si l’organisme ne prévoit pas des 
+consultations et des accommodements adéquats, la 
+Couronne doit prévoir d’autres avenues de consulta -
+tion et d’accommodement véritables qui lui permet -
+tront de satisfaire à son obligation avant que le projet 
+ne soit approuvé. Autrement, la décision que l’orga -
+nisme de réglementation aura prise sans consultation 
+adéquate ne respectera pas les normes constitution -
+nelles et devrait être annulée à l’issue d’un contrôle 
+judiciaire ou d’un appel.
+[33]  En l’espèce, les juges majoritaires de la Cour 
+d’appel fédérale ont dit craindre qu’un tribunal tel 
+l’ONÉ soit tenu à la fois de mener des consultations 
+au nom de la Couronne puis de se prononcer sur 
+le caractère adéquat de ces consultations (par. 66). 
+Notre Cour a exprimé une préoccupation semblable 
+dans l’arrêt Québec (Procureur général) c. Canada 
+(Office national de l’énergie) , [1994] 1 R.C.S. 159, 
+lorsqu’elle a conclu, dans une décision antérieure 
+à l’arrêt Haïda , que les tribunaux quasi judiciaires 
+tel l’ONÉ n’ont pas à faire preuve d’un degré plus 
+élevé d’équité procédurale à l’égard des peuples au -
+tochtones. La Cour a expliqué que le fait d’imposer 
+une telle obligation pourrait porter atteinte à l’in -
+dépendance des tribunaux quasi judiciaires comme 
+l’ONÉ (p. 183-184).
+[34]  À notre avis, il est possible de répondre à 
+ces préoccupations en rappelant que, bien que ce 
+soit à la Couronne  qu’incombe l’obligation consti -
+tutionnelle de consulter les peuples autochtones 
+potentiellement touchés, l’ONÉ est tenu de rendre 
+des décisions juridiques qui sont conformes à la 
+Constitution. Lorsqu’il est appelé à se prononcer sur 
+le caractère adéquat de la consultation incombant à [2017] 1 R.C.S.1115
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+its obligation to remain a neutral arbitrator does 
+not change. A tribunal is not compromised when it 
+carries out the functions Parliament has assigned to 
+it under its Act and issues decisions that conform 
+to the law and the Constitution. Regulatory agen -
+cies often carry out different, overlapping functions 
+without giving rise to a reasonable apprehension of 
+bias. Indeed this may be necessary for agencies to 
+operate effectively and according to their intended 
+roles ( Ocean Port Hotel Ltd. v. British Columbia 
+(General Manager, Liquor Control and Licens -
+ing Branch) , 2001 SCC 52, [2001] 2 S.C.R. 781, 
+at para. 41). Furthermore, the Court contemplated 
+this very possibility in Carrier Sekani , when it rea -
+soned that tribunals may be empowered with both 
+the power to carry out the Crown’s duty to consult 
+and the ability to adjudicate on the sufficiency of 
+consultation (para. 58).
+C. The Role of a Regulatory Tribunal When the 
+Crown Is Not a Party
+[35]  At the Federal Court of Appeal, the majority 
+and dissenting judges disagreed over whether the 
+NEB was empowered to decide whether the Crown’s 
+consultation was adequate in the absence of the 
+Crown participating in the NEB process as a party. 
+The disagreement stems from differing interpreta -
+tions of Carrier Sekani and whether it overruled 
+Standing Buffalo Dakota First Nation v. Enbridge 
+Pipelines Inc. , 2009 FCA 308, [2010] 4 F.C.R. 
+500. In Standing Buffalo , the Federal Court of Ap -
+peal held that the NEB was not required to consider 
+whether the Crown’s duty to consult had been dis -
+charged before approving a s. 52 pipeline applica -
+tion when the Crown did not formally participate in 
+the NEB’s hearing process. The majority in this case 
+held that the principle from Standing Buffalo applied 
+here. Because the Crown (meaning, presumably, 
+a relevant federal ministry or department) had not 
+participated in the NEB’s hearing process, the ma -
+jority reasoned that the NEB was under no obliga -
+tion to consider whether the Crown’s duty to consult 
+had been discharged before it approved Enbridge’s 
+s. 58 application (para. 59). In dissent, Rennie J.A. la Couronne, l’ONÉ peut tenir compte des mesures 
+de consultation offertes, mais son obligation de 
+neutralité demeure la même. Un tribunal respecte 
+sa compétence lorsqu’il exerce les fonctions que le 
+législateur lui a attribuées dans une loi, et que ses 
+décisions sont conformes à la loi et à la Constitution. 
+Les organismes de réglementation cumulent bien 
+souvent des fonctions différentes qui se chevauchent 
+sans susciter une crainte raisonnable de partialité. En 
+fait, ce cumul peut être nécessaire en ce qu’il permet 
+aux organismes de remplir efficacement leur rôle 
+(Ocean Port Hotel Ltd. c. Colombie-Britannique 
+(General Manager, Liquor Control and Licen -
+sing Branch) , 2001 CSC 52, [2001] 2 R.C.S. 781, 
+par. 41). D’ailleurs, notre Cour a envisagé cette pos -
+sibilité dans l’arrêt Carrier Sekani , lorsqu’elle a ex -
+pliqué que les tribunaux administratifs peuvent être 
+investis autant du pouvoir de satisfaire à l’obligation 
+de consulter qui incombe à la Couronne que de celui 
+de se prononcer sur le caractère suffisant des consul -
+tations (par. 58).
+C. Le rôle d’un tribunal administratif lorsque la 
+Couronne n’est pas une partie
+[35]  À la Cour d’appel fédérale, les juges majo -
+ritaires et le juge dissident étaient en désaccord sur 
+la question de savoir si l’ONÉ pouvait, même si la 
+Couronne n’était pas partie à la procédure devant lui, 
+décider si les consultations menées par cette dernière 
+étaient adéquates. Le désaccord découle d’interpré -
+tations divergentes de l’arrêt Carrier Sekani et de la 
+question de savoir si cet arrêt a pour effet d’écarter la 
+décision Première nation dakota de Standing Buffalo 
+c. Enbridge Pipelines Inc. , 2009 CAF 308, [2010] 4 
+R.C.F. 500.  Dans Standing Buffalo , la Cour d’appel 
+fédérale a conclu que l’ONÉ n’était pas tenu de se de -
+mander si la Couronne avait satisfait à son obligation 
+de consulter avant d’approuver une demande fondée 
+sur l’art. 52 sollicitant la délivrance d’un certificat 
+relatif à un pipeline, dans les cas où la Couronne 
+n’a pas officiellement participé au processus d’au -
+dience de l’ONÉ. Dans l’affaire qui nous occupe, les 
+juges majoritaires ont conclu que le principe énoncé 
+dans l’arrêt Standing Buffalo s’appliquait à l’espèce. 
+Étant donné que la Couronne (c’est-à-dire, présumé -
+ment, un ministère ou un organisme fédéral compé -
+tent) n’avait pas participé au processus d’audience 1116 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+reasoned that Standing Buffalo had been overtaken 
+by this Court’s decision in Carrier Sekani . Even in 
+the absence of the Crown’s participation as a party 
+before the NEB, he held that the NEB was required 
+to consider the Crown’s duty to consult before ap -
+proving Enbridge’s application (para. 112).
+[36]  We agree with Rennie J.A. that a regulatory 
+tribunal’s ability to assess the Crown’s duty to con -
+sult does not depend on whether the government 
+participated in the NEB’s hearing process. If the 
+Crown’s duty to consult has been triggered, a deci -
+sion maker may only proceed to approve a project if 
+Crown consultation is adequate. The Crown’s con -
+stitutional obligation does not disappear when the 
+Crown acts to approve a project through a regulatory 
+body such as the NEB. It must be discharged before 
+the government proceeds with approval of a project 
+that could adversely affect Aboriginal or treaty rights 
+(Tsilhqot’in Nation v. British Columbia , 2014 SCC 
+44, [2014] 2 S.C.R. 257, at para. 78).
+[37]  As the final decision maker on certain proj -
+ects, the NEB is obliged to consider whether the 
+Crown’s consultation with respect to a project was 
+adequate if the concern is raised before it ( Clyde 
+River , at para. 36). The responsibility to ensure the 
+honour of the Crown is upheld remains with the 
+Crown ( Clyde River , at para. 22). However, admin -
+istrative decision makers have both the obligation 
+to decide necessary questions of law raised before 
+them and an obligation to make their decisions 
+within the contours of the state’s constitutional 
+obligations ( R. v. Conway , 2010 SCC 22, [2010] 1 
+S.C.R. 765, at para. 77).de l’ONÉ, les juges majoritaires se sont dits d’avis 
+que l’ONÉ n’avait pas l’obligation d’examiner si la 
+Couronne avait respecté son obligation de consulter 
+avant d’approuver la demande d’Enbridge fondée sur 
+l’art. 58 (par. 59). Dans sa dissidence, le juge Rennie 
+a estimé que l’arrêt Standing Buffalo avait été écarté 
+par la décision de notre Cour dans Carrier Sekani . Il 
+a conclu que, bien que la Couronne n’ait pas parti -
+cipé à la procédure devant l’ONÉ en tant que partie, 
+l’ONÉ était tenu de prendre en compte l’obligation 
+de consulter de la Couronne avant d’approuver la de -
+mande d’Enbridge (par. 112).
+[36]  Nous sommes d’accord avec le juge Rennie 
+pour dire que le pouvoir d’un tribunal administratif 
+d’apprécier l’obligation de consulter de la Couronne 
+n’est pas tributaire de la participation du gouverne -
+ment aux audiences de l’ONÉ. Si l’obligation de 
+la Couronne de procéder à une consultation a pris 
+naissance, un décideur ne peut approuver un projet 
+que si cette consultation est adéquate. L’obligation 
+constitutionnelle de la Couronne ne disparaît pas 
+lorsqu’elle s’engage dans le processus d’approbation 
+d’un projet par l’intermédiaire d’un organisme de ré -
+glementation tel l’ONÉ. Il doit être satisfait à cette 
+obligation avant que le gouvernement n’approuve 
+un projet susceptible d’avoir un effet préjudiciable 
+sur des droits ancestraux ou issus de traités ( Nation 
+Tsilhqot’in c. Colombie-Britannique , 2014 CSC 44, 
+[2014] 2 R.C.S. 257, par. 78).
+[37]  En tant que décideur ultime en ce qui concerne 
+certains projets, l’ONÉ doit, lorsque la question est 
+soulevée devant lui, se demander si les consultations 
+par la Couronne relativement à un projet donné ont 
+été adéquates ( Clyde River , par. 36). La responsabi -
+lité de veiller à ce que l’honneur de la Couronne soit 
+préservé continue de reposer sur cette dernière ( Clyde 
+River , par. 22). Toutefois, les décideurs administratifs 
+ont l’obligation de trancher les questions de droit per -
+tinentes soulevées devant eux, ainsi que l’obligation 
+de rendre leurs décisions dans le respect des obliga -
+tions constitutionnelles de l’État ( R. c. Conway , 2010 
+CSC 22, [2010] 1 R.C.S. 765, par. 77).[2017] 1 R.C.S.1117
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+D. Scope of the Duty to Consult
+[38]  The degree of consultation required depends 
+on the strength of the Aboriginal claim, and the seri -
+ousness of the potential impact on the right ( Haida , 
+at paras. 39 and 43-45).
+[39]  Relying on Carrier Sekani , the Attorney Gen -
+eral of Canada asserts that the duty to consult in 
+this case “is limited to the [p]roject” and “does not 
+arise in relation to claims for past infringement such 
+as the construction of a pipeline under the Thames 
+River in 1976” (R.F., vol. I, at para. 80).
+[40]  While the Chippewas of the Thames iden -
+tify new impacts associated with the s. 58 applica -
+tion that trigger the duty to consult and delimit its 
+scope, they also note that “[t]he potential adverse 
+impacts to [the asserted] Aboriginal rights and title 
+resulting from approval of Enbridge’s application 
+for modifications to Line 9 are cumulative and seri -
+ous and could even be catastrophic in the event of 
+a pipeline spill” (A.F., at para. 57). Similarly, the 
+Mississaugas of the New Credit First Nation, an in -
+tervener, argued in the hearing that, because s. 58 is 
+frequently applied to discrete pipeline expansion and 
+redevelopment projects, there are no high-level stra -
+tegic discussions or consultations about the broader 
+impact of pipelines on the First Nations in southern 
+Ontario.
+[41]  The duty to consult is not triggered by his -
+torical impacts. It is not the vehicle to address his -
+torical grievances. In Carrier Sekani , this Court 
+explained that the Crown is required to consult on 
+“adverse impacts flowing from the specific Crown 
+proposal at issue — not [on] larger adverse impacts 
+of the project of which it is a part. The subject of the 
+consultation is the impact on the claimed rights of 
+the current decision under consideration” ( Carrier 
+Sekani , at para. 53 (emphasis in original)). Carrier 
+Sekani also clarified that “[a]n order compelling 
+consultation is only appropriate where the proposed 
+Crown conduct, immediate or prospective, may D. Étendue de l’obligation de consulter
+[38]  L’étendue de la consultation requise dépend 
+de la solidité de la revendication autochtone et de la 
+gravité de l’impact potentiel sur le droit concerné 
+(Haïda , par. 39 et 43-45).
+[39]  S’appuyant sur l’arrêt Carrier Sekani,  la pro -
+cureure générale du Canada fait valoir qu’en l’es -
+pèce l’obligation de consulter [ TRADUCTION ] « se 
+limite au [p]rojet » et « ne s’applique pas relative -
+ment à des demandes relatives à des manquements 
+passés tels que la construction d’un pipeline sous la 
+rivière Thames en 1976 » (m.i., vol. I, par. 80).
+[40]  Bien qu’ils fassent état de nouveaux effets 
+liés à la demande fondée sur l’art. 58 qui font naître 
+l’obligation de consulter et en délimitent la portée, 
+les Chippewas de la Thames soulignent aussi que 
+[TRADUCTION ] « [l]es éventuels effets préjudiciables 
+aux droits ancestraux et au titre ancestral [invoqués] 
+découlant de l’approbation de la demande d’En -
+bridge de modifier la canalisation 9 sont graves et 
+cumulatifs, et pourraient même être catastrophiques 
+advenant un déversement  » (m.a., par.  57). De 
+même, l’intervenante Mississaugas of the New Cre -
+dit First Nation a soutenu à l’audience que, parce 
+que l’art. 58 s’applique fréquemment à des projets 
+distincts d’agrandissement et de réaménagement de 
+pipelines, il n’y a pas de discussions ou consulta -
+tions stratégiques de haut niveau au sujet des effets 
+plus larges du pipeline sur les Premières Nations 
+dans le Sud de l’Ontario.
+[41]  Des conséquences d’ordre historique ne font 
+pas naître l’obligation de consulter. Il ne s’agit pas 
+d’un moyen approprié de régler des griefs histo -
+riques. Dans Carrier Sekani , notre Cour a expliqué 
+que la Couronne est tenue de mener des consulta -
+tions sur les « effets préjudiciables de la mesure 
+précise projetée par la Couronne, à l’exclusion des 
+effets préjudiciables globaux du projet dont elle fait 
+partie. La consultation s’intéresse à l’effet de la dé -
+cision actuellement  considérée sur les droits reven -
+diqués » ( Carrier Sekani , par. 53 (en italique dans 
+l’original)). La Cour a également précisé dans cet ar -
+rêt que « [l]’ordonnance de consulter n’est indiquée 1118 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+adversely impact on established or claimed rights” 
+(para. 54).
+[42]  That said, it may be impossible to under -
+stand the seriousness of the impact of a project on 
+s. 35 rights without considering the larger context 
+(J. Woodward, Native Law (loose-leaf),  vol. 1,  at 
+pp. 5-107 to 5-108). Cumulative effects of an ongo -
+ing project, and historical context, may therefore in -
+form the scope of the duty to consult ( West Moberly 
+First Nations v. British Columbia (Chief Inspector of 
+Mines) , 2011 BCCA 247, 18 B.C.L.R. (5th) 234, at 
+para. 117). This is not “to attempt the redress of past 
+wrongs. Rather, it is simply to recognize an existing 
+state of affairs, and to address the consequences of 
+what may result from” the project ( West Moberly , at 
+para. 119).
+[43]  Neither the Federal Court of Appeal nor the 
+NEB discussed the degree of consultation required. 
+That said, and as we will explain below, even tak -
+ing the strength of the Chippewas of the Thames’ 
+claim and the seriousness of the potential impact on 
+the claimed rights at their highest, the consultation 
+undertaken in this case was manifestly adequate.
+E. Was There Adequate Notice That the Crown 
+Was Relying on the NEB’s Process in This 
+Case?
+[44]  As indicated in the companion case Clyde 
+River , the Crown may rely on a regulatory body 
+such as the NEB to fulfill the duty to consult. How -
+ever, where the Crown intends to do so, it should 
+be made clear to the affected Indigenous group that 
+the Crown is relying on the regulatory body’s pro -
+cesses to fulfill its duty ( Clyde River , at para. 23). 
+The Crown’s constitutional obligation requires a 
+meaningful consultation process that is carried out 
+in good faith. Obviously, notice helps ensure the 
+appropriate participation of Indigenous groups, 
+because it makes clear to them that consultation que lorsque la mesure projetée par la Couronne, 
+qu’elle soit immédiate ou prospective, est suscep -
+tible d’avoir un effet préjudiciable sur des droits éta -
+blis ou revendiqués » (par. 54).
+[42]  Cela dit, il peut se révéler impossible de bien 
+saisir la gravité des effets d’un projet sur des droits 
+visés à l’art. 35 si on ne tient pas compte du contexte 
+plus large (J. Woodward, Native Law  (feuilles mo -
+biles), vol. 1, p. 5-107 à 5-108). Les effets cumulatifs 
+d’un projet continu ainsi que le contexte historique 
+peuvent donc être pertinents pour déterminer l’éten -
+due de l’obligation de consulter ( West Moberly 
+First Nations c. British Columbia (Chief Inspector 
+of Mines) , 2011 BCCA 247, 18 B.C.L.R. (5th) 234, 
+par. 117). Il n’est pas question de [ TRADUCTION ]  
+« tenter de remédier à des manquements passés. Il 
+s’agit plutôt simplement de reconnaître une situation 
+existante et de remédier aux conséquences de ce qui 
+peut résulter » du projet ( West Moberly , par. 119).
+[43]  Ni la Cour d’appel fédérale ni l’ONÉ n’ont 
+traité de l’étendue de la consultation requise. Cela 
+étant, et comme nous l’expliquerons ci-après, 
+même en considérant de la façon la plus favorable 
+aux Chippewas de la Thames la solidité de leur re -
+vendication et la gravité de l’impact potentiel sur 
+les droits qu’ils invoquent, la consultation menée en 
+l’espèce a manifestement été adéquate.
+E. Le fait que la Couronne s’en remettait au pro -
+cessus de l’ONÉ a-t-il fait l’objet d’un avis suf -
+fisant?
+[44]  Comme nous l’avons précisé dans l’arrêt 
+connexe Clyde River , la Couronne peut s’en remettre 
+à un organisme de réglementation tel l’ONÉ pour 
+satisfaire à son obligation de consulter. Toutefois, 
+lorsque la Couronne entend procéder de cette façon, 
+il doit être clairement indiqué au groupe autochtone 
+touché que la Couronne s’en remet au processus de 
+l’organisme de réglementation pour satisfaire à son 
+obligation ( Clyde River , par. 23). L’obligation consti -
+tutionnelle de la Couronne exige le recours à un 
+processus véritable de consultation, mené de bonne 
+foi. De toute évidence, l’avis contribue à garantir [2017] 1 R.C.S.1119
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+is being carried out through the regulatory body’s 
+processes ( ibid.).
+[45]  In this case, the Chippewas of the Thames say 
+they did not receive explicit notice from the Crown 
+that it intended to rely on the NEB’s process to sat -
+isfy the duty. In September 2013, the Chippewas 
+of the Thames wrote to the Prime Minister, the 
+Minister of Natural Resources and the Minister of 
+Aboriginal Affairs and Northern Development re -
+questing a formal Crown consultation process in re -
+lation to the project. It was not until January 2014, 
+after the NEB’s hearing process was complete, that 
+the Minister of Natural Resources responded to the 
+Chippewas of the Thames on behalf of the Crown 
+advising them that it relied on the NEB’s process. 
+At the hearing before this Court, the Chippewas of 
+the Thames conceded that the Crown may have been 
+entitled to rely on the NEB to carry out the duty had 
+they received the Minister’s letter indicating the 
+Crown’s reliance prior to the NEB hearing (tran -
+script, at pp. 34-35). However, having not received 
+advance notice of the Crown’s intention to do so, the 
+Chippewas of the Thames maintain that consultation 
+could not properly be carried out by the NEB.
+[46]  In February 2013, the NEB contacted the 
+Chippewas of the Thames and 18 other Indigenous 
+groups to inform them of the project and of the 
+NEB’s role in relation to its approval. The Indige -
+nous groups were given early notice of the hearing 
+and were invited to participate in the NEB process. 
+The Chippewas of the Thames accepted the invita -
+tion and appeared before the NEB as an intervener. 
+In this role, they were aware that the NEB was the 
+final decision maker under s. 58 of the NEB Act . 
+Moreover, as is evidenced from their letter of Sep -
+tember 2013, they understood that no other Crown 
+entity was involved in the process for the purposes 
+of carrying out consultation. In our view, the cir -
+cumstances of this case made it sufficiently clear to 
+the Chippewas of the Thames that the NEB process 
+was intended to constitute Crown consultation and une participation appropriée de la part des groupes 
+autochtones, car il leur indique clairement que la 
+consultation s’effectue dans le cadre du processus 
+mené par l’organisme de réglementation ( ibid.).
+[45]  En l’espèce, les Chippewas de la Thames 
+disent ne pas avoir reçu de la Couronne un avis expli -
+cite indiquant qu’elle entendait satisfaire à son obli -
+gation dans le cadre du processus de l’ONÉ. Au mois 
+de septembre 2013, les Chippewas de la Thames ont 
+écrit au premier ministre, au ministre des Ressources 
+naturelles et au ministre des Affaires autochtones et 
+du Développement du Nord pour leur demander la 
+mise sur pied d’un processus formel de consulta -
+tion mené par la Couronne relativement au projet. 
+Ce n’est qu’au mois de janvier 2014, après la fin des 
+audiences de l’ONÉ, que le ministre des Ressources 
+naturelles a répondu aux Chippewas de la Thames 
+au nom de la Couronne et les a informés que celle-ci 
+s’en remettait au processus de l’ONÉ. À l’audience 
+devant notre Cour, les Chippewas de la Thames ont 
+concédé que la Couronne aurait pu s’en remettre au 
+processus de l’ONÉ pour satisfaire à son obligation 
+s’ils avaient reçu avant la tenue des audiences la 
+lettre du ministre les informant que la Couronne en -
+tendait agir ainsi (transcription, p. 34-35). Toutefois, 
+comme ils n’ont pas été avisés à l’avance de l’inten -
+tion de la Couronne de procéder ainsi, les Chippewas 
+de la Thames soutiennent que la consultation ne pou -
+vait être menée de manière adéquate par l’ONÉ.
+[46]  En février 2013, l’ONÉ a communiqué avec 
+les Chippewas de la Thames et 18 autres groupes 
+autochtones pour les informer de l’existence du 
+projet et du rôle de l’ONÉ concernant son appro -
+bation. Les groupes autochtones ont été avisés à 
+l’avance de la tenue des audiences et ont été invités 
+à participer au processus de l’ONÉ. Les Chippewas 
+de la Thames ont accepté l’invitation et ils ont 
+comparu devant l’ONÉ en tant qu’intervenants. À 
+ce titre, ils savaient que l’ONÉ était le décideur ul -
+time aux termes de l’art. 58 de la Loi sur l’ONÉ . 
+De plus, comme il ressort de leur lettre du mois de 
+septembre 2013, ils comprenaient qu’aucun autre 
+organisme de l’État ne participait au processus pour 
+effectuer des consultations. Selon nous, les circons -
+tances indiquaient de façon suffisamment claire 
+aux Chippewas de la Thames que le processus de 1120 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+accommodation. Notwithstanding the Crown’s fail -
+ure to provide timely notice, its consultation obliga -
+tion was met.
+F. Was the Crown’s Consultation Obligation Ful -
+filled?
+[47]  When deep consultation is required, the duty 
+to consult may be satisfied if there is “the opportu -
+nity to make submissions for consideration, formal 
+participation in the decision-making process, and 
+provision of written reasons to show that Aborigi -
+nal concerns were considered and to reveal the im -
+pact they had on the decision” ( Haida , at para. 44). 
+As well, this Court has recognized that the Crown 
+may wish to “adopt dispute resolution procedures 
+like mediation or administrative regimes with im -
+partial decision-makers” ( ibid.). This list is neither 
+exhaustive nor mandatory. As we indicated above, 
+neither the NEB nor the Federal Court of Appeal 
+assessed the depth of consultation required in this 
+case. However, the Attorney General of Canada 
+submitted before this Court that the NEB’s statu -
+tory powers were capable of satisfying the Crown’s 
+constitutional obligations in this case, accepting the 
+rights as asserted by the Chippewas of the Thames 
+and the potential adverse impact of a spill. With 
+this, we agree.
+[48]  As acknowledged in its reasons, the NEB, as 
+a quasi-judicial decision maker, is required to carry 
+out its responsibilities under s. 58 of the NEB Act  
+in a manner consistent with s. 35 of the Constitu -
+tion Act, 1982 . In our view, this requires it to take 
+the rights and interests of Indigenous groups into 
+consideration before it makes a final decision that 
+could impact them. Given the NEB’s expertise in 
+the supervision and approval of federally regulated 
+pipeline projects, the NEB is particularly well posi -
+tioned to assess the risks posed by such projects to 
+Indigenous groups. Moreover, the NEB has broad l’ONÉ constituait le processus de consultation et 
+d’accommodement de la Couronne. Malgré son dé -
+faut de donner un avis en temps utile, la Couronne 
+a respecté son obligation de mener des consulta -
+tions.
+F. La Couronne a-t-elle satisfait à son obligation 
+de consulter?
+[47]  Lorsqu’une consultation approfondie est 
+nécessaire, il peut être satisfait à l’obligation de 
+consulter si la consultation comporte « la possibilité 
+de présenter des observations, la participation of -
+ficielle à la prise de décisions et la présentation de 
+motifs montrant que les préoccupations des Autoch -
+tones ont été prises en compte et précisant quelle a 
+été l’incidence de ces préoccupations sur la déci -
+sion » ( Haïda , par. 44). De même, la Cour a reconnu 
+que la Couronne « peut décider de recourir à un mé -
+canisme de règlement des différends comme la mé -
+diation ou un régime administratif mettant en scène 
+des décideurs impartiaux » ( ibid.). Cette liste n’est 
+pas exhaustive et ne doit pas nécessairement être 
+suivie dans chaque cas. Comme nous l’avons déjà 
+mentionné, ni l’ONÉ ni la Cour d’appel fédérale 
+n’ont évalué l’ampleur des consultations qui étaient 
+requises en l’espèce. Toutefois, la procureure géné -
+rale du Canada a fait valoir devant notre Cour que, 
+du fait des pouvoirs que la loi confère à l’ONÉ, ce 
+dernier était en mesure de satisfaire aux obligations 
+constitutionnelles de la Couronne dans le présent 
+cas, en tenant pour avérés les droits invoqués par les 
+Chippewas de la Thames et les possibles effets pré -
+judiciables d’un déversement. Nous sommes de cet 
+avis.
+[48]  Comme il l’a reconnu dans ses motifs, l’ONÉ 
+doit, en tant que décideur quasi judiciaire, s’acquit -
+ter des responsabilités qui lui incombent en vertu 
+de l’art. 58 de la Loi sur l’ONÉ  en conformité avec 
+l’art. 35 de la Loi constitutionnelle de 1982. Selon 
+nous, il doit en conséquence prendre en compte les 
+droits et les intérêts des groupes autochtones avant 
+de rendre une décision définitive qui pourrait avoir 
+une incidence sur ces droits et intérêts. Vu l’exper -
+tise qu’il possède en ce qui concerne la surveillance 
+et l’approbation de projets de pipeline réglementés 
+par le fédéral, l’ONÉ est particulièrement bien placé [2017] 1 R.C.S.1121
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+jurisdiction to impose conditions on proponents to 
+mitigate those risks. Additionally, its ongoing regu -
+latory role in the enforcement of safety measures 
+permits it to oversee long-term compliance with 
+such conditions. Therefore, we conclude that the 
+NEB’s statutory powers under s. 58 are capable of 
+satisfying the Crown’s duty to consult in this case.
+[49]  However, a finding that the NEB’s statutory 
+authority allowed for it to satisfy the duty to consult 
+is not determinative of whether the Crown’s consti -
+tutional obligations were upheld in this case. The 
+Chippewas of the Thames maintain that the pro -
+cess carried out by the NEB was not an adequate 
+substitute for Crown consultation. In particular, 
+the Chippewas of the Thames argue that the NEB’s 
+regulatory process failed to engage affected Indig -
+enous groups in a “meaningful way in order for 
+adverse impacts to be understood and minimized” 
+(A.F., at para. 110). They allege that the NEB’s 
+process did not “apprehend or address the serious -
+ness” of the potential infringement of their treaty 
+rights and title, nor did it “afford a genuine oppor -
+tunity for accommodation by the Crown” (A.F., at 
+para. 113). By minimizing the rights of the affected 
+Indigenous groups and relying upon the proponent 
+to mitigate potential impacts, they allege the pro -
+cess undertaken by the NEB allowed for nothing 
+more than “blowing off steam” ( ibid.).
+[50]  Enbridge, on the other hand, argues not 
+only that the NEB was capable of satisfying the 
+Crown’s duty to consult but that, in fact, it did so 
+here. In support of its position, Enbridge points to 
+the Chippewas of the Thames’ early notice of, and 
+participation in, the NEB’s formal hearing process 
+as well as the NEB’s provision of written reasons. 
+Moreover, Enbridge submits that far from failing pour évaluer les risques que posent des projets de 
+cette nature pour les groupes autochtones. De plus, 
+l’ONÉ dispose de vastes pouvoirs l’habilitant à im -
+poser aux promoteurs des conditions en vue d’at -
+ténuer de tels risques. En outre, le rôle permanent 
+qu’il joue en tant qu’organisme de réglementation en 
+ce qui concerne l’application de mesures de sécurité 
+lui permet de veiller au respect à long terme de ces 
+conditions. Nous concluons donc que les pouvoirs 
+que la loi confère à l’ONÉ à l’art. 58 lui permettent 
+de satisfaire à l’obligation de consulter de la Cou -
+ronne en l’espèce.
+[49]  Toutefois, la conclusion suivant laquelle les 
+pouvoirs conférés par la loi à l’ONÉ lui permettent 
+de satisfaire à l’obligation de consulter n’est pas 
+déterminante pour ce qui est de décider si la Cou -
+ronne s’est acquittée de ses obligations constitu -
+tionnelles dans la présente affaire. Les Chippewas 
+de la Thames soutiennent que le processus mené 
+par l’ONÉ n’a pas constitué un substitut adéquat 
+à des consultations menées par la Couronne. Plus 
+particulièrement, ils plaident que le processus régle -
+mentaire de l’ONÉ n’a pas permis aux groupes au -
+tochtones de participer [ TRADUCTION ] « de manière 
+utile pour que les effets préjudiciables soient bien 
+compris et réduits au minimum » (m.a., par. 110). 
+Ils allèguent que le processus de l’ONÉ n’a pas 
+permis de « saisir ou considérer la gravité » des at -
+teintes potentielles à leur titre et à leurs droits issus 
+de traités, ni « constitué une véritable occasion en 
+vue de la prise de mesures d’accommodement par 
+la Couronne » (m.a., par. 113). En n’accordant pas 
+suffisamment d’importance aux droits des groupes 
+autochtones touchés et en s’en remettant au promo -
+teur pour atténuer les effets potentiels du projet, ils 
+affirment que l’ONÉ, dans le cadre de son proces -
+sus, a tout au plus permis aux intéressés « de se dé -
+fouler » ( ibid.).
+[50]  Enbridge plaide pour sa part que non seu -
+lement l’ONÉ était en mesure de satisfaire à l’obli -
+gation de consulter de la Couronne, mais qu’il l’a 
+effectivement fait en l’espèce. À l’appui de sa thèse, 
+Enbridge signale que les Chippewas de la Thames ont 
+été rapidement avisés du processus d’audience for -
+mel de l’ONÉ, qu’ils y ont participé et que l’ONÉ a 
+exposé des motifs écrits. De plus, Enbridge soutient 1122 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+to afford a genuine opportunity for accommodation 
+by the Crown, the NEB’s process provided “effec -
+tive accommodation” through the imposition of con -
+ditions on Enbridge to mitigate the risk and effect 
+of potential spills arising from the project (R.F., at 
+para. 107).
+[51]  In our view, the process undertaken by the 
+NEB in this case was sufficient to satisfy the Crown’s 
+duty to consult. First, we find that the NEB provided 
+the Chippewas of the Thames with an adequate op -
+portunity to participate in the decision-making 
+process. Second, we find that the NEB sufficiently 
+assessed the potential impacts on the rights of In -
+digenous groups and found that the risk of negative 
+consequences was minimal and could be mitigated. 
+Third, we agree with Enbridge that, in order to 
+mitigate potential risks to the rights of Indigenous 
+groups, the NEB provided appropriate accommo -
+dation through the imposition of conditions on En -
+bridge.
+[52]  First, unlike the Inuit in the companion case 
+of Clyde River , the Chippewas of the Thames were 
+given a sufficient opportunity to make submis -
+sions to the NEB as part of its independent deci -
+sion-making process (consistent with Haida , at 
+para. 44). Here, the NEB held an oral hearing. It 
+provided early notice of the hearing process to af -
+fected Indigenous groups and sought their formal 
+participation. As mentioned above, the Chippewas 
+of the Thames participated as an intervener. The 
+NEB provided the Chippewas of the Thames with 
+participant funding which allowed them to prepare 
+and tender evidence including an expertly prepared 
+“preliminary” traditional land use study (C.A. rea -
+sons, at para. 14). Additionally, as an intervener, the 
+Chippewas of the Thames were able to pose formal 
+information requests to Enbridge, to which they re -
+ceived written responses, and to make closing oral 
+submissions to the NEB.que loin d’avoir fait défaut de constituer une véritable 
+occasion en vue de la prise de mesures d’accommo -
+dement par la Couronne, le processus de l’ONÉ s’est 
+traduit par des [ TRADUCTION ] « mesures d’accommo -
+dement effectives » du fait qu’Enbridge s’est vue im -
+poser des conditions destinées à atténuer les risques 
+et les effets d’éventuels déversements découlant du 
+projet (m.i., par. 107).
+[51]  À notre avis, le processus mené par l’ONÉ 
+en l’espèce était suffisant pour satisfaire à l’obliga -
+tion de consulter qui incombait à la Couronne. Pre -
+mièrement, nous concluons que l’ONÉ a fourni aux 
+Chippewas de la Thames une possibilité adéquate de 
+participer au processus décisionnel. Deuxièmement, 
+nous estimons que l’ONÉ a suffisamment appré -
+cié les effets potentiels du projet sur les droits des 
+groupes autochtones, ce qui l’a amené à conclure 
+que le risque d’effets préjudiciables était minime et 
+pouvait être atténué. Troisièmement, nous sommes 
+d’accord avec Enbridge pour dire que l’ONÉ a pris 
+des mesures d’accommodement appropriées pour at -
+ténuer les risques potentiels du projet sur les droits 
+des groupes autochtones en imposant des conditions 
+à Enbridge.
+[52]  Premièrement, contrairement aux Inuits dans 
+l’affaire connexe Clyde River , les Chippewas de la 
+Thames se sont vu offrir une possibilité suffisante 
+de présenter des observations à l’ONÉ dans le cadre 
+de son processus décisionnel indépendant (confor -
+mément aux prescriptions de l’arrêt Haïda , par. 44). 
+En l’espèce, l’ONÉ a tenu une audience. Il a informé 
+au préalable les groupes autochtones du processus et 
+il les a invités à y participer formellement. Comme 
+il a été indiqué précédemment, les Chippewas de la 
+Thames ont participé au processus en tant qu’inter -
+venants. L’ONÉ leur a fourni de l’aide financière qui 
+leur a permis de préparer et de présenter des éléments 
+de preuve, notamment une étude « préliminaire » sur 
+l’utilisation traditionnelle des terres réalisée par des 
+spécialistes (motifs de la C.A., par. 14). De plus, en 
+qualité d’intervenants, les Chippewas de la Thames 
+ont été en mesure de présenter de manière formelle 
+à Enbridge des demandes de renseignements aux -
+quelles cette dernière a répondu par écrit, et de pré -
+senter de vive voix à l’ONÉ des observations finales.[2017] 1 R.C.S.1123
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+[53]  Contrary to the submissions of the Chippewas 
+of the Thames, we do not find that the NEB mini -
+mized or failed to apprehend the importance of their 
+asserted Aboriginal and treaty rights. Before the 
+NEB, the Chippewas of the Thames asserted rights 
+that had the potential to be impacted by the project: 
+(a) Aboriginal harvesting and hunting rights; (b) the 
+right to access and preserve sacred sites; (c) Ab -
+original title to the bed of the Thames River and its 
+related airspace or, in the alternative, an Aboriginal 
+right to use the water, resources and airspace in the 
+bed of the Thames River; and (d) the treaty right to 
+the exclusive use of their reserve lands. In its written 
+reasons, the NEB expressly recognized these rights. 
+Moreover, in light of the rights asserted, the NEB 
+went on to consider whether affected Indigenous 
+groups had received adequate information regarding 
+the project and a proper opportunity to express their 
+concerns to Enbridge. It noted that the project was 
+to occur within Enbridge’s existing right of way on 
+previously disturbed land. No additional Crown land 
+was required. Given the scope of the project and its 
+location, the NEB was satisfied that all Indigenous 
+groups had been adequately consulted.
+[54]  Second, the NEB considered the potential 
+for negative impacts on the rights and interests of 
+the Chippewas of the Thames. It identified potential 
+consequences that could arise from either the con -
+struction required for the completion of the project 
+or the increased risk of spill brought about by the 
+continued operation of Line 9.
+[55]  The NEB found that any potential negative 
+impacts on the rights and interests of the Chippewas 
+of the Thames from the modification of Line 9 were 
+minimal and could be reasonably mitigated. The 
+NEB found that it was unlikely that the completion 
+of the project would have any impact on the tradi -
+tional land use rights of Indigenous groups. Given 
+the location of the project and its limited scope, as 
+well as the conditions that the NEB imposed on 
+Enbridge, the NEB was satisfied that the risk of [53]  Contrairement à ce qu’ont affirmé les 
+Chippewas de la Thames, nous n’estimons pas que 
+l’ONÉ a accordé trop peu d’importance aux droits 
+ancestraux et issus de traités qu’ils invoquent, ou 
+qu’il n’en a pas saisi l’importance. Devant l’ONÉ, 
+les Chippewas de la Thames ont fait valoir des 
+droits auxquels le projet était susceptible de porter 
+atteinte : a) des droits ancestraux de récolte et de 
+chasse; b) le droit d’accéder à des sites sacrés et de 
+préserver ces sites; c) le titre ancestral sur le lit et 
+l’espace aérien de la rivière Thames ou, subsidiai -
+rement, le droit ancestral d’utiliser l’eau, les res -
+sources et l’espace aérien de la rivière Thames; et 
+d) le droit issu de traités d’utiliser de manière exclu -
+sive leurs terres de réserve. Dans ses motifs écrits, 
+l’ONÉ a expressément reconnu ces droits. De plus, 
+l’ONÉ s’est demandé si, compte tenu des droits in -
+voqués, les groupes autochtones touchés avaient 
+reçu des renseignements suffisants concernant le 
+projet et s’ils s’étaient vu offrir une possibilité ap -
+propriée de faire part de leurs préoccupations à En -
+bridge. Il a souligné que le projet serait réalisé sur 
+l’emprise existante d’Enbridge dans des secteurs 
+déjà perturbés et qu’aucune terre publique addition -
+nelle n’était requise. Étant donné l’envergure du pro -
+jet et son emplacement, l’ONÉ s’est dit convaincu 
+que tous les groupes autochtones avaient été consul -
+tés adéquatement.
+[54]  Deuxièmement, l’ONÉ a examiné la possibi -
+lité que le projet ait des effets préjudiciables sur les 
+droits et les intérêts des Chippewas de la Thames. 
+Il a fait état de possibles conséquences susceptibles 
+de résulter des travaux de construction nécessaires 
+pour mener à bien le projet ou du risque accru de 
+déversements créé par l’exploitation continue de la 
+canalisation 9.
+[55]  L’ONÉ a conclu que tout effet préjudiciable 
+que pourrait avoir le projet sur les droits et les inté -
+rêts des Chippewas de la Thames en raison de la mo -
+dification de la canalisation 9 était minime et pouvait 
+raisonnablement être atténué. L’ONÉ a estimé qu’il 
+était peu probable que la réalisation du projet ait 
+quelque effet sur les droits des groupes autochtones 
+relatifs à l’utilisation traditionnelle des terres. Vu 
+l’emplacement du projet et son envergure limitée, 
+ainsi que les conditions qu’il a imposées à Enbridge, 1124 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+negative impact through the completion of the proj -
+ect was negligible.
+[56]  Similarly, the NEB assessed the increased 
+risk of a spill or leak from Line 9 as a result of the 
+project. It recognized the potential negative impacts 
+that a spill could have on traditional land use, but 
+found that the risk was low and could be adequately 
+mitigated. Given Enbridge’s commitment to safety 
+and the conditions imposed upon it by the NEB, the 
+NEB was confident that Line 9 would be operated 
+in a safe manner throughout the term of the project. 
+The risk to the rights asserted by the Chippewas of 
+the Thames resulting from a potential spill or leak 
+was therefore minimal.
+[57]  Third, we do not agree with the Chippewas of 
+the Thames that the NEB’s process failed to provide 
+an opportunity for adequate accommodation. Hav -
+ing enumerated the rights asserted by the Chippewas 
+of the Thames and other Indigenous groups, the ad -
+equacy of information provided to the Indigenous 
+groups from Enbridge in light of those rights, and 
+the risks to those rights posed by the construction 
+and ongoing operation of Line 9, the NEB imposed 
+a number of accommodation measures that were de -
+signed to minimize risks and respond directly to the 
+concerns posed by affected Indigenous groups. To 
+facilitate ongoing communication between Enbridge 
+and affected Indigenous groups regarding the proj -
+ect, the NEB imposed Condition 24. This accom -
+modation measure required Enbridge to continue to 
+consult with Indigenous groups and produce Ongo -
+ing Engagement Reports which were to be provided 
+to the NEB. Similarly, Condition 29 required En -
+bridge to file a plan for continued engagement with 
+persons and groups during the operation of Line 9. 
+Therefore, we find that the NEB carried out a mean -
+ingful process of consultation including the imposi -
+tion of appropriate accommodation measures where 
+necessary.l’ONÉ s’est dit convaincu que le risque d’effets pré -
+judiciables attribuable à l’achèvement du projet était 
+négligeable.
+[56]  De même, l’ONÉ a évalué le risque accru de 
+déversements ou de fuites de la canalisation 9 en rai -
+son du projet. Il a reconnu les effets néfastes qu’une 
+fuite pourrait avoir sur l’utilisation traditionnelle des 
+terres, mais il a conclu que ce risque était faible et 
+qu’il pouvait être adéquatement atténué. Compte 
+tenu de l’engagement d’Enbridge quant à la sécu -
+rité ainsi que des conditions imposées à cette der -
+nière, l’ONÉ s’est dit confiant que la canalisation 9 
+serait exploitée de manière sécuritaire pendant toute 
+la durée du projet. Le risque de préjudice aux droits 
+invoqués par les Chippewas de la Thames en rai -
+son d’une fuite ou d’un déversement était en consé -
+quence minime.
+[57]  Troisièmement, nous ne pouvons souscrire à 
+la thèse des Chippewas de la Thames voulant qu’ils 
+n’aient pas eu la possibilité d’obtenir des mesures 
+d’accommodement adéquates dans le cadre du pro -
+cessus de l’ONÉ. Après avoir fait état des droits in -
+voqués par les Chippewas de la Thames et d’autres 
+groupes autochtones, du caractère adéquat des 
+renseignements fournis aux groupes autochtones 
+par Enbridge eu égard à ces droits, ainsi que des 
+risques que posaient la construction et l’exploita -
+tion de la canalisation 9, l’ONÉ a imposé plusieurs 
+mesures d’accommodement visant à réduire les 
+risques au minimum et à répondre directement aux 
+préoccupations des groupes autochtones touchés 
+par le projet. Pour faciliter les communications 
+entre Enbridge et les groupes autochtones touchés 
+concernant le projet, l’ONÉ a imposé à Enbridge la 
+condition 24. Cette mesure d’accommodement exi -
+geait qu’Enbridge continue de consulter les groupes 
+autochtones et dépose auprès de l’ONÉ des rap -
+ports d’engagement permanent. De même, la condi -
+tion 29 exigeait qu’Enbridge dépose un plan de 
+consultation continue des personnes et des groupes 
+tout au long de l’exploitation de la canalisation 9. 
+Par conséquent, nous concluons que l’ONÉ a mené 
+un véritable processus de consultation, notamment 
+en imposant au besoin des mesures d’accommode -
+ment appropriées.[2017] 1 R.C.S.1125
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+[58]  Nonetheless, the Chippewas of the Thames 
+argue that any putative consultation that occurred 
+in this case was inadequate as the NEB “focused on 
+balancing multiple interests” which resulted in the 
+Chippewas of the Thames’ “Aboriginal and treaty 
+rights [being] weighed by the Board against a num -
+ber of economic and public interest factors” (A.F., 
+at paras. 95 and 104). This, the Chippewas of the 
+Thames assert, is an inadequate means by which to 
+assess Aboriginal and treaty rights that are constitu -
+tionally guaranteed by s. 35 of the Constitution Act , 
+1982 .
+[59]  In Carrier Sekani , this Court recognized that 
+“[t]he constitutional dimension of the duty to con -
+sult gives rise to a special public interest” which 
+surpasses economic concerns (para. 70). A deci -
+sion to authorize a project cannot be in the public 
+interest if the Crown’s duty to consult has not been 
+met ( Clyde River , at para. 40; Carrier Sekani , at 
+para. 70). Nevertheless, this does not mean that the 
+interests of Indigenous groups cannot be balanced 
+with other interests at the accommodation stage. 
+Indeed, it is for this reason that the duty to consult 
+does not provide Indigenous groups with a “veto” 
+over final Crown decisions ( Haida , at para. 48). 
+Rather, proper accommodation “stress[es] the need 
+to balance competing societal interests with Ab -
+original and treaty rights” ( Haida , at para. 50).
+[60]  Here, the NEB recognized that the impact 
+of the project on the rights and interests of the 
+Chippewas of the Thames was likely to be minimal. 
+Nonetheless, it imposed conditions on Enbridge 
+to accommodate the interests of the Chippewas 
+of the Thames and to ensure ongoing consultation 
+between the proponent and Indigenous groups. 
+The Chippewas of the Thames are not entitled to 
+a one-sided process, but rather, a cooperative one 
+with a view towards reconciliation. Balance and 
+compromise are inherent in that process ( Haida , at 
+para. 50).[58]  Quoi qu’il en soit, les Chippewas de la 
+Thames plaident que toute soi-disant consultation 
+ayant eu lieu en l’espèce était inadéquate étant donné 
+que l’ONÉ [ TRADUCTION ] « s’est employé à soupe -
+ser des intérêts multiples », de sorte que « l’Office a 
+soupesé les droits ancestraux et issus de traités [des 
+Chippewas de la Thames] au regard de nombreux 
+facteurs économiques et d’intérêt public  » (m.a., 
+par. 95 et 104). Cette façon de faire, de prétendre les 
+Chippewas de la Thames, ne constitue pas une mé -
+thode adéquate pour évaluer des droits ancestraux et 
+issus de traités garantis par l’art. 35 de la Loi constitu -
+tionnelle de  1982 .
+[59]  Dans Carrier Sekani , la Cour a reconnu que 
+« [l]’aspect constitutionnel de l’obligation de consul -
+ter fait naître un intérêt public spécial » qui l’emporte 
+sur des préoccupations d’ordre économique (par. 70). 
+Une décision autorisant un projet ne saurait servir 
+l’intérêt public s’il n’a pas été satisfait à l’obligation 
+de consulter de la Couronne ( Clyde River , par. 40; 
+Carrier Sekani , par. 70). Toutefois, cela ne signi -
+fie pas que les intérêts des groupes autochtones ne 
+peuvent être soupesés avec d’autres intérêts à l’étape 
+des accommodements. C’est d’ailleurs pour cette rai -
+son que l’obligation de consulter n’a pas pour effet 
+de créer en faveur des groupes autochtones un droit 
+de « veto » sur les décisions finales de la Couronne 
+(Haïda , par. 48). Des accommodements convenables 
+reposent plutôt « sur la nécessité d’établir un équi -
+libre entre des intérêts sociétaux opposés et les droits 
+ancestraux et issus de traités des Autochtones  » 
+(Haïda , par. 50).
+[60]  En l’espèce, l’ONÉ a reconnu que les effets 
+du projet sur les droits et les intérêts des Chippewas 
+de la Thames seraient vraisemblablement minimes. 
+Il a néanmoins imposé des conditions à Enbridge 
+pour accommoder les intérêts des Chippewas de la 
+Thames et pour faire en sorte que les consultations 
+se poursuivent entre le promoteur et les groupes 
+autochtones. Les Chippewas de la Thames n’ont 
+pas droit à un processus unilatéral, mais plutôt à un 
+processus coopératif visant à favoriser la réconci -
+liation. La mise en équilibre et le compromis font 
+partie intégrante de ce processus ( Haïda , par. 50).1126 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE     Karakatsanis and Brown JJ.
+G. Were the NEB’s Reasons Sufficient?
+[61]  Finally, in the hearing before us, the 
+Chippewas of the Thames raised the issue of the 
+adequacy of the NEB’s reasons regarding consulta -
+tion with Indigenous groups. The Chippewas of the 
+Thames asserted that the NEB’s process could not 
+have constituted consultation in part because of the 
+NEB’s failure to engage in a Haida -style analysis. 
+In particular, the NEB did not identify the strength 
+of the asserted Aboriginal and treaty rights, nor did 
+it identify the depth of consultation required in re -
+lation to each Indigenous group. As a consequence, 
+the Chippewas of the Thames submit that the NEB 
+could not have fulfilled the Crown’s duty to consult.
+[62]  In Haida , this Court found that where deep 
+consultation is required, written reasons will often 
+be necessary to permit Indigenous groups to deter -
+mine whether their concerns were adequately con -
+sidered and addressed (para. 44). In Clyde River , 
+we note that written reasons foster reconciliation 
+(para. 41). Where Aboriginal and treaty rights are 
+asserted, the provision of reasons denotes respect 
+(Kainaiwa/Blood Tribe v. Alberta (Energy) , 2017 
+ABQB 107, at para. 117 (CanLII)) and encourages 
+proper decision making ( Baker v. Canada (Minister 
+of Citizenship and Immigration) , [1999] 2 S.C.R. 
+817, at para. 39).
+[63]  We agree with the Chippewas of the Thames 
+that this case required the NEB to provide written 
+reasons. Additionally, as we recognized in the com -
+panion case Clyde River , where affected Indigenous 
+peoples have squarely raised concerns about Crown 
+consultation with the NEB, the NEB must usually 
+provide written reasons ( Clyde River , at para. 41). 
+However, this requirement does not necessitate a 
+formulaic “ Haida analysis” in all circumstances 
+(para. 42). Instead, where deep consultation is re -
+quired and the issue of Crown consultation is raised 
+with the NEB, the NEB will be obliged to “explain 
+how it considered and addressed” Indigenous con -
+cerns ( ibid.). What is necessary is an indication that G. Les motifs exposés par l’ONÉ sont-ils suf -
+fisants?
+[61]  Enfin, à l’audience devant nous, les 
+Chippewas de la Thames ont soulevé la question du 
+caractère suffisant des motifs exposés par l’ONÉ 
+sur les consultations avec les groupes autochtones, 
+affirmant que le processus de l’ONÉ ne pouvait 
+avoir constitué une consultation, notamment parce 
+que l’ONÉ n’a pas procédé à une analyse de type 
+Haïda . Plus particulièrement, l’ONÉ n’a pas dé -
+terminé la solidité des droits ancestraux et issus de 
+traités invoqués ni l’ampleur des consultations né -
+cessaires auprès de chacun des groupes autochtones. 
+En conséquence, les Chippewas de la Thames sou -
+tiennent que l’ONÉ ne peut avoir satisfait à l’obliga -
+tion de consulter incombant à la Couronne.
+[62]  Dans l’arrêt Haïda , notre Cour a conclu que, 
+dans les cas où des consultations approfondies sont 
+requises, des motifs écrits sont souvent nécessaires 
+pour permettre aux groupes autochtones de consta -
+ter si on a adéquatement considéré leurs préoccu -
+pations et répondu à celles-ci (par. 44). Dans Clyde 
+River , nous faisons remarquer que des motifs écrits 
+favorisent la réconciliation (par. 41). Lorsque des 
+droits ancestraux ou issus de traités sont invoqués, 
+la rédaction de motifs écrits dénote le respect ( Kai-
+naiwa/Blood Tribe c. Alberta (Energy) , 2017 ABQB 
+107, par. 117 (CanLII)) et favorise une meilleure 
+prise de décision ( Baker c. Canada (Ministre de la 
+Citoyenneté et de l’Immigration) , [1999] 2 R.C.S. 
+817, par. 39).
+[63]  À l’instar des Chippewas de la Thames, nous 
+sommes d’avis que la présente affaire requérait que 
+l’ONÉ expose des motifs écrits. De plus, comme 
+nous le reconnaissons dans le pourvoi connexe Clyde 
+River , lorsque des groupes autochtones touchés 
+soulèvent directement devant l’ONÉ des préoccu -
+pations concernant les consultations incombant à 
+la Couronne, l’ONÉ doit habituellement motiver sa 
+décision par écrit ( Clyde River , par. 41). Toutefois, 
+cette exigence n’oblige pas dans tous les cas à procé -
+der mécaniquement à l’« analyse requise par l’arrêt 
+Haïda  » (par. 42). Lorsqu’une consultation approfon -
+die est requise et que la question de la consultation 
+menée par la Couronne est soulevée devant l’ONÉ, [2017] 1 R.C.S.1127
+CHIPPEWAS OF THE THAMES  c.  ENBRIDGE     Les juges Karakatsanis et Brown
+the NEB took the asserted Aboriginal and treaty 
+rights into consideration and accommodated them 
+where appropriate.
+[64]  In our view, the NEB’s written reasons are 
+sufficient to satisfy the Crown’s obligation. It is no -
+table that, unlike the NEB’s reasons in the compan -
+ion case Clyde River , the discussion of Aboriginal 
+consultation in this case was not subsumed within an 
+environmental assessment. The NEB reviewed the 
+written and oral evidence of numerous Indigenous 
+interveners and identified, in writing, the rights and 
+interests at stake. It assessed the risks that the proj -
+ect posed to those rights and interests and concluded 
+that the risks were minimal. Nonetheless, it provided 
+written and binding conditions of accommodation to 
+adequately address the potential for negative impacts 
+on the asserted rights from the approval and comple -
+tion of the project.
+[65]  For these reasons, we reject the Chippewas 
+of the Thames’ assertion that the NEB’s reasons 
+were insufficient to satisfy the Crown’s duty to con -
+sult.
+V. Conclusion
+[66]  We are of the view that the Crown’s duty to 
+consult was met. Accordingly, we would dismiss 
+this appeal with costs to Enbridge.
+Appeal dismissed with costs to Enbridge Pipe -
+lines Inc.
+Solicitors for the appellant:  Nahwegahbow, 
+Corbiere, Rama, Ontario.
+Solicitors for the respondent Enbridge Pipelines 
+Inc.: Dentons Canada, Calgary; Enbridge Law De -
+partment, Calgary.ce dernier devra « expliquer de quelle manière il a 
+considéré » les préoccupations autochtones « et il 
+en a tenu compte » ( ibid.). Ce qu’il faut, c’est que 
+l’ONÉ indique qu’il a pris en considération les droits 
+ancestraux et issus de traités invoqués et qu’il a pris 
+des accommodements à leur égard lorsqu’il conve -
+nait de le faire.
+[64]  À notre avis, les motifs écrits exposés par 
+l’ONÉ sont suffisants et permettent de satisfaire 
+à l’obligation de la Couronne. Il convient de sou -
+ligner que, contrairement aux motifs de l’ONÉ 
+dans l’affaire connexe Clyde River , l’analyse de la 
+consultation menée auprès des Autochtones dans le 
+présent cas n’était pas intégrée dans une évaluation 
+environnementale. En l’espèce, l’ONÉ a examiné 
+les éléments de preuve présentés par écrit et de vive 
+voix par de nombreux intervenants autochtones et il 
+a identifié, par écrit, les droits et intérêts en jeu. Il 
+a apprécié les risques que le projet posait à l’égard 
+de ces droits et intérêts et conclu qu’ils étaient mi -
+nimes. Néanmoins, il a imposé par écrit, sous forme 
+de conditions contraignantes, des mesures d’accom -
+modement en vue de remédier adéquatement à la 
+possibilité d’effets préjudiciables sur les droits invo -
+qués par suite de l’approbation et de la réalisation du 
+projet.
+[65]  Pour ces raisons, nous rejetons l’argument 
+des Chippewas de la Thames selon lequel les motifs 
+exposés par l’ONÉ sont insuffisants pour satisfaire à 
+l’obligation de consulter incombant à la Couronne.
+V. Conclusion
+[66]  Nous sommes d’avis qu’il a été satisfait à 
+l’obligation de consulter incombant à la Couronne. 
+En conséquence, nous rejetterions le pourvoi, avec 
+dépens en faveur d’Enbridge.
+Pourvoi rejeté avec dépens en faveur de Pipe -
+lines Enbridge inc.
+Procureurs de l’appelante : Nahwegahbow, 
+Corbiere, Rama, Ontario.
+Procureurs de l’intimée Pipelines Enbridge 
+inc. : Dentons Canada, Calgary; Enbridge Law De -
+partment, Calgary.1128 
+[2017] 1 S.C.R. CHIPPEWAS OF THE THAMES  v.  ENBRIDGE
+Solicitor for the respondent the National Energy 
+Board: National Energy Board, Calgary.
+Solicitor for the respondent the Attorney Gen -
+eral of Canada: Attorney General of Canada, To -
+ronto.
+Solicitor for the intervener the Attorney General 
+of Ontario: Attorney General of Ontario, Toronto.
+Solicitor for the intervener the Attorney General 
+of Saskatchewan: Attorney General of Saskatch -
+ewan, Regina.
+Solicitors for the intervener the Nunavut Wild -
+life Management Board: Supreme Advocacy, Ot -
+tawa.
+Solicitors for the intervener Suncor Energy 
+Marketing Inc.: Osler, Hoskin & Harcourt, Cal -
+gary; Suncor Law Department, Calgary.
+Solicitor for the intervener the Mohawk Council 
+of Kahnawà:ke: Mohawk Council of Kahnawake 
+Legal Services, Mohawk Territory of Kahnawà:ke, 
+Quebec.
+Solicitors for the intervener the Mississaugas 
+of the New Credit First Nation: Pape Salter Teillet, 
+Toronto.
+Solicitors for the intervener the Chiefs of On -
+tario: Gowling WLG (Canada), Ottawa.Procureur de l’intimé l’Office national de 
+l’énergie : Office national de l’énergie, Calgary.
+Procureure de l’intimée la procureure géné -
+rale du Canada : Procureure générale du Canada,  
+Toronto.
+Procureur de l’intervenant le procureur géné -
+ral de l’Ontario : Procureur général de l’Ontario,  
+Toronto.
+Procureur de l’intervenant le procureur géné -
+ral de la Saskatchewan : Procureur général de la  
+Saskatchewan, Regina.
+Procureurs de l’intervenant le Conseil de 
+gestion des ressources fauniques du Nunavut :  
+Supreme Advocacy, Ottawa.
+Procureurs de l’intervenante Suncor Energy Mar -
+keting Inc. : Osler, Hoskin & Harcourt, Calgary; 
+Suncor Law Department, Calgary.
+Procureur de l’intervenant Mohawk Council 
+of Kahnawà:ke : Mohawk Council of Kahnawake 
+Legal Services, Mohawk Territory of Kahnawà:ke, 
+Québec.
+Procureurs de l’intervenante Mississaugas of 
+the New Credit First Nation : Pape Salter Teillet, 
+Toronto.
+Procureurs de l’intervenant Chiefs of On-
+tario : Gowling WLG (Canada), Ottawa.

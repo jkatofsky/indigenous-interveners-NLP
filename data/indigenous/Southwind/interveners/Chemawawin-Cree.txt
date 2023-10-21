@@ -1,0 +1,815 @@
+S.C.C. FILE NO. 38795
+IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE FEDERAL COURT OF APPEAL)  
+BETWEEN:  
+ROGER SOUTHWIND, FOR HIMSELF, AND ON BEHALF OF THE 
+MEMBERS OF T HE LAC SEUL BAND OF INDIANS and  
+LAC SEUL FIRST NATION  
+APPELLANTS  
+-and -
+HE
+R MAJESTY T HE QUEEN IN RIGHT OF CANADA,  
+HER MAJESTY THE QUEEN IN RIGHT OF ONTARIO and  
+HER MAJESTY THE QUEEN IN RIGHT OF MANITOBA 
+RESPONDENTS  
+-and -
+AS
+SEMBLY OF MANITOBA CHIEFS , TSESHAHT FIRST NATION , ATTORNEY 
+GENERAL FOR SASKATCHEWAN , MANITOBA KEEWATINOWI OKIMAKA NAK INC. , 
+TREATY LAND ENTITLEMENT COMMITTEE OF MANITOBA INC. , ANISHINABEK 
+NATION, WAUZHUSHK ONIGUM NATION, BIG GRASSY FIRST NATION, ONIGAMING 
+FIRST NATION, NAOTKAMEGWANNING FIRST NATION AND NIISAACHEWAN FIRST 
+NATION, COALITION OF THE UNION OF BRITISH COLUMBIA INDIAN CHIEFS, 
+PENTICTON INDIAN BAND AND WILLIAMS LAKE FIRST NATION, FEDERATION OF 
+SOVEREIGN INDIGENOUS NATIONS , ATIKAMEKSHENG ANISHNAWBEK FIRST 
+NATION, KWANTLEN FIRST NATION, ASSEMBLY OF FIRST NATIONS, ASSEMBLY OF 
+FIRST NATIONS QUEBEC -LABRADOR , GRAND COUNCIL TREATY  #3, MOHAWK 
+COUNCIL OF KAHNAWÀ:KE , ELSIPOGTOG FIRST NATION, CHEMAWAWIN CREE 
+NATION, and WEST MOBERLY FIRST NATIONS  
+INTERVENERS  
+FACTUM OF THE INTERVENER, 
+CHEMAWAWIN CREE NATION  
+(Pursuant to Rule  42 of the Rules of the Supreme Court of Canada) 
+Arvay Finlay LLP  
+1512 – 808 Nelson Street  
+Box 12149, Nelson Square  
+Vancouver BC  V6Z 2H2 Tel:  604.696.9828 / Fax:  1.888.575.3281  
+Email:  cboiesparker@arvayfinlay.ca
+  
+m underhill@arvayfinlay.ca  
+jtr ueman@arvayfinlay.ca   
+Catherine J. Boies Parker,  Q.C., 
+Mark Underhill and John Trueman 
+Counsel for t he Intervener,  Chem awawin C ree 
+Nation Gowling WLG (Canada) LLP  
+2600 – 160 Elgin Street  
+Ottawa ON  K1P 1C3  
+Tel:  613.786.0171 / Fax:  613.788.3587  
+Email:  jeff.beedell@gowlingwlg.com  
+Jeffrey W. Beedell  
+Ottawa Age nt for Counsel for the Intervener, 
+Chemawawin Cree Nation  TO:    THE REGISTRAR  
+ 
+AND TO:  
+ 
+Mandell Pinder LLP  
+Barristers and Solicitors  
+422 – 1080 Mainland Street  
+Vancouver BC  V6B 2T4 
+Tel: 604.681.4146 / Fax: 604.681.0959  
+Email:  
+rosanne@mandellpinder.com   
+elin@mandellpinder.com   
+kendra@mandellpinder.com   
+Rosanne Kyle, Elin Sigurdson and  
+Kendra Shupe Mandell  
+Counsel for the Appellants, Roger Southwind, 
+For Himself, and on  behalf of the Members of 
+The Lac Seul Band of Indians and Lac Seul 
+First Nation  
+ 
+   
+ 
+ 
+ 
+Supreme Advocacy LLP  
+Suite 100 –  340 Gilmour Street  
+Ottawa ON  K2P 0R3  
+Tel: 613.695.8855 / Fax: 613.695.8580  
+Email:  mfm ajor@supremeadvocacy.ca   
+Marie -France Major  
+Ottawa Agent for Counsel for the Appellants, 
+Roger Southwind, For Himself, and on behalf of 
+the Members of The Lac Seul Band of Indians 
+and Lac Seul First Nation  
+Attorney General of Canada  
+Department of Justice  
+Civil Litigation Section  
+50 O’Connor Street, 5th Floor  
+Ottawa ON  K1A 0H8  
+Tel: 613.967.6290 / Fax: 613.954.1920  
+Email:  
+Christopher.rupar@justice.gc.ca   
+dayna.anderson@justice.gc.ca   
+Michael.roach@justice.gc.c   
+Christopher Rupar, Dayna Anderson and 
+Michael Roach  
+Counsel for the Respondent, Her Majesty  
+the Queen in Right of Canada  
+ 
+  Attorney General of Canada  
+50 O’Connor Street, Suite  500, Room  556 
+Ottawa ON  K2P 6L2  
+Tel:  613.670.6289 / Fax:  613.954.1920  
+Email:  robert.frater@justice.gc.ca   
+Robert J. F rater, Q.C.  
+Ottawa Agent for Counsel for the Respondent, 
+Her Majesty the Queen in Right of Canada  
+Ministry of the Attorney General  
+Crown Law Office –  Civil  
+720 Bay Street, 8th Floor  
+Toronto ON  M7A 2S9  
+Tel: 416.326.4939 / Fax: 416.326.4181  
+Email:  
+leonard.marsello@ontario.ca   
+dona.salmon@ontario.ca   
+Leonard Marsello and Dona Salmon  
+Counsel for the Respondent, Her Majesty  
+the Queen in Right of Ontario  
+  Borden Ladner Gervais LLP  
+World Exchange Plaza  
+1300 – 100 Queen Street  
+Ottawa ON  K1P 1J9  
+Tel:  613.787.3562 / Fax:  613.230.8842  
+Email:  neffendi@blg.com   
+Nadia Effendi  
+Ottawa Agent for Counsel for the Respondent, 
+Her Majes ty the Queen in Right of Ontario  Manitoba Justice – Civil Legal Services  
+730 – 405 Broadway 
+Winnipeg MB  R3C 3L6 
+Tel:  204.945.2843 / Fax:  204.948.2826  
+Email: Kirsten.Wright@gov.mb.ca   
+Kirsten Wright  
+Counse l for the Respondent, Her Majesty the 
+Queen in Right of Manitoba   Gowling WLG (Canada) LLP  
+Barristers and Solicitors  
+2600 – 160 Elgin Street  
+Ottawa ON  K1P 1C3  
+Tel:  613.786.8695 / Fax:  613.788.3509  
+Email:  lynne.watt@gowlingwlg.com   
+D. Lynn e Watt  
+Ottawa Agent for Counsel for the Respondent, 
+Her Majesty the Queen in Right of Manitoba  
+ 
+ 
+Fox Fraser LLP  
+1800 4 Street SW, #1630  
+Calgary AB  T2S 2S5  
+Tel:  403.910.5392 / Fax:  403.407.7795  
+Email:  
+cfox@foxfraserlaw.com   
+Carly Fox  
+Counsel for the Intervener, Assembly of 
+Manitoba Chiefs  
+ 
+  Champ and Associates  
+43 Florence Street  
+Ottawa ON  K2P 0W6  
+Tel:  613.237.4740 / Fax:  613.232.2680  
+Email:  broy@champlaw.ca   
+Bijon Roy  
+Ottawa Agent for Counsel for the Intervener, 
+Assembly of Manitoba Chiefs  
+Devlin Gailus Watson  
+201 - 736 Broughton Street  
+Victoria BC  V8W 1E1  
+Tel:  250.361.9469 / Fax:  250.361.9429  
+Email: christopher@dgwlaw.ca   
+Christopher G. Devlin  
+Counsel fort eh Intervener, Tseshaht First 
+Nation   Supreme Advocacy LLP  
+100 - 340 Gilmour Street  
+Ottawa ON  K2P 0R3  
+Tel:  613.695.8855 Ext: 101 
+Fax:  613.695.8580  
+Email:  emeehan@supremeadvocacy.ca   
+Eugene Meehan, Q.C.  
+Ottawa Agent for Counsel for the Intervener, 
+Tseshaht First Nation  
+ 
+ 
+Attorney General for Saskatchewan  
+Aboriginal Law Branch  
+820 – 1874 Scarth Street  
+Regina SK  S3P 3B3  
+Tel:  306.787.7846 / Fax:  306.787.9111  
+Email: mitch.mcadam@gov.sk.ca   
+P. Mitch McAdam, Q.C.  
+Counsel for the Intervener, Attorney General 
+for Saskatchewan  
+ 
+ 
+ 
+ 
+ 
+ 
+  Gowling WLG (Canada) LLP  
+Barristers and Solicitors  
+2600 – 160 Elgin Street  
+Ottawa ON  K1P 1C3  
+Tel:  613.786.8695 / Fax:  613.788.3509  
+Email:  lynne.watt@gowlingwlg.com   
+D. Lynn e Watt  
+Ottawa Agent for Counsel for the Intervener, 
+Attorney General for Saskatchewan 
+ 
+ 
+ 
+ 
+  
+ 
+Olthuis , Kleer, Townshend LLP  
+8th Floor, 250 University Avenue  
+Toronto ON  M5H 3E5  
+Tel:  416.981.9374 / Fax:  416.981.9350  
+Email: kkempton@oktlaw.com   
+Kate Kempton  and Kevin Hille  
+Counsel for the Intervener, Manitoba 
+Keewatinowi Okimakanak Inc.   Supreme Advocacy LLP  
+100 – 340 Gilmour Street  
+Ottawa ON  K2P 0R3  
+Tel:  613.695.8855 Ext: 102 
+Fax:  613.695.8580  
+Email:  mfmajor@supremeadvocacy.ca   
+Marie -France Major  
+Ottawa Agent f or Counsel for the Intervener, 
+Manitoba Keewatinowi Okimakanak Inc.  
+ 
+ 
+Duboff Edwards Haight & Schachter  
+1900 - 155 Carlton Street  
+Winnipeg MB  R3C 3H8 
+Tel: 204.942.3361 / Fax:  204.942.3362  
+Email: schachter@dehs law.com   
+Harley I. Schachter  
+Counsel for the Intervener, Treaty Land 
+Entitlement Committee of Manitoba Inc.   Westaway Law Group  
+230 – 55 Murray Street  
+Ottawa ON  K1N 5M3  
+Tel: .613.702.3042 / Fax:  613.722.9097  
+Email:  genevieve@westawaylaw.ca   
+Geneviève Boulay  
+Ottawa Agent for Counsel for the Intervener, 
+Treaty Land Entitlement Committee of 
+Manitoba Inc.  
+ 
+ 
+Westaway Law Group  
+230 – 55 Murray Street  
+Ottawa ON  K1N 5M3  
+Tel:  613.722.6339 / Fax:  613.722.9097  
+Email: cynthia@westawaylaw.ca   
+Cynthia Westaway , Geneviève Westaway  
+and K.R. Virginia Lomax  
+Counsel for the Intervener, Anishinabek 
+Nation  
+ 
+  Westaway Law Group  
+230 – 55 Murray Street  
+Ottawa ON  K1N 5M3  
+Tel:  613. 722.3042 / Fax:  613.722.9097  
+Email:  esther@westawaylaw.ca   
+Esther De Vos  
+Ottawa Agent for Counsel for the Intervener, 
+Anishinabek Nation  
+David Garth Leitch Professional 
+Corporation  
+23 Edith Drive  
+Toronto ON  M 4R 1Y9  
+Tel:  416.573.8947  
+Email: dgl@dgleitch.ca   
+David G. Leitch  
+Counsel for the Intervener, Wauzhushk 
+Onigum Nation  
+ 
+ 
+ 
+ 
+  Nelligan O'Brien Payne LLP  
+300 – 50 O'Connor Street  
+Ottawa ON  K1P 6L2  
+Tel:  613.231.8311 / Fax:  613.788.3667  
+Email: christopher.rootham@nelliganlaw.ca   
+Christopher Rootham 
+Ottawa Agent for Counsel for the Intervener, 
+Wauzhushk Onigum Nation  
+Woodward & Company  
+200 – 1022 Government Stree t 
+Victoria BC  V8W 1X7  
+Tel:  250.383.2356 / Fax:  250.380.6560  
+Email:  
+eamon@woodwardandcompany.com  
+Eamon P. Murphy  
+Counsel for the Interveners, Big Grassy First 
+Nation, Onigaming First Nation, 
+Naotkamegwanning First Nation and 
+Niisaachewan First Nation  
+ 
+  Michael J. Sobkin  
+331 Somerset Street West  
+Ottawa ON  K2P 0J8  
+Tel: .613.282.1712 / Fax:  613.288.2896  
+Email:  msobkin@sympatico.ca   
+Ottawa Agent for Counsel for the Interveners, 
+Big Grassy First Nation, Onigaming First 
+Nation, Naotkamegwanning First Nation and 
+Niisaachewan First Nation  
+Mandell Pinder LLP  
+422 – 1080 Mainland Street  
+Vancouver BC  V6B 2T4 
+Tel:  604.681.4146 / Fax:  604.681.0959  
+Email: brenda@mandellpinder.com   
+Brenda Gaertner , Peter Millerd , and  
+Erica Stahl  
+Counsel for the Interveners, Coalition of the 
+Union of British Columbia Indian Chiefs, 
+Penticton Indian Band and Williams Lake 
+First Nation   Suprem e Advocacy LLP  
+100 – 340 Gilmour Street  
+Ottawa ON  K2P 0R3  
+Tel:  613.695.8855 Ext: 102 
+Fax:  613.695.8580  
+Email:  mfmajor@supremeadvocacy.ca   
+Marie -France Major  
+Ottawa Agent for Counsel for the Interveners, 
+Coalition of the Union of British Columbia 
+Indian Chiefs, Penticton Indian Band and 
+Williams Lake First Nation  
+ 
+ 
+Maurice Law  
+300, 602 –  12th Avenue S.W.  
+Calgary AB  T2R 1J3  
+Tel:  403.266.1201 / Fax:  403.266.2701  
+Email: rmaurice@mauricelaw.com   
+Ronald S. Maurice  and Steven W. Carey  
+Counsel for the Intervener, Federation of 
+Sovereign Indigenous Nations   Supreme Advocacy LLP  
+100 – 340 Gilmour Street  
+Ottawa ON  K2P 0R3  
+Tel:  613.695.8855 Ext: 102 
+Fax:  613.695.8580 
+Email:  mfmajor@supremeadvocacy.ca   
+Marie -France Major  
+Ottawa Agent for Counsel for the Intervener, 
+Federation of Sovereign Indigenous Nations  
+ 
+ 
+Maurice Law  
+300, 602 –  12th Avenue S.W.  
+Calgary AB  T2R 1J 3 
+Tel:  403.266.1201 / Fax:  403.266.2701  
+Email: rmaurice@mauricelaw.com   
+Ronald S. Maurice  
+Counsel for the Intervener, Atikameksheng 
+Anishnawbek First Nation   Supreme Advocacy LLP  
+100 – 340 Gilmour Street  
+Ottawa ON  K2P 0R3  
+Tel:  613.695.8855 Ext: 102 
+Fax:  613.695.8580  
+Email:  mfmajor@supremeadvocacy.ca   
+Marie -France Major  
+Ottawa Agent for Counsel for the Intervener, 
+Atikameksheng Anishnawbek First Nation 
+ 
+ JFK Law Corporation  
+340 – 1122 Mainland Street  
+Vancouver BC  V6B 5L1  
+Tel:  604.687.0549 / Fax:  607.687.2696  
+Email: tdickson@jfklaw.ca   
+Tim Dickson , Robin A. Dean  and  
+Naomi Moses  
+Counsel for the Intervener, Kwantlen First 
+Nation   Gowling WLG (Canada) LLP  
+Barristers and Solicitors  
+2600 – 160 Elgin Street  
+Ottawa ON  K1P 1C3  
+Tel:  613.786.0197 / Fax:  613.563.9869  
+Email:  guy.regimbald@gowlingwlg.com   
+Guy Régimbald  
+Ottawa Agent for Counsel for the Intervener, 
+Kwantlen First Nation  
+ 
+ 
+Assembly of First Nations  
+1600 – 55 Metcalfe Street  
+Ottawa ON  K1P 6L5  
+Tel:  613.241. 6789 Ext:  228 
+Fax:  613.241.5808  
+Email: swuttke@afn.ca   
+Stuart Wu ttke 
+Counsel for the Intervener, Assembly of First 
+Nations  
+ 
+  Supreme Law Group  
+900 – 275 Slater Street  
+Ottawa ON  K1P 5H9  
+Tel:  613.691.1224 / Fax:  613.691.1338  
+Email:  mdillon@supremelawgroup.ca   
+Moira Di llon 
+Ottawa Agent for Counsel for the Intervener, 
+Assembly of First Nations  
+Dionne Schulze S.E.N.C.  
+507, Place d’Armes  
+Bureau 502 
+Montréal QC  H2Y 2W8  
+Tel:  514.842.0748 / Fax:  514.842.9983  
+Email: dschulze@ dionneschulze.ca   
+David Schulze  
+Counsel for the Intervener, Assembly of First 
+Nations Quebec -Labrador  
+ 
+  Conway Baxter Wilson LLP  
+400 – 411 Roosevelt Avenue  
+Ottawa ON  K2A 3X9  
+Tel:  613.691.0368 / Fax:  613.688.0271  
+Email:  dtaylor@conway.pro   
+David P. Taylor  
+Ottawa Agent for Counsel for the Intervener, 
+Assembly of First Nations Quebec -Labrador  
+First Peoples Law  
+502 – 55 East Cordova Street  
+Vancouver BC  V6A 0A5  
+Tel:  604.685.4240 / Fax:  604.283.9349  
+Email: bmcivor@firstpeopleslaw.com   
+Bruce McIvor  
+Counsel for the Intervener, Grand Council 
+Treaty  #3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ Goldblatt Partners LLP  
+500 – 30 Metcalfe Street  
+Ottawa ON  K1P 5L4  
+Tel:  613.482.2463 / Fax:  613.235.3041  
+Email:  cbauman@goldblattpartners.com   
+Colleen Bauman  
+Ottawa Agent for Counsel for the Intervener, 
+Grand Council Treaty  #3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mohawk Council of Kahnawà:ke  
+P.O. Box 720 
+Mohawk Territory of Kahnawà:ke, QC   
+J0L 1B0 
+Tel:  450.632.7500 Fax:  450.638.3663  
+Email: Francis.Walsh@mck.ca   
+Francis Walsh  and Stacey Douglas  
+Counsel for the Intervener, Mohawk Council 
+of Kahnawà:ke  
+ 
+  Power Law  
+1103 – 130 Albert Street  
+Ottawa ON  K 1P 5G4  
+Tel  613.702.5560 / Fax:  613.702.5560  
+Email:  mvincelette@powerlaw.ca   
+Maxine Vincelette 
+Ottawa Agent for Counsel for the Intervener, 
+Mohawk Council of Kahnawà:ke  
+Semaganis Worme  
+300 – 203 Packham Aven ue 
+Saskatoon SK  S7N 4K5  
+Tel:  306.664.7175 / Fax:  306.664.7176  
+Email: dworme@swllegal.ca    
+Donald E. Worme, Q.C., Alisa R. 
+Lombard , Aubrey D. Charette , and Mark 
+Ebert  
+Counsel for the Intervener, Elsipogtog First 
+Nation  
+ 
+   
+Camp Fiorante Matthews Mogerman  
+400 – 856 Homer St reet 
+Vancouver BC  V6B 2W5  
+Tel:  604.689.7555 / Fax:  604.689.7554  
+Email: rmogerman@cfmlawyers.ca   
+Reidar M. Mogerman, Q.C. , Naomi Kovak  
+and Chya Mogerman  
+Counsel for the Intervener, West Moberly 
+First Nations   Michael J. Sobkin  
+331 Somerset Street West  
+Ottawa ON  K2P 0J8  
+Tel: .613.282.1712 / Fax:  613.288.2896  
+Email:  msobkin@sympatico.ca   
+Ottawa Agent for Counsel for the Intervener, 
+West Moberly First Nations  
+ 
+ i 
+ 
+TABLE OF CONTENTS  
+PART  PAGE  
+PART I:  OVERVIEW   ............................................................................................................... 1 
+PART II:  POSITION ON THE APPELLANT’S QUESTIONS ............................................... 2 
+PART III:  STATEMENT OF ARGUMENT  ............................................................................... 2 
+The Special Nature of First Nations’ Intere st in Reserve land and the Crown’s 
+Fiduciary duty  ...................................................................................................................... 3 
+Lands held under treaty are the s ubject of the treaty partnership  ..................................... 5 
+Remedies must minimize the extent First Nations are deprived of the benefits of their 
+land  ...................................................................................................................................... 6 
+Conclusion  ........................................................................................................................ 10 
+PART  IV: ORDER S SOUGHT  .................................................................................................. 10 
+PART V:  TABLE OF AUTHORITIES  .................................................................................... 11 
+ 1 
+PART I –  OVERVIEW  
+1. The Chemawawin Cree Nation (“CCN” ) intervenes in this case because its own reserve 
+land was flooded for hydro -electric purposes after Canada obtained a surrender in breach of its 
+fiduciary duty to CCN. The principles that govern the Crown’s fiduciary duty when reserve land 
+is taken for public purposes , and the principles for determin ing appropriate compensation when 
+the duty is breached, are of critical importance to CCN.  
+2. Any just resolution of claims by First Nations who have been deprived of their lands  
+requires the recognition of  the po werful role of First Nations ’ relationship to their lands in 
+sustaining the well -being of their communities , and the need to account for the full range of harms 
+suffered wh en their connection with the land is impaired.  The Crown , as fiduciary and treaty 
+partner, has an obligation to protect that connection. When a First Nation ’s land is  taken or used 
+for public purposes,  the Crown’s fiduciary obligation requires preservation, to the greatest extent 
+possible, of the First Nation ’s interests in the land. This  includes  their interest in using  the benefits 
+generated from the land  to sustain their people and their cultures in a manner that permits them to 
+prosper and flourish.   
+3. Reserve l ands held under treaty are not mere real estate –  they are foundational to a First 
+Nations’ continuing existence as a people. The trial judge treated the Crown’s breach of fiduciary 
+duty as a mere failure to provide the compensation that would have been payable for an 
+expropriation of privately held land. This approach fails to tak e into account the special nature of 
+a First Nation’s  interest in reserve lands, particularly those held under a treaty, and the distinct 
+fiduciary relationship that is grounded in the pre -existing sovereignty and territorial rights of First 
+Nations. The special nature of First Nations ’ inte rests include s the social, cultural, spiritual  
+components  of their unique relationship with the land, and the autonomy to u se the land as a 
+platform and driver of economic growth and development for the community  into th e future . The 
+Crown’s fiduciary obligation require s it to ensure that all of those interests are protecte d, and where 
+that is not possible, that the First Nation’s loss is fully compensated.  
+4. Assessing the land’s value based on  expropriation  principles  does not compensate the First 
+Nation for what it has lost, and does not  hold the Crown to the standard required of a fiduciary and 
+treaty partner.  As Justice Gleason held in her dissenting judgment, the Crown could have sought a 2 
+surrender of the land. The Crown’s fiduciary duty would have required it to ensure , inter alia , that 
+the First Nation was fully informed about the project’s impact on all of their interests , and that the 
+terms of any surrender were not i mprovident  in light of those  impact s. If the full extent of the  First 
+Nation’s  loss from the flooding  could not be adequately addressed,  including the protection of 
+their treaty right to maintain their mode of life and sustain themselves from the land, permitting a 
+surrender would not be consistent with the Crown’s fiduciary obligations.  
+5. If the Crown breaches its obligations  with respect to First Nations’ land taken for a public 
+purpose, equity support s a flexible approach to compensation that allows a First Nation  to request, 
+and the court to award, a remedy that will make it whole.  One appropriate approach is to base 
+compensation on the value that is realized from the  new use of the lands. This approach is 
+consistent with restoring the relationship between the benefits from the land and the First Nat ion, 
+and replaces what they should have received - a negotiated settlement consistent wi th the h onour 
+of the Crown and a mutually respectful treaty partnership.   
+PART II  - POSITION ON THE APPELLANT’S QUE STIONS  
+6. The Chemawawin Cree Nation takes no position on t he outcome of the appeal.  
+PART III -  STATEMENT OF ARGUMENT  
+7. The trial judge’s approach reduced  the fiduciary duty to nothing more than an obligation 
+to pay the expropriation value of privately held land.  The trial judge found Canada was only 
+obliged to “obt ain a fair and reasonable price” which the judge equated with “fair market value of 
+the land” and that this was the measure of Lac Seul First nation (“ LSFN ”)’s loss.1 The effect of 
+this finding is that the First Nation ’s interest in land is treated the sam e as that of an ordinary land 
+owner, who would normally also be entitled to market value upon a forced taking.  This approach 
+leads to an absurd  result : the Crown’s fiduciary obligation to the First Nation will be fulfilled if 
+the Crown treats the land as i t would that of any other landowner to whom no such obligation is 
+owed, that is, by providing market value.  In fact, the fiduciary duty requires much more.   
+                                                   
+1 Southwind v. Canada, 2017 FC 906 (“ Southwind FC ”) para. 383.  3 
+The Nature of First Nations ’ Interest in Reserve Land and the Crown’s Fiduciary Duty 
+8. The honour of  the Crown – an organizing principle in Aboriginal law – recognizes  that
+w
+hen the Crown asserted  sovereignty over Canadian territories, it did so in the face of pre -existing
+Aboriginal sovereignty and territorial rights.2 When the Crown assumes “discretionary control
+over specific Aboriginal interests, the honour of the Crown gives rise to a fiduciary duty”.3 The
+link between First Nations’ interests in the land and pre -existing sovereignty is key to
+understanding that reserve land is not merely fungible ac reage, but rather a means for First Nations
+to exercise their autonomy and sustain their people and their cultures into the future, in a manner
+that permits them to prosper and flourish. The Crown’s fiduciary obligation includes safeguardi ng
+the
+se various interest s that First Nations have in their land.
+9. This Court  recognized in Osoyoos that it is inappropriate to apply common law real
+property rules to First Nations’ reserve lands.4 The majority held that reserve lands are intended
+to preserve the “ importa nt cultural component that reflects the relationship between an Aboriginal
+community and the land and the inherent and unique value in the land itself w hich is enjoye d by
+t
+he community”5 – and, indeed, which forms part of their very identity. This is consi stent with
+what the Royal Commission on Aboriginal Peoples said about the relationship between FirstNations and their land:
+Aboriginal people have told us of their special relationship to the land and its resources. 
+This relationship, they say, is both s piritual and material, not only one of livelihood, but 
+of community and indeed of the continuity of their cultures and societies.
+6 
+10. When a First Nation  loses the use of its lands, the core of the harm is interference with the
+First Nation’s relationship wit h those lands, a relationship that anchors their autonomy, their
+culture, their well -being , and their livelihood. When this deprivation occurs in the context of a
+2 Mitchell v. M .N.R., 2001 SCC 33, para. 9; Manitoba Metis Federation Inc. v. Canada (Attorney 
+General) , 2013 SCC 14, paras. 68 -72; Beckman v. Little Salmon/Carmacks First Nation , 2010 
+SCC 53, para. 42.  
+3 Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 73 [Haida Nation] , para. 18 . 
+4 Osoyoos Indian Band v. Oliver (Town) , 2001 SCC 85 [ Osoyoos ], paras. 44 -47. 
+5 Osoyoos , para.  46; see also Williams Lake Indian Band v. Canada (Aboriginal Affairs and 
+Northern Development) , 2018 SCC 4, para. 83.  
+6 Report of the Royal Commission on Aboriginal Peoples, 1996, Vol. 2, Part 2, online , p. 438.  4 
+breach of the Crown’s fiduciary obligations, an effective remedial response must be capable o f 
+addressing all of these negative impacts.  
+11. Expropriation law principles are unsuitable for this task. The calculation of compensation 
+under expropriation principles presupposes that the land is fungible, and that the landowner can 
+use the compensation to obtain replacement land in the free market that is roughly comparable in 
+quantity and quality to the land taken. This is not true of First Nations land.7 As Robert Mainville 
+explains : 
+[t]he concept of market value appeals to a commercial perspective, but i t fails to take into 
+account the special relationship and bond between Aboriginal Peoples and their traditional 
+lands and activities, and it ignores the cultural, spiritual, and social aspects of Aboriginal 
+and treaty rights.  Aboriginal cultures are often rooted in a relationship with particular 
+territories. The use of such territories for activities unrelated to or incompatible with 
+traditional Aboriginal activities can result in the disruption of Aboriginal societies –  a 
+damaging effect that can never be captured in the concept of market value.8 
+12. There can be no doubt that First Nations have a unique relationship with their land that is 
+distinct from ordinary incidents of land ownership. Loss associated with the deprivation of the use 
+of land for many decad es, as occurred here, is not fully compensated by an award of market value.   
+13. For the goals of equitable compensation to be fully realized, compensation must restore, as 
+far as possible, the position of the First Nation in every respect. Although fiduciary law already 
+embraces the concept of restitution, there is a further reason to do so here: to repair, maintain, and 
+protect the special relationship between Canada and the First Nation. In the First Nations context, 
+restitution involves many dimensions beyond the economic cost. While the nature of losses and 
+long-term impacts will vary, numerous harms not captured in an expropriation model are likely to 
+arise when First Nations are deprived of the benefit of their traditional territories , including  social, 
+cultural,  spiritual and environmental impacts.9 
+                                                   
+7 Delgamuukw  v. British Columbia , [1997] 3 S.C.R. 1010 [ Delgamuukw ], para.  129; Osoyoos , 
+para.  45. 
+8 Mainville, Robert, An Overview of Aboriginal and Treaty Rights and Compensation for their 
+Breach  (Saskatoon:  Purich Publishing, 2001) (“Mainville, An Overview ”), p.  93. 
+9 Appellants ’ Factum, paras. 6 , 30-38. 5 
+14. The economic component of the loss is multidimensional and intertwined with the First 
+Nations’ autonomy and cultural survival as a people. This includes not only the obvious loss of 
+land as a means of providin g an ongoing livelihood, but the deprivation of the right to control 
+future land uses that may be more profitable. Without the benefit of  autonomy over the land base 
+they were entitled to  under the Treaty , a First Nation’s ability to provide opportunities for their 
+community  into the future may be severely impaired.   
+Lands held under treaty are the s ubject of the treaty partnership  
+15. First Nations like LSFN are also not ordinary landowners because they are partners within 
+an ongoing treaty relationship.10 Treaties are sacred agreements11 setting out the framework 
+whereby Indigenous and settler peoples have agreed to share lands and resources : “the first step in 
+a long journey that is unlikely to end any time soon.”12 
+16. A critical aspect of the treaty partnership is  the Crown’s commitment to protect lands and 
+resources for the use of the First Nation in order to continue their way of life and their relationship 
+to the land.13 Lands held under t reaty arrangements are not only ancestral homes, they are a key 
+component of the reconciliation of competing sovereignties that treaties are meant to achieve.  
+17. When land and resources that are fundamental to the rights of First Nations  are taken for 
+other purposes, it is not just a promise that is broken: the relationship  itself i s undermined. As 
+Justice La Forest, concurring in Delgamuukw , pointed out, “fair compensation in the present 
+context is not equated with the price of a fee simple. Rather, compensation must be viewed in 
+terms of the right and in keeping with the honour of the Crown.”14 
+18. Further, the character of Aboriginal and treaty rights -  including the collective, cultural and 
+historical nature of these rights - requires that losses “ should be compensated not only in terms of 
+                                                   
+10 Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage) , 2005 SCC 69 
+[Mikisew Cree ], para. 25; Haida,  para.  32. 
+11 R. v. Sioui , [1990] 1 S.C.R.  1025, p. 1063.  
+12 Mikisew Cree , para. 56.  
+13 Report of the Royal Commission on Aboriginal Peoples, 1996, Vol. 1, online , p. 161.  
+14 Delgamuukw , para. 203.  6 
+present value, but also in terms that take int o account the loss of the future uses of the land and the 
+consequential long- term impacts on the affected Aboriginal society .”15 
+19. Arguably, as LS FN’s treaty  partner, Canada did not have the ability to unilaterally decide 
+how the LSFN’s land would be used.  Given the lack of evidence  about Treaty 3 , it is not necessary 
+or appropriate for the Court to decide this point.  But at the very least, the nature of treaty making 
+makes it clear that the Crown should not be permitted to unilaterally decide that the benefit s of the 
+new use of land it mandated would accrue to others, and not the LS FN. Such unilateral action is 
+“the antithesis  of reconciliation and mutual respect.”16 Under Treaty 3, the LS FN was entitled to 
+have all of the benefits of the land, which include ec onomic, spiritual and cultural components.  If 
+some truly compelling public need requires that LSFN be deprived of its ability to determine the 
+use of the land, it was entitled to a n arrangement that would satisfy the requirement that treaty 
+partners act in  a mutually respectful and beneficial manner. It is for the loss of that fair and 
+respectful arrangement that LSFN must be compensated.   
+Remedies must minimize the extent First Nations are deprived of the benefits of their land   
+20. The trial judge  held that C anada would have fulfilled its fiduciary obligation to LSFN if it 
+had paid fair market value for the land “either through using its power of appropriation or through 
+negotiations with LSFN.”17 Indeed, the trial judge said that if Canada had “done better” than 
+paying market price for the land “ it is arguable that it would have violated its duty to the citizens 
+of Cana da to act in the public interest.”18 The trial judge rejected any assessment of damages based 
+on Canada’s failure to negotiate a revenue sharing agreement , in part  on the basis that the LSFN 
+would not have been able to bargain for one. And he rejected compensation based on the value of 
+the land for hydro -electric purposes because that was inconsistent with the law on expropriatio n 
+and because he sa id it would have put LSFN in a better position than it would have been in if the  
+Crown had fulfilled its fiduciary obligations in 1929.  
+                                                   
+15 Mainville, An Overview , p. 111.  
+16 Mikisew Cree , para. 49.  
+17 Southwind FC , para. 383.  
+18 Southwind FC , para. 383.  7 
+21. The CCN respectfully submits that this approach should not be adopted by this Court. 
+Given the unique  role and value of First Nations land , and the Crown ’s fiduciary duty to protect 
+the myriad of interests  that First Nations have in maintaining their connection to their land, 
+appropriate arrangements cannot be limited to providing  compensation based on expropriation 
+princip les. Indeed, in most cases, any fair and respectful settlement would require more.  
+22. The content  of what would constitute  a fair and respectful arrangement cannot be limited 
+by the fact that the First Nation would have exercised very little b argaining power  in its negotiation 
+with the Crown.  This would be inconsistent with the very nature of a fiduciary duty. The question 
+is not “what would the First Nation have been able to bargain with the Crown?” but rather “what 
+was consistent with the Crown’s obligation?”  
+23. Nor does the need for the Crown to have regard to the “public interest” mean that it is 
+limited to paying the bare minimum required under expropriation law.  The appropriate balance 
+between the “public interest ” and the Crown’s fiduciary obligation to th e First Nation may be to 
+utilize the land for the public purpose , but to ensure any financial returns generated by the new use 
+of the land be given, in whole or in part, to the First Nation.  At the very least, a settlement 
+consistent with the Crown’s fiduc iary duty must ensure that a First Nation is able to continue to 
+exercise to the same degree any treaty or other rights that require a land base, and that the 
+community has the same potential for economic growth and stability as it did prior to the taking.   
+24. The trial judge recognized that i n Osoyoos , this Court held that when reserve land is 
+expropriated for a public purpose, the Crown has a fiduciary obligation to minimize the negative 
+effects of the expropriation on the First Nation.19 The same requirement  that harms be minimized 
+should apply whenever a First Nation is deprived of the use of their land for a public purpose. 
+Similarly, remedies for the wrongful  taking of reserve land should be aimed at minimiz ing the 
+extent to which First Nations are deprive d of the benefits of having use and control of their land.  
+25. One method of achieving this is to base compensation on some measure of the value of the 
+use of the land as realized by the Crown.  The remedies sought by LSFN  based on revenue sharing 
+or on the va lue of the land for hydro-electric uses are consistent with this approach .  
+                                                   
+19 Southwind FC , paras. 328 and 361; Osoyoos , para. 52.  8 
+26. Such remedies are appropriate because they can at least partially restore the relationship
+between the benefits produced by the land and the First Nation.  While the benefits are of  a different
+kind than were previously being produced, they are still benefits from the land, and the land was
+meant to be used to benefit the First Nation.
+27. This approach does not “put the claimant in a better position than they would have been
+for the bre ach,” or “provide the plaintiff with a windfall amount that bears no relation to the actual
+harm suffered.”20 Nor do these kinds of remedies run contrary to any principle that the plaintiff
+should only be compensated for losses caused by the breach of fiduc iary duty.
+28. It is clear that the Crown’s failure to protect LSFN’s interest in its reserve land has led to
+the situation where LSFN no longer receives the benefits being produced from its lands. If the
+Crown had effectively protected LSFN’s interests, it would have either prevented the flooding or
+put in place an arrangement consistent with the fiduciary obligation and the honour of the Crown.
+This would have been aimed at minimally impairing the LSFN’s connection to its land. Ensuri ng
+th
+at LSFN  received b enefits from its land even if it lost the use of its land is consistent with this.
+29. Such an arrangement could no t be in any way exploitive , and the Crown could not have
+taken advantage of any imbalance in the bargaining power between itself and the LSFN.  As a
+result, the terms of such an agreement should have been consistent with LSFN receiving full
+compensation for all future losses, and the Crown paying the highest amount compatible with a
+feasible project.  It would never be consistent with the honour of t he Crown for the Crown to take
+a First Nation’ s land in order to increase its own revenues or the profits of third parties. To the
+extent there were excess financial gains realized in fulfilling a public purpose, those c ould have
+been directed to the First  Nation , without impairing the “public purpose” of the taking.
+30. In any event, this Court has acknowledged the possibility that  equitable remedies might
+improve the beneficiary’s economic situation.  One of the most important policy objectives of trust
+law is that a fiduciary must not gain from the breach of its obligation. If the fiduciary’s profit is
+greater than the beneficiary’s loss, the profit is a better standard of compensation.21 This is
+20 Respondent’s Factum, para. 66.  
+21 Moore International (Canada) Ltd. v. Carter , 1984 CanLII 518 (BC CA)  [Moore ], para. 23.  9 
+sometimes justified as the “prophylactic purpose” of disgorgeme nt which “ advances the policy of 
+equity, even at the expense of a windfall to the wronged beneficiary.”22  
+31. Indeed, the unique three -way relationship between Fir st Nations, their land and the Crow n
+m
+akes it inappropriate to suggest that First Nations receive  a “windfall” when compensation for
+the loss of reserve land is based on the value of that land in the hands of the Crown . First Nations’
+rights to their land are not held only under a statute or a land registration system devised by the
+Crown. First Natio ns have their own legal orders that ground their authority over their lands, a nd
+th
+e inter -societal law that governs First Nations rights in Canada recognizes that their legal
+interests in land are ultimately sourced in their pre -existing sove reignty and t erritoria l rights over
+their land.23 The Crown ’s assertion of sovereignty over those territories, which the Crown relies
+on to exercise authority over those lands, can only be consistent with the honour of the Crown if
+it is reconciled with First Nations’  continuing interest in the land. If the Crown is going to devel op
+r
+eserve lands for other purposes, sharing the benefits with the First Nation is consistent with a n
+ho
+nourable treaty partnership .
+32. Subsuming the question of compensation into the expropriation framework erases key
+concerns  of equity.  Expropriation principles may preclude valuing the lan d based on the unique
+use made of it after expropriation, but there is no reason why that limitation must be imported into
+the Crown’s fiduciary obligation . In the context of the special fiduciary relationship between th e
+C
+rown and First Nations, valuing the land as it is actually being used restores the relationshi p
+b
+etween the First Nation and the benefits flowing from their land, while ensuring that any increas e
+in value that results from the fiduciary’s breach finds its way to the beneficiary.  In this manner,
+the treaty promise of two peoples moving forward together in partnership can be fulfilled.
+33. In Atlantic Lottery , this Court reaffirmed the longstanding use  of gain -based remedies for
+breach of fiduciary duty, and held that such remedies may be appropriate in  common law situations
+if other remedies are inadequate, and extraordinary circumstances warrant such an award.  24
+22 Strother v. 3464920 Canada Inc., 2007 SCC 24 (CanLII), [2007] 2 S .C.R. 177, para. 77 . 
+23 Slattery, Brian, “Making Sense of Aboriginal and Treaty Rights” Canadi an Bar Review  79.2 
+(2000): 198.  
+24 Atlantic Lottery Corp. Inc. v. Babstock , 2020 SCC 19, para s. 32 and 53.  11 
+PART V - TABLE OF AUTHORITIES 
+CASES  Paragraph(s)  
+Atlantic Lottery Corp. Inc. v. Babstock , 2020 SCC 19   33 
+Beckman v. Little Salmon/Carmacks First Nation , 2010 SCC 53   8 
+Can. Aero v. O'Malley , 1973 CanLII 23 (SCC), [1974] S.C.R. 59   34 
+Delgamuukw v. British Columbia , [1997] 3 S.C.R. 1010   17 
+Haida Nation v. British Columbia (Minister of Forests) , 2004 SCC 73   8 
+Manitoba Metis Federation Inc. v. Canada (Attorney General) , 2013 SCC 
+14  8 
+Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage) , 
+2005 SCC 69   15, 19  
+Mitchell v. M.N.R ., 2001 SCC 33   8 
+Moore International (Canada) Ltd. v. Carter , 1984 CanLII 518 (BC CA)   30, 34  
+Osoyoos Indian Band v. Oliver (Town) , 2001 SCC 85   9, 24  
+R. v. Sioui , [1990] 1 S.C.R. 1025   15 
+Southwind v. Canada  2017 FC 906   7, 20, 24  
+Strother v. 3464920 Canada Inc ., 2007 SCC 24 (CanLII), [2007] 2 S.C.R. 
+177  30 
+Williams Lake Indian Band v. Canada (Aboriginal Affairs and Northern 
+Development) , 2018 SCC 4   9 
+SECONDARY SOURCES   
+Report of the Royal Commission on Aboriginal Peoples, 1996, Vol. 1, 
+online: http://data2.archives.ca/e/e448/e011188230-01.pdf  , p. 161  16 
+Report of the Royal Commission on Aboriginal Peoples, 1996, Vol. 2, Part 
+2, online: http://data2.archives.ca/e/e448/e011188230-02.pdf  , p. 438.  9 
+Mainville, Robert, An Overview of Aboriginal and Treaty Rights and 
+Compensation for their Breach  (Saskatoon: Purich Publishing, 2001) p. 93.  11, 16  21 
+Slattery, Brian, “Making Sense of Aboriginal and Treaty Rights” Canadian 
+Bar Review  79.2  (2000): 198 .  31 
+ 
+ 

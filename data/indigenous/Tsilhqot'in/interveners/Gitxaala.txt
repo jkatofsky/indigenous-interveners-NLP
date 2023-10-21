@@ -1,0 +1,672 @@
+ 
+ File No. 34986 
+IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE COURT OF APPEAL OF BRITISH COLUMBIA) 
+BETWEEN: 
+ROGER WILLIAM, on his own behalf and on  behalf of all other members of the 
+XENI GWET’IN FIRST NATIONS GOVERNMENT 
+and on behalf of all other members of the TSILHQOT’IN NATION 
+APPELLANT 
+AND: 
+HER MAJESTY THE QUEEN IN RIGHT OF TH E PROVINCE OF BRITISH COLUMBIA, THE 
+REGIONAL MANAGER OF THE CARIBOO FOREST REGION and  
+THE ATTORNEY GENERAL OF CANADA 
+RESPONDENTS 
+AND: 
+THE ATTORNEY GENERAL OF SASKATCHEWAN, THE ATTORNEY GENERAL OF ALBERTA, 
+THE ATTORNEY GENERAL OF QUEBEC, THE ATTORNEY GENERAL OF 
+MANITOBA,TE’MEXW TREATY ASSOCIATION, BUSINESS COUNCIL OF BRITISH 
+COLUMBIA, COUNCIL OF FOREST INDUSTRIES, COAST FOREST PRODUCTS ASSOCIATION, 
+MINING ASSOCIATION OF BRITISH COLUMBIA AND ASSOCIATION FOR MINERAL 
+EXPLORATION BRITISH COLUMBIA, ASSEMBLY OF FIRST NATIONS, GITANYOW 
+HEREDITARY CHIEFS OF GWASS HLAAM, GAMLAXYELTXW, MALII GWINUU, 
+HAIZIMSQUE, WATAKHAYETSXW, LUUXHON AN D WII’LITSWX, ON THEIR OWN BEHALF 
+AND ON BEHALF ALL GITANYOW, HUL’QUMI’NUM TREATY GROUP, COUNCIL OF THE 
+HAIDA NATION, OFFICE OF THE WET’SUWET’EN CHIEFS, INDIGENOUS BAR ASSOCIATION 
+IN CANADA, FIRST NATIONS SUMMIT, TSAWOUT FIRST NATION, TSARTLIP FIRST 
+NATION, SNUNEYMUXW FIRST NATION AND KWAKIUTL FIRST NATION, COALITION OF 
+THE UNION OF B.C. INDIAN CHIEFS,OKANAGAN NATION ALLIANCE AND THE SHUSWAP 
+NATION TRIBAL COUNCIL AND THEIR MEMBER COMMUNITIES, OKANAGAN, ADAMS 
+LAKE, NESKONLITH AND SPLATSIN INDIAN BANDS, AMNESTY INTERNATIONAL AND 
+CANADIAN FRIENDS SERVICE COMMITTEE, GITXAALA NATION, and CHILKO RESORTS 
+AND COMMUNITY ASSOCIATION 
+INTERVENERS 
+FACTUM OF THE INTERVEN ER, GITXAALA NATION 
+(Rule 42 of the Supreme Court Rules ) 
+  
+ Counsel for the Intervener, GITXAALA NATION 
+Tim Dickson 
+Farris, Vaughan, Wills & Murphy LLP 
+Box 10026, Pacific Ctr. S. TD Bank Twr 
+25th Floor – 700 Georgia Street West 
+Vancouver, BC  V7Y 1B3 Phone: 604-661-9341 Fax: 604-661-9349 Email: tdickson@farris.com Agent for the Intervener: 
+Matthew Estabrooks 
+Gowling Lafleur Henderson LLP 
+2600 – 160 Elgin Street P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-563-9869 Email: matthew.estab rooks@gowlings.com 
+Counsel for the Appellant, ROGER WILLIAM, on his own behalf and on behalf of all other 
+members of the XENI GWET’IN FIRST NATION S GOVERNMENT and on behalf of all other 
+members of the TSILHQOT’IN NATION 
+David M. Rosenberg, Q.C. 
+Jay Nelson 
+Rosenberg & Rosenberg 
+671D Market Hill Vancouver, BC  V5Z 4B5 Phone: 604-879-4505 Fax: 604-897-4934 Email: david@rosenberglaw.ca 
+Email: jay@jaynelsonlaw.com
+ Agent for the Appellant: 
+Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 - 160 Elgin Street P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-788-3433 
+Email: henry.br own@gowlings.com 
+Counsel for the Respondents, HER MAJESTY THE QUEEN IN RIGHT OF THE PROVINCE OF 
+BRITISH COLUMBIA and THE REGIONAL MANAGER OF THE CARIBOO FOREST REGION  
+Patrick G. Foy, Q.C. 
+Borden Ladner Gervais LLP 
+1200 Waterfront Centre, 200 Burrard Street 
+P.O. Box 48600, Stn. Bentall Ctr Vancouver, BC  V7X 1T2 Phone: 604-687-5744 Fax: 604-687-1415 Email: pfoy@blgcanada.com
+ Agent for the Respondents: 
+Nadia Effendi 
+Borden Ladner Gervais LLP 
+World Exchange Plaza 100 Queen Street, Suite 1100 Ottawa, ON  K1P 1J9 Phone: 613-237-5160 Fax: 613-230-8842 
+  
+ Counsel for the Respondent, THE ATTORNEY GENERAL OF CANADA 
+Mark R. Kindrachuk Q.C.  
+Attorney General of Canada 
+123-2nd Avenue S.,  
+10th Floor 
+Saskatchewan,  SK  S7K 7E6 Phone: 306-975-4765 Fax: 306-975-5013 Email: mark.kindrachuk@justice.gc.ca
+ Agent for the Respondent: 
+Christopher M. Rupar 
+Attorney General of Canada 
+Bank of Canada Building – East Tower 234 Wellington Street, Room 1212 Ottawa, ON  K1A 0H8 Phone: 613-941-2351 Fax: 613-954-1920 Email: christopher.rupar@justice.gc.ca 
+Counsel for Intervener, ATTORNEY GENERAL OF SASKATCHEWAN 
+ Agent for the Intervener  
+Henry S. Brown, Q.C. Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street 
+P.O. Box 466, Stn “D”  
+Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-788-3433 Email: henry.br own@gowlings.com 
+Counsel for the Intervener, ATTORNEY GENERAL OF ALBERTA 
+Sandra Folkins 
+Attorney General of Alberta 17
+th Floor, Standard Life Building 
+639 – 5th Avenue SW 
+Calgary, AB  T2P 0M9 Phone: 403-297-3781 Fax: 403-662-3824 
+ Agent for the Intervener  
+Henry S. Brown, Q.C. Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 
+Phone: 613-233-1781 Fax: 613-788-3433 
+Email: henry.br own@gowlings.com 
+Counsel for the Intervener, ATTORNEY GENERAL OF QUEBEC  
+Geneviève Verreault Tremblay 
+Sylvain Leboeuf Agent for the Intervener 
+Pierre Landry   
+ Procureur général du Québec 
+1200, route de l’Église 2e étage 
+Québec, QC  G1V 4M1 
+Phone: 418-643-1477 Fax: 418-646-1696  Noël & Associés 
+111, rue Champlain  Gatineau, QC  J8X 3R1 
+Phone: 819-771-7393 Fax: 819-771-5397 
+Email: p.landry@noelassocies.com   
+Counsel for the Intervener, ATTORNEY GENERAL OF MANITOBA 
+ Agent for the Intervener  
+Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 
+2600 – 160 Elgin Street P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-788-3433 
+Email: henry.br own@gowlings.com 
+ 
+Counsel for the Intervener, FIRST NATIONS SUMMIT 
+Maria Morellato, Q.C.  
+Mandell Pinder LLP 422-1080 Mainland Street Vancouver, BC  V6B 2T4 
+Phone: 604-566-8563 Fax: 604-681-0949 
+Email: maria@mandellpinder.com Agent for the Intervener  
+Brian A. Crane, Q.C. Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street 
+P.O. Box 466, Stn “D”  
+Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-563-9869 Email: brian.crane@gowlings.com 
+Counsel for the Intervener, TE’MEXW TREATY ASSOCIATION 
+Robert J.M. Janes 
+Karey Brookes 
+Janes Freedman Kyle Law Corporation 1122 Mainland Street Agent for the Intervener  
+Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street  
+ Suite 340 
+Vancouver, BC  V6B 5L1 Phone: 250-405-3460 Fax: 250-381-8567 
+Email: rjanes@jfklaw.ca P.O. Box 466, Stn “D”  
+Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-788-3433 
+Email: henry.br own@gowlings.com 
+ 
+Counsel for the Intervener, BUSINESS COUNCIL OF BRITISH COLUMBIA, COUNCIL OF 
+FOREST INDUSTRIES, COAST FOREST PRODUCTS ASSOCIATION, MINIING ASSOCIATION OF BRITISH COLUMBIA AND ASSOCIATION FOR MINERAL EXPLORATION IN BRITISH COLUMBIA 
+Charles F. Willms 
+Fasken Martineau DuMoulin LLP 2900 – 550 Burrard Street Vancouver, BC  V6C 0A3 Phone:  604-631-4789  Fax: 604-631-3232 Agent for the Intervener 
+Stephen B. Acker Fasken Martineau DuMoulin LLP 1300 – 55 Metcalfe Street Ottawa, ON  K1P 6L5 
+Phone: 613-236-3882  Fax: 613-230-6423 
+Email: sacker@fasken.com  
+Counsel for the Intervener, ASSEMBLY OF FIRST NATIONS 
+Joseph J. Arvay, Q.C. 
+Catherine J. Boles Parker 
+Professor Patrick Macklem 
+Arvay Finlay 1320- 355 Burrard Street Vancouver, BC  V6C 2G8 Phone:  604-689-4421  Fax: 888-575-3281 Email: jarvay@arvayfinlay.com Agent for the Intervener 
+Eugene Meehan, Q.C.  
+Supreme Advocacy LLP 
+397 Gladstone Avenue Suite 100 Ottawa, ON  K2P 0Y9 Phone: 613-695-8855  Fax: 613-695-8580 Email: emeehan@supremeadvocacy.ca  
+ 
+Counsel for the Intervener, GITANYO W HEREDITARY CHIEFS OF GWASS HLAAM, 
+GAMLAXYELTXW, MALII, GWINUU, HAIZIMSQUE, WATAKHAYETSXW, LUUXHON, AND WII’LITSWX, ON THEIR OWN BEHALF AND ON BEHALF ALL GITANYOW 
+Peter R. Grant 
+Peter Grant & Associates 
+900 – 777 Hornby Street Agent for the Intervener  
+Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP  
+ Vancouver, BC  V6Z 1S4 
+Phone: 604-685-1229 Fax: 604-685-0244 2600 – 160 Elgin Street 
+P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 
+Phone: 613-233-1781 Fax: 613-788-3433 
+Email: henry.br own@gowlings.com 
+ 
+Counsel for the Intervener, HUL’QUMI’NUM TREATY GROUP 
+Robert B. Morales 
+P.O. Box 356 Duncan, BC  V9L 3X5 
+Phone: 250-748-5233 Fax: 250-748-5264 Agent for the Intervener  
+Henry S. Brown, Q.C. Gowling Lafleur Henderson LLP 
+2600 – 160 Elgin Street 
+P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-788-3433 Email: henry.br own@gowlings.com 
+ 
+Counsel for the Intervener, COUNCIL OF THE HAIDA NATION 
+Terri-Lynn Williams-Davidson 
+White Raven Law Corporation 
+16541 Upper Beach Road Surry, BC  V3S 9R6 Phone: 604-536-5541 Fax: 604-536-5542 Email: tlwd@whiteravenlaw.com Agent for the Intervener  
+Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 
+Phone: 613-233-1781 Fax: 613-788-3433 
+Email: henry.br own@gowlings.com 
+ 
+Counsel for the Intervener, OFFICE OF THE WET’SUWET’EN CHIEFS 
+Peter R. Grant 
+Peter Grant & Associates 
+900 – 777 Hornby Street Agent for the Intervener  
+Henry S. Brown, Q.C. 
+Gowling Lafleur Henderson LLP  
+ Vancouver, BC  V6Z 1S4 
+Phone: 604-685-1229 Fax: 604-685-0244 2600 – 160 Elgin Street 
+P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 
+Phone: 613-233-1781 Fax: 613-788-3433 
+Email: henry.br own@gowlings.com 
+ 
+Counsel for the Intervener, INDIGENOUS BAR ASSOCIATION IN CANADA 
+David C. Nahwegahbow 
+Nahwegahbow, Corbiere Genoodmagejig 5884 Rama Road 
+Suite 109 
+Rama, ON  L3V 6H6 Phone: 705-325-0520  Fax: 705-325-7204 Email: dndaysta r@nncfirm.ca Agent for the Intervener  
+Guy Regimbald Gowling Lafleur Henderson LLP 
+2600 – 160 Elgin Street 
+P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 Phone: 613-786-0197 Fax: 613-563-9869 Email: guy.regimbald@gowlings.com 
+ 
+Counsel for the Intervener, FIRST NATIONS SUMMIT 
+Maria Morellato, Q.C.  
+Mandell Pinder LLP 422-1080 Mainland Street Vancouver, BC  V6B 2T4 
+Phone: 604-566-8563 Fax: 604-681-0949 
+Email: maria@mandellpinder.com Agent for the Intervener  
+Brian A. Crane, Q.C. Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street 
+P.O. Box 466, Stn “D”  
+Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-563-9869 Email: brian.crane@gowlings.com 
+ 
+Counsel for the Intervener, TSAWOUT FIRST NATION, TSAR TLIP FIRST NATION, 
+SNUNEYMUXW FIRST NATION AND KWAKIUTL FIRST NATION 
+John W. Gailus 
+Christopher G. Devlin Agent for the Intervener 
+Eugene Meehan, Q.C.   
+ Devlin Gailus 
+556 Herald Street Victoria, BC  V8W 1S6 
+Phone: 250-361-9469  Fax: 250-361-9429 
+Email: john@devlingailus.com Supreme Advocacy LLP 
+397 Gladstone Avenue Suite 100 
+Ottawa, ON  K2P 0Y9 
+Phone: 613-695-8855  Fax: 613-695-8580 Email: emeehan@supremeadvocacy.ca  
+ 
+Counsel for the Intervener, COALITION OF  THE UNION OF B.C. INDIAN CHIEFS 
+Louise Mandell, Q.C. 
+Mandell Pinder LLP 
+422-1080 Mainland Street Vancouver, BC  V6B 2T4 Phone: 604-681-4146 Fax: 604-681-0949 Email: louise@mandellpinder.com Agent for the Intervener  
+Brian A. Crane, Q.C. 
+Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 
+Phone: 613-233-1781 Fax: 613-563-9869 
+Email: brian.crane@gowlings.com 
+ 
+Counsel for the Intervener, OKANAGAN NATION ALLIANCE AND THE SHUSWAP NATION 
+TRIBAL COUNCIL AND THEIR MEMBER COMMUNITIS, OKANAGAN, ADAMS LAKE, NESKONLITH AND SPLATSIN INDIAN BANDS 
+Louise Mandell, Q.C. 
+Mandell Pinder LLP 
+422-1080 Mainland Street Vancouver, BC  V6B 2T4 Phone: 604-681-4146 Fax: 604-681-0949 Email: louise@mandellpinder.com Agent for the Intervener  
+Brian A. Crane, Q.C. 
+Gowling Lafleur Henderson LLP 2600 – 160 Elgin Street P.O. Box 466, Stn “D”  Ottawa, ON  K1P 1C3 Phone: 613-233-1781 Fax: 613-563-9869 
+Email: brian.crane@gowlings.com 
+ 
+  
+ Counsel for the Intervener, AMNESTY INTERNATIONAL AND CANADIAN FRIENDS 
+SERVICE COMMITTEE 
+Justin Safayeni 
+Stockwoods LLP 
+TD North Tower, Suite 4130 77 King Street West, P.O. Box 140 Toronto, ON  M5K 1H1 Phone: 416-593-7200   Fax: 416-593-9345 Email: justins@stockwoods.ca Agent for the Intervener  
+Michael J. Sobkin 
+90 blvd. de Lucerne Gatineau, QB  J9H 7K8 Phone: 819-778-7794 Fax: 819-778-1740 Email: msobkin@sympatico.ca 
+ 
+Counsel for the Intervener, CHILKO RESORTS AND COMMUNITY ASSOCIATION 
+Gregory J. McDade, Q.C. 
+F. Matthew Kirchner 
+Kate M. Bloomfield 
+Ratcliff & Company 
+221 West Esplanade 
+Suite 500 
+North Vancouver, BC  V7M 3J3 
+Phone: 604-988-5201 Fax: 604-988-1452 
+Email: gmcdade@ratcliff.com Agent for the Intervener  
+Michael J. Sobkin 
+90 blvd. de Lucerne 
+Gatineau, QB  J9H 7K8 
+Phone: 819-778-7794 Fax: 819-778-1740 
+Email: msobkin@sympatico.ca i 
+ INDEX 
+Part 1 - Overview ............................................................................................................. ..............1  
+Part 2 - Position on the Questions in Issue ..................................................................................3  
+Part 3 - Argument ............................................................................................................. .............3  
+A. The “Doctrine of Continuity”: the customary law basis for 
+Aboriginal title .........................................................................................................3  
+B. Delgamuukw : the sui generis  approach to A boriginal title ......................................6  
+C. Marshall; Bernard  and the Court of Appeal............................................................8  
+D. Sui generis  Aboriginal title is territorial ..................................................................9  
+Part 4 - Submissions Concerning Costs .....................................................................................10  
+Part 5 - Order Sought ......................................................................................................... .........10  
+Part 6 - Table of Authorities ................................................................................................. ......11  1 
+ 
+ PART 1 - OVERVIEW 
+1. The gravamen of this appeal is whether Aborig inal title is merely a small relic of history 
+– a historical marker by the roadside, indicating that a First Nation once regularly and intensively 
+used a particular patch of land – or whether it provides a viable  springboard for a First Nation in 
+the modern economy. At issue is whether ultimatel y s. 35 provides “cultural security” to First 
+Nations only to live as they once  did, or whether s. 35 also provides a foothold for First Nations 
+seeking meaningful participation in contemporary Canada.  
+2. In arriving at the former of these choi ces, the Court of Appeal’s reasoning was 
+fundamentally inconsistent with th e trajectory of this Court’s ju risprudence and the case law and 
+scholarship of which it has appr oved and on which it is based.  
+3. A central error in the Court below was in its application of the common law test for 
+Aboriginal title. In Delgamuukw ,1 this Court accepted Professor McNeil’s argument that “the 
+fact of physical occupation is proof of possession at law, which in turn will ground title to the 
+land”, which he had set out in his seminal text, Common Law Aboriginal Title .2 This basis for 
+Aboriginal title is wholly grounded in the co mmon law and in the fact of a First Nation’s 
+physical occupation of the land. This common law basi s for Aboriginal title is disconnected from 
+any consideration of the laws or customs th e First Nation had in respect of that land.  
+4. This Court only generally defined th e test for physical occupation in Delgamuukw , and 
+later in Marshall; Bernard .3 In Delgamuukw , Lamer C.J. gave examples of evidence of physical 
+occupation that ranged from “the construction of  dwellings through cultivation and enclosure of 
+fields to regular use of definite tracts of land for hunting, fishing or otherwise exploiting its 
+resources”. He adopted Professo r Slattery’s admonition that “ one must take into account the 
+group’s size, manner of life, materi al resources, and technological abilities, and the character of 
+the lands claimed”.4 In Marshall; Bernard , McLachlin C.J. stressed that “[t]he aboriginal 
+perspective grounds the analysis  and imbues its every step”.5 
+                                            
+1 Delgamuukw v. British Columbia , [1997] 3 S.C.R. 1010 at para 149.  
+2 Oxford: Clarendon Press, 1989 [“ McNeil, Common Law ”]. 
+3 R. v. Marshall; R. v. Bernard , 2005 SCC 43 [“ Marshall; Bernard ”].  
+4 Delgamuukw , para 149.  
+5 Marshall; Bernard , para 50.  2 
+ 
+ 5. The Court below made fundamental errors in the application of this common law test for 
+Aboriginal title, as the Appella nt has correctly identified. For one  thing, the Court interpreted the 
+threshold test of physical occupa tion as requiring “an intensive presen ce at a particular site”.6 For 
+another, the Court of Appeal largely ignored this Court’s admonitions to view occupation 
+through the lens of the First Nation’s “manner of life”.  
+6. The error in the Court of Appeal’s judgmen t that will be focused on this factum, 
+however, is the application of a test defined solely by the comm on law. The common law is but 
+one basis for Aboriginal title. Another is the Fi rst Nation’s customary laws in relation to land, 
+which may ground and define title to th at land in the First Nation. A third, sui generis  approach – 
+the one adopted by this Court in Delgamuukw  – combines  these two bases for Aboriginal title, 
+such that physical occupa tion and customary law are both relevant to proof of title.  
+7. Professors Slattery and McNeil concur that th ese three approaches to Aboriginal title are 
+the three leading theories and that the sui generis  theory endorsed by this Court in Delgamuukw  
+is preferable to the other two.7 Both professors criticize this Court’s decision in Marshall; 
+Bernard  for placing too much emphas is on physical occupation as the grounding for title claims,8 
+and Professor McNeil is highly critical of the Cour t of Appeal’s definition of Aboriginal title and 
+the test for proof of it in the case at bar.9  
+8. In the balance of this factum, Gitxaala Nation set outs more fully the jurisprudential 
+underpinnings of the customary law basis for Aborigin al title and the vital ro le it plays in the test 
+for title that this Court laid down in Delgamuukw . Importantly to this appeal, the fact that 
+Aboriginal title is rooted in part in Aboriginal la w underscores that it is  not just limited to 
+particular sites, as the Court of Appeal found, but can be territor ial in scope.    
+                                            
+6 Appeal Judgment, para 220.  
+7 Brian Slattery, “The Metamorphosis of Aboriginal Title” (2006), 85 Can. Bar Rev. 255 [“ Slattery, 
+Metamorphosis ”] at p. 263; Kent McNeil, “Aboriginal Title in Canada: Site-Specific or Territorial”, Law on the 
+Edge Conference, Canadian Law and Society Associatio n/Law and Society Associa tion of Australia and New 
+Zealand, UBC, Vancouver, July 1-4, 2013, found at : http://papers.ssrn.com/sol3 /papers.cfm?abstract_id= 
+2294552 [“ McNeil, Territorial ”] [Book of Authorities [“BOA”] Tab 11] . See also McNeil’s treatments of the 
+Aboriginal law basis of Aboriginal title in chapter 6 of Common Law Aboriginal Title  [BOA Tab 12]  and of the 
+common law basis in chapter 7, although he has since modified his views somewha t; see Kent McNeil, “Self-
+Government and the Inalienability of Abor iginal Title” (2002), 47 McGill L.J. 473 [BOA Tab 13] , and McNeil, 
+“Aboriginal Title and the Supreme Court: What’s Happening?” (1996), 69 Sask. L. Rev. 281. 
+8 Slattery, Metamorphosis , 279-281; McNeil, Territorial , 7-8.  3 
+ 
+ PART 2 - POSITION ON THE QUESTIONS IN ISSUE 
+9. Gitxaala Nation supports the Appell ant’s appeal with respect to  the nature of Aboriginal 
+title and agrees with the Appellant that the Cour t of Appeal erred by rest ricting title claims to 
+particular sites. Gitxaala Nation takes no position in this appeal on the other issues.  
+PART 3 - ARGUMENT 
+A. The “Doctrine of Continuity”: the cust omary law basis for Aboriginal title 
+10.  This Court long ago recognized  the fact that, “when the se ttlers came, the Indians were 
+there, organized in societies and occupying the land as their forefathers had done for centuries”.10 
+Aboriginal peoples did not ju st occupy land randomly or oppor tunistically; rather, their 
+occupation was structured and based upon their laws, traditions and customs, as is the case with any organized society. Wh ile Aboriginal peoples physically  occupied the land and possessed it in 
+fact, they also ordered that occupation of th e land through normative systems by which their 
+possession of the land was rooted in and legitimated by their customary laws.  
+11. While physical occupation in fact  is one possible basis for A boriginal title – the common 
+law basis – another basis is that title “arises from the customary legal systems of particular Indigenous groups.”
+11 As Professor Walters has stated, “[t]he use and occupancy model of 
+aboriginal rights focuses upon use of land and resources alone, but the aboriginal conception of 
+aboriginal rights flows from their perceptions of not just their use of, but their relationship  to, 
+land and resources. This relationship is, in turn, defined by aboriginal ‘law.’”12 On this theory, a 
+First Nation’s Aboriginal title is a reflection of that First Nation’s pre-sovereignty system of laws 
+with respect to their lands, which ground and define its possession of its lands.  
+12. While on this theory Aboriginal right s and title have their source in pre-sovereignty 
+Aboriginal systems of law, they continue to have force post-sovereignty because the common 
+                                                                                                                                             
+9 McNeil, Territorial , 8-10.  
+10 Calder v. Attorney-General of British Columbia , [1973] S.C.R. 313 at 328 per Judson J. for the majority. See also 
+Hall J.’s judgment, particularly at 375-394 and 401-6.   
+11 Slattery, Metamorphosis , p. 263. Professor Slattery refers to th is theory as the “customary” conception of 
+Aboriginal title.  
+12 Mark Walters, “British Imperial Constitutional Law and Aboriginal Rights: A Comment on Delgamuukw v. 
+British Columbia ” (1992), 17 Queen's Law Journal  350 [“ Walters, Imperial ”] [BOA Tab 16]  at 413.  4 
+ 
+ law recognizes those system s of law by virtue of the “Doctrine of Continuity”.13 The doctrine is 
+part of British “imperial” or “colonial” common law regulating the recep tion of British law in 
+newly-acquired colonies. Under th e doctrine, the establishment of the colony by the Crown does 
+not automatically extinguish the former legal regi me; to the contrary, laws and rights under that 
+regime continue until specifically repealed or replaced by the new regime. The rationales for the 
+doctrine have been said to be the separati on of powers, the rule of law and fairness.14  
+13. The Doctrine of Continuity is well-established in the case law and commentary,15 
+although it has been unevenl y applied. At times it wa s said to apply only to colonies acquired by 
+conquest or cession, as opposed to discovery or settlement; at ot her times it was held not to 
+extend to peoples “so low in the scale of social organization that their usages and conceptions of 
+rights and duties are not to be reconciled with th e institutions or the legal ideas of civilized 
+society”.16 These limitations have at various times b een thought to deny the continuation of the 
+laws and rights of the Aboriginal peoples of  North America and Australia, by way of the 
+“fictions”17 of terra nullius . But it is now clear that the doctr ine applies to co lonies acquired by 
+settlement as well as conquest,18 and that the common law recognizes the full range of 
+Aboriginal interests, “even though those inte rests are of a kind unknown to English law”.19 
+14. The Doctrine of Continuity has been  applied by Canadian courts, as in Connolly v. 
+Woolrich ,20 in which Cree marriage customs were held to  be in force such that a settler’s second 
+                                            
+13 Also sometimes referred to as the “Principle of C ontinuity”; see Mark Walters, “The ‘Golden Thread’ of 
+Continuity: Aboriginal Customs at Common Law and Under the Constitution Act, 1982” (1999), 44 McGill Law 
+Journal  711 [“ Walters, Aboriginal Customs ”] [BOA Tab 17] .  
+14 Walters, Aboriginal Customs , p. 742.  
+15 Recent academic commentary from Canada on this issue includes: Brian Slattery, The Land Rights of Indigenous 
+Canadian Peoples , D. Phil Thesis, Oxford, 1979 at 50-62 [BOA Tab 15] ; McNeil, Common Law , chapter 6 
+(161-192) [BOA Tab 12] ; Walters, Imperial  and Aboriginal Customs ; and Brian Slattery, “Making Sense of 
+Aboriginal and Treaty Rights” 2000, 79 Can. Bar Rev. 196 [BOA Tab 14] . Classic early cases include: Calvin’s 
+Case  (1608), 7 Co. Rep. 1a at 19b, 77 E.R. 377 (K.B.) [BOA Tab 1] ; The Case of Tanistry  (1608), Davis 28, 80 
+E.R. 516 [BOA Tab 9] ; Witrong v. Blany  (1674),3 Keb. 401, 84 E.R. 789 [BOA Tab 10] ; Dawes v. Painter  
+(1674), 1 Freem. 175, 89 E.R. 126 [BOA Tab 6] ; Campbell v. Hall  (1774), 14 Geo. 3 (K.B.) [BOA Tab 3] . 
+16 Re Southern Rhodesia , [1919] A.C. 211 [BOA Tab 8]  per Lord Sumner at 233.  
+17 See R. v. Van der Peet , [1996] 2 S.C.R. 507, para 40, per Lamer C.J., quoting from Mabo  at p. 58.  
+18 See Brian Slattery, “Understanding Aboriginal Rights” (1987), 66 Can. Bar Rev. 727 at 738. See also Professor 
+Walters’ detailed treatments of the issue in Imperial  and Aboriginal Customs .  
+19 Oyekan v. Adele , [1957] 2 All E.R. 785 at 788 [BOA Tab 7] , per Lord Denning. See also Amodu Tijani v. 
+Southern Nigeria , [1921] 2 A.C. 399 (P.C.).  
+20 (1867), 17 R.J. R.Q. 75, 1 C.N.L.C. 70 (Que. S.C.) [BOA Tab 4] , aff’d sub nom  Johnstone v. Connolly  (1869), 17 
+R.L.R.Q. 266, 1 C.N. L.C. 151 (Que. C.A.) [BOA Tab 5] .  5 
+ 
+ marriage under Christian rites was a nullity beca use his first marriage under Cree custom had not 
+been dissolved. More recently, Justice McLachlin (as she then was) accurately summarized and then relied upon the Doctrine of Continuity as th e basis for Aboriginal ri ghts in her dissent in 
+Van der Peet .
+21 Later, writing for the majority of this Court in Mitchell v. M.N.R. , Chief Justice 
+McLachlin founded her judgment squarely upon the doctrine.22  
+15. The continuity of Aboriginal law has been e xplicitly found by courts to be the basis for 
+Aboriginal title by some courts, most prominently by the High Court of Australia in Mabo . In 
+that case, Justice Brennan stated for the majority: “Native title has its origin in and is given its content by the traditional laws acknowledged by and the traditional customs observed by the indigenous inhabitants of a territory . The nature and incidents of na tive title must be ascertained 
+as a matter of fact by reference to those laws and customs.”
+23 In Van der Peet , Chief Justice 
+Lamer found Justice Brennan’s analysis of the basi s of aboriginal title to be “persuasive in the 
+Canadian context”.24 After quoting the above statement from Mabo , the Chief Justice stated:25  
+This position is the same as that being adopted here .  “Traditional laws” and 
+“traditional customs” are those things passe d down, and arising, from the pre-existing 
+culture and customs of aboriginal peoples.  The very meaning of the word “tradition” 
+– that which is “handed down [fr om ancestors] to posterity”, The Concise Oxford 
+Dictionary  (9th ed. 1995), – implies these origins for the customs and laws that the 
+Australian High Court in Mabo  is asserting to be relevant  for the determination of the 
+existence of aboriginal title.  To base abor iginal title in traditional laws and customs, 
+as was done in Mabo , is, therefore, to base that title in the pre-existing societies of 
+aboriginal peoples.  This is the same basis as  that asserted here for aboriginal rights. 
+16. The advantage of the continuity of customary law approach to Aboriginal rights and title 
+is that it properly respects the political and nor mative dimensions of pre-sovereignty Aboriginal 
+societies. As Professor Slattery has stated, “A boriginal title is nothing if not grounded ultimately 
+in the actual use and occupation of lands by Indigenous peoples under their laws .”26 But the 
+continuity approach also has limitations. As seen in Mabo , “[t]he nature and incidents of native 
+title must be ascertained as a matter of fact by reference to [the First Nation’s pre-sovereignty] 
+                                            
+21 Paras 263-275.  
+22 Mitchell v. M.N.R. , [2001] 1 S.C.R. 911, 2001 SCC 33, paras 9-10; quoted in Appellant’s Factum at para 97.  
+23 Mabo v. Queensland [No. 2]  (1992), 175 C.L.R. 1 at 58.  
+24 Para 38. 
+25 Ibid. at para 40 (emphasis added).  
+26 Slattery, Metamorphosis , 264 (emphasis added). 6 
+ 
+ laws and customs.” That basis of  title could lead to insurmountab le problems of proof for some 
+First Nations, where clear evidence of their pre-s overeignty laws has not survived the intervening 
+one and a half centuries. It would also lead to  a heterogeneous patchwork of titles across British 
+Columbia, with the title of  each First Nation having different natures and incidents.27 
+B. Delgamuukw : the sui generis  approach to Aboriginal title 
+17. The sui generis  theory holds that Aboriginal title is  not an ordinary pr oprietary interest 
+under English common law, but neither is it enti rely defined by a First Nation’s pre-sovereignty 
+laws relating to land. It is rather “a distinctive form of title ... that gives an Indigenous group the 
+exclusive right to possess a nd use its traditional lands  for such purposes as it sees fit, subject to 
+the restriction that the lands cannot  be transferred to outsiders but may only be ceded to or shared 
+with the Crown, which holds an  underlying title to the land.”28 
+18. The sui generis  theory has a long pedigree, dating back to the Marshall decisions from 
+the United States Supreme Court in the nineteenth century,29 in which Chief Justice Marshall 
+held that the Indian peoples were “distinct, independent political communities, retaining their 
+original natural rights, as the undisputed  possessors of the soil , from time immemorial,”30 subject 
+to the limitation that they could only alienate thei r lands to the European power that “discovered” 
+them. In Van der Peet , Chief Justice Lamer agreed that the Marshall decisions ar e “as relevant to 
+Canada as they are to the United States”.31  
+19. Chief Justice Lamer articulated the sui generis  theory of Aboriginal title further in 
+Delgamuukw . He observed that Aborigin al title “cannot be completely explained by reference 
+either to the common law rules of real property or to the rules of prope rty found in aboriginal 
+legal systems”, but rather must be understood by reference to both legal regimes.32 While 
+Aboriginal title has its source in the prior occupati on of Canada by Aboriginal peoples, both 
+legal regimes are relevant to occupation: the “ physical fact of occupati on” engages “the common 
+                                            
+27 See these critiques in Slattery, Metamorphosis , 263-7, and McNeil, Territorial , 2-4.  
+28 Slattery, Metamorphosis , 270.  
+29 Johnson v. M’Intosh , 8 Wheaton 543 (U.S.S.C. 1823); Cherokee Nation v. Georgia , 5 Peters 1 (U.S.S.C. 1831); 
+Worcester v. Georgia , 6 Peters 515 (U.S.S.C. 1832). For commentary linking the sui generis  theory of 
+Aboriginal title to the Marshall decisions, see Slattery, Metamorphosis , 271-279, and McNeil, Territorial , 4-7. 
+30 Worcester v. Georgia , 559.   
+31 Para 35; see also paras 36-37 for further endorsement of the Marshall decisions.  
+32 Delgamuukw , para 112. 7 
+ 
+ law principle that occupation is proof of possession in law”, and o ccupation is also informed by 
+“the relationship between common law and pre-existing systems of aboriginal law”33 (meaning 
+the Doctrine of Continuity). Thes e two jurisprudential sources for Aboriginal title in turn derive 
+two bases for proof of it: since the sources of Ab original title are “grounded both in the common 
+law and in the aboriginal perspective on land” – th e latter of which “includes, but is not limited 
+to, their systems of law” – “[i]t follows that bot h should be taken into ac count in establishing the 
+proof of occupancy.”34 With respect to Aboriginal laws, Chief Justice Lamer further stated:35  
+As a result, if, at the time of  sovereignty, an aboriginal so ciety had laws in relation to 
+land, those laws would be relevant to esta blishing the occupation of lands which are 
+the subject of a claim for aboriginal title . Relevant laws might include, but are not 
+limited to, a land tenure system  or laws governing land use. 
+20. Like the customary law theory of Aboriginal title, the sui generis  approach has the 
+important benefit of properly reco gnizing that, prior to  the arrival of Eur opeans, First Nations 
+were “distinct, independent political communiti es”, with their own systems of laws that 
+structured and legitimated their physical occupation of the land. The sui generis  approach 
+confronts that reality both by incorporating Aboriginal laws into the proof of title, and by allowing for different First Nations to govern the in ternal use of their titl e lands differently. The 
+sui generis  approach also has the advantag e, however, of ascribing uniform external  
+characteristics to Aboriginal title, such that the nature of the right per se  does not differ from 
+group to group: it is a communal title that cannot  be alienated except through surrender to the 
+Crown,
+36 and it is a right to the land itself, which th e First Nation may use in  any manner that is 
+not irreconcilable with its attachment to the land.37 The sui generis  approach to the Aboriginal 
+title is therefore “a blend of the diversity e nvisaged by the custom-based conception and the 
+uniformity contemplated by the English-based conception.”38 
+21. The sui generis  approach thereby advances th e project of r econciliation by 
+acknowledging that the colonization of Canada i nvolved “the meeting of two vastly dissimilar 
+                                            
+33 Ibid., para 114.  
+34 Ibid., para 147.  
+35 Ibid., para 148 (emphasis added).  
+36 Ibid., paras 113 and 115.  
+37 Ibid., para 117. See also Campbell v. British Columbia , [2000] 4 C.N.L.R. 1 (B.C.S.C.) [BOA Tab 2] .  
+38 Slattery, Metamorphosis , 270.  8 
+ 
+ legal cultures”.39 The goal is not to impose the categor ies of common law rights onto prior 
+Aboriginal occupation of the land, but rather to construct “a form of intersocietal law”40 
+informed by both the common law and Aboriginal pe rspectives. As Chief Justice Lamer stated in 
+both Van der Peet  and Delgamuukw , “[t]rue reconciliation will,  equally, place weight on each.”41  
+C. Marshall; Bernard  and the Court of Appeal 
+22. Despite the strong language of Van der Peet  and Delgamuukw , in Marshall; Bernard  this 
+Court strayed from the commitment to equal weight between the common law and Aboriginal 
+perspectives. This departure appears unintention al; certainly the majority purported to follow 
+Delgamuukw  and eschewed “imposing a European template”.42 But whereas in Delgamuukw  the 
+present-day right of Aborigin al title is conceived as sui generis  – a right that cannot be 
+understood by reference to either  the common law or Aboriginal legal systems alone, but only by 
+reference to both – in Marshall; Bernard  it is framed as a pre- sovereignty Aboriginal practice  
+that is “translated” into a modern common law  right. The act of translation engages “the 
+European perspective; the nature of the right at common law must be examined to determine 
+whether a particular aboriginal practice fits it.”43 As Professor Slattery notes, this translation 
+approach constitutes a “sharp departure” from Delgamuukw ; under the sui generis  approach 
+endorsed in that case, “aboriginal title is a distinctive inter-soci etal right that bridges the gap 
+between Indigenous and European-based land systems and regulates their interaction. No 
+translation is needed.”44 By conceiving of Aboriginal title as  the product of translation, the Court 
+re-cast Aboriginal title in a common law mold, no matter how sensitive the translation is to the 
+First Nation’s manner of life. Whereas Aboriginal  legal perspectives are given equal weight to 
+the common law in the sui generis  approach, according to Marshall; Bernard  Aboriginal 
+perspectives are only relevant to the Aboriginal practice , while the common law solely defines 
+the right  to which the practi ce is translated.  
+23. In the case at bar, the C ourt of Appeal moved further away from the Aboriginal 
+                                            
+39 Van der Peet , para 42, per Lamer C.J., quoting with approval from Walters, Imperial , at 412.  
+40 Van der Peet , para 42, per Lamer C.J., quoting with approval from Bria n Slattery, “The Legal Basis of Aboriginal 
+Title”, in Frank Cassidy, ed., Aboriginal Title in British Columbia: Delgamuukw v. The Queen .  
+41 Van der Peet , paras 49 and 50; Delgamuukw , paras 81 and 148; referencing Walters, Imperial , 413.  
+42 Marshall; Bernard , para 48.  
+43 Ibid.  
+44 Slattery, Metamorphosis , 281-2.  9 
+ 
+ customary law basis of title, and conceived of it  exclusively as the pr oduct of the common law 
+test of physical occupation. While the Court of Appeal reviewed the Canadian law of Aboriginal 
+title at paragraphs 174-204, nowhere in that discussion did it acknowledge Aboriginal legal 
+perspectives as a source and basis of proof of the sui generis  right of Aboriginal title; only at 
+paragraph 233 did the Court acknowledge that, “[i]n considering Aboriginal title and Aboriginal 
+rights, the Court must ta ke into account Aborigin al perspective as well as that of the common 
+law.” Moreover, while in its overview of the facts the Court quoted from the trial judge’s 
+findings regarding the Tsilhqot’in’s socio-political structure – includi ng that they were “a rule 
+ordered society” who “did consider  the land to be their land” and “had a concept of territory and 
+boundaries”45 – the Court ultimately neglected any c onsideration of the Tsilhqot’in’s customary 
+land laws in determining whether their o ccupation was sufficient to prove title.  
+24. The Court of Appeal erred in law in not ta king the Tsilhqot’in’s la ws into account. While 
+Tsilhqot’in members were not pres ent year-round in all parts of their territory, their laws were , as 
+is underscored by the extensive evidence of th e enforcement of their exclusive rights of 
+occupation. As a general proposition, if Aboriginal ti tle is properly seen as rooted in part in a 
+First Nation’s socio-politic al structure, then it is plain (as was recognized in Delgamuukw ) that 
+occupation of lands extends be yond physical presence; it must  also encompass the normative 
+rules by which the First Nation orde red use of the land. Indeed, as will be developed more fully 
+under the next heading, the relevance of customary laws to proof  of Aboriginal ti tle demonstrates 
+that title is territorial  in scope, not just site specific.  
+25. On appeal, this Court should view the evid ence of Tsilhqot’in oc cupation through the 
+prism of Tsilhqot’in customary laws. This Court s hould also be conscious that there will be other 
+cases – cases more like Delgamuukw  – where the plaintiff First Nation had a land tenure system 
+more specific and prescriptive than in the case at  bar. The Court’s judgment will be applied by 
+lower courts in subsequent cases and will gui de Crown-First Nation co nsultations. This Court 
+should therefore make clear the continuing relevance of customary laws to Aboriginal title. 
+D. Sui generis  Aboriginal title is territorial 
+26. At the heart of the Court of Appeal’s judgment is a determination that Aboriginal title is 
+                                            
+45 See Appeal Judgment at paras 34-35, quoting from paras 356-363 and 429 of the Trial Judgment.   10 
+ 
+ not “territorial” in extent, but ra ther applies only to particular s ites. The Court of Appeal reached 
+that conclusion by focusing exclusively on the physical  occupation test from the common law, 
+without considering the customary law dimension of Aboriginal title. That dimension makes 
+very clear that the Court in Delgamuukw  envisioned Aboriginal title to be territorial in scope.  
+27.  Chief Justice Lamer cited, as examples, “a land tenure system or laws governing land 
+use” as customary laws that would be relevant to  “establishing the occupation of lands which are 
+the subject of a claim for aboriginal title”.46 Later, in connection with the exclusivity 
+requirement, he stated that relevant Aboriginal  laws would include “trespass laws” and “laws 
+under which permission may be granted to othe r aboriginal groups to use or reside even 
+temporarily on land”.47 It is inconceivable that in citing a land tenure system and trespass laws 
+the Chief Justice had in mind only a patchwork of v illage sites, cultivated fields and salt licks. To 
+the contrary, the Chief Justice noted that the Gitksan had tendered their adaawk  as “proof of the 
+existence of a system of land tenure law inte rnal to the Gitksan, wh ich covered the whole 
+territory  claimed by that appellant”, and that bot h the Gitksan and the Wet’suwet’en had 
+tendered “territorial affidavits” detailing their respective houses’ “territorial holdings”;48 in each 
+case, the Chief Justice observed that they would be  relevant to proof of title in a new trial.  
+28. As this Court confirmed two decades ago, section 35 calls for a “just settlement for 
+aboriginal peoples”.49 To fulfil that promise this  Court should return to the sui generis  basis for 
+Aboriginal title set out in Delgamuukw , re-affirm the customary law dimension of Aboriginal 
+title, and reject the Court of Appeal ’s restriction of title only to par ticular sites of intensive use.  
+PART 4 - SUBMISSIONS CONCERNING COSTS 
+29. Gitxaala Nation does not seek costs and as ks that none be or dered against it.  
+PART 5 - ORDER SOUGHT 
+30. Gitxaala Nation requests leave to present at  least 10 minutes of oral argument.  
+All of which is respectfully submitted this 23rd day of September, 2013 
+ 
+                                            
+46 Delgamuukw , para 148.  
+47 Ibid., para 157.  
+48 Ibid., paras 94 and 102 (emphasis added).  
+49 R. v. Sparrow , [1990] 1 S.C.R. 1075 at 1105-6.  
+Tim Dickson 11 
+ 
+  
+PART 6 - TABLE OF AUTHORITIES 
+ 
+Case law Paragraph in 
+factum 
+Amodu Tijani v. Southern Nigeria , [1921] 2 A.C. 399 (P.C.)  13 
+Calder v. Attorney-General of British Columbia , [1973] S.C.R. 313 10 
+Calvin’s Case  (1608), 7 Co. Rep. 1a at 19b, 77 E.R. 377 (K.B.)  13 
+Campbell v. British Columbia , [2000] 4 C.N.L.R. 1 (B.C.S.C.) 20 
+Campbell v. Hall  (1774), 14 Geo. 3 (K.B.)  13 
+Cherokee Nation v. Georgia , 5 Peters 1 (U.S.S.C. 1831)  18 
+Connolly v. Woolrich (1867), 17 R.J. R.Q. 75, 1 C.N.L.C. 70 (Que. S.C.)  14 
+Connolly v. Woolrich [sub nom  Johnstone v. Connolly ] (1869), 17 R.L.R.Q. 
+266, 1 C.N.L.C. 151 (Que. C.A.) 14 
+Dawes v. Painter  (1674), 1 Freem. 175, 89 E.R. 126  13 
+Delgamuukw v. British Columbia , [1997] 3 S.C.R. 1010 3, 4, 6, 7, 8, 19, 
+20, 21, 22, 24, 25, 26, 27 
+Johnson v. M’Intosh , 8 Wheaton 543 (U.S.S.C. 1823)  18 
+Mabo v. Queensland [No. 2]  (1992), 175 C.L.R. 1  13, 15,16 
+Mitchell v. M.N.R. , [2001] 1 S.C.R. 911, 2001 SCC 33 14 
+Oyekan v. Adele , [1957] 2 All E.R. 785  13 
+R. v. Marshall; R. v. Bernard , 2005 SCC 43 4, 7, 22 
+R. v. Sparrow,  [1990] 1 S.C.R. 1075 28 
+R. v. Van der Peet , [1996] 2 S.C.R. 507  13, 14, 15, 18, 
+21, 22 
+Re Southern Rhodesia , [1919] A.C. 211  13 12 
+ 
+ The Case of Tanistry  (1608), Davis 28, 80 E.R. 516 13 
+Witrong v. Blany  (1674),3 Keb. 401, 84 E.R. 789  13 
+Worcester v. Georgia , 6 Peters 515 (U.S.S.C. 1832)  18 
+ 
+Other authorities Paragraph in 
+factum
+McNeil, K.,, “Aboriginal Title and th e Supreme Court: What’s Happening?” 
+(1996), 69 Sask. L. Rev. 281 7 
+McNeil, K., “Aboriginal Title in Cana da: Site-Specific or Territorial”, 
+Presented at the Law on the Edge C onference, Canadian Law and Society 
+Association/Law and Society Association of Australia and New Zealand, UBC, 
+Vancouver, July 1-4, 2013, found at: http://papers.ssrn.com/ 
+sol3/papers.cfm? abstract_id=2294552 7, 16, 18 
+McNeil, K., Common Law Aboriginal Title , Oxford: Clarendon Press, 1989 3, 13 
+McNeil, K., “Self-Government and the Inalienability of Aboriginal Title” 
+(2002), 47 McGill L.J. 473 7 
+Slattery, B., “Making Sense of Abor iginal and Treaty Rights” 2000, 79 Can. 
+Bar Rev. 196 13 
+Slattery, B., The Land Rights of Indigenous Canadian Peoples , D. Phil Thesis, 
+Oxford, 1979 13 
+Slattery, B., “The Metamorphosis of Aboriginal Title” (2006), 85 Can. Bar 
+Rev. 255 7, 11, 16, 17, 
+18, 20, 22 
+Slattery, B., “Understanding Aborigin al Rights” (1987), 66 Can. Bar Rev. 727 13 
+Walters, M., “British Imperial Constitu tional Law and Aboriginal Rights: A 
+Comment on Delgamuukw v. British Columbia ” (1992), 17 Queen's Law 
+Journal  35 11, 13, 21, 22 
+Walters, M.,“The ‘Golden Thread’ of Continuity: Aboriginal Customs at 
+Common Law and Under the Cons titution Act, 1982” (1999), 44 McGill Law 
+Journal  711 12, 13 
+ 

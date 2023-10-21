@@ -1,0 +1,2455 @@
+[2017] 1 R.C.S.1069
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES
+Hameau de Clyde River,  
+Nammautaq Hunters & Trappers  
+Organization — Clyde River et  
+Jerry Natanine Appelants
+c.
+Petroleum Geo-Services Inc. (PGS),  
+Multi Klient Invest As (MKI),  
+TGS-NOPEC Geophysical Company ASA 
+(TGS) et procureure générale du  
+Canada Intimées
+et
+Procureur général de l’Ontario,  
+procureur général de la Saskatchewan,  
+Nunavut Tunngavik Incorporated,  
+Makivik Corporation,  
+Conseil de gestion des ressources fauniques 
+du Nunavut, Inuvialuit Regional Corporation 
+et Chiefs of Ontario Intervenants
+Répertorié : Clyde River (Hameau)  c.  
+Petroleum Geo-Services Inc.
+2017 CSC 40
+No du greffe : 36692.
+2016 : 30 novembre; 2017 : 26 juillet*.
+Présents : La juge en chef McLachlin et les juges Abella, 
+Moldaver, Karakatsanis, Wagner, Gascon, Côté, Brown 
+et Rowe.
+EN APPEL DE LA COUR D’APPEL FÉDÉRALE
+Droit constitutionnel — Inuits — Droits issus de 
+traités — Couronne — Obligation de consultation — 
+Décision d’un  organisme de réglementation fédéral indé -
+pendant qui pourrait avoir une incidence sur des droits 
+issus de traités — Essais sismiques extracôtiers liés aux 
+ressources pétrolières et gazières et susceptibles d’avoir 
+une incidence sur des droits issus de traités des Inuits — 
+* Ce jugement a été modifié le 30 octobre 2017, par adjonction des 
+notes en bas de page qui figurent maintenant aux par. 31 et 47 
+des versions anglaise et française des motifs.Hamlet of Clyde River,  
+Nammautaq Hunters & Trappers  
+Organization — Clyde River and  
+Jerry Natanine Appellants
+v.
+Petroleum Geo-Services Inc. (PGS),  
+Multi Klient Invest As (MKI),  
+TGS-NOPEC Geophysical Company ASA 
+(TGS) and Attorney General of  
+Canada Respondents
+and
+Attorney General of Ontario,  
+Attorney General of Saskatchewan,  
+Nunavut Tunngavik Incorporated,  
+Makivik Corporation,  
+Nunavut Wildlife Management Board,  
+Inuvialuit Regional Corporation and  
+Chiefs of Ontario Interveners
+Indexed as: Clyde River (Hamlet) v.  
+Petroleum Geo-Services Inc.
+2017 SCC 40
+File No.: 36692.
+2016: November 30; 2017: July 26.*
+Present: McLachlin C.J. and Abella, Moldaver, 
+Karakatsanis, Wagner, Gascon, Côté, Brown and 
+Rowe JJ.
+ON APPEAL FROM THE FEDERAL COURT OF  
+APPEAL
+Constitutional law — Inuit — Treaty rights — Crown 
+— Duty to consult — Decision by federal independent 
+regulatory agency which could impact upon treaty rights 
+— Offshore seismic testing for oil and gas resources po -
+tentially affecting Inuit treaty rights — National Energy 
+Board authorizing project — Whether Board’s approval 
+process triggered Crown’s duty to consult — Whether 
+* This judgment was amended on October 30, 2017, by adding the 
+footnotes that now appear at paras. 31 and 47 of the English and 
+French versions of the reasons.1070 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES
+Crown can rely on Board’s process to fulfill its duty — 
+Role of Board in considering Crown consultation before 
+approval of project — Whether consultation was adequate 
+in this case — Canada Oil and Gas Operations Act, 
+R.S.C. 1985, c. O-7, s. 5(1)(b).
+The National Energy Board (NEB), a federal admin -
+istrative tribunal and regulatory agency, is the final deci -
+sion maker for issuing authorizations for activities such as 
+exploration and drilling for the production of oil and gas 
+in certain designated areas. The proponents applied to the 
+NEB to conduct offshore seismic testing for oil and gas 
+in Nunavut. The proposed testing could negatively affect 
+the treaty rights of the Inuit of Clyde River, who opposed 
+the seismic testing, alleging that the duty to consult had 
+not been fulfilled in relation to it. The NEB granted the 
+requested authorization. It concluded that the proponents 
+made sufficient efforts to consult with Aboriginal groups 
+and that Aboriginal groups had an adequate opportunity to 
+participate in the NEB’s process. The NEB also concluded 
+that the testing was unlikely to cause significant adverse 
+environmental effects. Clyde River applied for judicial re -
+view of the NEB’s decision. The Federal Court of Appeal 
+found that while the duty to consult had been triggered, 
+the Crown was entitled to rely on the NEB to undertake 
+such consultation, and the Crown’s duty to consult had 
+been satisfied in this case by the NEB’s process.
+Held : The appeal should be allowed and the NEB’s 
+authorization quashed.
+The NEB’s approval process, in this case, triggered the 
+duty to consult. Crown conduct which would trigger the 
+duty to consult is not restricted to the exercise by or on 
+behalf of the Crown of statutory powers or of the royal 
+prerogative, nor is it limited to decisions that have an im -
+mediate impact on lands and resources. The NEB is not, 
+strictly speaking, “the Crown” or an agent of the Crown. 
+However, it acts on behalf of the Crown when making 
+a final decision on a project application. In this context, 
+the NEB is the vehicle through which the Crown acts. It 
+therefore does not matter whether the final decision maker 
+is Cabinet or the NEB. In either case, the decision consti -
+tutes Crown action that may trigger the duty to consult. Projet autorisé par l’Office national de l’énergie — Le 
+processus d’approbation de l’Office a-t-il donné nais -
+sance à l’obligation de consulter de la Couronne? — La 
+Couronne peut-elle s’en remettre au processus de l’Of -
+fice pour satisfaire à son obligation? — Rôle de l’Office 
+dans l’appréciation de la consultation incombant à la 
+Couronne avant l’approbation d’un projet — La consul -
+tation a-t-elle été adéquate en l’espèce? — Loi sur les 
+opérations pétrolières au Canada, L.R.C. 1985, c. O-7, 
+art. 5(1)b).
+L’Office national de l’énergie (ONÉ), tribunal admi -
+nistratif fédéral et organisme de réglementation, prend 
+en dernier ressort la décision d’autoriser ou non des ac -
+tivités telles la recherche et l’exploitation des ressources 
+pétrolières et gazières dans certains endroits désignés. Les 
+promoteurs ont demandé à l’ONÉ l’autorisation de mener 
+des essais sismiques extracôtiers liés aux ressources pétro -
+lières et gazières au Nunavut. Les essais proposés pour -
+raient avoir des incidences négatives sur les droits issus de 
+traités des Inuits de Clyde River, qui se sont opposés aux 
+essais sismiques, affirmant qu’il n’avait pas été satisfait à 
+l’obligation de consultation en ce qui a trait à ces essais. 
+L’ONÉ a accordé l’autorisation demandée. Il a conclu que 
+les promoteurs avaient déployé suffisamment d’efforts 
+pour consulter les groupes autochtones et que ces groupes 
+avaient eu une possibilité adéquate de participer au pro -
+cessus d’évaluation environnementale de l’ONÉ. L’ONÉ a 
+également conclu que les essais n’étaient pas susceptibles 
+de causer des effets environnementaux négatifs et impor -
+tants. Clyde River a demandé le contrôle judiciaire de la 
+décision de l’ONÉ. La Cour d’appel fédérale a jugé que 
+l’obligation de consulter avait pris naissance, mais que la 
+Couronne pouvait s’en remettre à l’ONÉ pour que celui-ci 
+procède à la consultation, et que le processus de l’ONÉ 
+avait permis de satisfaire à l’obligation de consulter de la 
+Couronne en l’espèce.
+Arrêt : Le pourvoi est accueilli et l’autorisation de 
+l’ONÉ est annulée.
+Dans la présente affaire, le processus d’approbation de 
+l’ONÉ a donné naissance à l’obligation de consulter. Les 
+mesures de la Couronne susceptibles de donner naissance 
+à l’obligation de consulter ne se limitent pas à l’exercice, 
+par la Couronne ou en son nom, de la prérogative royale 
+ou de pouvoirs conférés par la loi, et ne se limitent pas 
+non plus aux décisions qui ont une incidence immédiate 
+sur les terres et les ressources. L’ONÉ n’est pas, à propre -
+ment parler, « la Couronne » ou un mandataire de la Cou -
+ronne. Cependant, il agit pour le compte de la Couronne 
+lorsqu’il prend une décision définitive à l’égard d’une de -
+mande de projet. Dans ce contexte, l’ONÉ est le moyen 
+par lequel la Couronne agit. Par conséquent, il importe [2017] 1 R.C.S.1071
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES
+The substance of the duty does not change when a regula -
+tory agency holds final decision-making authority.
+It is open to legislatures to empower regulatory bodies 
+to play a role in fulfilling the Crown’s duty to consult. 
+While the Crown always holds ultimate responsibility for 
+ensuring consultation is adequate, it may rely on steps 
+undertaken by a regulatory agency to fulfill its duty to 
+consult. Where the regulatory process being relied upon 
+does not achieve adequate consultation or accommoda -
+tion, the Crown must take further measures. Also, where 
+the Crown relies on the processes of a regulatory body 
+to fulfill its duty in whole or in part, it should be made 
+clear to affected Indigenous groups that the Crown is 
+so relying. The NEB has the procedural powers neces -
+sary to implement consultation, and the remedial powers 
+to, where necessary, accommodate affected Aboriginal 
+claims, or Aboriginal and treaty rights. Its process can 
+therefore be relied on by the Crown to completely or par -
+tially fulfill the Crown’s duty to consult.
+The NEB has broad powers to hear and determine all 
+relevant matters of fact and law, and its decisions must 
+conform to s. 35(1) the Constitution Act, 1982 . It fol -
+lows that the NEB can determine whether the Crown’s 
+duty has been fulfilled. The public interest and the duty 
+to consult do not operate in conflict here. The duty to 
+consult, being a constitutional imperative, gives rise 
+to a special public interest that supersedes other con -
+cerns typically considered by tribunals tasked with as -
+sessing the public interest. A project authorization that 
+breaches the constitutionally protected rights of Indig -
+enous peoples cannot serve the public interest. When af -
+fected Indigenous groups have squarely raised concerns 
+about Crown consultation with the NEB, the NEB must 
+usually address those concerns in reasons. The degree 
+of consideration that is appropriate will depend on the 
+circumstances of each case. Above all, any decision af -
+fecting Aboriginal or treaty rights made on the basis of 
+inadequate consultation will not be in compliance with 
+the duty to consult. Where the Crown’s duty to consult 
+remains unfulfilled, the NEB must withhold project peu que le décideur ultime soit le Cabinet ou l’ONÉ. 
+Dans les deux cas, la décision constitue une mesure de 
+la Couronne qui peut donner naissance à l’obligation de 
+consulter. La substance de cette obligation ne change pas 
+lorsqu’un organisme de réglementation détient le pouvoir 
+de prendre la décision définitive.
+Il est loisible aux législateurs d’habiliter des orga -
+nismes de réglementation à contribuer à la réalisation de 
+l’obligation de consulter de la Couronne. Bien que ce soit 
+toujours à la Couronne qu’incombe la responsabilité ul -
+time de veiller au caractère adéquat de la consultation, elle 
+peut s’en remettre aux mesures prises par un organisme de 
+réglementation pour satisfaire à son obligation de consul -
+ter. Lorsque le processus réglementaire auquel s’en remet 
+la Couronne ne lui permet pas de satisfaire adéquatement 
+à son obligation de consulter ou d’accommoder, elle doit 
+prendre des mesures supplémentaires pour ce faire. De 
+plus, lorsque la Couronne s’en remet aux processus d’un 
+organisme de réglementation pour satisfaire en tout ou en 
+partie à son obligation, il doit être clairement indiqué aux 
+groupes autochtones touchés que la Couronne s’en remet 
+à un tel processus. L’ONÉ dispose des pouvoirs procédu -
+raux nécessaires pour mener des consultations, ainsi que 
+des pouvoirs de réparation lui permettant de prendre, au 
+besoin, des mesures d’accommodement à l’égard des re -
+vendications autochtones ou des droits ancestraux ou issus 
+de traités touchés. La Couronne peut donc s’en remettre 
+au processus de l’ONÉ pour satisfaire, en tout ou en par -
+tie, à l’obligation de consulter qui lui incombe.
+L’ONÉ dispose de vastes pouvoirs l’autorisant à en -
+tendre et à trancher toute question pertinente de droit et 
+de fait, et ses décisions doivent respecter le par. 35(1) de 
+la Loi constitutionnelle de 1982 . Par conséquent, l’ONÉ 
+peut décider s’il a été satisfait à l’obligation de consulter 
+de la Couronne. L’intérêt public et l’obligation de consul -
+ter ne sont pas incompatibles en l’espèce. En tant qu’im -
+pératif constitutionnel, l’obligation de consulter fait naître 
+un intérêt public spécial, qui l’emporte sur les autres 
+préoccupations dont tiennent habituellement compte 
+les tribunaux administratifs appelés à évaluer l’intérêt 
+public. Lorsque l’autorisation accordée à l’égard d’un 
+projet viole les droits constitutionnels des peuples autoch -
+tones, cette autorisation ne saurait servir l’intérêt public. 
+Lorsque les groupes autochtones touchés soulèvent direc -
+tement auprès de l’ONÉ des préoccupations concernant 
+la consultation qui a été menée par la Couronne, l’ONÉ 
+doit habituellement traiter de ces préoccupations dans 
+des motifs. L’étendue de l’analyse qui conviendra variera 
+selon les circonstances propres à chaque cas. Par-dessus 
+tout, toute décision touchant des droits ancestraux ou issus 1072 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES
+approval. Where the NEB fails to do so, its approval de -
+cision should be quashed on judicial review.
+While the Crown may rely on the NEB’s process to 
+fulfill its duty to consult, the consultation and accommo -
+dation efforts in this case were inadequate and fell short 
+in several respects. First, the inquiry was misdirected. 
+The consultative inquiry is not properly into environmen -
+tal effects per se . Rather, it inquires into the impact on 
+the right itself. No consideration was given in the NEB’s 
+environmental assessment to the source of the Inuit’s 
+treaty rights, nor to the impact of the proposed testing 
+on those rights. Second, although the Crown relies on the 
+processes of the NEB as fulfilling its duty to consult, that 
+was not made clear to the Inuit. Finally, and most impor -
+tantly, the process provided by the NEB did not fulfill the 
+Crown’s duty to conduct the deep consultation that was 
+required here. Limited opportunities for participation and 
+consultation were made available. There were no oral 
+hearings and there was no participant funding. While 
+these procedural safeguards are not always necessary, 
+their absence in this case significantly impaired the qual -
+ity of consultation. As well, the proponents eventually 
+responded to questions raised during the environmental 
+assessment process in the form of a practically inacces -
+sible document months after the questions were asked. 
+There was no mutual understanding on the core issues 
+— the potential impact on treaty rights, and possible ac -
+commodations. As well, the changes made to the project 
+as a result of consultation were insignificant concessions 
+in light of the potential impairment of the Inuit’s treaty 
+rights. Therefore, the Crown breached its duty to consult 
+in respect of the proposed testing.
+Cases Cited
+Applied: Rio Tinto Alcan Inc. v. Carrier Sekani Tribal 
+Council , 2010 SCC 43, [2010] 2 S.C.R. 650; distin -
+guished:  Taku River Tlingit First Nation v. British Colum -
+bia (Project Assessment Director) , 2004 SCC 74, [2004] 3 
+S.C.R. 550; referred to:  Chippewas of the Thames First 
+Nation v. Enbridge Pipelines Inc. , 2017 SCC 41, [2017] 
+1 S.C.R. 1099; Haida Nation v. British Columbia (Min -
+ister of Forests) , 2004 SCC 73, [2004] 3 S.C.R. 511; R. de traités prise sur la base d’une consultation inadéquate 
+ne respectera pas l’obligation de consulter. Lorsque la 
+Couronne n’a pas satisfait à son obligation de consulter, 
+l’ONÉ doit refuser d’approuver le projet. S’il l’approuve, 
+sa décision devrait être annulée à l’issue d’un contrôle ju -
+diciaire.
+Bien que la Couronne puisse s’en remettre au proces -
+sus mené par l’ONÉ pour satisfaire à son obligation de 
+consulter, les efforts de consultation et d’accommode -
+ment déployés dans le présent cas ont été inadéquats et 
+lacunaires à plusieurs égards. Premièrement, la consulta -
+tion était mal orientée. Le processus consultatif ne vise 
+pas vraiment les effets environnementaux en tant que 
+tels, mais plutôt les effets sur le droit lui-même. Dans 
+son évaluation environnementale, l’ONÉ n’a pas pris 
+en considération la source des droits issus de traités des 
+Inuits, ni l’incidence des essais proposés sur ces droits. 
+Deuxièmement, il n’a pas été indiqué clairement aux 
+Inuits que la Couronne s’en remettait aux processus de 
+l’ONÉ pour satisfaire à son obligation de consulter. En -
+fin, élément le plus important, le processus de l’ONÉ n’a 
+pas permis de satisfaire à l’obligation de la Couronne de 
+mener la consultation approfondie qui était requise dans 
+la présente affaire. Très peu de possibilités de participa -
+tion et de consultation ont étés offertes. Il n’y a pas eu 
+d’audiences en l’espèce ni d’aide financière à l’intention 
+des participants. Bien que ces garanties procédurales ne 
+soient pas toujours nécessaires, leur absence dans la pré -
+sente instance a réduit de façon importante la qualité de la 
+consultation. De plus, les promoteurs ont finalement ré -
+pondu aux questions soulevées durant le processus d’éva -
+luation environnementale, mais au moyen d’un document 
+pratiquement inaccessible, et ce, des mois après que les 
+questions aient été posées. Il n’existait aucune compré -
+hension mutuelle sur les points fondamentaux — à savoir 
+les effets potentiels sur les droits issus de traités et les 
+possibles accommodements. En outre, les changements 
+apportés au projet par suite de la consultation ne repré -
+sentaient que des concessions négligeables au regard de 
+l’atteinte potentielle aux droits issus de traités des Inuits. 
+En conséquence, la Couronne a manqué à son obligation 
+de consulter en ce qui concerne les essais proposés.
+Jurisprudence
+Arrêt appliqué :  Rio Tinto Alcan Inc. c. Conseil tribal 
+Carrier Sekani , 2010 CSC 43, [2010] 2 R.C.S. 650; dis-
+tinction d’avec l’arrêt  : Première nation Tlingit de Taku 
+River c. Colombie-Britannique (Directeur d’évaluation de 
+projet) , 2004 CSC 74, [2004] 3 R.C.S. 550; arrêts men -
+tionnés :  Chippewas of the Thames First Nation c. Pipe -
+lines Enbridge inc. , 2017 CSC 41, [2017] 1 R.C.S. 1099; 
+Nation haïda c. Colombie-Britannique (Ministre des [2017] 1 R.C.S.1073
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES
+v. Kapp , 2008 SCC 41, [2008] 2 S.C.R. 483; Ross River 
+Dena Council v. Yukon , 2012 YKCA 14, 358 D.L.R. (4th) 
+100; Beckman v. Little Salmon/Carmacks First Nation , 
+2010 SCC 53, [2010] 3 S.C.R. 103; Chippewas of the 
+Thames First Nation v. Enbridge Pipelines Inc. , 2015 FCA 
+222, [2016] 3 F.C.R. 96; McAteer v. Canada (Attorney 
+General) , 2014 ONCA 578, 121 O.R. (3d) 1; Town Invest -
+ments Ltd. v. Department of the Environment , [1978] A.C. 
+359; R. v. Conway , 2010 SCC 22, [2010] 1 S.C.R. 765; 
+Quebec (Attorney General) v. Canada (National Energy 
+Board) , [1994] 1 S.C.R. 159; Standing Buffalo Dakota 
+First Nation v. Enbridge Pipelines Inc. , 2009 FCA 308, 
+[2010] 4 F.C.R. 500; Tsilhqot’in Nation v. British Colum -
+bia, 2014 SCC 44, [2014] 2 S.C.R. 257; Kainaiwa/Blood 
+Tribe v. Alberta (Energy) , 2017 ABQB 107; Baker v. Can -
+ada (Minister of Citizenship and Immigration) , [1999] 2 
+S.C.R. 817; Qikiqtani Inuit Assn. v. Canada (Minister of 
+Natural Resources) , 2010 NUCJ 12, 54 C.E.L.R. (3d) 263.
+Statutes and Regulations Cited
+Canada Oil and Gas Operations Act , R.S.C. 1985, 
+c. O-7, ss. 2.1, 3, 5(1)(a), 5(1)(b), 5(4), 5(5), 5.002 
+[ad. 2015, c. 4, s. 7], 5.2(2), 5.31, 5.32, 5.331 [ idem , 
+s. 13], 5.36.
+Canadian Environmental Assessment Act , S.C. 1992, 
+c. 37.
+Canadian Environmental Assessment Act, 2012 , S.C. 
+2012, c. 19, s. 52.
+Constitution Act, 1982 , s. 35.
+National Energy Board Act , R.S.C. 1985, c.  N-7, 
+s. 12(2), 16.3, 24.
+National Energy Board Act , S.C. 1959, c. 46.
+Treaties and Agreements
+Nunavut Land Claims Agreement  (1993).
+Authors Cited
+Freedman, Robert, and Sarah Hansen. “Aboriginal Rights 
+vs. The Public Interest” prepared for Pacific Business 
+& Law Institute Conference, Vancouver, B.C. (Feb -
+ruary 26-27, 2009) (online: http://www.millerthom -
+son.com/assets/files/article_attachments/Aboriginal_  
+Rights_vs_The_Public_Interest.pdf; archived version: 
+http://www.scc-csc.ca/cso-dce/2017SCC-CSC40_1_
+eng.pdf).
+Hogg, Peter W., Patrick J. Monahan and Wade K. Wright. 
+Liability of the Crown , 4th ed. Toronto: Carswell, 
+2011.Forêts) , 2004 CSC 73, [2004] 3 R.C.S. 511; R. c. Kapp , 
+2008 CSC 41, [2008] 2 R.C.S. 483; Ross River Dena 
+Council c. Yukon , 2012 YKCA 14, 358 D.L.R. (4th) 100; 
+Beckman c. Première nation de Little Salmon/Carmacks , 
+2010 CSC 53, [2010] 3 R.C.S. 103; Première Nation 
+des Chippewas de la Thames c. Pipelines Enbridge Inc. , 
+2015 CAF 222, [2016] 3 R.C.F. 96; McAteer c. Canada 
+(Attorney General) , 2014 ONCA 578, 121 O.R. (3d) 1; 
+Town Investments Ltd. c. Department of the Environment , 
+[1978] A.C. 359; R. c. Conway , 2010 CSC 22, [2010] 
+1 R.C.S. 765; Québec (Procureur général) c. Canada 
+(Office national de l’énergie) , [1994] 1 R.C.S. 159; Pre-
+mière nation dakota de Standing Buffalo c. Enbridge 
+Pipelines Inc. , 2009 CAF 308, [2010] 4 R.C.F. 500; Na-
+tion Tsilhqot’in c. Colombie-Britannique , 2014 CSC 44, 
+[2014] 2 R.C.S. 257; Kainaiwa/Blood Tribe c. Alberta 
+(Energy) , 2017 ABQB 107; Baker c. Canada (Ministre de 
+la Citoyenneté et de l’Immigration) , [1999] 2 R.C.S. 817; 
+Qikiqtani Inuit Assn. c. Canada (Minister of Natural Re -
+sources) , 2010 NUCJ 12, 54 C.E.L.R. (3d) 263.
+Lois et règlements cités
+Loi canadienne sur l’évaluation environnementale , L.C. 
+1992, c. 37.
+Loi canadienne sur l’évaluation environnementale 
+(2012) , L.C. 2012, c. 19, art. 52.
+Loi constitutionnelle de 1982 , art. 35.
+Loi sur l’Office national de l’énergie , L.R.C. 1985, 
+c. N-7, art. 12(2), 16.3, 24.
+Loi sur l’Office national de l’énergie , S.C. 1959, c. 46.
+Loi sur les opérations pétrolières au Canada , L.R.C. 
+1985, c. O-7, art. 2.1, 3, 5(1)a), 5(1)b), 5(4), 5(5), 
+5.002 [aj. 2015, c. 4, art. 7], 5.2(2), 5.31, 5.32, 5.331 
+[idem , art. 13], 5.36.
+Traités et ententes
+Accord sur les revendications territoriales du Nunavut  
+(1993).
+Doctrine et autres documents cités
+Freedman, Robert, and Sarah Hansen. « Aboriginal Rights 
+vs. The Public Interest  » prepared for Pa cific Bu -
+siness & Law Institute Conference, Vancouver, B.C. 
+(February 26-27, 2009) (en ligne : http://www.miller -
+thomson.com/assets/files/article_attachments/Abo -
+riginal_Rights_vs_The_Public_Interest.pdf; version 
+archivée : http://www.scc-csc.ca/cso-dce/2017SCC-
+CSC40_1_eng.pdf ).
+Hogg, Peter W., Patrick J. Monahan and Wade K. Wright. 
+Liability of the Crown , 4th ed., Toronto, Carswell, 
+2011.1074 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES
+Isaac, Thomas, and Anthony Knox. “The Crown’s Duty 
+to Consult Aboriginal People” (2003), 41 Alta. L. 
+Rev. 49.
+Newman, Dwight G. The Duty to Consult: New Rela -
+tionships with Aboriginal Peoples . Saskatoon: Purich 
+Publishing, 2009.
+APPEAL from a judgment of the Federal Court 
+of Appeal (Nadon, Dawson and Boivin JJ.A.), 2015 
+FCA 179, [2016] 3 F.C.R. 167, 474 N.R. 96, 94 
+C.E.L.R. (3d) 1, [2015] F.C.J. No. 991 (QL), 2015 
+CarswellNat 3750 (WL Can.), affirming a decision 
+of the National Energy Board, No. 5554587, June 26, 
+2014. Appeal allowed.
+Nader R. Hasan , Justin Safayeni  and Pam Hrick , 
+for the appellants.
+Sandy Carpenter  and Ian Breneman , for the re -
+spondents Petroleum Geo-Services Inc. (PGS), 
+Multi Klient Invest As (MKI) and TGS-NOPEC 
+Geophysical Company ASA (TGS).
+Mark R. Kindrachuk , Q.C. , and Peter Southey , 
+for the respondent the Attorney General of Canada.
+Manizeh Fancy  and Richard Ogden , for the in -
+tervener the Attorney General of Ontario.
+Richard James Fyfe , for the intervener the Attor -
+ney General of Saskatchewan.
+Dominique Nouvet , Marie Belleau  and Sonya 
+Morgan , for the intervener Nunavut Tunngavik In -
+corporated.
+Written submissions only by  David Schulze  and 
+Nicholas Dodd , for the intervener the Makivik Cor -
+poration.
+Marie-France Major  and Thomas Slade , for 
+the intervener the Nunavut Wildlife Management 
+Board.
+Kate Darling , Lorraine Land , Matt McPherson  
+and Krista Nerland , for the intervener the Inuvialuit 
+Regional Corporation.Isaac, Thomas, and Anthony Knox. « The Crown’s Duty 
+to Consult Aboriginal People » (2003), 41 Alta. L. 
+Rev. 49.
+Newman, Dwight G. The Duty to Consult : New Rela -
+tionships with Aboriginal Peoples , Saskatoon, Purich 
+Publishing, 2009.
+POURVOI contre un arrêt de la Cour d’appel fédé -
+rale (les juges Nadon, Dawson et Boivin), 2015 CAF 
+179, [2016] 3 R.C.F. 167, 474 N.R. 96, 94 C.E.L.R. 
+(3d) 1, [2015] A.C.F. no 991 (QL), 2015 CarswellNat 
+12196 (WL Can.), qui a confirmé une décision de 
+l’Office national de l’énergie, no 5554587, datée du 
+26 juin 2014. Pourvoi accueilli.
+Nader R. Hasan , Justin Safayeni  et Pam Hrick , 
+pour les appelants.
+Sandy Carpenter  et Ian Breneman , pour les in -
+timées Petroleum Geo-Services Inc. (PGS), Multi 
+Klient Invest As (MKI) et TGS-NOPEC Geophysical 
+Company ASA (TGS).
+Mark R. Kindrachuk , c.r., et Peter Southey , pour 
+l’intimée la procureure générale du Canada.
+Manizeh Fancy  et Richard Ogden , pour l’inter -
+venant le procureur général de l’Ontario.
+Richard James Fyfe , pour l’intervenant le procu -
+reur général de la Saskatchewan.
+Dominique Nouvet , Marie Belleau  et Sonya 
+Morgan , pour l’intervenante Nunavut Tunngavik 
+Incorporated.
+Argumentation écrite seulement par David Schulze  
+et Nicholas Dodd , pour l’intervenante Makivik Cor -
+poration.
+Marie-France Major et Thomas Slade , pour l’in -
+tervenant le Conseil de gestion des ressources fau -
+niques du Nunavut.
+Kate Darling , Lorraine Land , Matt McPherson  
+et Krista Nerland , pour l’intervenante Inuvialuit Re -
+gional Corporation.[2017] 1 R.C.S.1075
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+Maxime Faille , Jaimie Lickers  and Guy 
+Régimbald , for the intervener the Chiefs of Ontario.
+The judgment of the Court was delivered by
+Karakatsanis and Brown JJ. —
+I. Introduction
+[1] This Court has on several occasions affirmed 
+the role of the duty to consult in fostering reconcili -
+ation between Canada’s Indigenous peoples and the 
+Crown. In this appeal, and its companion Chippewas 
+of the Thames First Nation v. Enbridge Pipelines 
+Inc., 2017 SCC 41, [2017] 1 S.C.R. 1099, we con -
+sider the Crown’s duty to consult with Indigenous 
+peoples before an independent regulatory agency 
+authorizes a project which could impact upon their 
+rights. The Court’s jurisprudence shows that the sub -
+stance of the duty does not change when a regula -
+tory agency holds final decision-making authority in 
+respect of a project. While the Crown always owes 
+the duty to consult, regulatory processes can par -
+tially or completely fulfill this duty.
+[2] The Hamlet of Clyde River lies on the north -
+east coast of Baffin Island, in Nunavut. The commu -
+nity is situated on a flood plain between Patricia Bay 
+and the Arctic Cordillera. Most residents of Clyde 
+River are Inuit, who rely on marine mammals for 
+food and for their economic, cultural, and spiritual 
+well-being. They have harvested marine mammals 
+for generations. The bowhead whale, the narwhal, 
+the ringed, bearded, and harp seals, and the polar 
+bear are of particular importance to them. Under the 
+Nunavut Land Claims Agreement (1993),  the Inuit of 
+Clyde River ceded all Aboriginal claims, rights, title, 
+and interests in the Nunavut Settlement Area, in -
+cluding Clyde River, in exchange for defined treaty 
+rights, including the right to harvest marine mam -
+mals.Maxime Faille , Jaimie Lickers  et Guy Régimbald , 
+pour l’intervenant Chiefs of Ontario.
+Version française du jugement de la Cour rendu 
+par
+Les juges Karakatsanis et Brown —
+I. Introduction
+[1] À plusieurs reprises, la Cour a confirmé la 
+place que tient l’obligation de consultation de la 
+Couronne lorsqu’il s’agit de favoriser la réconcilia -
+tion entre les peuples autochtones du Canada et la 
+Couronne. Dans le présent pourvoi, ainsi que dans 
+le pourvoi connexe Chippewas of the Thames First 
+Nation c. Pipelines Enbridge inc. , 2017 SCC 41, 
+[2017] 1 R.C.S. 1099, nous examinons l’obligation 
+de la Couronne de consulter les peuples autochtones 
+avant qu’un organisme de réglementation indépen -
+dant n’autorise un projet susceptible d’avoir des 
+incidences sur leurs droits. Selon la jurisprudence 
+de notre Cour, la substance de cette obligation ne 
+change pas lorsqu’un organisme de réglementation 
+détient le pouvoir de prendre la décision définitive à 
+l’égard d’un projet. Bien que la Couronne soit tou -
+jours tenue de consulter, elle peut satisfaire partiel -
+lement ou totalement à cette obligation dans le cadre 
+du processus de réglementation.
+[2] Le hameau de Clyde River est situé sur la côte 
+nord-est de l’île de Baffin, au Nunavut. La commu -
+nauté se trouve dans une plaine inondable entre la 
+Baie Patricia et la cordillère arctique. La plupart des 
+résidents sont des Inuits et ils comptent sur les mam -
+mifères marins pour se nourrir et assurer leur bien-
+être économique, culturel et spirituel. Ils récoltent 
+les mammifères marins depuis des générations. Ils 
+accordent une importance particulière à la baleine 
+boréale, au narval, au phoque annelé, au phoque 
+barbu, au phoque du Groenland et à l’ours polaire. 
+Aux termes de l’ Accord sur les revendications ter -
+ritoriales du Nunavut  (1993), les Inuits de Clyde 
+River ont cédé l’ensemble de leurs revendications, 
+droits, titres et intérêts ancestraux dans la région 
+du Nunavut, qui comprend Clyde River, contre des 
+droits définis par traité, notamment le droit de récol -
+ter des mammifères marins.1076 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+[3] In 2011, the respondents TGS-NOPEC Geo -
+physical Company ASA, Multi Klient Invest As 
+and Petroleum Geo-Services Inc. (the proponents) 
+applied to the National Energy Board (NEB) to 
+conduct offshore seismic testing for oil and gas 
+resources. It is undisputed that this testing could 
+negatively affect the harvesting rights of the Inuit of 
+Clyde River. After a period of consultation among 
+the project proponents, the NEB, and affected Inuit 
+communities, the NEB granted the requested autho -
+rization.
+[4] While the Crown may rely on the NEB’s pro -
+cess to fulfill its duty to consult, considering the im -
+portance of the established treaty rights at stake and 
+the potential impact of the seismic testing on those 
+rights, we agree with the appellants that the consul -
+tation and accommodation efforts in this case were 
+inadequate. For the reasons set out below, we would 
+therefore allow the appeal and quash the NEB’s au -
+thorization.
+II. Background
+A. Legislative Framework
+[5] The Canada Oil and Gas Operations Act , 
+R.S.C. 1985, c. O-7 ( COGOA ), aims, in part, to 
+promote responsible exploration for and exploita -
+tion of oil and gas resources (s. 2.1). It applies to 
+exploration and drilling for the production, conser -
+vation, processing, and transportation of oil and gas 
+in certain designated areas, including Nunavut (s. 3). 
+Engaging in such activities is prohibited without an 
+operating licence under s. 5(1)(a) or an authorization 
+under s. 5(1)(b).
+[6] The NEB is a federal administrative tribunal 
+and regulatory agency established by the National 
+Energy Board Act , R.S.C. 1985, c. N-7 ( NEB Act ). 
+In this case, it is the final decision maker for issuing 
+an authorization under s. 5(1)(b) of COGOA . The 
+NEB has broad discretion to impose requirements 
+for authorization under s. 5(4), and can ask parties to [3] En 2011, les intimées TGS-NOPEC Geo -
+physical Company ASA, Multi Klient Invest As et 
+Petroleum Geo-Services Inc. (les promoteurs) ont 
+demandé à l’Office national de l’énergie (ONÉ) 
+l’autorisation de mener des essais sismiques extracô -
+tiers liés aux ressources pétrolières et gazières. Nul 
+ne conteste que ces essais pourraient avoir des inci -
+dences négatives sur les droits de récolte des Inuits 
+de Clyde River. Après une période de consultation 
+entre les promoteurs du projet, l’ONÉ et les commu -
+nautés inuites touchées, l’ONÉ a accordé l’autorisa -
+tion demandée.
+[4] Bien que la Couronne puisse s’en remettre au 
+processus mené par l’ONÉ pour satisfaire à son obli -
+gation de consulter, vu l’importance des droits issus 
+de traités reconnus en jeu et l’incidence que les essais 
+sismiques pourraient avoir sur ces droits, à l’instar 
+des appelants nous estimons que les efforts de consul -
+tation et d’accommodement en l’espèce ont été inadé -
+quats. Pour les motifs qui suivent, nous sommes donc 
+d’avis d’accueillir le pourvoi et d’annuler l’autorisa -
+tion de l’ONÉ.
+II. Contexte
+A. Cadre législatif
+[5] La Loi sur les opérations pétrolières au Ca -
+nada , L.R.C. 1985, c. O-7 ( LOPC ), vise en partie à 
+promouvoir la recherche et l’exploitation respon -
+sables des ressources pétrolières et gazières (art. 2.1). 
+Elle s’applique à la recherche, notamment par forage, 
+à la production, à la rationalisation de l’exploitation, à 
+la transformation et au transport du pétrole et du gaz 
+dans certains endroits désignés, notamment au Nuna -
+vut (art. 3). Il est interdit de se livrer à de telles acti -
+vités sans avoir obtenu le permis de travaux prévu à 
+l’al. 5(1)a) ou l’autorisation prévue à l’al. 5(1)b).
+[6] L’ONÉ est un tribunal administratif fédé -
+ral et un organisme de réglementation établi par la 
+Loi sur l’Office national de l’énergie , L.R.C. 1985, 
+c. N-7 ( Loi sur l’ONÉ ). En l’espèce, c’est lui qui 
+prend en dernier ressort la décision d’accorder ou 
+non l’autorisation prévue à l’al. 5(1)b) de la LOPC . 
+L’ONÉ est investi d’un large pouvoir discrétionnaire [2017] 1 R.C.S.1077
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+provide any information it deems necessary to com -
+ply with its statutory mandate (s. 5.31).
+B. The Seismic Testing Authorization
+[7] In May 2011, the proponents applied to the 
+NEB for an authorization under s. 5(1)(b) of COGOA  
+to conduct seismic testing in Baffin Bay and Davis 
+Strait, adjacent to the area where the Inuit have treaty 
+rights to harvest marine mammals. The proposed 
+testing contemplated towing airguns by ship through 
+a project area. These airguns produce underwater 
+sound waves, which are intended to find and measure 
+underwater geological resources such as petroleum. 
+The testing was to run from July through November, 
+for five successive years.
+[8] The NEB launched an environmental assess -
+ment of the project.
+[9] Clyde River opposed the seismic testing, and 
+filed a petition against it with the NEB in May 2011. 
+In 2012, the proponents responded to requests for 
+further information from the NEB. They held meet -
+ings in communities that would be affected by the 
+testing, including Clyde River.
+[10]  In April and May 2013, the NEB held meet -
+ings in Pond Inlet, Clyde River, Qikiqtarjuaq, and 
+Iqaluit to collect comments from the public on the 
+project. Representatives of the proponents attended 
+these meetings. Community members asked basic 
+questions about the effects of the survey on marine 
+mammals in the region, but the proponents were 
+unable to answer many of them. For example, in 
+1 This assessment was initially required under the Canadian En -
+vironmental Assessment Act , S.C. 1992, c. 37. Since its repeal 
+and replacement by the Canadian Environmental Assessment 
+Act, 2012 , S.C. 2012, c. 19, s. 52, the NEB has continued to 
+conduct environmental assessments in relation to proposed 
+projects, taking the position that it is still empowered to do so 
+under COGOA .qui l’habilite à assortir de conditions, en vertu du 
+par. 5(4), les autorisations qu’il délivre, et il peut de -
+mander aux parties tout renseignement qu’il juge né -
+cessaire pour s’acquitter du mandat que lui confère 
+la loi (art. 5.31).
+B. L’autorisation relative aux essais sismiques
+[7] En mai 2011, les promoteurs ont demandé à 
+l’ONÉ, aux termes de l’al. 5(1)b) de la LOPC , l’au -
+torisation d’effectuer des essais sismiques dans la 
+baie de Baffin et le détroit de Davis, lieux adjacents 
+à la région où les Inuits peuvent, conformément 
+à des droits issus de traités, récolter des mammi -
+fères marins. Les essais proposés prévoyaient que 
+des canons à air seraient remorqués par navire à 
+travers une région visée par le projet. Ces canons 
+produisent des ondes sonores sous-marines qui 
+permettent de trouver et de mesurer les ressources 
+géologiques sous-marines tel le pétrole. Les essais 
+devaient avoir lieu de juillet à novembre, pendant 
+cinq années consécutives.
+[8] L’ONÉ a procédé à une évaluation environne -
+mentale du projet .
+[9] Clyde River s’est opposé aux essais sismiques 
+et a présenté à l’ONÉ une pétition à l’encontre de 
+ces essais en mai 2011. En 2012, les promoteurs ont 
+répondu à des demandes de renseignements sup -
+plémentaires de l’ONÉ. Ils ont tenu des assemblées 
+dans des communautés qui seraient touchées par les 
+essais, notamment à Clyde River.
+[10]  En avril et en mai 2013, l’ONÉ a tenu des 
+assemblées dans les hameaux de Pond Inlet, Clyde 
+River, Qikiqtarjuaq et Iqaluit afin de recueillir les 
+commentaires des membres du public concernant le 
+projet. Des représentants des promoteurs ont assisté 
+à ces assemblées. Les membres des communautés 
+ont posé des questions de base au sujet de l’effet des 
+essais sur les mammifères marins de la région, mais 
+1 Cette évaluation était initialement exigée par la Loi canadienne 
+sur l’évaluation environnementale , L.C. 1992, c. 37. Depuis 
+l’abrogation de cette loi et son remplacement par la Loi cana -
+dienne sur l’évaluation environnementale (2012) , L.C. 2012, 
+c. 19, art. 52, l’ONÉ continue de mener des évaluations envi -
+ronnementales relativement aux projets proposés, considérant 
+qu’il possède toujours le pouvoir de le faire en vertu de la 
+LOPC .1 11078 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+Pond Inlet, a community member asked the pro -
+ponents which marine mammals would be affected 
+by the survey. The proponents answered: “That’s a 
+very difficult question to answer because we’re not 
+the core experts” (A.R., vol. III, at p. 541). Simi -
+larly, in Clyde River, a community member asked 
+how the testing would affect marine mammals. The 
+proponents answered:
+ . . . a lot of work has been done with seismic surveys 
+in other places and a lot of that information is used in do -
+ing the environmental assessment, the document that has 
+been submitted by the companies to the National Energy 
+Board for the approval process. It has a section on, you 
+know, marine mammals and the effects on marine mam -
+mals.
+(A.R., vol. III, at p. 651)
+[11]  These are but two examples of multiple in -
+stances of the proponents’ failure to offer substan -
+tive answers to basic questions about the impacts 
+of the proposed seismic testing. That failure led 
+the NEB, in May 2013, to suspend its assessment. 
+In August 2013, the proponents filed a 3,926-page 
+document with the NEB, purporting to answer 
+those questions. This document was posted on the 
+NEB website and delivered to the hamlet offices. 
+The vast majority of this document was not trans -
+lated into Inuktitut. No further efforts were made to 
+determine whether this document was accessible to 
+the communities, and whether their questions were 
+answered. After this document was filed, the NEB 
+resumed its assessment.
+[12]  Throughout the environmental assessment 
+process, Clyde River and various Inuit organiza -
+tions filed letters of comment with the NEB, noting 
+the inadequacy of consultation and expressing con -
+cerns about the testing.les promoteurs n’ont pas été en mesure de répondre 
+à bon nombre de celles-ci. Par exemple, à Pond In -
+let, un membre de la communauté a demandé aux 
+promoteurs quels mammifères marins seraient tou -
+chés par les essais. Ceux-ci ont donné la réponse 
+suivante : [ TRADUCTION ] « Il est très difficile de ré -
+pondre à cette question parce que nous ne sommes 
+pas des experts à ce sujet » (d.a., vol. III, p. 541). 
+De même, à Clyde River, un membre de la commu -
+nauté voulait savoir quel serait l’effet des essais sur 
+les mammifères marins. Les promoteurs ont répondu 
+ce qui suit :
+ [TRADUCTION ] . . . il y a eu beaucoup de travaux en 
+matière d’essais sismiques à d’autres endroits, et une 
+grande partie de cette information est utilisée dans la ré -
+alisation de l’évaluation environnementale, le document 
+qui a été soumis à l’Office national de l’énergie par les 
+entreprises pour les besoins du processus d’approbation. 
+Il comporte une section sur, vous savez, les mammifères 
+marins et les effets sur ceux-ci.
+(d.a., vol. III, p. 651)
+[11]  Ce ne sont là que deux exemples des nom -
+breux cas où les promoteurs n’ont pas su donner 
+de réponses concrètes à des questions de base au 
+sujet des répercussions des essais sismiques propo -
+sés. C’est ce qui a amené l’ONÉ à suspendre son 
+évaluation en mai 2013. En août 2013, les promo -
+teurs ont déposé auprès de l’ONÉ un document de 
+3 926 pages censé répondre à ces questions. Ce do -
+cument a été affiché sur le site Web de l’ONÉ et en -
+voyé aux bureaux des hameaux. La majeure partie 
+de ce document n’a pas été traduite en inuktitut. Au -
+cun effort additionnel n’a été déployé pour vérifier si 
+les communautés avaient accès à ce document, et si 
+elles avaient obtenu des réponses à leurs questions. 
+Après le dépôt du document, l’ONÉ a repris son 
+évaluation.
+[12]  Tout au long du processus d’évaluation en -
+vironnementale, Clyde River et diverses organisa -
+tions inuites ont déposé auprès de l’ONÉ des lettres 
+de commentaires dans lesquelles ils affirmaient que 
+la consultation était inadéquate et ils exprimaient 
+leurs inquiétudes au sujet des essais.[2017] 1 R.C.S.1079
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+[13]  In April 2014, organizations representing the 
+appellants and Inuit in other communities wrote to 
+the Minister of Aboriginal Affairs and Northern De -
+velopment and to the NEB, stating their view that 
+the duty to consult had not been fulfilled in rela -
+tion to the testing. This could be remedied, they 
+said, by completing a strategic environmental as -
+sessment  before authorizing any seismic testing. In 
+May, the Nunavut Marine Council also wrote to the 
+NEB, with a copy to the Minister, asking that any 
+regulatory decisions affecting the Nunavut Settle -
+ment Area’s marine environment be postponed until 
+completion of the strategic environmental assess -
+ment. This assessment was necessary, in the Coun -
+cil’s view, to understand the baseline conditions in 
+the marine environment and to ensure that seismic 
+tests are properly regulated.
+[14]  In June 2014, the Minister responded to both 
+letters, “disagree[ing] with the view that seismic ex -
+ploration of the region should be put on hold until 
+the completion of a strategic environmental assess -
+ment” (A.R., vol. IV , at p. 967). A Geophysical Op -
+erations Authorization letter from the NEB soon 
+followed, advising that the environmental assess -
+ment report was completed and that the authoriza -
+tion had been granted.
+[15]  In its environmental assessment report, the 
+NEB discussed consultation with, and the partici -
+pation of, Aboriginal groups in the NEB process. It 
+concluded that the proponents “made sufficient ef -
+forts to consult with potentially-impacted Aborigi -
+nal groups and to address concerns raised” and that 
+2 At the time, the Department of Aboriginal Affairs and Northern 
+Development was preparing a strategic environmental assess -
+ment — specifically, the “Eastern Arctic Strategic Environmen -
+tal Assessment” — for Baffin Bay and Davis Strait, meant to 
+examine “all aspects of future oil and gas development.” Once 
+complete, it would “inform policy decisions around if, when, 
+and where oil and gas companies may be invited to bid on par -
+cels of land for exploration drilling rights in Baffin Bay/Davis 
+Strait” (Letter to Cathy Towtongie et al. from the Honourable 
+Bernard Valcourt, A.R., vol. IV , at pp. 966-67).[13]  En avril 2014, des organisations représentant 
+les appelants et des Inuits d’autres communautés 
+ont écrit au ministre des Affaires autochtones et du 
+Nord et à l’ONÉ, affirmant qu’à leur avis il n’avait 
+pas été satisfait à l’obligation de consultation en 
+ce qui a trait aux essais. Selon ces organisations, il 
+était possible de remédier à cette situation en réa -
+lisant une évaluation environnementale stratégique  
+avant que des essais sismiques ne soient autorisés. 
+En mai, le Conseil du milieu marin du Nunavut 
+a lui aussi écrit à l’ONÉ, avec copie au ministre, 
+et demandé que toute décision réglementaire tou -
+chant le milieu marin de la région du Nunavut soit 
+reportée jusqu’à ce que l’évaluation environnemen -
+tale stratégique soit terminée. De l’avis du Conseil, 
+cette évaluation était nécessaire pour que l’on com -
+prenne les conditions de référence du milieu marin 
+et pour veiller à ce que les essais sismiques soient 
+adéquatement réglementés.
+[14]  En juin 2014, le ministre a répondu à ces 
+deux lettres, exprimant son [ TRADUCTION ] « désac -
+cord avec l’idée de suspendre l’exploration sismique 
+de la région jusqu’à ce que l’évaluation environne -
+mentale stratégique soit terminée » (d.a., vol. IV , 
+p. 967). Peu de temps après, une lettre émanant de 
+l’ONÉ qui accordait l’autorisation de mener des tra -
+vaux géophysiques a suivi, indiquant que le rapport 
+d’évaluation environnementale était terminé et que 
+l’autorisation avait été accordée.
+[15]  Dans son rapport d’évaluation environne -
+mentale, l’ONÉ a traité de la consultation et de la 
+participation des groupes autochtones dans le cadre 
+de son processus. Il a conclu que les promoteurs 
+[TRADUCTION ] « ont déployé suffisamment d’efforts 
+pour consulter les groupes autochtones susceptibles 
+2 À cette époque, le ministère des Affaires indiennes et du Nord 
+canadien préparait une évaluation environnementale stratégique 
+— plus précisément l’[ TRADUCTION ] « Évaluation environ -
+nementale stratégique dans l’Arctique de l’Est » — pour la baie 
+de Baffin et le détroit de Davis, qui visait l’examen de « tous les 
+aspects de l’exploitation pétrolière et gazière future ». Une fois 
+terminée, cette évaluation « guiderait les décisions de politique 
+générale concernant l’opportunité d’inviter les sociétés pétro -
+lières et gazières à soumissionner à l’égard de parcelles de terre 
+afin d’y obtenir des droits d’exploration par forage dans la baie 
+de Baffin et le détroit de Davis, ainsi que le moment où cela 
+pourrait se faire et les endroits qui seraient visés » (lettre de 
+l’honorable Bernard Valcourt à Cathy Towtongie et autres, d.a., 
+vol. IV , p. 966-967).2 21080 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+“Aboriginal groups had an adequate opportunity 
+to participate in the NEB’s [environmental assess -
+ment] process” (A.R., vol. I, at p. 24). It also deter -
+mined that the testing could change the migration 
+routes of marine mammals and increase their risk 
+of mortality, thereby affecting traditional harvest -
+ing of marine mammals including bowhead whales 
+and narwhals, which are both identified as being of 
+“Special Concern” by the Committee on the Status 
+of Endangered Wildlife in Canada (COSEWIC). 
+The NEB concluded, however, that the testing was 
+unlikely to cause significant adverse environmental 
+effects given the mitigation measures that the pro -
+ponents would implement.
+C. The Judicial Review Proceedings
+[16]  Clyde River applied to the Federal Court of 
+Appeal for judicial review of the NEB’s decision 
+to grant the authorization. Dawson J.A. (Nadon 
+and Boivin JJ.A. concurring) found that the duty to 
+consult had been triggered because the NEB could 
+not grant the authorization without the minister’s 
+approval (or waiver of the requirement for ap -
+proval) of a benefits plan for the project, pursuant 
+to s. 5.2(2) of COGOA (2015 FCA 179, [2016] 3 
+F.C.R. 167). The Federal Court of Appeal charac -
+terized the degree of consultation owed in the cir -
+cumstances as deep, as that concept was discussed 
+in Haida Nation v. British Columbia (Minister of 
+Forests) , 2004 SCC 73, [2004] 3 S.C.R. 511, at 
+para. 44, and found that the Crown was entitled to 
+rely on the NEB to undertake such consultation.
+[17]  The Court of Appeal also concluded that 
+the Crown’s duty to consult had been satisfied by 
+the nature and scope of the NEB’s processes. The 
+conditions upon which the authorization had been 
+granted showed that the interests of the Inuit had 
+been sufficiently considered and that further con -
+sultation would be expected to occur were the pro -
+posed testing to be followed by further development d’être touchés et pour répondre aux préoccupations 
+qu’ils ont soulevées », et que « les groupes autoch -
+tones ont eu une possibilité adéquate de participer 
+au processus d’évaluation environnementale de 
+l’ONÉ » (d.a., vol. I, p. 24). L’ONÉ a également 
+conclu que les essais pouvaient modifier les routes 
+migratoires des mammifères marins et augmenter le 
+risque de mortalité chez ces animaux, situation qui 
+influerait sur la récolte traditionnelle des mammi -
+fères marins, notamment les baleines boréales et les 
+narvals, deux espèces qualifiées d’« espèces préoc -
+cupantes » par le Comité sur la situation des espèces 
+en péril au Canada (COSEPAC). L’ONÉ a toutefois 
+conclu que les essais n’étaient pas susceptibles de 
+causer des effets environnementaux négatifs et im -
+portants compte tenu des mesures d’atténuation que 
+les promoteurs mettraient en œuvre.
+C. La demande de contrôle judiciaire
+[16]  Clyde River a demandé à la Cour d’appel fé -
+dérale le contrôle judiciaire de la décision de l’ONÉ 
+accordant l’autorisation. La juge Dawson (avec l’ap -
+pui des juges Nadon et Boivin) a conclu que l’obli -
+gation de consulter avait pris naissance, parce que 
+l’ONÉ ne pouvait pas accorder l’autorisation tant 
+que le ministre n’aurait pas approuvé (ou renoncer 
+à l’obligation d’approuver) un plan de retombées 
+économiques relativement au projet, conformément 
+au par. 5.2(2) de la LOPC  (2015 CAF 179, [2016] 
+3 R.C.F. 167). La Cour d’appel fédérale a considéré 
+que les circonstances requéraient une consultation 
+approfondie, suivant le sens donné à cette notion 
+dans l’arrêt Nation haïda c. Colombie-Britannique 
+(Ministre des Forêts) , 2004 CSC 73, [2004] 3 R.C.S. 
+511, par. 44, et elle a jugé que la Couronne pouvait 
+s’en remettre à l’ONÉ pour que celui-ci procède à la 
+consultation.
+[17]  La Cour d’appel a également conclu que, 
+du fait de la nature et de l’étendue des processus 
+de l’ONÉ, il avait été satisfait à l’obligation de 
+consulter incombant à la Couronne. Les conditions 
+auxquelles l’ONÉ avait accordé son autorisation 
+montraient qu’il avait suffisamment pris en compte 
+les intérêts des Inuits et qu’il était permis de s’at -
+tendre à ce que de nouvelles consultations soient [2017] 1 R.C.S.1081
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+activities. In the circumstances, a strategic environ -
+mental assessment report was not required.
+III. Analysis
+[18]  The following issues arise in this appeal:
+1. Can an NEB approval process trigger the duty 
+to consult?
+2. Can the Crown rely on the NEB’s process to 
+fulfill the duty to consult?
+3. What is the NEB’s role in considering Crown 
+consultation before approval?
+4. Was the consultation adequate in this case?
+A. The Duty to Consult — General Principles
+[19]  The duty to consult seeks to protect Aborigi -
+nal and treaty rights while furthering reconciliation 
+between Indigenous peoples and the Crown ( Rio 
+Tinto Alcan Inc. v. Carrier Sekani Tribal Council , 
+2010 SCC 43, [2010] 2 S.C.R. 650, at para. 34).  It 
+has both a constitutional and a legal dimension ( R. v. 
+Kapp , 2008 SCC 41, [2008] 2 S.C.R. 483, at para. 6; 
+Carrier Sekani , at para. 34). Its constitutional di -
+mension is grounded in the honour of the Crown 
+(Kapp , at para. 6). This principle is in turn enshrined 
+in s. 35(1) of the Constitution Act, 1982 , which rec -
+ognizes and affirms existing Aboriginal and treaty 
+rights ( Taku River Tlingit First Nation v. British Co -
+lumbia (Project Assessment Director) , 2004 SCC 
+74, [2004] 3 S.C.R. 550, at para. 24). And, as a legal 
+obligation, it is based in the Crown’s assumption of 
+sovereignty over lands and resources formerly held 
+by Indigenous peoples ( Haida , at para.  53).menées si les essais proposés étaient suivis d’autres 
+activités de mise en valeur. Dans les circonstances, 
+un rapport d’évaluation environnementale straté -
+gique n’était pas nécessaire.
+III. Analyse
+[18]  Le présent pourvoi soulève les questions sui -
+vantes :
+1. Un processus d’approbation de l’ONÉ peut-il 
+donner naissance à l’obligation de consulter?
+2. La Couronne peut-elle s’en remettre au proces -
+sus de l’ONÉ pour satisfaire à l’obligation de 
+consulter?
+3. Quel est le rôle de l’ONÉ dans l’appréciation de 
+la consultation incombant à la Couronne avant 
+l’approbation d’un projet?
+4. La consultation a-t-elle été adéquate en l’es -
+pèce?
+A. L’obligation de consulter — principes gé -
+néraux
+[19]  L’obligation de consulter vise la protection 
+des droits ancestraux et issus de traités tout en favo -
+risant la réconciliation entre les peuples autochtones 
+et la Couronne ( Rio Tinto Alcan Inc. c. Conseil tribal 
+Carrier Sekani , 2010 CSC 43, [2010] 2 R.C.S. 650, 
+par. 34). Elle revêt à la fois une dimension constitu -
+tionnelle et une dimension légale ( R. c. Kapp , 2008 
+CSC 41, [2008] 2 R.C.S. 483, par. 6; Carrier Sekani , 
+par. 34). Sa dimension constitutionnelle découle du 
+principe de l’honneur de la Couronne ( Kapp , par. 6). 
+Ce principe est lui-même consacré au par. 35(1) 
+de la Loi constitutionnelle de 1982 , qui reconnaît 
+et confirme les droits existants ancestraux et issus 
+de traités ( Première nation  Tlingit de Taku River c. 
+Colombie-Britannique (Directeur d’évaluation de 
+projet) , 2004 CSC 74, [2004] 3 R.C.S. 550, par. 24). 
+Et, en tant qu’obligation légale, elle découle de la 
+proclamation de la souveraineté de la Couronne sur 
+des terres et ressources autrefois détenues par les 
+peuples autochtones ( Haïda , par. 53).1082 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+[20]  The content of the duty, once triggered, falls 
+along a spectrum ranging from limited to deep con -
+sultation, depending upon the strength of the Ab -
+original claim, and the seriousness of the potential 
+impact on the right. Each case must be considered 
+individually. Flexibility is required, as the depth 
+of consultation required may change as the pro -
+cess advances and new information comes to light 
+(Haida , at paras. 39 and 43-45).
+[21]  This Court has affirmed that it is open to leg -
+islatures to empower regulatory bodies to play a role 
+in fulfilling the Crown’s duty to consult ( Carrier 
+Sekani , at para. 56; Haida , at para. 51). The appel -
+lants argue that a regulatory process alone cannot 
+fulfill the duty to consult because at least some di -
+rect engagement between “the Crown” and the af -
+fected Indigenous community is necessary.
+[22]  In our view, while the Crown may rely on 
+steps undertaken by a regulatory agency to fulfill its 
+duty to consult in whole or in part and, where ap -
+propriate, accommodate, the Crown always holds 
+ultimate responsibility for ensuring consultation is 
+adequate. Practically speaking, this does not mean 
+that a minister of the Crown must give explicit con -
+sideration in every case to whether the duty to con -
+sult has been satisfied, or must directly participate 
+in the process of consultation. Where the regulatory 
+process being relied upon does not achieve adequate 
+consultation or accommodation, the Crown must 
+take further measures to meet its duty. This might 
+entail filling any gaps on a case-by-case basis or 
+more systemically through legislative or regulatory 
+amendments (see e.g. Ross River Dena Council v. 
+Yukon , 2012 YKCA 14, 358 D.L.R. (4th) 100). Or, it 
+might require making submissions to the regulatory 
+body, requesting reconsideration of a decision, or 
+seeking a postponement in order to carry out further 
+consultation in a separate process before the decision 
+is rendered. And, if an affected Indigenous group is 
+(like the Inuit of Nunavut) a party to a modern treaty 
+and perceives the process to be deficient, it should, 
+as it did here, request such direct Crown engage -
+ment in a timely manner (since parties to treaties [20]  Une fois que l’obligation a pris naissance, 
+son contenu se situe sur un continuum qui va de la 
+consultation limitée à la consultation approfondie, 
+selon la solidité de la revendication autochtone et la 
+gravité de l’impact potentiel sur le droit concerné. Il 
+faut procéder au cas par cas et faire preuve de sou -
+plesse, car le caractère approfondi de la consultation 
+nécessaire peut varier au fur et à mesure que se dé -
+roule le processus et que sont mis au jour de nou -
+veaux renseignements ( Haïda , par. 39 et 43-45).
+[21]  Notre Cour a affirmé qu’il est loisible aux lé -
+gislateurs d’habiliter des organismes de réglemen -
+tation à contribuer à la réalisation de l’obligation de 
+consulter de la Couronne ( Carrier Sekani , par. 56; 
+Haïda , par. 51). Les appelants plaident qu’un pro -
+cessus réglementaire ne peut à lui seul assurer le 
+respect de l’obligation de consulter, parce qu’il faut 
+au moins un certain dialogue direct entre « la Cou -
+ronne » et la communauté autochtone touchée.
+[22]  À notre avis, bien que la Couronne puisse s’en 
+remettre aux mesures prises par un organisme de ré -
+glementation pour satisfaire, en tout ou en partie, à 
+son obligation de consulter et, lorsque cela se justi -
+fie, à son obligation d’accommoder, c’est toujours à 
+elle qu’incombe la responsabilité ultime de veiller 
+au caractère adéquat de la consultation. Sur le plan 
+pratique, cela ne signifie pas qu’un ministre doive 
+dans chaque cas se demander explicitement s’il a été 
+satisfait à l’obligation de consulter, ou qu’il doive 
+participer directement au processus de consultation. 
+Lorsque le processus réglementaire auquel s’en remet 
+la Couronne ne lui permet pas de satisfaire adéquate -
+ment à son obligation de consulter ou d’accommoder, 
+elle doit prendre des mesures supplémentaires pour 
+ce faire. Elle pourrait devoir combler les lacunes soit 
+au cas par cas, soit de manière plus systématique au 
+moyen de modifications législatives ou réglementaires 
+(voir, par ex., Ross River Dena Council c. Yukon , 
+2012 YKCA 14, 358 D.L.R. (4th) 100). Elle pour -
+rait également exiger la présentation d’observations 
+à l’organisme de réglementation, demander le ré -
+examen de la décision ou solliciter le report de l’au -
+dience afin de mener d’autres consultations dans le 
+cadre d’un processus distinct avant que la décision 
+ne soit rendue. Par ailleurs, si un groupe autochtone [2017] 1 R.C.S.1083
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+are obliged to act diligently to advance their respec -
+tive interests) ( Beckman v. Little Salmon/Carmacks 
+First Nation , 2010 SCC 53, [2010] 3 S.C.R. 103, at 
+para. 12).
+[23]  Further, because the honour of the Crown 
+requires a meaningful, good faith consultation pro -
+cess ( Haida , at para. 41), where the Crown relies 
+on the processes of a regulatory body to fulfill its 
+duty in whole or in part, it should be made clear 
+to affected Indigenous groups that the Crown is so 
+relying. Guidance about the form of the consulta -
+tion process should be provided so that Indigenous 
+peoples know how consultation will be carried out 
+to allow for their effective participation and, if nec -
+essary, to permit them to raise concerns with the 
+proposed form of the consultations in a timely man -
+ner.
+[24]  Above all, and irrespective of the process by 
+which consultation is undertaken, any decision af -
+fecting Aboriginal or treaty rights made on the basis 
+of inadequate consultation will not be in compliance 
+with the duty to consult, which is a constitutional 
+imperative. Where challenged, it should be quashed 
+on judicial review. That said, judicial review is no 
+substitute for adequate consultation. True reconcili -
+ation is rarely, if ever, achieved in courtrooms. Judi -
+cial remedies may seek to undo past infringements 
+of Aboriginal and treaty rights, but adequate Crown 
+consultation before  project approval is always pref -
+erable to after-the-fact judicial remonstration follow -
+ing an adversarial process. Consultation is, after all, 
+“[c]oncerned with an ethic of ongoing relationships” 
+(Carrier Sekani , at para. 38, quoting D. G. Newman, 
+The Duty to Consult: New Relationships with Ab -
+original Peoples  (2009), at p. 21). As the Court 
+noted in Haida , “[w]hile Aboriginal claims can be 
+and are pursued through litigation, negotiation is a 
+preferable way of reconciling state and Aboriginal touché est (comme les Inuits du Nunavut) partie à un 
+traité moderne et juge que le processus est déficient, 
+il devrait, comme ce fut le cas en l’espèce, deman -
+der une intervention directe de la Couronne en temps 
+opportun (puisque les parties aux traités sont tenues 
+d’agir de façon diligente pour faire valoir leurs inté -
+rêts respectifs) ( Beckman c. Première nation de Little 
+Salmon/Carmacks , 2010 CSC 53, [2010] 3 R.C.S. 
+103, par. 12).
+[23]  De plus, étant donné que l’honneur de la 
+Couronne commande que celle-ci agisse de bonne 
+foi et tienne une véritable consultation ( Haïda , 
+par. 41), lorsque la Couronne s’en remet aux pro -
+cessus d’un organisme de réglementation pour satis -
+faire en tout ou en partie à son obligation, il doit être 
+clairement indiqué aux groupes autochtones touchés 
+que la Couronne s’en remet à un tel processus. Les 
+peuples autochtones doivent être avisés de la forme 
+que prendra le processus de consultation, afin de sa -
+voir comment les consultations se dérouleront, de 
+pouvoir y participer activement et, au besoin, d’être 
+en mesure de soulever en temps opportun leurs pré -
+occupations au sujet de la forme des consultations 
+proposées.
+[24]  Par-dessus tout, et peu importe le processus 
+de consultation entrepris, toute décision touchant 
+des droits ancestraux ou issus de traités prise sur la 
+base d’une consultation inadéquate ne respectera 
+pas l’obligation de consulter, laquelle est un impé -
+ratif constitutionnel. En cas de contestation, la dé -
+cision devrait être annulée à l’issue d’un contrôle 
+judiciaire. Cela dit, le contrôle judiciaire ne saurait 
+remplacer une consultation adéquate. On ne parvient 
+que rarement, voire jamais, à une véritable réconci -
+liation dans une salle d’audience. Un recours judi -
+ciaire peut tendre à corriger des atteintes passées à 
+des droits ancestraux ou issus de traités, mais une 
+consultation adéquate par la Couronne avant  que le 
+projet ne soit approuvé est toujours préférable à des 
+remontrances judiciaires formulées après le fait, au 
+terme d’une procédure contradictoire. Après tout, la 
+consultation [ TRADUCTION ] « s’attache au maintien 
+de relations constantes » ( Carrier Sekani , par. 38, 
+citant D. G. Newman, The Duty to Consult : New 
+Relationships with Aboriginal Peoples  (2009), 1084 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+interests” (para. 14). No one benefits — not proj -
+ect proponents, not Indigenous peoples, and not 
+non-Indigenous members of affected communities 
+— when projects are prematurely approved only to 
+be subjected to litigation.
+B. Can an NEB Approval Process Trigger the 
+Duty to Consult?
+[25]  The duty to consult is triggered when the 
+Crown has actual or constructive knowledge of a po -
+tential Aboriginal claim or Aboriginal or treaty rights 
+that might be adversely affected by Crown conduct 
+(Haida , at para. 35; Carrier Sekani , at para. 31). 
+Crown conduct which would trigger the duty is 
+not restricted to the exercise by or on behalf of the 
+Crown of statutory powers or of the royal preroga -
+tive, nor is it limited to decisions that have an imme -
+diate impact on lands and resources. The concern is  
+for adverse impacts, however made, upon Aboriginal 
+and treaty rights and, indeed, a goal of consultation 
+is to identify, minimize and address adverse impacts 
+where possible ( Carrier Sekani , at paras. 45-46).
+[26]  In this appeal, all parties agreed that the 
+Crown’s duty to consult was triggered, although 
+agreement on just what  Crown conduct triggered the 
+duty has proven elusive. The Federal Court of Ap -
+peal saw the trigger in COGOA ’s requirement for 
+ministerial approval (or waiver of the requirement 
+for approval) of a benefits plan for the testing. In the 
+companion appeal of Chippewas of the Thames , the 
+majority of the Federal Court of Appeal concluded 
+that it was not necessary to decide whether the duty 
+to consult was triggered since the Crown was not a 
+party before the NEB, but suggested the only Crown 
+action involved might have been the 1959 enactment p. 21). Comme notre Cour l’a souligné dans Haïda , 
+« [m]ême si les revendications autochtones sont et 
+peuvent être réglées dans le cadre de litiges, il est 
+préférable de recourir à la négociation pour conci -
+lier les intérêts de la Couronne et ceux des Autoch -
+tones » (par. 14). Il n’est à l’avantage de personne 
+— promoteurs du projet, peuples autochtones ou 
+membres non autochtones des communautés tou -
+chées — qu’un projet soit approuvé prématurément 
+mais fasse ensuite l’objet d’un litige.
+B. Un processus d’approbation de l’ONÉ peut-il 
+donner naissance à l’obligation de consulter?
+[25]  L’obligation de consulter prend naissance 
+lorsque la Couronne a connaissance, concrètement 
+ou par imputation, de l’existence potentielle d’une 
+revendication autochtone ou de droits ancestraux 
+ou issus de traités susceptibles de subir des effets 
+préjudiciables en raison d’une mesure prise par la 
+Couronne ( Haïda , par. 35; Carrier Sekani , par. 31). 
+Les mesures de la Couronne susceptibles de donner 
+naissance à l’obligation de consulter ne se limitent 
+pas à l’exercice, par la Couronne ou en son nom, de 
+la prérogative royale ou de pouvoirs conférés par la 
+loi, et ne se limitent pas non plus aux décisions qui 
+ont une incidence immédiate sur les terres et les res -
+sources. Il faut se demander si la mesure a des effets 
+préjudiciables, quelle qu’en soit la cause, sur des 
+droits ancestraux ou issus de traités. D’ailleurs, un 
+des objectifs de la consultation consiste à cerner les 
+effets préjudiciables, à les réduire au minimum et à y 
+remédier si possible ( Carrier Sekani , par. 45-46).
+[26]  Dans le présent pourvoi, toutes les parties 
+ont reconnu que l’obligation de consulter de la 
+Couronne avait pris naissance, mais elles ont été 
+incapables de s’accorder sur la nature exacte  de 
+la mesure de la Couronne qui a donné naissance à 
+cette obligation. La Cour d’appel fédérale a consi -
+déré que l’élément ayant fait naître l’obligation est 
+l’exigence prévue par la LOPC  qui requiert que le 
+ministre approuve (ou renonce à l’obligation d’ap -
+prouver) un plan de retombées économiques pour 
+les essais. Dans l’affaire connexe Chippewas of the 
+Thames , les juges majoritaires de la Cour d’appel 
+fédérale ont conclu qu’il n’était pas nécessaire de [2017] 1 R.C.S.1085
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+of the NEB Act  (Chippewas of the Thames First 
+Nation v. Enbridge Pipelines Inc. , 2015 FCA 222, 
+[2016] 3 F.C.R. 96). In short, the Federal Court of 
+Appeal in both cases was of the view that only ac -
+tion by a minister of the Crown or a government 
+department, or a Crown corporation, can constitute 
+Crown conduct triggering the duty to consult. And, 
+before this Court in Chippewas of the Thames , the 
+Attorney General of Canada argued that the duty 
+was triggered by the NEB’s approval of the pipeline 
+project, because it was state action with the potential 
+to affect Aboriginal or treaty rights.
+[27]  Contrary to the Federal Court of Appeal’s 
+conclusions on this point, we agree that the NEB’s 
+approval process, in this case, as in Chippewas of 
+the Thames , triggered the duty to consult.
+[28]  It bears reiterating that the duty to consult 
+is owed by the Crown. In one sense, the “Crown” 
+refers to the personification in Her Majesty of the 
+Canadian state in exercising the prerogatives and 
+privileges reserved to it. The Crown also, however, 
+denotes the sovereign in the exercise of her formal 
+legislative role (in assenting, refusing assent to, or 
+reserving legislative or parliamentary bills), and as 
+the head of executive authority ( McAteer v. Canada 
+(Attorney General) , 2014 ONCA 578, 121 O.R. 
+(3d) 1, at para. 51; P. W. Hogg, P. J. Monahan and 
+W. K. Wright,  Liability of the Crown  (4th ed. 2011), 
+at pp. 11-12; but see Carrier Sekani , at para. 44). 
+For this reason, the term “Crown” is commonly 
+used to symbolize and denote executive power. This 
+was described by Lord Simon of Glaisdale in Town 
+Investments Ltd. v. Department of the Environment , 
+[1978] A.C. 359 (H.L.), at p. 397:
+3 National Energy Board Act , S.C. 1959, c. 46.décider si l’obligation de consulter s’appliquait, 
+puisque la Couronne n’était pas partie à l’instance 
+devant l’ONÉ, mais ils ont évoqué l’idée que la 
+seule mesure de la Couronne en cause pourrait être 
+l’adoption en 1959 de la Loi sur l’ONÉ  (Première 
+Nation des Chippewas de la Thames c. Pipelines 
+Enbridge Inc. , 2015 CAF 222, [2016] 3 R.C.F. 96). 
+Bref, dans les deux affaires la Cour d’appel fédé -
+rale était d’avis que seule une mesure prise par 
+un ministre ou un ministère du gouvernement, ou 
+une société d’État, peut constituer une mesure de 
+la Couronne donnant naissance à l’obligation de 
+consulter. Et devant notre Cour, dans le pourvoi 
+Chippewas of the Thames , la procureure générale 
+du Canada a plaidé que c’est l’approbation du pro -
+jet de pipeline par l’ONÉ qui a donné naissance à 
+l’obligation, puisqu’il s’agissait d’une mesure de 
+l’État susceptible d’avoir une incidence sur des 
+droits ancestraux ou issus de traités.
+[27]  Contrairement aux conclusions de la Cour 
+d’appel fédérale sur ce point, nous sommes d’avis 
+qu’en l’espèce, tout comme dans Chippewas of the 
+Thames , c’est le processus d’approbation de l’ONÉ 
+qui a donné naissance à l’obligation de consulter.
+[28]  Il importe de répéter que l’obligation de 
+consulter incombe à la Couronne. En un sens, la 
+« Couronne » s’entend de la personnification de 
+Sa Majesté de l’État canadien dans l’exercice des 
+prérogatives et des privilèges qui lui sont réservés. 
+Cependant, la Couronne désigne aussi la souveraine 
+dans l’exercice de son rôle législatif officiel (lors -
+qu’elle sanctionne les projets de loi, qu’elle refuse 
+de les sanctionner ou qu’elle réserve sa décision), 
+et en tant que chef du pouvoir exécutif ( McAteer c. 
+Canada (Attorney General) , 2014 ONCA 578, 121 
+O.R. (3d) 1, par. 51; P. W. Hogg, P. J. Monahan et 
+W. K. Wright,  Liability of the Crown  (4e éd. 2011), 
+p. 11-12; mais voir  Carrier Sekani , par. 44). Pour 
+cette raison, le mot « Couronne » est couramment 
+employé comme symbole du pouvoir exécutif et 
+pour désigner ce pouvoir. C’est ce que lord Simon 
+of Glaisdale a décrit dans Town Investments Ltd. c. 
+Department of the Environment , [1978] A.C. 359 
+(H.L.), p. 397 :
+3 Loi sur l’Office national de l’énergie , S.C. 1959, c. 46.3
+31086 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+The crown as an object is a piece of jewelled headgear 
+under guard at the Tower of London. But it symbolises 
+the powers of government which were formerly wielded 
+by the wearer of the crown; so that by the 13th century 
+crimes were committed not only against the king’s peace 
+but also against “his crown and dignity”: Pollock and 
+Maitland, History of English Law , 2nd ed. (1898), vol. I, 
+p. 525. The term “the Crown” is therefore used in con -
+stitutional law to denote the collection of such of those 
+powers as remain extant (the royal prerogative), together 
+with such other powers as have been expressly conferred 
+by statute on “the Crown.”
+[29]  By this understanding, the NEB is not, strictly 
+speaking, “the Crown”. Nor is it, strictly speaking, 
+an agent of the Crown, since — as the NEB oper -
+ates independently of the Crown’s ministers — no 
+relationship of control exists between them (Hogg, 
+Monahan and Wright, at p. 465). As a statutory body 
+holding responsibility under s. 5(1)(b) of COGOA , 
+however, the NEB acts on behalf of the Crown when 
+making a final decision on a project application. Put 
+plainly, once it is accepted that a regulatory agency 
+exists to exercise executive power as authorized by 
+legislatures, any distinction between its actions and 
+Crown action quickly falls away. In this context, the 
+NEB is the vehicle through which the Crown acts. 
+Hence this Court’s interchangeable references in 
+Carrier Sekani  to “government action” and “Crown 
+conduct” (paras. 42-44). It therefore does not mat -
+ter whether the final decision maker on a resource 
+project is Cabinet or the NEB. In either case, the 
+decision constitutes Crown action that may trigger 
+the duty to consult. As Rennie J.A. said in dissent 
+at the Federal Court of Appeal in Chippewas of the 
+Thames , “[t]he duty, like the honour of the Crown, 
+does not evaporate simply because a final decision 
+has been made by a tribunal established by Parlia -
+ment, as opposed to Cabinet” (para. 105). The ac -
+tion of the NEB, taken in furtherance of its statutory 
+powers under s. 5(1)(b) of COGOA  to make final [TRADUCTION ] La couronne, en tant qu’objet, est une 
+coiffure ornée de bijoux conservée sous garde à la tour de 
+Londres. Mais elle symbolise les pouvoirs du gouverne -
+ment qui étaient auparavant exercés par la personne por -
+tant la couronne; c’est ainsi qu’au 13e siècle, les crimes 
+étaient commis non seulement contre la paix du roi, mais 
+aussi contre « sa couronne et sa dignité » : Pollock and 
+Maitland, History of English Law , 2e éd. (1898), vol. I, 
+p. 525. Par conséquent, on utilise l’expression « la Cou -
+ronne » en droit constitutionnel pour désigner l’ensemble 
+des pouvoirs de cette nature qui subsistent (la prérogative 
+royale), ainsi que les autres pouvoirs que la loi confère 
+expressément à « la Couronne ».
+[29]  Selon cette interprétation, l’ONÉ n’est pas, à 
+proprement parler, « la Couronne ». Il n’est pas non 
+plus, à proprement parler, un mandataire de la Cou -
+ronne, étant donné que — comme l’ONÉ exerce ses 
+activités de manière indépendante des ministres de 
+la Couronne — il n’existe entre eux aucun lien de 
+dépendance (Hogg, Monahan et Wright, p. 465). Ce -
+pendant, en tant qu’organisme créé par la loi à qui 
+incombe la responsabilité visée à l’al. 5(1)b) de la 
+LOPC , l’ONÉ agit pour le compte de la Couronne 
+lorsqu’il prend une décision définitive à l’égard 
+d’une demande de projet. En termes simples, dès 
+lors que l’on accepte qu’un organisme de régle -
+mentation existe pour exercer le pouvoir de nature 
+exécutive que le législateur concerné l’autorise à 
+exercer, toute distinction entre les mesures de cet 
+organisme et celles de la Couronne disparaît rapide -
+ment. Dans ce contexte, l’ONÉ est le moyen par le -
+quel la Couronne agit, d’où l’emploi interchangeable 
+dans Carrier Sekani  des expressions « mesure gou -
+vernementale » et « mesure [.  . .] de la Couronne » 
+(par. 42-44). Par conséquent, il importe peu que le 
+décideur ultime dans un projet soit le Cabinet ou 
+l’ONÉ. Dans les deux cas, la décision constitue une 
+mesure de la Couronne qui peut donner naissance 
+à l’obligation de consulter. Comme l’a affirmé en 
+dissidence le juge Rennie de la Cour d’appel fédé -
+rale dans Chippewas of the Thames , « [l]’obligation, [2017] 1 R.C.S.1087
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+decisions respecting such testing as was proposed 
+here, clearly constitutes Crown action.
+C. Can the Crown Rely on the NEB’s Process to 
+Fulfill the Duty to Consult?
+[30]  As we have said, while ultimate responsibility 
+for ensuring the adequacy of consultation remains 
+with the Crown, the Crown may rely on steps un -
+dertaken by a regulatory agency to fulfill the duty to 
+consult. Whether, however, the Crown is capable of 
+doing so, in whole or in part, depends on whether 
+the agency’s statutory duties and powers enable it to 
+do what the duty requires in the particular circum -
+stances ( Carrier Sekani , at paras. 55 and 60). In the 
+NEB’s case, therefore, the question is whether the 
+NEB is able, to the extent it is being relied on, to 
+provide an appropriate level of consultation and, 
+where necessary, accommodation to the Inuit of 
+Clyde River in respect of the proposed testing.
+[31]  We note that the NEB and COGOA each 
+predate judicial recognition of the duty to consult. 
+However, given the flexible nature of the duty, a 
+process that was originally designed for a different 
+purpose may be relied on by the Crown so long as 
+it affords an appropriate level of consultation to the 
+affected Indigenous group ( Beckman , at para. 39; 
+Taku River , at para. 22). Under COGOA , the NEB 
+has a significant array of powers that permit exten -
+sive consultation. It may conduct hearings, and has 
+broad discretion to make orders or elicit informa -
+tion in furtherance of COGOA and the public inter -
+est (ss. 5.331, 5.31(1) and 5.32). It can also require comme l’honneur de la Couronne, ne s’envole pas 
+en fumée simplement parce qu’une décision sans 
+appel a été rendue par un tribunal établi par le Par -
+lement, plutôt que par le Cabinet » (par. 105). La 
+mesure qu’a prise l’ONÉ dans l’exercice du pouvoir 
+qu’il possède, en vertu de l’al. 5(1)b) de la LOPC , de 
+prendre la décision ultime concernant des essais tels 
+ceux proposés en l’espèce, constitue manifestement 
+une mesure de la Couronne.
+C. La Couronne peut-elle s’en remettre au proces -
+sus de l’ONÉ pour satisfaire à l’obligation de 
+consulter?
+[30]  Comme nous l’avons déjà dit, bien que la 
+Couronne demeure ultimement responsable de veil -
+ler au caractère adéquat de la consultation, celle-ci 
+peut s’en remettre aux mesures prises par un orga -
+nisme de réglementation pour satisfaire à l’obliga -
+tion de consulter. Cependant, la question de savoir 
+si la Couronne est en mesure de le faire, en tout 
+ou en partie, dépend de la réponse à la question de 
+savoir si les attributions que la loi confère à l’orga -
+nisme habilitent ce dernier à faire ce que l’obligation 
+exige dans les circonstances particulières ( Carrier 
+Sekani , par. 55 et 60). En conséquence, dans le cas 
+de l’ONÉ, la question consiste à décider si celui-ci 
+peut, dans la mesure où la Couronne s’en remet à 
+lui, assurer un niveau de consultation adéquat et, au 
+besoin, accorder aux Inuits de Clyde River des me -
+sures d’accommodement à l’égard des essais propo -
+sés.
+[31]  Nous constatons que tant l’ONÉ que la LOPC  
+sont antérieurs à la reconnaissance judiciaire de 
+l’obligation de consulter. Toutefois, compte tenu du 
+caractère souple de cette obligation, la Couronne 
+peut s’en remettre à un processus qui a été initiale -
+ment conçu pour une autre fin, tant que ce processus 
+rend possible un niveau approprié de consultation du 
+groupe autochtone touché ( Beckman , par. 39; Taku 
+River , par. 22). En vertu de la LOPC , l’ONÉ dispose 
+d’un large éventail de pouvoirs qui permettent une 
+consultation étendue. Il peut tenir des audiences, en 
+plus de posséder un vaste pouvoir discrétionnaire 
+l’habilitant à rendre des ordonnances ou obtenir 1088 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+studies to be undertaken and impose preconditions 
+to approval (s. 5(4)). In the case of designated proj -
+ects, it can also (as here) conduct environmental 
+assessments, and establish participant funding pro -
+grams to facilitate public participation (s. 5.002).4
+[32]  COGOA also grants the NEB broad pow -
+ers to accommodate the concerns of Indigenous 
+groups where necessary. The NEB can attach any 
+terms and conditions it sees fit to an authorization 
+issued under s. 5(1)(b), and can make such autho -
+rization contingent on their performance (ss. 5(4) 
+and 5.36(1)). Most importantly, the NEB may re -
+quire accommodation by exercising its discretion to 
+deny an authorization or by reserving its decision 
+pending further proceedings (ss. 5(1)(b), 5(5) and 
+5.36(2)).
+[33]  The NEB has also developed considerable 
+institutional expertise, both in conducting consulta -
+tions and in assessing the environmental impacts of 
+proposed projects. Where the effects of a proposed 
+project on Aboriginal or treaty rights substantially 
+overlap with the project’s potential environmental 
+impact, the NEB is well situated to oversee consul -
+tations which seek to address these effects, and to 
+use its technical expertise to assess what forms of 
+accommodation might be available.
+[34]  In sum, the NEB has (1) the procedural pow -
+ers necessary to implement consultation; and (2) 
+the remedial powers to, where necessary, accom -
+modate affected Aboriginal claims, or Aboriginal 
+and treaty rights. Its process can therefore be relied 
+on by the Crown to completely or partially fulfill 
+4 While s. 5.002 (participant funding) and s. 5.331 (public hear -
+ings) of COGOA  were not in force at the time the NEB consid -
+ered and authorized the project at issue here, they were added 
+later (see S.C. 2015, c. 4, ss. 7 and 13).des renseignements pour l’application de la LOPC  
+et dans l’intérêt public (art.  5.331, par.  5.31(1), 
+art. 5.32). Il peut également exiger que des études 
+soient entreprises et imposer des conditions préa -
+lables à l’approbation (par. 5(4)). Dans le cas de pro -
+jets désignés, il peut aussi (comme c’est le cas en 
+l’espèce) réaliser des évaluations environnementales 
+et créer un programme d’aide financière pour facili -
+ter la participation du public (art. 5.002)4.
+[32]  La LOPC confère aussi à l’ONÉ de vastes 
+pouvoirs d’accommodement afin de répondre, au 
+besoin, aux préoccupations des groupes autoch -
+tones. L’ONÉ peut assortir l’autorisation qu’il ac -
+corde en vertu de l’al. 5(1)b) de toute condition 
+qu’il juge appropriée, et peut faire dépendre la prise 
+d’effet de cette autorisation de l’exécution de ces 
+conditions (par. 5(4) et 5.36(1)). Plus important 
+encore, l’ONÉ peut exiger que des accommode -
+ments soient apportés soit en exerçant son pouvoir 
+discrétionnaire de refuser une autorisation, soit en 
+réservant sa décision pendant le règlement d’autres 
+questions (al. 5(1)b), et par. 5(5) et 5.36(2)).
+[33]  L’ONÉ a également acquis une importante 
+expertise institutionnelle, tant en effectuant des 
+consultations qu’en évaluant les effets environne -
+mentaux des projets proposés. Lorsque les effets 
+d’un projet proposé sur un droit ancestral ou issu 
+d’un traité chevauchent considérablement les réper -
+cussions environnementales potentielles du projet, 
+l’ONÉ est bien placé pour superviser les consulta -
+tions visant l’examen de ces effets, et pour utiliser 
+son expertise technique afin d’évaluer les formes 
+d’accommodement possibles.
+[34]  En somme, l’ONÉ dispose (1) des pouvoirs 
+procéduraux nécessaires pour mener des consulta -
+tions et (2) des pouvoirs de réparation lui permettant 
+de prendre, au besoin, des mesures d’accommode -
+ment à l’égard des revendications autochtones ou 
+des droits ancestraux ou issus de traités touchés. La 
+4 Même si les art. 5.002 (aide financière) et 5.331 (audiences pu -
+bliques) de la LOPC  n’étaient pas en vigueur lorsque l’ONÉ a 
+examiné et autorisé le projet litigieux en l’espèce, ils ont été 
+ajoutés à la loi par la suite (voir L.C. 2015, c. 4, art. 7 et 13).[2017] 1 R.C.S.1089
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+the Crown’s duty to consult. Whether the NEB’s 
+process did so in this case, we consider below.
+D. What Is the NEB’s Role in Considering Crown 
+Consultation Before Approval?
+[35]  The appellants argue that, as a tribunal em -
+powered to decide questions of law, the NEB must  
+exercise its decision-making authority in accor -
+dance with s. 35(1) of the Constitution Act, 1982  
+by evaluating the adequacy of consultation before 
+issuing an authorization for seismic testing. In con -
+trast, the proponents submit that there is no basis in 
+this Court’s jurisprudence for imposing this obliga -
+tion on the NEB. Although the Attorney General of 
+Canada agrees with the appellants that the NEB has 
+the legal capacity to decide constitutional questions 
+when doing so is necessary to its decision-making 
+powers, she argues that the NEB’s environmental 
+assessment decision in this case appropriately con -
+sidered the adequacy of the proponents’ consultation 
+efforts.
+[36]  Generally, a tribunal empowered to consider 
+questions of law must determine whether such con -
+sultation was constitutionally sufficient if the issue is 
+properly raised. The power of a tribunal “to decide 
+questions of law implies a power to decide consti -
+tutional issues that are properly before it, absent a 
+clear demonstration that the legislature intended to 
+exclude such jurisdiction from the tribunal’s power” 
+(Carrier Sekani , at para. 69). Regulatory agencies 
+with the authority to decide questions of law have 
+both the duty and authority to apply the Constitu -
+tion, unless the authority to decide the constitutional 
+issue has been clearly withdrawn ( R. v. Conway , 
+2010 SCC 22, [2010] 1 S.C.R. 765, at para. 77). It 
+follows that they must ensure their decisions com -
+ply with s. 35 of the Constitution Act, 1982 (Carrier 
+Sekani , at para. 72).Couronne peut donc s’en remettre au processus de 
+l’ONÉ pour satisfaire, en tout ou en partie, à l’obli -
+gation de consulter qui lui incombe. Nous allons 
+examiner ci-après si le processus de l’ONÉ a permis 
+de satisfaire à cette obligation en l’espèce.
+D. Quel est le rôle de l’ONÉ dans l’appréciation 
+de la consultation incombant à la Couronne 
+avant l’approbation d’un projet?
+[35]  Les appelants soutiennent que, en tant que 
+tribunal administratif habilité à trancher des ques -
+tions de droit, l’ONÉ doit exercer son pouvoir 
+décisionnel en conformité avec le par. 35(1) de la 
+Loi constitutionnelle de 1982 , et ce, en évaluant le 
+caractère adéquat de la consultation avant d’accor -
+der une autorisation pour des essais sismiques. À 
+l’inverse, les promoteurs plaident que rien dans la 
+jurisprudence de notre Cour ne permet d’imposer 
+cette obligation à l’ONÉ. Bien que la procureure 
+générale du Canada soit d’accord avec les appelants 
+pour dire que l’ONÉ possède la capacité juridique 
+de trancher des questions constitutionnelles lorsque 
+cela est nécessaire dans l’exercice de ses pouvoirs 
+décisionnels, elle soutient que, dans sa décision re -
+lative à l’évaluation environnementale en l’espèce, 
+l’ONÉ a examiné de manière appropriée le carac -
+tère adéquat des efforts de consultation déployés 
+par les promoteurs.
+[36]  En général, un tribunal administratif habilité 
+à examiner des questions de droit doit décider si une 
+consultation de ce genre était suffisante sur le plan 
+constitutionnel dans le cas où cette question est régu -
+lièrement soulevée devant lui. Le pouvoir d’un tribu -
+nal administratif « de statuer en droit emporte celui 
+de trancher une question constitutionnelle dont il est 
+régulièrement saisi, sauf lorsqu’il est clairement éta -
+bli que le législateur a voulu le priver d’un tel pou -
+voir » ( Carrier Sekani , par. 69). Les organismes de 
+réglementation investis du pouvoir de trancher des 
+questions de droit ont le devoir et le pouvoir d’appli -
+quer la Constitution, sauf si le pouvoir de statuer sur 
+la question constitutionnelle a clairement été écarté 
+(R. c. Conway , 2010 CSC 22, [2010] 1 R.C.S. 765, 
+par. 77). Il s’ensuit qu’ils doivent s’assurer que leurs 
+décisions sont conformes à l’art. 35 de la Loi consti -
+tutionnelle de 1982 (Carrier Sekani , par. 72).1090 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+[37]  The NEB has broad powers under both the 
+NEB Act and COGOA  to hear and determine all 
+relevant matters of fact and law  (NEB Act , s. 12(2); 
+COGOA , s. 5.31(2)). No provision in either statute 
+suggests an intention to withhold from the NEB 
+the power to decide the adequacy of consultation. 
+And, in  Quebec (Attorney General) v. Canada (Na -
+tional Energy Board) , [1994] 1 S.C.R. 159, this 
+Court concluded that NEB decisions must conform 
+to s. 35(1) of the Constitution Act, 1982 . It follows 
+that the NEB can determine whether the Crown’s 
+duty to consult has been fulfilled.
+[38]  We note that the majority at the Federal 
+Court of Appeal in Chippewas of the Thames  con-
+sidered that this issue was not properly before the 
+NEB. It distinguished Carrier Sekani on the basis 
+that the Crown was not a party to the NEB hearing 
+in Chippewas of the Thames , while the Crown (in 
+the form of BC Hydro, a Crown corporation) was 
+a party in the utilities commission proceedings in 
+Carrier Sekani . Based on the authority of Standing 
+Buffalo Dakota First Nation v. Enbridge Pipelines 
+Inc., 2009 FCA 308, [2010] 4 F.C.R. 500, the major -
+ity of the Federal Court of Appeal in Chippewas of 
+the Thames  reasoned that the NEB is not required 
+to evaluate whether the Crown’s duty to consult had 
+been triggered (or whether it was satisfied) before 
+granting a resource project authorization, except 
+where the Crown is a party before the NEB.
+[39]  The difficulty with this view, however, is 
+that — as we have explained — action taken by the 
+NEB in furtherance of its powers under s. 5(1)(b) 
+of COGOA  to make final decisions is itself  Crown 
+conduct which triggers the duty to consult. Nor, 
+respectfully, can we agree with the majority of 
+the Federal Court of Appeal in Chippewas of the 
+Thames that an NEB decision will comply with 
+s. 35(1) of the Constitution Act, 1982  so long as 
+the NEB ensures the proponents engage in a “dia -
+logue” with potentially affected Indigenous groups 
+(para. 62). If the Crown’s duty to consult has been [37]  L’ONÉ dispose, tant en vertu de la Loi sur 
+l’ONÉ  que de la LOPC , de vastes pouvoirs l’auto -
+risant à entendre et à trancher toute question perti -
+nente de droit et de fait ( Loi sur l’ONÉ , par. 12(2); 
+LOPC , par. 5.31(2)). Aucune disposition de l’une ou 
+l’autre de ces lois ne tend à indiquer que le légis -
+lateur entendait priver l’ONÉ du pouvoir de statuer 
+sur le caractère adéquat de la consultation. De plus, 
+dans Québec (Procureur général) c. Canada (Office 
+national de l’énergie) , [1994] 1 R.C.S. 159, notre 
+Cour a conclu que les décisions de l’ONÉ doivent 
+respecter le par. 35(1) de la Loi constitutionnelle de 
+1982 . Par conséquent, l’ONÉ peut décider s’il a été 
+satisfait à l’obligation de consulter de la Couronne.
+[38]  Nous constatons que, dans l’affaire Chippewas 
+of the Thames , les juges majoritaires de la Cour d’ap -
+pel fédérale ont considéré que l’ONÉ n’avait pas été 
+régulièrement saisi de cette question. Ils ont distin -
+gué cette affaire de l’arrêt Carrier Sekani  sur la base 
+que, dans  Chippewas of the Thames , la Couronne 
+n’était pas partie à l’audience devant l’ONÉ, tandis 
+que dans Carrier Sekani  la Couronne (par l’entre -
+mise de BC Hydro, une société d’État) était partie à 
+l’instance devant la commission des services d’utilité 
+publique. Se fondant sur l’arrêt Première nation da -
+kota de Standing Buffalo c. Enbridge Pipelines Inc. , 
+2009 CAF 308, [2010] 4 R.C.F. 500, les juges majo -
+ritaires de la Cour d’appel fédérale dans  Chippewas 
+of the Thames  ont estimé que l’ONÉ n’est pas tenu 
+de se demander si l’obligation de consulter incom -
+bant à la Couronne a pris naissance (ou s’il a été sa -
+tisfait à cette obligation) avant d’autoriser un projet 
+lié aux ressources, sauf dans le cas où la Couronne 
+est une partie à l’instance devant l’ONÉ.
+[39]  Toutefois, la difficulté que soulève cette opi -
+nion est que — comme nous l’avons expliqué — les 
+mesures prises par l’ONÉ en application de son 
+pouvoir de rendre des décisions définitives en vertu 
+de l’al. 5(1)b) de la LOPC  sont elles-mêmes  des me -
+sures prises par la Couronne qui donnent naissance à 
+l’obligation de consulter. Nous ne pouvons pas non 
+plus, soit dit en tout respect, souscrire à l’opinion 
+des juges majoritaires de la Cour d’appel fédérale 
+dans l’affaire connexe Chippewas of the Thames  
+selon laquelle une décision de l’ONÉ respecte le 
+par. 35(1) de la Loi constitutionnelle de 1982  dans [2017] 1 R.C.S.1091
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+triggered, a decision maker may only proceed to ap -
+prove a project if Crown consultation is adequate. 
+Although in many cases the Crown will be able to 
+rely on the NEB’s processes as meeting the duty 
+to consult, because the NEB is the final decision 
+maker, the key question is whether the duty is ful -
+filled prior to project approval ( Haida , at para. 67). 
+Accordingly, where the Crown’s duty to consult an 
+affected Indigenous group with respect to a project 
+under COGOA remains unfulfilled, the NEB must 
+withhold project approval. And, where the NEB 
+fails to do so, its approval decision should (as we 
+have already said) be quashed on judicial review, 
+since the duty to consult must be fulfilled prior to 
+the action that could adversely affect the right in 
+question ( Tsilhqot’in Nation v. British Columbia , 
+2014 SCC 44, [2014] 2 S.C.R. 257, at para. 78).
+[40]  Some commentators have suggested that the 
+NEB, in view of its mandate to decide issues in the 
+public interest, cannot effectively account for Ab -
+original and treaty rights and assess the Crown’s 
+duty to consult (see R. Freedman and S. Hansen, 
+“Aboriginal Rights vs. The Public Interest”, prepared 
+for Pacific Business & Law Institute Conference, 
+Vancouver, B.C. (February 26-27, 2009) (online), at 
+pp. 4 and 14). We do not, however, see the public in -
+terest and the duty to consult as operating in conflict. 
+As this Court explained in Carrier Sekani , the duty 
+to consult, being a constitutional imperative, gives 
+rise to a special public interest that supersedes other 
+concerns typically considered by tribunals tasked 
+with assessing the public interest (para. 70). A proj -
+ect authorization that breaches the constitutionally 
+protected rights of Indigenous peoples cannot serve 
+the public interest ( ibid.).
+[41]  This leaves the question of what a regula -
+tory agency must do where the adequacy of Crown la mesure où l’ONÉ s’assure que les promoteurs 
+participent à des « discussions » avec les groupes 
+autochtones susceptibles d’être touchés (par. 62). 
+Si l’obligation de la Couronne de consulter a pris 
+naissance, un décideur ne peut approuver un projet 
+que si la consultation incombant à la Couronne est 
+adéquate. Même si dans bien des cas la Couronne 
+peut s’en remettre aux processus de l’ONÉ pour 
+satisfaire à son obligation de consulter, étant donné 
+que c’est l’ONÉ qui prend la décision définitive, la 
+question fondamentale consiste à décider s’il a été 
+satisfait à l’obligation avant l’approbation du projet 
+(Haïda , par. 67). En conséquence, lorsque la Cou -
+ronne n’a pas satisfait à son obligation de consulter 
+les groupes autochtones touchés par un projet visé 
+par la LOPC , l’ONÉ doit refuser d’approuver le 
+projet. S’il l’approuve, sa décision devrait (comme 
+nous l’avons dit précédemment) être annulée à 
+l’issue d’un contrôle judiciaire, puisque l’obliga -
+tion de consulter doit être respectée avant la prise 
+de mesures susceptibles d’avoir des effets préjudi -
+ciables sur le droit en question ( Nation  Tsilhqot’in 
+c. Colombie-Britannique , 2014 CSC 44, [2014] 2 
+R.C.S. 257, par. 78).
+[40]  Certains auteurs affirment que, comme 
+l’ONÉ a pour mission de trancher des questions 
+dans l’intérêt public, il ne peut, de manière effective, 
+tenir compte des droits ancestraux et issus de traités 
+et apprécier l’obligation de consulter de la Couronne 
+(voir R. Freedman et S. Hansen, « Aboriginal Rights 
+vs. The Public Interest », préparé pour une confé -
+rence du Pacific Business & Law Institute, Van -
+couver, C.-B. (26-27 février 2009) (en ligne), p. 4 
+et 14). À notre avis, cependant, l’intérêt public et 
+l’obligation de consulter ne sont pas incompatibles. 
+Comme l’a expliqué la Cour dans Carrier Sekani , 
+en tant qu’impératif constitutionnel, l’obligation de 
+consulter fait naître un intérêt public spécial, qui 
+l’emporte sur les autres préoccupations dont tiennent 
+habituellement compte les tribunaux administratifs 
+appelés à évaluer l’intérêt public (par. 70). Lorsque 
+l’autorisation accordée à l’égard d’un projet viole les 
+droits constitutionnels des peuples autochtones, cette 
+autorisation ne saurait servir l’intérêt public ( ibid.).
+[41]  Il reste à déterminer ce qu’un organisme de 
+réglementation doit faire dans les cas où se soulève 1092 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+consultation is raised before it. When affected In -
+digenous groups have squarely raised concerns 
+about Crown consultation with the NEB, the NEB 
+must usually address those concerns in reasons, par -
+ticularly in respect of project applications requiring 
+deep consultation. Engagement of the honour of the 
+Crown does not predispose a certain outcome, but 
+promotes reconciliation by imposing obligations on 
+the manner and approach of government ( Haida , at 
+paras. 49 and 63). Written reasons foster reconcili -
+ation by showing affected Indigenous peoples that 
+their rights were considered and addressed ( Haida , 
+at para. 44). Reasons are “a sign of respect [which] 
+displays the requisite comity and courtesy becoming 
+the Crown as Sovereign toward a prior occupying 
+nation” ( Kainaiwa/Blood Tribe v. Alberta (Energy) , 
+2017 ABQB 107, at para. 117 (CanLII)).  Written 
+reasons also promote better decision making ( Baker 
+v. Canada (Minister of Citizenship and Immigra -
+tion), [1999] 2 S.C.R. 817, at para. 39).
+[42]  This does not mean, however, that the NEB 
+is always required to review the adequacy of Crown 
+consultation by applying a formulaic “ Haida anal-
+ysis”, as the appellants suggest. Nor will explicit 
+reasons be required in every case. The degree of 
+consideration that is appropriate will depend on the 
+circumstances of each case. But where deep consul -
+tation is required and the affected Indigenous peo -
+ples have made their concerns known, the honour 
+of the Crown will usually oblige the NEB, where 
+its approval process triggers the duty to consult, to 
+explain how it considered and addressed these con -
+cerns.
+E. Was the Consultation Adequate in This Case?
+[43]  The Crown acknowledges that deep consul -
+tation was required in this case, and we agree. As devant lui la question du caractère adéquat de la 
+consultation incombant à la Couronne. Lorsque les 
+groupes autochtones touchés soulèvent directement 
+auprès de l’ONÉ des préoccupations concernant la 
+consultation qui a été menée par la Couronne, l’ONÉ 
+doit habituellement traiter de ces préoccupations 
+dans des motifs, plus particulièrement s’il s’agit 
+d’une demande d’approbation de projet requérant 
+une consultation approfondie. Le fait que l’honneur 
+de la Couronne soit en jeu ne permet pas de préjuger 
+d’un résultat donné, mais favorise la réconciliation 
+en imposant des obligations quant à l’approche et à 
+la façon de faire du gouvernement ( Haïda , par. 49 et 
+63). L’existence de motifs écrits favorise la réconci -
+liation, parce que ces motifs montrent aux peuples 
+autochtones touchés que leurs droits ont été considé -
+rés et comment on en a tenu compte ( Haïda , par. 44). 
+Des motifs constituent [ TRADUCTION ] « une marque 
+de respect [qui] démontre la courtoisie dont doit 
+faire preuve la Couronne en tant que souverain en -
+vers une nation qui occupait le territoire avant elle » 
+(Kainaiwa/Blood Tribe c. Alberta (Energy) , 2017 
+ABQB 107, par. 117 (CanLII)). Les motifs écrits fa -
+vorisent également une meilleure prise de décision 
+(Baker c. Canada (Ministre de la Citoyenneté et de 
+l’Immigration) , [1999] 2 R.C.S. 817, par. 39).
+[42]  Cependant, cela ne signifie pas, contraire -
+ment à ce qu’affirment les appelants, que l’ONÉ 
+est toujours tenu d’examiner le caractère adéquat 
+de la consultation qui a été menée en appliquant 
+mécaniquement l’«  analyse requise par l’arrêt 
+Haïda  ». Des motifs explicites ne sont pas non plus 
+requis dans tous les cas. L’étendue de l’analyse qui 
+conviendra variera selon les circonstances propres 
+à chaque cas. Mais dans les cas où une consulta -
+tion approfondie est nécessaire et que les peuples 
+autochtones touchés ont fait connaître leurs pré -
+occupations, l’honneur de la Couronne obligera 
+généralement l’ONÉ, lorsque son processus d’ap -
+probation donne naissance à l’obligation de consul -
+ter, à expliquer de quelle manière il a considéré ces 
+préoccupations et il en a tenu compte.
+E. La consultation a-t-elle été adéquate en 
+l’espèce?
+[43]  La Couronne reconnaît qu’une consulta -
+tion approfondie était requise dans le cas qui nous [2017] 1 R.C.S.1093
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+this Court explained in Haida , deep consultation 
+is required “where a strong prima facie  case for 
+the claim is established, the right and potential in -
+fringement is of high significance to the Aboriginal 
+peoples, and the risk of non-compensable damage 
+is high” (para. 44). Here, the appellants had estab -
+lished treaty rights  to hunt and harvest marine mam -
+mals. These rights were acknowledged at the Federal 
+Court of Appeal as being extremely important to the 
+appellants for their economic, cultural, and spiri -
+tual well-being (para. 2). Jerry Natanine, the for -
+mer mayor of Clyde River, explained that hunting 
+marine mammals “provides us with nutritious food; 
+enables us to take part in practices we have main -
+tained for generations; and enables us to maintain 
+close relationships with each other through the shar -
+ing of what we call ‘country food’” (A.R., vol. II, at 
+p. 197). The importance of these rights was also re -
+cently recognized by the Nunavut Court of Justice:
+ The Inuit right which is of concern in this matter is 
+the right to harvest marine mammals. Many Inuit in 
+Nunavut rely on country food for the majority of their 
+diet. Food costs are very high and many would be un -
+able to purchase food to replace country food if country 
+food were unavailable. Country food is recognized as be -
+ing of higher nutritional value than purchased food. But 
+the inability to harvest marine mammals would impact 
+more than . . . just the diet of Inuit. The cultural tradition 
+of sharing country food with others in the community 
+would be lost. The opportunity to make traditional cloth -
+ing would be impacted. The opportunity to participate in 
+the hunt, an activity which is fundamental to being Inuk, 
+would be lost. The Inuit right which is at stake is of high 
+significance. This suggests a significant level of consulta -
+tion and accommodation is required.
+(Qikiqtani Inuit Assn. v. Canada (Minister of Natural 
+Resources) , 2010 NUCJ 12, 54 C.E.L.R. (3d) 263, at 
+para. 25)occupe, et nous en convenons. Comme notre Cour 
+l’a expliqué dans l’arrêt Haïda , une consultation ap -
+profondie est requise dans « les cas où la revendi -
+cation repose sur une preuve à première vue solide, 
+où le droit et l’atteinte potentielle sont d’une haute 
+importance pour les Autochtones et où le risque de 
+préjudice non indemnisable est élevé » (par. 44). En 
+l’espèce, les appelants possèdent des droits  issus de 
+traités établis  leur permettant de chasser et de récol -
+ter des mammifères marins. La Cour d’appel fédé -
+rale a reconnu que ces droits étaient extrêmement 
+importants pour le bien-être économique, culturel 
+et spirituel des appelants (par. 2). Jerry Natanine, 
+l’ancien maire de Clyde River, a fourni les expli -
+cations qui suivent à ce sujet : [TRADUCTION ] « [la 
+chasse aux mammifères marins] nous fournit des 
+aliments nutritifs, en plus de nous permettre d’exer -
+cer des pratiques observées depuis des générations 
+et d’entretenir d’étroites relations les uns avec les 
+autres grâce au partage de ce que nous appelons les 
+“aliments traditionnels” » (d.a., vol. II, p. 197). Ré -
+cemment, la Cour de justice du Nunavut a également 
+reconnu l’importance de ces droits :
+ [TRADUCTION ] Le droit inuit qui nous intéresse en 
+l’espèce est le droit de récolter les mammifères marins. 
+Le régime alimentaire de nombreux Inuits au Nunavut 
+se compose en grande partie d’aliments traditionnels. 
+Le coût des aliments est très élevé, et plusieurs habitants 
+seraient dans l’incapacité d’acheter des aliments pour 
+remplacer les aliments traditionnels si ceux-ci n’étaient 
+plus disponibles. Il est reconnu que les aliments tradi -
+tionnels ont une valeur nutritive plus élevée que les ali -
+ments achetés. Cependant, l’incapacité de récolter des 
+mammifères marins n’aurait pas uniquement des réper -
+cussions sur le régime alimentaire des Inuits. La tradition 
+culturelle qu’ont les Inuits de partager les aliments tra -
+ditionnels entre eux dans la communauté serait perdue. 
+La fabrication de vêtements traditionnels serait aussi tou -
+chée. Les Inuits perdraient la possibilité de participer à la 
+chasse, une activité qui constitue un aspect fondamental 
+de l’identité inuite. Le droit des Inuits qui est en jeu est 
+d’une grande importance, d’où la nécessité d’une consul -
+tation approfondie et de mesures d’accommodement 
+substantielles.
+(Qikiqtani Inuit Assn. c. Canada (Minister of Natural 
+Resources) , 2010 NUCJ 12, 54 C.E.L.R. (3d) 263, 
+par. 25)1094 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+[44]  The risks posed by the proposed testing to 
+these treaty rights were also high. The NEB’s en -
+vironmental assessment concluded that the project 
+could increase the mortality risk of marine mam -
+mals, cause permanent hearing damage, and change 
+their migration routes, thereby affecting traditional 
+resource use. Given the importance of the rights at 
+stake, the significance of the potential impact, and 
+the risk of non-compensable damage, the duty owed 
+in this case falls at the highest end of the spectrum.
+[45]  Bearing this in mind, the consultation that 
+occurred here fell short in several respects. First, 
+the inquiry was misdirected. While the NEB found 
+that the proposed testing was not likely to cause 
+significant adverse environmental effects, and that 
+any effects on traditional resource use could be ad -
+dressed by mitigation measures, the consultative in -
+quiry is not properly into environmental effects per 
+se. Rather, it inquires into the impact on the right . 
+No consideration was given in the NEB’s environ -
+mental assessment to the source — in a treaty — of 
+the appellants’ rights to harvest marine mammals, 
+nor to the impact of the proposed testing on those 
+rights.
+[46]  Furthermore, although the Crown relies on 
+the processes of the NEB as fulfilling its duty to 
+consult, that was not made clear to the Inuit. The 
+significance of the process was not adequately ex -
+plained to them.
+[47]  Finally, and most importantly, the process 
+provided by the NEB did not fulfill the Crown’s 
+duty to conduct deep consultation. Deep consulta -
+tion “may entail the opportunity to make submis -
+sions for consideration, formal participation in the 
+decision-making process, and provision of writ -
+ten reasons to show that Aboriginal concerns were 
+considered and to reveal the impact they had on the 
+decision” ( Haida , at para. 44). Despite the NEB’s 
+broad powers under COGOA  to afford those advan -
+tages, limited opportunities for participation and 
+consultation were made available to the appellants. [44]  Les essais proposés comportent également 
+des risques importants pour ces droits issus de trai -
+tés. Selon l’évaluation environnementale de l’ONÉ, 
+ce projet est susceptible d’accroître le risque de 
+mortalité chez les mammifères marins, de causer 
+des dommages permanents à leur ouïe et de mo -
+difier leurs routes migratoires, situation qui a en 
+conséquence une incidence sur l’utilisation des res -
+sources traditionnelles. En raison de l’importance 
+du droit en jeu, de la portée des effets potentiels et 
+du risque de préjudice non indemnisable, l’obliga -
+tion qui s’impose dans la présente affaire se situe à 
+l’extrémité supérieure du continuum.
+[45]  Dans cette optique, la consultation qui a eu 
+lieu en l’espèce a été lacunaire à plusieurs égards. 
+Premièrement, la consultation était mal orientée. 
+Bien que l’ONÉ ait conclu que les essais proposés 
+n’étaient pas susceptibles d’avoir des effets environ -
+nementaux négatifs importants, et que tout effet sur 
+l’utilisation des ressources traditionnelles pourrait 
+faire l’objet de mesures d’atténuation, le processus 
+consultatif ne vise pas vraiment les effets environne -
+mentaux en tant que tels, mais plutôt les effets sur le 
+droit. Dans son évaluation environnementale, l’ONÉ 
+n’a pas pris en considération la source — un traité 
+— des droits des appelants de récolter des mammi -
+fères marins, ni l’incidence des essais proposés sur 
+ces droits.
+[46]  Deuxièmement, il n’a pas été indiqué claire -
+ment aux Inuits que la Couronne s’en remettait aux 
+processus de l’ONÉ pour satisfaire à son obligation 
+de consulter. L’importance du processus ne leur a 
+pas été expliquée adéquatement.
+[47]  Enfin, élément le plus important, le processus 
+de l’ONÉ n’a pas permis de satisfaire à l’obligation 
+de la Couronne de mener une consultation approfon -
+die. Une telle consultation « pourrait comporter la 
+possibilité de présenter des observations, la participa -
+tion officielle à la prise de décisions et la présentation 
+de motifs montrant que les préoccupations des Au -
+tochtones ont été prises en compte et précisant quelle 
+a été l’incidence de ces préoccupations sur la déci -
+sion » ( Haïda , par. 44). Malgré les vastes pouvoirs 
+que la LOPC  confère à l’ONÉ pour offrir de telles 
+mesures avantageuses, les appelants n’ont bénéficié [2017] 1 R.C.S.1095
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+Unlike many NEB proceedings, including the pro -
+ceedings in Chippewas of the Thames , there were 
+no oral hearings. Although the appellants submitted 
+scientific evidence to the NEB, this was done with -
+out participant funding. Again, this stands in contrast 
+to Chippewas of the Thames , where the consultation 
+process was far more robust. In that case, the NEB 
+held oral hearings, the appellants received funding 
+to participate in the hearings, and they had the op -
+portunity to present evidence and a final argument.5
+While these procedural protections are characteris -
+tic of an adversarial process, they may be required 
+for meaningful consultation ( Haida , at para. 41) and 
+do not transform its underlying objective: fostering 
+reconciliation by promoting an ongoing relationship 
+(Carrier Sekani , at para. 38).
+[48]  The consultation in this case also stands in 
+contrast to Taku River  where, despite its entitlement 
+to consultation falling only at the midrange of the 
+spectrum (para. 32), the Taku River Tlingit First Na -
+tion, with financial assistance (para. 37), fully partic -
+ipated in the assessment process as a member of the 
+project committee, which was “the primary engine 
+driving the assessment process” (paras. 3, 8 and 40).
+[49]  While these procedural safeguards are not 
+always necessary, their absence in this case sig -
+nificantly impaired the quality of consultation. 
+Although the appellants had the opportunity to 
+question the proponents about the project during the 
+NEB meetings in the spring of 2013, the proponents 
+were unable to answer many questions, including 
+5 The NEB process in Chippewas of the Thames  was undertaken 
+pursuant to the NEB Act , not COGOA . Under the NEB Act , the 
+NEB had at the relevant time, and still has today, explicit statutory 
+powers to conduct public hearings (s. 24) and provide participant 
+funding for such hearings (s. 16.3). As noted above, Parliament 
+conferred similar powers upon the NEB under COGOA  in 2015.que de très peu de possibilités de participation et de 
+consultation. Contrairement à de nombreuses autres 
+instances de l’ONÉ, y compris celle dans l’affaire 
+Chippewas of the Thames , il n’y a pas eu d’audiences 
+en l’espèce. Bien que les appelants aient soumis des 
+éléments de preuve scientifique à l’ONÉ, ils l’ont 
+fait sans recevoir d’aide financière à l’intention des 
+participants. Une autre situation qui contraste avec 
+l’affaire Chippewas of the Thames , où le processus 
+de consultation a été beaucoup plus robuste. Dans 
+cette affaire, l’ONÉ a tenu des audiences, les appe -
+lants ont reçu des fonds pour y participer et ils ont eu 
+l’occasion de présenter des éléments de preuve et des 
+observations finales5.  Quoique ces garanties procédu -
+rales constituent des caractéristiques d’un processus 
+contradictoire, elles peuvent être nécessaires pour 
+qu’une véritable consultation ait lieu ( Haïda , par. 41) 
+et elles ne transforment pas l’objectif sous-jacent de 
+cette consultation, soit encourager la réconciliation 
+tout en favorisant le maintien de relations constantes 
+(Carrier Sekani , par. 38).
+[48]  La consultation qui s’est déroulée en l’espèce 
+contraste également avec celle tenue dans l’affaire 
+Taku  River  où, même si elle avait droit uniquement 
+à un niveau de consultation se trouvant à mi-chemin 
+du continuum (par. 32), la Première Nation Tlingit 
+de Taku River a obtenu de l’aide financière (par. 37) 
+et a participé pleinement au processus d’évaluation 
+en tant que membre du comité responsable du pro -
+jet, comité qui était le « principal moteur du proces -
+sus d’évaluation » (par. 3, 8 et 40).
+[49]  Bien que ces garanties procédurales ne soient 
+pas toujours nécessaires, leur absence en l’espèce a 
+réduit de façon importante la qualité de la consul -
+tation. Même si les appelants ont eu la possibilité 
+d’interroger les promoteurs au sujet du projet lors 
+des rencontres organisées par l’ONÉ au printemps 
+2013, ces derniers ont été incapables de répondre à 
+5 Le processus suivi par l’ONÉ dans l’affaire Chippewas of the 
+Thames  s’est déroulé conformément à la Loi sur l’ONÉ , et non 
+à la LOPC . En vertu de la Loi sur l’ONÉ , l’ONÉ possédait au 
+moment pertinent, et possède encore aujourd’hui, le pouvoir ex -
+plicite de tenir des audiences publiques (art. 24) et de verser de 
+l’aide financière en vue de faciliter la participation à de telles 
+audiences (art. 16.3). Comme il a été indiqué précédemment, 
+le Parlement a conféré à l’ONÉ des pouvoirs similaires dans la 
+LOPC  en 2015.1096 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES     Karakatsanis and Brown JJ.
+basic questions about the effect of the proposed test -
+ing on marine mammals. The proponents did even -
+tually respond to these questions; however, they did 
+so in a 3,926 page document which they submitted 
+to the NEB. This document was posted on the NEB 
+website and delivered to the hamlet offices in Pond 
+Inlet, Clyde River, Qikiqtajuak and Iqaluit. Internet 
+speed is slow in Nunavut, however, and bandwidth 
+is expensive. The former mayor of Clyde River de -
+posed that he was unable to download this docu -
+ment because it was too large. Furthermore, only a 
+fraction of this enormous document was translated 
+into Inuktitut. To put it mildly, furnishing answers to 
+questions that went to the heart of the treaty rights at 
+stake in the form of a practically inaccessible docu -
+ment dump months after the questions were initially 
+asked in person is not true consultation. “‘[C]on -
+sultation’ in its least technical definition is talking 
+together for mutual understanding” (T. Isaac and A. 
+Knox, “The Crown’s Duty to Consult Aboriginal 
+People” (2003), 41 Alta. L. Rev. 49, at p. 61). No 
+mutual understanding on the core issues — the po -
+tential impact on treaty rights, and possible accom -
+modations — could possibly have emerged from 
+what occurred here.
+[50]  The fruits of the Inuit’s limited participa -
+tion in the assessment process here are plain in 
+considering the accommodations recorded by the 
+NEB’s environmental assessment report. It noted 
+changes made to the project as a result of consul -
+tation, such as a commitment to ongoing consulta -
+tion, the placement of community liaison officers 
+in affected communities, and the design of an Inuit 
+Qaujimajatuqangit (Inuit traditional knowledge) 
+study. The proponents also committed to installing 
+passive acoustic monitoring on the ship to be used 
+in the proposed testing to avoid collisions with ma -
+rine mammals.de nombreuses questions, y compris des questions 
+de base sur les effets des essais proposés sur les 
+mammifères marins. Les promoteurs ont finalement 
+répondu à ces questions; cependant, ils l’ont fait 
+dans un document de 3 926 pages, qu’ils ont sou -
+mis à l’ONÉ. Ce document a été affiché sur le site 
+Web de l’ONÉ et remis aux bureaux des hameaux 
+de Pond Inlet, Clyde River, Qikiqtajuak et Iqualuit. 
+Toutefois, l’Internet est lent au Nunavut, et la bande 
+passante est coûteuse. L’ancien maire de Clyde 
+River a déclaré avoir été incapable de télécharger 
+le document, puisque celui-ci était trop volumi -
+neux. De plus, une fraction seulement de cet énorme 
+document a été traduite en inuktitut. Le moins que 
+l’on puisse dire, c’est que le fait de répondre à des 
+questions qui touchent à l’essence des droits issus 
+de traités en cause au moyen d’un amas documen -
+taire pratiquement inaccessible, et ce, des mois après 
+que les questions aient été posées en personne ne 
+constitue pas une véritable consultation. Selon des 
+auteurs, le mot [ TRADUCTION ] « “consultation”, dans 
+son sens le moins technique, s’entend de l’action de 
+se parler dans le but de se comprendre les uns les 
+autres » (T. Isaac et A. Knox, « The Crown’s Duty 
+to Consult Aboriginal People » (2003), 41 Alta. L. 
+Rev. 49, p. 61). Aucune compréhension mutuelle sur 
+les points fondamentaux — à savoir les effets poten -
+tiels sur les droits issus de traités et les possibles ac -
+commodements — n’aurait pu vraiment aboutir de 
+ce qui s’est déroulé dans la présente affaire.
+[50]  Les fruits de la participation limitée des Inuits 
+au processus d’évaluation en l’espèce ressortent clai -
+rement de l’examen des mesures d’accommodement 
+consignées dans le rapport d’évaluation environne -
+mentale de l’ONÉ. Il y est fait état des changements 
+apportés au projet par suite de la consultation, par 
+exemple un engagement à poursuivre les consulta -
+tions, l’affectation d’agents de liaison auprès de la 
+communauté dans les communautés touchées et 
+un projet d’étude sur les Inuit Qaujimajatuqangit 
+(connaissances traditionnelles inuites). Les promo -
+teurs se sont aussi engagés à doter le navire devant 
+être utilisé pour les essais proposés d’appareils de 
+surveillance acoustique passive afin d’éviter les col -
+lisions avec des mammifères marins.[2017] 1 R.C.S.1097
+CLYDE RIVER  c.  PETROLEUM GEO-SERVICES     Les juges Karakatsanis et Brown
+[51]  These changes were, however, insignificant 
+concessions in light of the potential impairment of 
+the Inuit’s treaty rights. Further, passive acoustic 
+monitoring was no concession at all, since it is a 
+requirement of the Statement of Canadian Practice 
+With Respect to the Mitigation of Seismic Sound in 
+the Marine Environment which provides “minimum 
+standards, which will apply in all non-ice covered 
+marine waters in Canada” (A.R., vol. I, at p. 40), 
+and which would be included in virtually all seismic 
+testing projects. None of these putative concessions, 
+nor the NEB’s reasons themselves, gave the Inuit 
+any reasonable assurance that their constitutionally 
+protected treaty rights were considered as rights , 
+rather than as an afterthought to the assessment of 
+environmental concerns.
+[52]  The consultation process here was, in view 
+of the Inuit’s established treaty rights and the risk 
+posed by the proposed testing to those rights, signifi -
+cantly flawed. Had the appellants had the resources 
+to submit their own scientific evidence, and the op -
+portunity to test the evidence of the proponents, the 
+result of the environmental assessment could have 
+been very different. Nor were the Inuit given mean -
+ingful responses to their questions regarding the 
+impact of the testing on marine life. While the NEB 
+considered potential impacts of the project on ma -
+rine mammals and on Inuit traditional resource use, 
+its report does not acknowledge, or even mention, 
+the Inuit treaty rights to harvest wildlife in the Nuna -
+vut Settlement Area, or that deep consultation was 
+required.
+IV . Conclusion
+[53]  For the foregoing reasons, we conclude that 
+the Crown breached its duty to consult the appel -
+lants in respect of the proposed testing. We would 
+allow the appeal with costs to the appellants, and 
+quash the NEB’s authorization.
+Appeal allowed with costs.[51]  Cependant, ces changements ne représen -
+taient que des concessions négligeables au regard 
+de l’atteinte potentielle aux droits issus de trai -
+tés des Inuits. En outre, la surveillance acoustique 
+passive ne constituait aucunement une concession, 
+puisqu’elle est exigée par l’Énoncé des pratiques ca -
+nadiennes d’atténuation des ondes sismiques en mi -
+lieu marin, lequel énonce des « normes minimales, 
+qui s’appliquent dans toutes les eaux marines du Ca -
+nada libres de glace » (d.a., vol. I, p. 40), et qui figu -
+reraient virtuellement dans tous les projets d’essais 
+sismiques. Aucune de ces soi-disant concessions, 
+ni les motifs eux-mêmes exposés par l’ONÉ, n’ont 
+donné aux Inuits une assurance raisonnable que 
+leurs droits issus de traités protégés par la Constitu -
+tion avaient été considérés en tant que droits , plutôt 
+que comme un aspect accessoire de l’évaluation des 
+préoccupations environnementales.
+[52]  Compte tenu des droits issus de traités établis 
+que possèdent les Inuits et des risques que posent 
+pour ces droits les essais proposés, le processus de 
+consultation qui s’est déroulé en l’espèce a comporté 
+d’importantes lacunes. Si les appelants avaient dis -
+posé des ressources nécessaires pour présenter leur 
+propre preuve scientifique, et s’ils avaient eu l’occa -
+sion de vérifier la validité de la preuve des promo -
+teurs, le résultat de l’évaluation environnementale 
+aurait pu être bien différent. Les Inuits n’ont pas non 
+plus reçu de réponses concrètes à leurs questions au 
+sujet de l’effet des essais sur la vie marine. Bien que 
+l’ONÉ ait examiné les répercussions potentielles du 
+projet sur les mammifères marins et sur l’utilisa -
+tion traditionnelle des ressources par les Inuits, son 
+rapport ne reconnaît pas, ni même ne mentionne, 
+l’existence des droits issus de traités des Inuits de ré -
+colter des ressources fauniques au Nunavut ou le fait 
+qu’une consultation approfondie était nécessaire.
+IV . Conclusion
+[53]  Pour ces motifs, nous concluons que la Cou -
+ronne a manqué à son obligation de consulter les ap -
+pelants au sujet des essais proposés. Nous sommes 
+d’avis d’accueillir le pourvoi, avec dépens en faveur 
+des appelants, et d’annuler l’autorisation de l’ONÉ.
+Pourvoi accueilli avec dépens.1098 
+[2017] 1 S.C.R. CLYDE RIVER  v.  PETROLEUM GEO-SERVICES
+Solicitors for the appellants: Stockwoods, To -
+ronto.
+Solicitors for the respondents Petroleum 
+Geo-Services Inc. (PGS), Multi Klient Invest As 
+(MKI) and TGS-NOPEC Geophysical Company 
+ASA (TGS): Blake, Cassels & Graydon, Calgary.
+Solicitor for the respondent the Attorney Gen -
+eral of Canada: Attorney General of Canada, Sas -
+katoon.
+Solicitor for the intervener the Attorney General 
+of Ontario: Attorney General of Ontario, Toronto.
+Solicitor for the intervener the Attorney General 
+of Saskatchewan: Attorney General of Saskatch -
+ewan, Regina.
+Solicitors for the intervener Nunavut Tunngavik 
+Incorporated: Woodward & Company, Victoria; 
+Nunavut Tunngavik Incorporated, Iqaluit.
+Solicitors for the intervener the Makivik Cor -
+poration: Dionne Schulze, Montréal.
+Solicitors for the intervener the Nunavut Wild -
+life Management Board: Supreme Advocacy, Ot -
+tawa.
+Solicitors for the intervener the Inuvialuit 
+Regional Corporation: Inuvialuit Regional Corpo-  
+ration, Inuvik; Olthuis Kleer Townshend, Toronto.
+Solicitors for the intervener the Chiefs of On -
+tario: Gowling WLG (Canada), Ottawa.Procureurs des appelants : Stockwoods, To -
+ronto.
+Procureurs des intimées Petroleum Geo-  
+Services Inc. (PGS), Multi Klient Invest As (MKI) 
+et TGS-NOPEC Geophysical Company ASA 
+(TGS) : Blake, Cassels & Graydon, Calgary.
+Procureure de l’intimée la procureure générale 
+du Canada : Procureure générale du Canada, Sas -
+katoon.
+Procureur de l’intervenant le procureur général 
+de l’Ontario : Procureur général de l’Ontario, To -
+ronto.
+Procureur de l’intervenant le procureur général 
+de la Saskatchewan : Procureur général de la Sas -
+katchewan, Regina.
+Procureurs de l’intervenante Nunavut Tunnga -
+vik Incorporated : Woodward & Company, Victoria; 
+Nunavut Tunngavik Incorporated, Iqaluit.
+Procureurs de l’intervenante Makivik Corpora -
+tion : Dionne Schulze, Montréal.
+Procureurs de l’intervenant le Conseil de ges -
+tion des ressources fauniques du Nunavut : Supreme 
+Advocacy, Ottawa.
+Procureurs de l’intervenante Inuvialuit Region-  
+al Corporation : Inuvialuit Regional Corporation, 
+Inuvik; Olthuis Kleer Townshend, Toronto.
+Procureurs de l’intervenant Chiefs of On-
+tario : Gowling WLG (Canada), Ottawa.

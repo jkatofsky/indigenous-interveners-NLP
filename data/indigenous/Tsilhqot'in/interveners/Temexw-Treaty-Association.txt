@@ -1,0 +1,780 @@
+ File No. 35945  
+SUPREME  COURT  OF CANADA  
+(ON APPEAL FROM THE F EDERAL COURT OF APPE AL) 
+ 
+BETWEEN:  
+HARRY DANIELS, GABRIEL DANIELS, LEAH GARDINER,  
+TERRY JOUDREY and THE CONGRESS OF ABORIGINAL PEOPLES  
+ 
+APPELLANTS  
+(Respondents on Cross -Appeal)  
+- and- 
+ 
+HER MAJESTY THE QUEEN as represented by  
+THE MINISTER OF INDIAN AFFAIRS AND NORTHERN DEVELOPMENT  
+and THE ATTORNEY GENERAL OF CANADA  
+RESPONDENTS  
+(Appellants on Cross -Appeal)  
+-and- 
+ 
+ATTORNEY GENERAL OF SASKATCHEWAN, ATTORNEY GENERAL  
+OF ALBERTA, NATIVE COUNCIL OF NOVA SCOTIA, NEW BRUNSWICK  
+ABORIGINAL PEOPLES COUNCIL AND NATIVE COUNCIL OF PRINCE  
+EDWARD ISLAND, MÉTIS SETTLEMENTS GENERAL COUNCIL, TE’MEXW 
+TREATY ASSOCIATION, MÉTIS FEDERATION OF CANADA, ASENIWUCHE 
+WINEWAK NATION OF CANADA, CHIEFS OF ONTARIO, GIFT LAKE M ÉTIS 
+SETTLEMENT, NATIVE ALLIANCE OF QUEBEC, ASSEMBLY OF FIRST NATIONS 
+and MÉTIS NATIONAL COUNCIL  
+INTERVENERS  
+ 
+FACTUM OF THE INTERVENER, TE’MEXW TREATY ASSOCIATION  
+ 
+ 
+ 
+Counsel for Intervener Te’Mexw Treaty 
+Association  
+JFK Law Corporation  
+340 – 1122 Mainland Street  
+Vancouver, B.C.  V6B 5L1  
+Robert J.M. Janes  
+Elin R.S. Sigurdson  
+Tel.: 604-687-0549  
+Fax: 604-687-2696  
+Email: rjanes @jfklaw.ca   
+ 
+Agent For Intervener Te’Mexw Treaty 
+Association  
+Gowling Lafleur Henderson LLP  
+2600 - 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3 
+Guy Régimbald  
+Tel: 613 -786-0197  
+Fax: 613 -563-9869  
+Email: guy.regimbald@gowlings.com  2 
+TO:  THE REGISTRAR  
+ 
+AND TO:  
+ 
+Counsel for the Appellants  
+University of Ottawa, Faculty of Law  
+357 – 57 Louis Pasteur Street  
+Ottawa, Ontario  K1N 6N5  
+Joseph Eliot Magnet  
+Andrew K. Lokan  
+Lindsay Scott  
+Tel:  613 -562-5800 Ext 3315  
+Fax:  613 -562-5124  
+Email:  Joseph.Magnet@uottawa.ca  
+ AND TO:  
+ 
+Agent for the Appellants  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Box 466 Station D  
+Ottawa, Ontario  K1P 1C3  
+Brian A. Cran e, Q.C.  
+Tel:  613 -233-1781  
+Fax:  613 -563-9869  
+Email:  brian.crane@gowlings.com  
+AND TO:  
+ 
+Counsel for the Respondent, Her Majesty 
+the Queen as represented by The Minister of 
+Indian Affairs and Northern Development  
+Attorney General of Canada  
+50 O’Connor Street, Suite 500, Room 557  
+Ottawa, Ontario  K1A 0H8  
+Christopher M. Rupar  
+Shauna K. Bedingfield  
+Mark R. Kindrachuk, Q.C.  
+Tel:  613 -670-6290  
+Fax:  613 -954-1920  
+Email:  christopher.rupar@justice.gc.ca  
+  
+ 
+AND TO:  
+ 
+Counsel for the Respondent, Attorney 
+General  of Canada  
+Attorney General of Canada  
+50 O’Connor Street, Suite 500, Room 557  
+Ottawa, Ontario  K1A 0H8  
+Christopher M. Rupar  
+Shauna K. Bedingfield  
+Mark R. Kindrachuk, Q.C.  
+Tel:  613 -670-6290  
+Fax:  613 -954-1920  
+Email:  christopher.rupar@justice.gc.ca  
+ 
+  3 
+AND  TO: 
+ 
+Counsel for Attorney General of Alberta  
+Attorney General of Alberta  
+1000 – 10025 – 102A Avenue  
+Edmonton, Alberta  T5J 2Z2  
+Angela Edgington  
+Neil Dobson  
+Tel:  780 -427-1482  
+Fax:  780 -643-0852  
+Email:  angela.edgington@gov.ab.ca  
+ AND TO:  
+ 
+Agent for Attorn ey General of Alberta  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+D. Lynne Watt  
+Tel:  613 -786-8695  
+Fax:  613 -788-3509  
+Email:  lynne.watt@gowlings.com  
+ 
+AND TO:  
+ 
+Counsel Métis Settlements General Council  
+Whitten LLP  
+2500 – 10303 Jasper Avenue  
+Edmonton, Alberta  T5J 3N6  
+Gary Appelt  
+Keltie Lambert  
+Tel:  780 -428-0501  
+Fax:  780 -429-2559  
+ AND TO:  
+ 
+Agent for Métis Settlement General Council  
+Supreme Advocacy LLP  
+100 – 340 Gilmour Street  
+Ottawa, Ontario  K2P 0R3  
+Marie -France Major  
+Tel:  613 -695-8855 Ext. 102  
+Fax:  613 -695-8580  
+Email:  mfmajor@supremeadvocacy.ca  
+ 
+AND TO:  
+ 
+Counsel for Gift Lake Métis Settlement  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Maxime Faille  
+Paul Seaman  
+Tel:  613 -233-1781  
+Fax:  613 -563-9869  
+Email:  maxime.faille@gowlings.com  
+ AND TO:  
+ 
+Agent for Gift Lake Métis Settlement  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Guy Régimbald  
+Tel:  613 -786-0197  
+Fax:  613 -563-9869  
+Email:  guy.regimbald@gowlings.com  
+ 
+AND TO:  
+ 
+Counsel for Métis National Council  
+Metis National Council  
+Unit 4 – 340 MacLaren  
+Ottawa, Ontario  K2P 0M6  
+Clément Chartier, Q.C.  
+Marc Leclair  
+Kathy L. Hodgson -Smith  
+Tel:  613 -232-3216  
+Fax:  613 -232-4262  AND TO:  
+ 
+Agent for Métis National Council  
+Power Law  
+1103 – 130 Albert Street  
+Ottawa, Ontario  K1P 5G4  
+Francois Laroque  
+Tel:  613 -702-5560  
+Fax:  888 -404-2227  
+Email:  flaroque@powerlaw.ca  
+ 4 
+AND TO:  
+ 
+Counsel for Manitoba Métis Federation  
+Pape Salter Teillet  
+546 Euclid Avenue  
+Toronto, Ontario  M6G 2T2  
+Jason Madden  
+Tel:  416 -916-2989  
+Fax:  416 -916-3726  
+Email:  jmadden@pstlaw.ca  AND TO:  
+ 
+Agent for Manitoba Métis Federation  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Jeffrey W. Beedell  
+Tel:  613 -786-0171  
+Fax:  613 -788-3587  
+Email:  jeff.beedell@gowlings.com  
+ 
+AND TO:  
+ 
+Counsel for Métis Nation of Ontario  
+Pape Salter Teillet  
+460 – 220 Cambie Street  
+Vancouver, B.C.  V6B 2M9  
+Jean M. Teillet  
+Tel:  604 -681-3002  
+Fax:  604 -681-3050  
+Email:  jteill et@pstlaw.ca  AND TO:  
+ 
+Agent for Métis Nation of Ontario  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Jeffrey W. Beedell  
+Tel:  613 -786-0171  
+Fax:  613 -788-3587  
+Email:  jeff.beedell@gowlings.com  
+ 
+AND TO:  
+ 
+Counsel for Native Council of Nova Scotia, 
+New Brunswick Aboriginal Peoples Council 
+and Native Council of Prince Edward Island  
+Burchell Hayman Parish  
+1800 – 1801 Hollis Street  
+Halifax, Nova Scotia  B3J 3N4  
+D. Bruce Clarke  
+Tel:  902 -423-6361  
+Fax:  902 -420-9326  
+Email:  bclarke @burchells.ca  AND TO:  
+ 
+Agent for Native Council of Nova Scotia, 
+New Brunswick Aboriginal Peoples Council 
+and Native Council of Prince Edward Island  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Jeffrey W. Beedell  
+Tel:  613-786-0171  
+Fax:  613 -788-3587  
+Email:  jeff.beedell@gowlings.com  
+ 
+AND TO:  
+ 
+Counsel for Métis Federation of Canada  
+Devlin Gailus Westaway  
+200 – 736 Broughton Street  
+Victoria, BC  V8W 1E1  
+Christopher G. Devlin  
+Tel:  250 -361-9469  
+Fax:  250 -361-9429  
+Email:  christopher@dgwlaw.ca   
+ 5 
+AND TO:  
+ 
+Counsel for Aseniwuche Winewak Nation of 
+Canada  
+JFK Law Corporation  
+340 – 1122 Mainland Street  
+Vancouver, BC  V6B 5L1  
+Karey M. Brooks  
+Tel:  604-687-0549  
+Fax:  604-687-2696  
+Email:  kbrooks@jfklaw.ca  
+ AND TO:  
+ 
+Agent for Aseniwuche Winewak Nation of 
+Canada  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Guy Régimbald  
+Tel:  613 -786-0197  
+Fax:  613 -563-9869  
+Email:  guy.regimbald@gowlings.com  
+ 
+AND TO:  
+ 
+Counsel for Peavine Métis Settlement, East 
+Prairie Métis Settlement, Elizabeth Métis 
+Settlement and Paddle Prairie Métis 
+Settlement  
+Hajduk Gibbs LLP  
+202 Platinum Place  
+10120 – 118 Street N.W.  
+Edmonton, Alberta  T5K 1Y4  
+Richard B. Hajduk  
+Rodger C. Gibbs  
+Tel:  780 -428-4258  
+Fax:  780 -425-9439  
+Email:  r.hajduk@hajdukandgibbs.com  
+ AND TO:  
+ 
+Agent for Peavine Métis Settlement, East 
+Prairie Métis Settlement, Elizabeth Métis 
+Settlement and Paddle Prairie Métis 
+Settlement  
+331 Somerset Street West  
+Ottawa, Ontario  K2P 0J8  
+Michael J. Sobkin  
+Tel:  613 -282-1712  
+Fax:  613 -288-2896  
+Email:  msobkin@sympatico.ca  
+ 
+AND TO:  
+ 
+Counsel for Chiefs of Ontario  
+Nahwgahbow, Corbiere Genoodmagejig  
+109 – 5884 Rama Road  
+Rama, Ontario  L3V 6H6  
+David C. Nahwegahbow  
+Tel:  705 -325-0520  
+Fax:  705 -325-7204  
+Email:  dndaystar@nncfirm.ca  AND TO:  
+ 
+Agent for Chiefs of Ontario  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Guy Régimbald  
+Tel:  613 -786-0197  
+Fax:  613 -563-9869  
+Email:  guy.regimbald@gowlings.com  6 
+AND TO: 
+ 
+Counsel for Native Alliance of Quebec  
+Gagné, Letarte, S.E.N.C.  
+79, boul. René -Lévesque Est, Bureau 400  
+Québec, Quebec  G1R 5N5  
+Marc Watters  
+Tel:  418 -522-7900  
+Fax:  418 -523-7900  
+Email:  matters@gagneletarte.qc.ca  
+ AND TO:  
+ 
+Agent for Native Alliance of  Quebec  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Guy Régimbald  
+Tel:  613 -786-0197  
+Fax:  613 -563-9869  
+Email:  guy.regimbald@gowlings.com  
+AND TO:  
+ 
+Counsel for Attorney General of 
+Saskatchewan  
+Attorney General for Saskatchewan  
+Aboriginal Law Branch  
+820 – 1874 Scarth Street  
+Regina, Saskatchewan  S4P 4B3  
+P. Mitch McAdam, Q.C.  
+Tel:  306 -787-7846  
+Fax:  306 -787-9111  
+ AND TO:  
+ 
+Agent for Attorney General of 
+Saskatchewan  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+D. Lynne Watt  
+Tel:  613 -786-8695  
+Fax:  613 -788-3509  
+Email:  lynne.watt@gowlings.com  
+AND TO:  
+ 
+Counsel for Assembly of First Nations  
+Assembly of First Nations  
+1600 – 55 Metcalfe Street  
+Ottawa, Ontario  K1P 6L5  
+Stuart Wuttke  
+Tel:  613-241-6789  
+Fax:  613 -241-5808  AND TO:  
+ 
+Agent for Assembly of First Nations  
+Gowling Lafleur Henderson LLP  
+2600 – 160 Elgin Street  
+Ottawa, Ontario  K1P 1C3  
+Guy Régimbald  
+Tel:  613 -786-8695  
+Fax:  613 -788-3509  
+Email:  guy.regimbald@gowlings.com  
+AND TO:  
+ 
+Counsel for Chief Raymond Wilson on his 
+own behalf and as Chief of Hwlitsum First 
+Nation and on behalf of Hwlitsum First 
+Nation and all its members  
+Rath & Company  
+Box 44 Site 8  RR 1  
+Priddis, Alberta  T0L 1W0  
+Jeffrey R.W. Rath  
+David Khan and Paul Reid  
+Tel:  403-931-4047  
+Fax:  403 -931-4048  AND TO:  
+ 
+Agent for Chief Raymond Wilson on his 
+own behalf and as Chief of Hwlitsum First 
+Nation and on behalf of Hwlitsum First 
+Nation and all its members   
+331 Somerset Street West  
+Ottawa, Ontario  K2P 0J8  
+Michael J. Sobki n 
+Tel:  613 -282-1712  
+Fax:  613 -288-2896  
+Email:  msobkin@sympatico.ca  OPENING STATEMENT  
+Certainty in the relationship between the Crown and First Nations is a central goal of treaty -
+making for all parties. Modern Treaties – both those recently confirmed and those in ongoing 
+negotiation – create definitions of the Nations and the people with w hom the Crown is entering 
+into final agreements . These delineate those people’s rights , and they have done so broadly . In 
+combination with the Indian Act, this process results in the creation of  different classes of people  
+within a treaty, some of whom  do not have status, but should nonetheless have constitutional 
+recognition as “Indians”.  
+The definition of “Indian” for the purpose of s. 91(24) of the Constitution Act, 1867 must at the 
+least include all people who are recognized as part of a First Nation within a modern treaty. To 
+do so is rational, coherent, and workable. T he definition of “Indian” must also become 
+harmonized with the law and principles of s. 35(1) of the Constitution Act, 1982  and the concept 
+of an “aboriginal people” .  Doing otherwise causes  or perpetuates  the creation of arbitrarily 
+defined classes of persons who are recognized as “Indians” . This  leads to uncertainty, and fails to 
+advance the principle of reconciliation . This Court should recognize that our Constitution is 
+intended to recognize the special status of all aboriginal people . It should not entrench the 
+arbitrary divisions imposed by  the Indian Act  in the Constitution.TABLE OF CONTENTS  
+PART I – FACTS  ................................ ................................ ................................ ..........................  1 
+PART II – ISSUES  ................................ ................................ ................................ ........................  1 
+PART III – LAW AND ARGUMENT  ................................ ................................ ........................  2 
+PART IV – SUBMISSION CONCERNIN G COSTS  ................................ ..............................  10 
+PART V – ORDER SOUGHT  ................................ ................................ ................................ ... 10 
+PART VI - AUTHORITIES  ................................ ................................ ................................ ....... 11 
+PART V II – SCHEDULE OF STATUTES  ................................ ................................ ..............  12 
+PART VIII – SCHEDULE OF SECONDAR Y SOURCES  ................................ ....................  13 
+ PART I – FACTS  
+1. The Intervener Te’mexw Treaty Association (“TTA”) accepts the facts as stated by the 
+Appellants.  
+2. TTA is in the process of negotiating a modern land claims agreement in the British 
+Columbia Treaty Process for five First Nations located on southern Vancouver Island: Snaw -
+naw-as First Nation, Songhees First Nation, T’Sou -ke Nation, Beecher Bay First Nati on, and 
+Malahat Nation (the “Te’mexw Nations”). The Te’mexw Nations, surrounded by urban 
+development, are seeking  to better protect their culture and exercise their rights, including the 
+right to determine the membership of their communities, in order to b etter serve both status and 
+non-status members.  
+3. The Te’mexw Nations signed an Agreement in Principle on April 9, 2015 and are now 
+entering the final stage of treaty negotiations with the negotiation of five separate Final 
+Agreements.  
+PART II – ISSUES  
+4. The Federal Court of Appeal declined to declare that non -status Indians are “Indians” 
+within the meaning of s. 91(24) of the Constitution Act, 1867  on the basis that doing so would 
+lack practical utility.1 
+5. The Intervener TTA advances two submissions  in rel ation to the Court of Appeal’s 
+conclusion :  
+a. A declaration that non -status Indians are “Indians” has a significant impact on 
+negotiations in the British Columbia Treaty Process, and therefore has practical 
+utility .  
+b. This declaration would advance  the princi ple of reconciliation by removing 
+constitutional uncertainty faced by non -status Indians.  
+                                                           
+1 Judgment of No ël, JA, Dawson JA, Trudel JA dated April 17, 2014, Federal Court of Appeal at paras 74 -79. 
+[Appellants; Record, Vol. 1, Tab 3, p. 178]  2 
+ 
+PART III – LAW AND ARGUMENT  
+A.  There is practical utility to a  declaration that the definition of “Indians” in s. 91(24) 
+includes n on-status Indians.   
+Overview  
+6. The parties to  modern treaty negotiations recognize  that it is not satisfactory to restrict the 
+definition of a First Nation to exclusively those persons with status under the Indian Act , when 
+what is at stake is the settlement of past claims, the establishmen t of modern governance 
+regimes, the regularization of inter -governmental relations , the definition of modern treaty rights, 
+the adjustment or recognition of historic aboriginal and treaty rights,  and the institution of a 
+reliable, certain and stable legal framework.  
+7. In this context , the Crown and First Nations have recognized that it is necessary to define 
+the pre -existing , historical  First Nation and to exte nd “eligibility ” for inclusion in the modern 
+post-treaty  First Nation beyond the narrowly and arbit rarily defined group of persons with Indian 
+Act status . Instead  these treaty partners have  found  that a proper approach to recognizing First 
+Nations should be more expansive and take  into account aboriginal ancestry, self -identification 
+and cultural attachment to a community  of indigenous people .   
+8. TTA  submits that a consistent  approach should be taken in  defining the ambit of s. 
+91(24 ). A single constit utional definition of “Indians” , as a definition for  indigenous or 
+aborig inal peoples  in Canada,  should be informed  by ancestry and connection, rather than by an 
+arbitrary blood quantum.  This will ensure  that there is a logical alignment between the Federal 
+government’s jurisdiction ove r “Indians” and the modern understanding of wh at constitutes a 
+“First Nation”, as well as consistency between different aspects of our Constitution.  
+9. This approach has utility in the treaty relationship and is required in order to advance  
+reconciliation  between the Crown and aboriginal peoples . The C ourt should reject the idea that 
+our Constitution has the same approach toward Indians as does the Indian Act,  which, by 
+unilaterally labelling some “Indians” and some not, aims to effect assimilation and has bee n used 
+to the detriment  and stigmatization  of aboriginal people.  3 
+ 
+The modern treaty process seeks certainty and defines First Nation collectivities  
+10. A treaty is a solemn agreement , constitutional ly recognized, that delineates the 
+relationship between the Federal and Provincial Crowns and a First Nation  and seeks to create 
+certainty in that relationship .2 A treaty will describe who constitutes a First Nation and thereby 
+determines who holds the right to extinguish , modify or render non -assertable pre -existi ng 
+aboriginal and treaty rights, and who is eligible to have a say in ratifying the modern treaty and 
+to enjoy the rights provided in it.  
+11. As a treaty defines the people whose rights will be affected in the agreement, two central 
+questions in modern land c laims negotiations are: (1) who constitutes the “First Nation” with 
+whom the Crown is negotiating a treaty; and (2) what will the relationship be tween the First 
+Nation and the F ederal government be after the new treaty comes into effect.  
+12. Modern treaties have set out broad definitions of who constitutes a First Nation . These do 
+not limit inclusion in the First Nation to persons who have status under the Indian Act . In the 
+Nisga’a Final Agreement, the “Nisga’a Nation” is defined to mean “the collectivity of those 
+aboriginal p eople  who share the language, culture and laws of the Nisga’a Indians  of the Nass 
+Area, and their descendants”.3 This group ’s rights are defined for the purpose of modifying their 
+existing aboriginal rights and title with the coming into effect of the treaty.  The Maa -nulth Final 
+Agreement  defines who constitutes each o f the Maa -nulth collectivities  broadly so as to 
+encompass anyone of Maa -nulth ancestry or who has been adopted into the Maa -nulth, and any 
+of their descendants.4 The Yale First Nation Final A greement  (which is in the process of being 
+ratified)  takes  an in termediate approach: every present member of the Yale Band is included 
+together with anyone of Yale ancestry who has a “demonstrated attachment” to the Yale  First 
+                                                           
+2 The Constitution Act, 1982 , being Schedule B to the Canada Act 1982  (UK), 1982, c 11, s. 35(1); Canada, 
+Renewing the Comprehensive Land Claims Policy: Towards a Framework for Addressing Section 35 Aboriginal 
+Rights  (Ottawa: Aboriginal Affairs and Northern Development, 2014) [“ Comprehensive Land Claims Policy ”], p 11.  
+Online:< https://www.aadnc -aandc.gc.ca/DAM/DAM -INTER -HQ-LDC/STAGING/texte -
+text/ldc_ccl_renewing_land_claims_policy_2014_1408643594856_eng.pdf > 
+3 Nisga’a Final Ag reement, c. 1, p. 12; Nisga’a Final Agreement Act , RSBC 1999, c 2  [Nisga’a Final Agreement].  
+4 Maa-nulth First Nations Final Agreement, c. 26, cl. 26.1.1; Maa-nulth First Nations Final Agreement Act , SC 
+2009, c 18 ; Maa-nulth First Nations Final Agreement A ct, SBC 2007, c 43 [Maa -nulth Final Agreement]  4 
+ 
+Nation, toge ther with the descendants of these groups and certain persons who are adopted into 
+the Nations.5 
+13. None of the definitions  contained in these agreements  describes  membership in  a First 
+Nation as being limited to person s with status  under the Indian Act . Canada’s Comprehensive 
+Claims  Policy discloses that the Crown is engaged in treaty negotiation with “Aboriginal 
+peoples”  (“descendants of the original inhabitants of North America”) , or “Aboriginal groups” 
+and that the definition of beneficiaries under final agreements will not affect the status of persons 
+under the Indian Act .6 
+14. Given the effects of statutory enfranchisement imposed over the history of the Indian Act , 
+it is very likely that  under these broad definitions  there  are large groups of people who are part of 
+a “Nation”  recognized by a treaty  but who do not have status .7 With the second -generation cut -
+off rule , which, over time , results in  reducing  the number  of persons  eligible for status , this group 
+of non -status persons who are part of a First Nation under a treaty will continue to grow .8  
+15. Declaring that non -status aboriginal people are “Indians” for the purpose of s. 91(24) has 
+utility and significant effect, and creates a more rational  and consistent statutory and 
+constitutional framework for governance in the area.  
+A coherent policy approach has utility 
+16. The TTA submits that for modern treaties, statutory frameworks and constitu tional law to 
+be coherent, the C ourt should recognize that federal jurisdiction over “Indians, and lands 
+reserved to the Indians” must extend at least to those people who fit within the definition of a 
+First Nation in a modern treaty, regardless of their Indian Act  status. This is required in order to 
+address the question of whether the Federal or Provincial government has legislative jurisdiction 
+over the entirety of the collectivity making up a First Nation , irrespective of whether those 
+people have Indian Act status or not.  
+                                                           
+5 Yale First Nation Final Agreement, c. cl. 25.1.1; Yale First Nation Final Agreement Act , SBC 2011, c 11 ; Yale 
+First Nation Final Agreement Act , SC 2013, c. 25 [Yale Final Agreement].  
+6 Comprehensive Land Claims P olicy , pp 16, 21.  
+7 McIvor v. The Registrar, Indian and Northern Affairs Canada , 2007 BCSC 827  [2007] 3 CNLR 72 at paras 8 -87. 
+8 Indian Act,  RSC., 1985, c. I -5, s. 6;  Canada, Report of the Royal Commission on Aboriginal Peoples: Looking 
+Forward, Looking Back , Vol 1 (Ottawa: Supply and Services Canada, 1996)  [RCAP], part 2, s. 2.2,  pp 17 -19, 27; 
+RCAP Vol 1, part 9, pp 188 -191. 5 
+ 
+17. The approach taken by the Court of Appeal, in declining  to recognize  non-status Indians  
+as included under  s. 91(24) , permits  an incoherent and illogical framewor k for the definition of 
+“Indian ” to persist.  A declaration that non -status Indians have constitutional status within s. 
+91(24) has utility, as it resolves  a situation where there are multiple categories of “ Indian ”, all of 
+which  should have constitutional recognition.  
+Modern  treaties create d ifferent categories of “Indians”  
+18. The people who co nstitute a “First Nation”  in the context of treaty negotiation  are those 
+people who have the right to enter into a treaty by voting on it, thereby confirming th e agreement 
+with the Crown delineating the rights and obligations of the Nations.  Before a treaty  is 
+completed, this collectivity will include the people eligible to be enrolled under the final 
+agreement (such as band members, people who identify  with the community, those with a 
+substantial connection,  and their  descendants).  
+19. Following a complet ed treaty, a First Nation creates a constitution, which will determine  
+citizenship in the nation. The group of defined Citizens of a First Nation may be even broader 
+than those eligible to be enrolled , and expanded to include persons who were not initially  part of 
+the First Nation prior to treaty. As with membership in an Indian Band, neither being part of a 
+First Nation nor having citizenship with that First Nation will necessarily be tied to having status 
+under the Indian Act . In each of the Nisga’a, Maa -nulth and Yale Agreements there is an explicit 
+statement that eligibility does not confer the right to be registered as a status Indian or enjoy any 
+of the rights or benefits of being a status Indian .9  
+20. Despite the oft -stated goal of putting the provisions of the Indian Act  into the past, 
+modern treaties expressly continue the application of the status provisions of the Indian Act . For 
+example, transitional provisions concerning tax exemption s extend only to “Indians” an d not 
+eligible persons .10   
+                                                           
+9 Nisga’a Final Agreement,  c 20, cl.  2; Maa -nulth Final Agreement,  c. 26, cl. 26.1.3; Yale Final Agreement, c.25, cl. 
+25.1.3. 
+10 Yale Final Agreement, c. 2, cl. 2.10.1.  6 
+ 
+21. The modern Final Agreement framework also notes that programs may be available for 
+“regist ered Indians or other Indians,”  which recognizes that the scope of “ registered Indians” 
+under the Indian Act  may not be co -extensive with “ Indians” for other purposes.11  
+The e ffects of incoherence and the creation of categories  of Indians  are significant   
+22. Where F ederal responsibility over non -status I ndians is not recognized in the  manner  
+submitted , the legal framework creates multiple and increasingly confusing categories over time.  
+The existence of a distinction between people who have status under the Indian Act  and the 
+persons who are part of the collective comprising a First Nation in a treaty context  has the 
+potential to  arise  in a number of ways , affecting  all parties to a treaty .   
+23. In the treaty -making context, o ne consequence  of the denial of F ederal responsibilit y over 
+non-status Indians  is that the overall size of the treaty package is determined by reference to the 
+number  of status Indians. Federal program fundin g is limited to status Indians.12 This means that 
+the number of status versu s non -status Indians determines the total size of the funding available 
+to operate the governments and programs that will be administered f ollowing treaties  for all of 
+the First Nation’s citizens . Despite recognition of self -government, treaty -making nations may be 
+forced to limit availability of programs to their members  because of F ederal refusal to recognize 
+and support non -status persons enrolled as part  of those nations.  
+24. While a concluded treaty would appear to provide certainty, given that Federal and 
+Provincial priorities can shift over time , the existence of multiple definitions of “Indians” gives 
+rise to the potential for statutory gaps to exist . The F ederal government may wish to fill these 
+statutory gaps, but  with uncertainty around the jurisdictional reach of s. 91(24) , it may be limited 
+in its ability to do so . The Federal government  may also wish to develop national policies re lated 
+to treaty implementation . These will be thwarted if they do not  extend to all persons caught by a 
+treaty.  If there is a change in Provincial policy, this could also create a legislative gap.  
+                                                           
+11 Maa-nulth Final Agreement, c. 1, cl. 1.9.2; Nisga’a Final Agreement, c. 2, cl. 16; Yale Final Agreement, c.2, cl. 
+2.9.2.  
+12 Canada, Band Support Funding Program Policy , Appendix 3 – Responsibilities and Procedu res, “Funding” 
+(Ottawa: Aboriginal Affairs and Northern Development Canada, 2014). Online: <  https://www.aadnc -
+aandc.gc.ca/eng/1100100013828/1100100013833 > .  7 
+ 
+25. These gaps have  the potential to have a detrimental effect on non -status  people eligible 
+for enrollment as part of a treaty nation , as they may not benefit from a F ederal policy  that is 
+implemented  or may be limited in their enjoyment of treaty benefits . 
+26. As noted in the Trial Judgment, the jurisdictional avoidance of non -status Indians  has 
+resulted in the failure of governments to supply services, and has led to non -status Indians facing 
+higher levels of discrimination and social disadvantage.13 The law should not operate to create 
+this collection of inconsistent categories with significant potential to cause and contribute to  
+prejudice , especially when an alternative approach is readily available and workable . 
+The approach proposed  by TTA  is workable and rational  
+27. Inclusion  of all persons eligible for enrollment  in the First Nations with whom Canada is 
+or will be in a treaty relationship is a reasonable and workable approach  to the scope of the 
+definition “Indian” under s. 91(24) . 
+This approach creates  consistency  within the Constitution  
+28. The Constitution, as our supreme law, should provide certainty by having  internal 
+consistency. The approach  proposed by TTA  will tend to better align the category of persons 
+subject to s. 91(24)  of the Constitution Act, 1867  (“Indi ans”) with the group of persons described 
+in s. 35 of the Constitution Act, 1982 (“aboriginal”) . This  would include  modern land  claims 
+agreements as well as historic treaties.  This alignment will  simplify constitutional categories in a 
+way that leads to le ss confusion and diminishes the  potential for gaps where there  are persons 
+who may not be cle arly covered by the exercise of  either Provincial or Federal jur isdiction.  
+This approach is more closely aligned with goals of treaty -making including self -defini tion 
+29. Expanding s. 91(24) to include all those  eligible for enrollment  in First Nations who are 
+treaty signatories  will further advance the goal of allowing First Nations to articulate who they 
+are. This is a priority for treaty -making nations and is required in order to make advancements 
+toward reconciliation. The definition of “Indians” and who has jurisdiction and bears legislative 
+                                                           
+13 Decision of Phelan J. dated January 8, 2013 at paras 84-89. [Appellants’ Record Vol. 1, Tab 1, p. 1]  8 
+ 
+responsibility for that group of people must take a turn toward sel f-definition, and away from 
+statutory imposition of identity and illegitimate aims of assimilation.14  
+30. Doing so will ensure that treaties address the needs of aboriginal people embarking on 
+final agreements in a manner that is consistent with  Canada’s const itutional framework . It also 
+permits the parties to treaties to finally “[speak] the same language when they sit around the 
+negotiating table to discuss self -government and constitutional issues.”15 
+A broader  approach is already  used in the treaty context  
+31. There are well -developed approaches to defining the scope of the eligible collectivity of 
+First Nations in a ma nner that is not confined to  status under the Indian Act with reference to 
+general concepts such as ancestry or indigenous cultural concepts such as matrilineal 
+connection16 or cultural connection .17 This demonstrates that doing so does not lead to an 
+unmanageable and indefinite definition.  Instead , such a definition is possible and practical, and 
+properly requires being sensitive to the existence of a larger aboriginal nation than may be 
+identified by reference to status.   
+There is no countervailing federalism principle  
+32. The expanded scope of F ederal legislative competence proposed is not outweighed by a 
+countervailing federalism concern. This approac h to s. 91(24) is consistent with the modern view 
+of the division of powers as an enabling federal mechanism. As stated in Tsilhqot’in , the purpose 
+of interjuridictional immunity  is is to ensure that the two levels of government are able to operate 
+without  interference in their core areas of exclusive jurisdiction. As there, that goal is not 
+implicated here  by the broader approach submitted .18  
+33. Historically one of the concerns about an overly broad description of s.91(24) jurisdiction 
+was the potential unpre dictable effects of the application of interjurisdictional immunity. The 
+concern that traditionally existe d was that an overly expansive F ederal power could lead to 
+unforeseen g aps due to its displacement of P rovincia l legislative power. The  approach advan ced 
+                                                           
+14 RCAP Vol 1, part 9, s. 12, pp 314 -315; R v Powley , [2003] 2 SCR 207, 2003 SCC 43 [Powley ] at paras 30 -34. 
+15 RCAP Vol 1, part 9, s. 13, p 318.  
+16 Nisga’a Final Agreement, c. 20, cl.1.  
+17 Yale Final Agreement, c. 25, cl. 25.1.1.  
+18 Tsilhqot’in Nation v. Britis h Columbia , [2014] 2 SCR 256, 2014 SCC 44 [Tsilhqot’in ] at paras 141, 149.  9 
+ 
+by TTA instead h as the benefit of enabling the F ederal government to establish policies and fill 
+gaps without countervailing fea r that this will conflict with P rovincial legislative regimes. Here 
+there is a good policy reason to take an expansive view,  which is required under s. 91(24).  
+34. In the modern context, this Court, beginning with Canadian Western Bank19 and 
+Lafarge20 and most recently with Tsilhqot’in21 and Grassy Narrows22 has substantially limited 
+the doctrine of interjurisdictional immunity, especi ally with respect to matters such as lands, 
+resources, property and civil rights in the provinces. As such, there is little to no risk that 
+adopting a broader view of the F ederal legislative jurisdiction will crea te unforeseen gaps in 
+Provincial legislativ e authority or P rovincial regulatory regimes.  
+B. A declaration that non-status Indians are included in the definition under s. 91(24) 
+advances the principle of reconciliation  
+35. Modern treaties are tripartite agreements where all three parties pledge themsel ves to 
+ensure that  the treaties are implemented in accordance with their terms and the honour of the 
+Crown. The goal of reconciliation is furthered where both levels of non -indigenous government 
+have the ability to ensure that the commitments made in the t reaty are implemented, in particular 
+to the benefit of all of those peoples whose rights have been adjusted, modified or affected by the 
+modern treaty. In this way, the Crown (represented by both governments)  is enabled to act 
+without forcing First Nations  to have recourse to the courts or dispute resolution in the event that 
+one level of government fails to properly implement the treaty.  
+36. The approach proposed by the TTA also advances the goal of reconciliation by giving 
+more comprehensive recognition to aboriginal people without focusing on the arbitrary and 
+historically discriminatory definition of status  adopted in the Indian Act . Doing so  would shift 
+the emphasis in understanding of what it means to be an “Indian” away from the narrow statutory 
+definition focused exclusively on blood quantum , toward the concept of aboriginality reflected in 
+s. 35 (1), which is sensitive to ancestral connection, current connection to the community, self 
+identification and culture.23 
+                                                           
+19 Canadian Western Bank v. Alberta , 2007 SCC 22 . 
+20 British Columbia (Attorney General) v. Lafarge Canada Inc ., [2007] 2 SCR 3, 2007 SCC 22 . 
+21 Tsilhqot’in  at paras 138 -141, 149, 152.   
+22 Grassy Narrows First Nation v. Ontario (Natural Resources),  [2014] 2 SCR 447, 2014 SCC 48  at para 53.  
+23 Powley  at para 30.  11 
+ 
+ 
+PART VI - AUTHORITIES  
+DESCRIPTION  PARAGRAPH 
+NO. 
+CASES  
+British Columbia (Attorney General) v. Lafarge Canada Inc., [2007] 2 SCR 86, 2007 
+SCC 23  34 
+Canadian Western Bank v. Alberta, [2007] 2 SCR 3, 2007 SCC 22  34 
+Grassy Narrows First Nation v. Ontario (Natural Resources), [2014] 2 SCR 447, 
+2014 SCC 48  34 
+McIvor v. The Re gistrar, Indian and North Affairs Canada , 2007 BCSC 827  14 
+R v Powley, 2003 SCC 43  29. 36 
+Tsilhqot’in Nation v. British Columbia , 2014 SCC 44   32, 34 
+ 
+  12 
+ 
+PART VII – SCHEDULE OF STATUTES  
+DESCRIPTION  PARAGRAPH 
+NO. 
+STATUTES  
+Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 
+11 10, 
+Indian Act, RSC 1985, c I -5 14,  
+Maa-nulth First Nations Final Agreement Act, SBC 2007, c. 43  12 
+Maa-nulth First Nations Final Agreement Act , S.C. 2009, c. 18  12 
+Nisga’a Final Agreement Act , RSBC 1999, c 2  12 
+Yale First Nation Final Agreement Act , [SBC 2011] Chapter 11  12 
+Yale First Nation Final Agreement Act, SC 2013, c. 25  12 
+ 
+  13 
+ 
+PART VII I – SCHEDULE OF SECONDARY SOURCES  
+DESCRIPTION  PARAGRAPH 
+NO. 
+SECONDARY SOURCES  
+Canada, Band Support Funding Program Policy, Appendix 3 – Responsibilities and 
+Procedures, “Funding” (Ottawa: Aboriginal Affairs and Northern Development 
+Canada, 2014). Online: < https://www.aadnc -
+aandc.gc.ca/eng/1100100013828/1100100013833 > 23 
+Canada, Truth and Reconciliation Commission of Canada , Honouring the Trust, 
+Reconciling for the Future: Summary o f the final Report of the Truth and 
+Reconciliation Commission of Canada (Ottawa: Library and Archives Canada 
+Cataloguing in Publication, 2015)  37 
+Canada, Renewing the Comprehensive Land Claims Policy: Towards a Framework 
+for Addressing Section 35 Aboriginal Rights (Ottawa: Aboriginal Affairs and 
+Northern Development, 2014) [“Comprehensive Land Claims Policy”], p 11.  
+Online:< https://www.aadnc -aandc.gc.ca/DAM/DAM -INTER -HQ-
+LDC/STAGING/texte -
+text/ldc_ccl_renewing_land_claims_policy_2014_1408643594856_eng.pdf > 10, 13  
+Canada, Report of the Royal Commission on Aboriginal Peoples: Looking Forward, 
+Looking Bac k, Vol 1 (Ottawa: Supply and Services Canada, 1996)  14, 29, 30, 37, 
+38 
+Maa-nulth First Nations Final Agreement  12, 19, 21  
+Nisga’a Final Agreement  12, 19, 21, 31  
+Yale First Nation Final Agreement  12, 19, 20, 21, 
+31 
+ 
+ 

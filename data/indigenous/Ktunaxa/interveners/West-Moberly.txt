@@ -1,0 +1,737 @@
+SCC File No. 36664 
+IN THE SUPREME COURT OF CANADA 
+(ON APPEAL FROM THE COURT OF APPEAL OF BRITISH COLUMBIA) 
+BETWEEN: 
+KTUNAXA NATION COUNCIL and KATHRYN TENEESE, ON THEIR OWN BEHALF 
+AND ON BEHALF OF ALL CITIZENS OF THE KTUNAXA NATION 
+APPELLANTS 
+AND: 
+MINISTER OF FORESTS, LANDS AND NATURAL RESOURCE OPERATIONS and 
+GLACIER RESORTS LTD. 
+RESPONDENTS 
+AND: 
+ATTORNEY GENERAL OF CANADA, ATTORNEY GENERAL FOR 
+SASKATCHEWAN, CANADIAN MUSLIM LAWYERS ASSOCIATION, SOUTH ASIAN 
+LEGAL CLINIC OF ONTARIO, KOOTENAY PRESBYTERY (UNITED CHURCH OF 
+CANADA), EV ANGELICAL FELLOWSHIP OF CANADA, CHRISTIAN LEGAL 
+FELLOWSHIP, ALBERTA MUSLIM PUBLIC AFFAIRS COUNCIL, AMNESTY 
+INTERNATIONAL CANADA, TE'MEXW TREATY ASSOCIATION, CENTRAL COAST 
+INDIGENOUS RESOURCE ALLIANCE, SHIBOGAMA FIRST NATIONS COUNCIL, 
+CANADIAN CHAMBER OF COMMERCE, BRITISH COLUMBIA CIVIL LIBERTIES 
+ASSOCIATION, COUNCIL OF THE PASSAMAQUODDY NATION AT SCHOO DIC, 
+KA TZIE FIRST NATION, WEST MOBERLY FIRST NATIONS and PROPHET RIVER 
+FIRST NATION 
+INTERVENERS 
+FACTUM OF THE INTERVENERS, 
+WEST MOBERLY FIRST NATIONS and PROPHET RIVER FIRST NATION 
+Pursuant to Rule 42 of the Rules of the Supreme Court of Canada 
+Counsel for the Interveners, West Moberly 
+First Nations and Prophet River First 
+Nation 
+John W. Gailus Agent for the Interveners, West Moberly 
+First Nations and Prophet River First 
+Nation 
+Cynthia A. Westaway Devlin Gailus Westaway 
+2"d Floor, 736 Broughton Street 
+Victoria, BC V8W IEI 
+Phone: (250) 36I-9469 
+Fax: (250) 36I-9429 
+Email: john@dgwlaw.ca 
+Counsel for the Appellants 
+Peter R. Grant 
+Peter Grant & Associates 
+900 -777 Homby Street 
+Vancouver, BC V6Z IS4 
+Telephone: (604) 685-I229 
+Fax: (604) 685-0244 
+Counsel for the Respondent, Minister of 
+Forests, Lands and Natural Resource 
+Operations 
+Jonathan G. Penner 
+Attorney General of British Columbia 
+1001 Douglas Street, 61h Floor 
+Victoria, BC V8W 9J7 
+Telephone: (250) 952-0I22 
+Fax: (250) 356-9154 
+Email: jonathan.penner@gov.bc.ca 
+Counsel for the Respondent, Glacier 
+Resorts Ltd. 
+Gregory J. Tucker, Q.C. 
+Owen Bird Law Corporation 
+2900 -595 Burrard Street 
+Vancouver, BC V7X 115 
+Telephone: (604) 691-7553 
+Fax: (604) 632-4479 
+Email: gtucker@owenbird.com 
+Counsel for the Intervener, South Asian 
+Legal Clinic of Ontario 
+Nader R. Hasan and Justin Safayeni 
+Stockwoods LLP 
+77 King Street West, Suite 4130 Devlin Gailus Westaway 
+230 -55 Murray Street 
+Ottawa, ON KIN 5M3 
+Telephone: (613) 722-909I 
+Fax: (613) 722-9097 
+Email: cynthia@dgwlaw.ca 
+Agent for the Appellants 
+Marie-France Major 
+Supreme Advocacy LLP 
+I 00 -340 Gilmour Street 
+Ottawa, ON K2P OR3 
+Telephone: (613) 695-8855 Ext: 102 
+Fax: (613) 695-8580 
+Email: mfmajor@supremeadvocacy.ca 
+Agent for the Respondent, Minister of 
+Forests, Lands and Natural Resource 
+Operations 
+Nadia Effendi 
+Borden Ladner Gervais LLP 
+World Exchange Plaza 
+100 Queen Street, Suite 1300 
+Ottawa, ON KIP 119 
+Telephone: (613) 237-5160 
+Fax: (613) 230-8842 
+Email: neffendi@blg.com 
+Agent for the Respondent, Glacier 
+Resorts Ltd. 
+Jeffrey W. Beedell 
+Gowling WLG (Canada) Inc. 
+I 60 Elgin Street, Suite 2600 
+Ottawa, ON KIP 1C3 
+Telephone: (6I3) 786-0l 7I 
+Fax: (613) 788-3587 
+Email: jeff.beedell@gowlingwlg.com 
+Agent for the Intervener, South Asian 
+Legal Clinic of Ontario 
+Khalid M. Elgazzar 
+440 Laurier Avenue West 
+Suite 200 Toronto-Dominion Centre 
+Toronto, ON M5K lHl 
+Telephone: (416) 593-7200 
+Fax: ( 416) 593-9345 
+Email: naderh@stockwoods.ca 
+Counsel for the Intervener, Kootenay 
+Presbytery (United Church of Canada) 
+Nader R. Hasan and Justin Safayeni 
+Stockwoods LLP 
+77 King Street West, Suite 4130 
+Toronto-Dominion Centre 
+Toronto, ON M5K lHl 
+Telephone: (416) 593-7200 
+Fax: (416) 593-9345 
+Email: naderh@stockwoods.ca 
+Counsel for the Intervener, Canadian 
+Muslim Lawyers Association 
+Nader R. Hasan and Justin Safayeni 
+Stockwoods LLP 
+77 King Street West, Suite 4130 
+Toronto-Dominion Centre 
+Toronto, ON M5K lHl 
+Telephone: (416) 593-7200 
+Fax: (416) 593-9345 
+Email: naderh@stockwoods.ca 
+Counsel for the Intervener, Attorney 
+General for Saskatchewan 
+Richard James Fyfe and Sonia Eggerman 
+Attorney General for Saskatchewan 
+Constitutional Law Branch, 8th Floor 
+820, 1874 Scarth Street 
+Regina, SK S4P 4B3 
+Telephone: (306) 787-7886 
+Fax: (306) 787-9111 
+Email: james.fyfe@gov.sk.ca 
+Counsel for the Intervener, Evangelical 
+Fellowship of Canada 
+Albertos Polizogopoulos and Derek Ross 
+Vincent Dagenais Gibson LLP Ottawa, ON KlR 7X6 
+Telephone: (613) 663-9991 
+Fax: (613) 663-5552 
+Email: ke@elgazzar.ca 
+Agent for the Intervener, Kootenay 
+Presbytery (United Church of Canada) 
+Khalid M. Elgazzar 
+440 Laurier A venue West 
+Suite 200 
+Ottawa, ON KlR 7X6 
+Telephone: (613) 663-9991 
+Fax: (613) 663-5552 
+Email: ke@elgazzar.ca 
+Agent for the Intervener, Canadian 
+Muslim Lawyers Association 
+Khalid M. Elgazzar 
+440 Laurier A venue West 
+Suite 200 
+Ottawa, ON KlR 7X6 
+Telephone: (613) 663-9991 
+Fax: (613) 663-5552 
+Email: ke@elgazzar.ca 
+Agent for the Intervener, Attorney 
+General for Saskatchewan 
+D. Lynne Watt 
+Gowling WLG (Canada) Inc. 
+160 Elgin Street 
+Suite 2600 
+Ottawa, ON KIP 1C3 
+Telephone: (613) 786-8695 
+Fax: (613) 788-3509 
+Email: lynne.watt@gowlingwlg.com 260 Dalhousie Street, Suite 400 
+Ottawa, ON KIN 7E4 
+Telephone: (613) 241-2701 
+Fax: (613) 241-2599 
+Email: albertos@vdg.ca 
+Counsel for the Intervener, Christian Legal 
+Fellowship 
+Albertos Polizogopoulos and Derek Ross 
+Vincent Dagenais Gibson LLP 
+260 Dalhousie Street, Suite 400 
+Ottawa, ON KIN 7E4 
+Telephone: (613) 241-2701 
+Fax: (613) 241-2599 
+Email: albertos@vdg.ca 
+Counsel for the Intervener, Alberta Muslim 
+Public Affairs Council 
+A vnish Nanda 
+Nanda & Company 
+3400 Manulife Place 
+10180-101 Street NW 
+Edmonton, AB T5J 4Kl 
+Telephone: (780) 801-5324 
+Fax: (587) 318-1391 
+Email: avnish@nandalaw.ca 
+Counsel for the Intervener, Attorney 
+General of Canada 
+Mitchell R. Taylor, Q.C. 
+Attorney General of Canada 
+900 -840 Howe Street 
+Vancouver, BC V6Z 2S9 
+Telephone: (604) 666-2324 
+Fax: (604) 666-2710 
+Email: mitch.taylor@justice.gc.ca 
+Counsel for the Intervener, Amnesty 
+International Canada 
+Margot Venton, Kaitlyn Mitchell, Randy 
+Christensen and Justin Dubois 
+Ecojustice Canada Agent for the Intervener, Attorney 
+General of Canada 
+Christopher M. Rupar 
+Attorney General of Canada 
+50 O'Connor Street, Suite 500, Room 557 
+Ottawa, ON KIA OH8 
+Telephone: (613) 670-6290 
+Fax: (613) 954-1920 
+Email: christopher.rupar@justice.gc.ca 
+Agent for the Intervener, Amnesty 
+International Canada 
+Jennifer Anne Klinck 
+Power Law 
+130 Albert Street 1910 -777 Bay Street 
+PO Box 106 
+Toronto, ON M4W 3X8 
+Telephone: (416) 368-7533 
+Fax: (416) 363-2746 
+Email: mventon@ecojustice.ca 
+Counsel for the Intervener, Te'mexw 
+Treaty Association 
+Robert Janes, Q.C. and Claire Truesdale 
+JFK Law Corporation 
+816 -117 5 Douglas Street 
+Victoria, BC V8W 2E 1 
+Telephone: (250) 405-3460 
+Fax: (250) 381-8567 
+Email: rjanes@jfklaw.ca 
+Counsel for the Intervener, Central Coast 
+Indigenous Resource Alliance 
+Lisa C. Fong 
+NG Ariss Fong 
+Suite 210 -900 Howe Street 
+Vancouver, BC V6Z 2M4 
+Telephone: (604) 331-1155 
+Fax: (604) 677-5410 
+Email: lisa@ngariss.com 
+Counsel for the Intervener, Shibogama 
+First Nations Council 
+Senwung Luk and Krista Nerland 
+Olthuis, Kleer, Townshend LLP 
+250 University Avenue, 8th Floor 
+Toronto, ON M5H 3E5 
+Telephone: (416) 981-9443 
+Fax: (416) 981-9350 
+Email: sluk@oktlaw.com 
+Counsel for the Intervener, Canadian 
+Chamber of Commerce 
+Neil Finkelstein 
+McCarthy Tetrault LLP 
+Suite 5300 Suite 1103 
+Ottawa, ON KIP 5G4 
+Telephone: (613) 702-5572 
+Fax: (888) 404-2227 
+Agent for the Intervener, Te'mexw 
+Treaty Association 
+Marie-France Major 
+Supreme Advocacy LLP 
+100 -340 Gilmour Street 
+Ottawa, ON K2P OR3 
+Telephone: (613) 695-8855 Ext: 102 
+Fax: (613) 695-8580 
+Email: mfmajor@supremeadvocacy.ca 
+Agent for the Intervener, Central Coast 
+Indigenous Resource Alliance 
+Marie-France Major 
+Supreme Advocacy LLP 
+100 -340 Gilmour Street 
+Ottawa, ON K2P OR3 
+Telephone: (613) 695-8855 Ext: 102 
+Fax: (613) 695-8580 
+Email: mfmajor@supremeadvocacy.ca 
+Agent for the Intervener, Shibogama 
+First Nations Council 
+Marie-France Major 
+Supreme Advocacy LLP 
+100 -340 Gilmour Street 
+Ottawa, ON K2P OR3 
+Telephone: (613) 695-8855 Ext: 102 
+Fax: (613) 695-8580 
+Email: mfmajor@supremeadvocacy.ca 
+Agent for the Intervener, Canadian 
+Chamber of Commerce 
+Jeffrey W. Beedell 
+Gowling WLG (Canada) Inc. 
+160 Elgin Street, Suite 2600 Toronto Dominion Bank Tower 
+Toronto, ON M5K 1E6 
+Telephone: (416) 601-8200 
+Fax: (416) 868-0673 
+Email: nfinkelstein@mccarthy.ca 
+Counsel for the Intervener, British 
+Columbia Civil Liberties Association 
+Jessica Orkin and Adriel Weaver 
+Goldblatt Partners LLP 
+20 Dundas Street West, Suite 1100 
+Toronto, ON MSG 2G8 
+Telephone: (416) 979-4381 
+Fax: (416) 591-7333 
+Email: jorkin@goldblattpartners.com 
+Counsel for the Intervener, Council of the 
+Passamaquoddy Nation at Schoodic 
+Paul Williams 
+PO Box 91 
+Grand River Territory 
+Ohsweken, ON NOA 1 MO 
+Telephone: (905) 765-4248 
+Fax: (905) 516-1755 
+Email: orihwa@gmail.com 
+Counsel for the Intervener, Katzie First 
+Nation 
+John Burns 
+Donovan & Company 
+73 Water Street, 61h Floor 
+Vancouver, BC V6B lAl 
+Telephone: (604) 688-4272 
+Fax: (604) 688-4282 
+Email: john_ bums@aboriginal-law.com Ottawa, ON KlP 1C3 
+Telephone: (613) 786-0171 
+Fax: (613) 788-3587 
+Email: jeff.beedell@gowlingwlg.com 
+Agent for the Intervener, British 
+Columbia Civil Liberties Association 
+Colleen Bauman 
+Goldblatt Partners LLP 
+500-30 Metcalfe Street 
+Ottawa, ON KIP 5L4 
+Telephone: (613) 482-2455 
+Fax: (613) 235-3041 
+Email: cbauman@goldblattpariners.com 1. 
+TABLE OF CONTENTS 
+PAGE 
+Part I-Statement of Facts .............................................................................................................. 1 
+Part II -Position with Respeect to the Appellant's Questions ....................................................... 1 
+Part III -Statement of Argument .................................................................................................... 1 
+Part IV -Costs .............................................................................................................................. 10 
+Part V -Request for Permission to Present Oral Argument.. ....................................................... 10 
+Part VI -List of Authorities ......................................................................................................... 11 
+Part VII -Legislation ................................................................................................................... 12 
+Part VIII -Secondary Materials ................................................................................................... 12 PART I-STATEMENT OF FACTS 
+1. The West Moberly First Nations and Prophet River First Nation (the "Treaty 8 Nations") 
+adopt the facts set out in the Appellant's factum. 
+PART II -POSITION WITH RESPECT TO THE APPELLANT'S QUESTIONS 
+2. While the Treaty 8 Nations generally support the positions advanced by the Appellants, 
+they focus their submissions on two areas: 1) the legal requirements imposed on decision­
+making bodies when constitutional rights are alleged to be infringed by a statutory 
+decision; and 2) that spiritual and cultural practices are manifestations of Indigenous 
+Laws which are themselves Aboriginal rights, dependent upon specific places. 
+PART III-STATEMENT OF ARGUMENT 
+3. Aboriginal rights find their source not in a magic moment of European contact, but in the 
+traditional laws and customs of the aboriginal people in question. These Indigenous laws 
+in relation to land are relevant to establishing the occupation of Aboriginal title lands. 
+R. v. Van der Peet, [1996] 2 S.C.R. 507 ["Van der Peet"] at para. 247 [ABOA, tab 29]. 
+Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010 at para 148 [ABOA, tab 10]. 
+4. "[T]he doctrine of aboriginal rights exists, and is recognized and affirmed by s. 35(1) , 
+because of one simple fact: when Europeans arrived in North America, aboriginal 
+peoples were already here, living in communities on the land, and participating in 
+distinctive cultures, as they had done for centuries. It is this fact, and this fact above all 
+others, which separates aboriginal peoples from all other minority groups in Canadian 
+society and which mandates their special legal, and now constitutional, status." 
+Van der Peet at para. 30 [ABOA, tab 29]. 
+5. This court has repeatedly stated that reconciliation is the underlying goal when 
+addressing Aboriginal and Treaty rights. 
+R. v. Gladstone, [1996] 2 S.C.R. 723 at para. 73[Treaty 8 Book of Authorities 
+(T8 BOA), tab 4]. 
+Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 
+[2005] 3 S.C.R. 388, 2005 SCC 69, at para. 1 [T8 BOA, tab 1]. 2 
+6. It is the application of these principles that should govern the disposition of this appeal. 
+Duty to Decide Infringement 
+7. Whether one is dealing with Charter rights or section 35 rights there is a positive duty on 
+statutory decision-makers to ensure that their decisions are constitutionally compliant. 
+Slaight Communications Inc. v. Davidson, [1989] 1 S.C.R. 1038 at pp. 1077-1078 
+[ABOA, tab 48]. 
+Dore v. Barreau du Quebec, [2012] 1 S.C.R. 395 ["Dore"'] at paras. 35 & 56 
+[ABOA, tab 11]. 
+Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53 
+["Beckman"] at paras. 47-48 [ABOA, tab 4]. 
+8. The principle of constitutional supremacy applies to all statutory decisions that 
+potentially impact upon section 3 5 or Charter rights. 
+9. In the context of section 3 5 rights such duties to Aboriginal peoples lie "upstream" of the 
+statutory mandate of the decision-maker. 
+West Moberly First Nations v. British Columbia (Chief Inspector of Mines), 
+2011 BCCA 247 ["West Moberly"] at para. 106 [T8 BOA, tab 6]. 
+Musqueam Indian Band v. British Columbia, 2005 BCCA 128 at paras 18-19 
+[T8 BOA, tab 2]. 
+10. Ensuring that statutory decision-makers inquire whether their decisions are 
+constitutionally compliant is consistent with the underlying purposes of consultation, 
+which requires Aboriginal rights to be identified, protected and preserved. The Crown's 
+approach to consultation must be focussed on avoiding unjustifiable infringements of 
+Charter, Aboriginal and Treaty rights. 
+Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43 at paras. 34-35 
+[ABOA, tab 45]. 
+Haida Nation v. British Columbia, [2004] 3 S.C.R. 511 ["Haida"] at para. 25 
+[ABOA, tab 15]. 
+Beckman at para. 53 [ABOA, tab 4]. 
+R. v. Oakes, [1986] 1 S.C.R. 103 [ABOA, tab 35]. 3 
+11. Unlike administrative tribunals who are constrained by their enabling statute, statutory 
+decision-makers, including Ministers, have a "duty to decide" constitutional issues that 
+are raised in the context of proceedings before them. In this case, the statutory decision­
+maker did not decide the Charter issue. 
+12. However, the law does not allow decision-makers simply to declare that considerations of 
+infringements of constitutional rights are "out of scope" or that the claim is weak and 
+therefore need not be addressed in their reasons for decision. 
+13. The failure of a statutory decision-maker to consider matters of Charter and Aboriginal 
+rights infringement risks the unlawfulness of untrammelled discretion that this court 
+warned against in Adams: 
+In light of the Crown's unique fiduciary obligations towards aboriginal peoples, 
+Parliament may not simply adopt an unstructured discretionary administrative 
+regime which risks infringing aboriginal rights in a substantial number of 
+applications in the absence of some explicit guidance. If a statute confers an 
+administrative discretion which may carry significant consequences for the 
+exercise of an aboriginal right, the statute or its delegate regulations must outline 
+specific criteria for the granting or refusal of that discretion which seek to 
+accommodate the existence of aboriginal rights. 
+R. v. Adams, [1996] 3 S.C.R. 101 ["Adams"] at para. 54[T8 BOA, tab 3]. 
+14. Parties seeking to challenge the lawfulness of statutory decisions must proceed by 
+judicial review. As the judicial review is based on the record that was before the decision­
+maker, as a general rule a party must not raise an issue for the first time on judicial 
+review. Once raised, and absent a statutory bar, the decision-maker is obliged to decide 
+constitutional issues, which allows the reviewing court with a full record and reasons, 
+rather than searching for possible explanations or post-hoc justification. 
+Alberta (Information and Privacy Commissioner) v. Alberta Teachers' Association, 
+2011 SCC 61, [2011] 3 S.C.R. 654 at paras. 22-26 (Minister of Forests Book of 
+Authorities [MF BOA], tab 1). 
+15. In British Columbia, the Supreme Court Rules provide that their object "is to secure the 
+just, speedy and inexpensive determination of every proceeding on its merits." The 
+integration of section 35 and Charter analysis into administrative decision-making fulfills 4 
+the object of the Rules and provides parties with timely access to justice, rather than 
+having to launch multiple court proceedings. 
+Supreme Court Civil Rules, B.C. Reg. 168/2009, Rule 1-3. 
+Spiritual & Cultural Sites are Manifestations of Aboriginal Rights 
+16. Aboriginal and Treaty rights are more than rights simpliciter; they require specific 
+preferred places that often hold cultural and spiritual significance to the First Nation. The 
+destruction of cultural and spiritual cites substantially interferes with the meaningful 
+exercise of rights, which is integral to First Nations' ability to participate in their 
+Aboriginal practices, customs or traditions. 
+17. In Cote, this court recognized that it is not the mere act of fishing that defines an 
+Aboriginal right, but that there is a cultural importance of the right to fish and the 
+incidental rights to teach such a practice, custom and tradition to the younger generation. 
+This holistic approach to Aboriginal rights is demanded by the jurisprudence. 
+R. v. Cote, [1996] 3 S.C.R. 139 at para. 56 [ABOA, tab 31]. 
+18. These 'sacred' section 35 rights and section 2(a) Charter rights are inextricably linked. 
+Aboriginal rights and religion or spiritualism operate in a symbiotic relationship that 
+forms the distinctive, pre-European contact culture of the First Nations. 
+19. The approach of the lower courts was that they were not prepared to recognize that 
+Aboriginal spiritual practices could occur in one place in relation to a sacred place 
+elsewhere or that such practices were subject to the protection of section 2(a) of the 
+Charter. This approach is troubling because this perspective is inconsistent with the 
+Charter jurisprudence of this court, but it also fails to consider the Aboriginal 
+perspective. 
+Syndicat Northcrest v. Anselem, [2004] 2 S.C.R. 551, 2004 SCC 47 at paras. 43 & 53 
+[ ABOA, tab 50]. 
+Tsilhqot'in Nation v. British Columbia, 2014 SCC 44 ["Tsilhqot'in"] at para. 35 [ABOA, 
+tab 51]. 5 
+20. The well-known religions of the Western world identify sacred places where people go to 
+worship -eg. church, synagogue, mosque. The preservation of those places is well 
+understood because those locations are where people congregate to engage in their 
+respective spiritual practices. In many Aboriginal cultures, the opposite is often true. 
+21. In First Nations' culture, certain sacred places are specific locations which are known but 
+are to be avoided and are not to be visited. The spiritual practices occur away from those 
+locations. Congregating at those sacred locations would be contrary to their spiritual 
+practices. 
+22. Oftentimes, there are complex Indigenous laws relating to spiritual sites and their 
+locations. Members are prohibited from identifying the exact locations of these spiritual 
+sites to preserve sacred sites from being despoiled by third parties or development. 
+Impact of Destruction of Cultural & Spiritual Sites 
+23. The destruction of cultural and spiritual sites has a devastating effect on Aboriginal 
+peoples that cannot be understated. "Spiritual Places are destroyed and with them 
+opportunities to pass along cultural knowledge become fewer." 
+Marc V. Fonda "Are they like us yet? Some thoughts on why religious freedom remains 
+elusive for Aboriginals in North America" (2011) 2:4 The International Indigenous 
+Policy Journal at p. 2 [ABOA, tab 70]. 
+24. The Truth and Reconciliation Commission report characterized the history of Crown­
+First Nations relations as one of cultural genocide: 
+Cultural genocide is the destruction of those structures and practices that allow the 
+group to continue as a group. States that engage in cultural genocide set out to 
+destroy the political and social institutions of the targeted group. Land is seized, 
+and populations are forcibly transferred and their movement is restricted. 
+Languages are banned. Spiritual leaders are persecuted, spiritual practices are 
+forbidden, and objects of spiritual value are confiscated and destroyed. 
+Summary of the Final Report o/The Truth and Reconciliation Commission of Canada 
+(2015), Honouring the Truth, Reconciling for the Future ["Summary Report"] at p. 1 
+[T8 BOA, tab 9]. 6 
+25. In spite of this troubled history, Indigenous laws and customs persist in Aboriginal 
+communities. The rules which make up Indigenous Laws govern the observance of 
+sacred ritual and economic activity: they maintain social order and dictate the minutiae of 
+everyday life. "Land, language, culture, and identity are inseparable from spirituality; all 
+are necessary elements of a whole way of being, ofliving on the land as Indigenous 
+peoples." 
+The Final Report of the Truth and Reconciliation Commission of Canada (2015), 
+Vol. 6, "Canada's Residential Schools: Reconciliation" at pages, 102-103 
+[T8 BOA, tab 10]. 
+26. Courts have recognized that the exercise of religious rights and customs have a territorial 
+aspect to them. Such rights will attract a duty of consultation when the Crown 
+contemplates an action that will adversely affect or infringe upon these Aboriginal and 
+Treaty rights. 
+Sioui v. Quebec (Attorney General), [1990] 1 S.C.R. 1025 ["Sioui"] [T8 BOA, tab 5]. 
+Halfway River First Nation v. British Columbia, 1999 BCCA 470 at para. 187 [GR BA, tab 9]. 
+27. In most circumstances, the exercise of these spiritual and cultural rights will also give rise 
+to Charter considerations. Freedom of religion may be tied to a particular piece of land. 
+As this court stated in Sioui: "[f]or a freedom to have real value and meaning, it must be 
+possible to exercise it somewhere." 
+Sioui at 1067 [T8 BOA, tab 5]. 
+28. The approach of the lower courts was that the First Nation could simply "go elsewhere" 
+to practice their religion. This is often the approach that courts take in consultation cases 
+as well. Such an approach fails to appreciate the significance of sacred places in the 
+exercise of Aboriginal rights and Indigenous spirituality according to the Indigenous laws 
+of the Aboriginal community in question. As more of these places are "taken up" by 
+development, the persistence of Indigenous social order and norms continues to be 
+eroded. The Truth and Reconciliation Commission has well-documented the devastation 
+that such erosion on Indigenous communities. This erosion should not be justifiable 
+under s.35(1) or s.1 of the Charter. 7 
+29. In the Lafontaine case, Justice Lebel (in dissent) held that if the state makes it impossible 
+to exercise or substantially interferes with one's freedom there may be a positive duty on 
+government to put an end to the interference with the Charter right. The example that 
+Justice Lebel used was a situation where a municipality exercised its zoning bylaw power 
+in such a manner that the appellants could not establish their place of worship. 
+Congregation des Temoins de Jehovah de St-Jerome-Lafontaine v. Lafontaine (Village), 
+[2004] 2 S.C.R. 650, 2004 SCC 48 ["Lafontaine"] at paras. 77-78 [ABOA, tab 8]. 
+30. There is no dispute that the destruction of a church, synagogue or a mosque would be an 
+unjustified infringement of the freedom of religion. The desecration of a sacred mountain 
+should attract similar considerations. Whether the members of that Nation attend to the 
+mountain to perform "religious rites" is irrelevant to the analysis whether there has been 
+an infringement of s. 2(a) of the Charter. Muslims pray toward Mecca, yet most are 
+never are able to visit it. The analysis must have reference to the Indigenous perspective, 
+through the Indigenous laws, and not a non-Indigenous definition of a sacred place. 
+A Proposed Approach to Reconciling Section 35 & Charter Rights 
+31. The proper approach when dealing with Charter rights and Aboriginal rights is one of 
+respect for the Indigenous laws and customs that inform these rights. 
+32. Section 35 rights, like Charter rights are not static; they can evolve over time. Professor 
+Slattery puts the matter this way, in reference to the Haida and Taku River decisions: 
+... the Court attributes a generative role to section 35. In effect, it holds that the 
+Crown, with the assistance of the courts, has the duty to bring into being a new 
+legal order that accommodates Aboriginal rights, through negotiation and 
+agreement with the indigenous peoples affected. This approach views section 3 5 
+as serving a dynamic and not simply static function -a function that does not 
+come to an end even when treaties are successfully negotiated. 
+Brian Slattery, "Aboriginal Rights and the Honour of the Crown" (2005) 
+29 S.C.L.R. (2d) 433.at p. 440 [T8 BOA, tab 7]. 
+33. The Honour of Crown therefore imposes a positive duty to ensure that these 
+constitutional rights are protected and preserved. Far too often third party commercial 
+interests are preferred to protecting the constitutional rights of First Nations. 8 
+34. Chief Justice Lamer's judgment foreshadows this approach in Adams: 
+As with limitations of the rights enshrined in the Charter, limits on the aboriginal 
+rights protected bys. 35(1) must be informed by the same purposes which 
+underlie the decision to entrench those rights in the Constitution to be 
+justifiable ... Those purposes are the recognition of the prior occupation of North 
+America by aboriginal peoples, and the reconciliation of prior occupation by 
+aboriginal peoples with the assertion of Crown sovereignty. 
+Adams at para. 57 [T8 BOA, tab 3]. 
+35. The approach of statutory decision-makers must be one that is cognizant and respectful of 
+the Charter rights and Aboriginal rights of First Nations. The goal is the reconciliation of 
+First Nations' rights with those of the broader community. Importantly, any limitations 
+on those rights must be consistent with the purposes with which those rights are 
+entrenched in the Constitution. 
+36. The Crown has the onus of justifying infringements of these rights and in some cases it 
+imposes a significant burden. The recognition of Aboriginal spirituality as Indigenous 
+law, subject to section 35 and Charter protection does not "open the floodgates". 
+Statutory decision-makers and the courts are well-equipped to distinguish between 
+dubious claims and those which have merit. They key is not, as the decision-maker in 
+this case did, simply ignore or mischaracterize the nature of the First Nations' claims. 
+37. What is critical is a serious dialogue and negotiation around the reconciliation of 
+Aboriginal claims and Charter rights. 
+Simply put, the challenge is this: how is one to justly and fairly assess how to 
+respond to beliefs and practices that come from a way of understanding and being 
+in the world that is profoundly foreign to one's own and, perhaps, to most with 
+which one has come into contact? This question poses the essential struggle of 
+religious freedom in a constitutional democracy. 
+Benjamin L. Berger, "Section 1, Constitutional Reasoning and Cultural Difference: 
+Assessing the Impacts of Alberta v. Hutterian Brethren of Wilson Colony" (2010) 51 
+S.C.L.R. (2d) at p. 41 [ABOA, tab 67]. 
+38. The same challenges with freedom ofreligion are at play in considering Aboriginal and 
+treaty rights. In certain circumstances, it may be that the state's interest in economic 9 
+development must give way to the Aboriginal constitutional rights. In appropriate 
+circumstances, the Crown may have a positive duty to ensure that Aboriginal peoples 
+have the sacred space to allow them to exercise their constitutional rights. Protecting and 
+preserving the meaningful exercise of these rights is animating purpose of consultation 
+and reconciliation. 
+39. By the decision-maker not addressing the First Nations claims the reviewing court is left 
+to construct reasons for the decision-maker's rejection of the s. 2(a) claim. First Nations 
+may also be forced to pursue claims of infringement in parallel actions as decision­
+makers claim that they have no jurisdiction to entertain such claims. This approach was 
+soundly rejected in Beckman, where Justice Binnie stated: 
+The parties in this case proceeded by way of an ordinary application for judicial 
+review. Such a procedure was perfectly capable of taking into account the 
+constitutional dimension of the rights asserted by the First Nation. There is no 
+need to invent a new "constitutional remedy". Administrative law is flexible 
+enough to give full weight to the constitutional interests of the First Nation. 
+Moreover, the impact of an administrative decision on the interest of an 
+Aboriginal community, whether or not that interest is entrenched in as. 35 right, 
+would be relevant as a matter of procedural fairness, just as the impact of a 
+decision on any other community or individual (including Larry Paulsen) may be 
+relevant. [emphasis added] 
+Beckman at para. 47 [ABOA, tab 4]. 
+40. While the Charter right and section 35 right are different rights with different tests for 
+infringement, although post-Tsilhqot 'in the justification standards are similar, the 
+fundamental question in either circumstance is whether the statutory decision reflects a 
+proportionate balancing between the severity of the impacts on the rights and the 
+statutory objectives, informed by the constitutional values at stake. 
+Lafontaine at para. 78 [ABOA, tab 8]. 
+West Moberly at para. 148[T8 BOA, tab 6]. 
+41. The principle of proportionality is a common thread for the review of statutory decisions 
+that engage constitutional questions, whether under the Charter or section 35 of the 
+Constitution. Balance and proportionality are the key considerations when the state 
+proposes to exercise its power to infringe constitutional rights. 10 
+Dore at paras. 5-6 [ABOA, tab 11]. 
+Tsilqhot'in at para. 82 [ABOA, tab 51]. 
+42. Applying the proportionality analysis as a principled and structured basis for judicial 
+review leads to predictable and just outcomes. 
+Joseph Arvay, Sean Hem & Alison Latimer, "Proportionality and the Public Law" (2015) 
+28 Can J. Admin. L. & Prac. 23. at p. 7 [T8 BOA, tab 8]. 
+43. Unfortunately, in this case, the decision-maker failed to determine whether his approval 
+would infringe the Appellants Charter rights, let alone whether such infringement could 
+be justified. Under the circumstances, the remedy is to have the matter sent back to the 
+decision-maker to consider the Aboriginal spiritual practice in accordance with the 
+Aboriginal perspective and the Charter values at stake. 
+PART IV -COSTS 
+44. The Treaty 8 Nations submit that all parties bear their own costs related to the Treaty 8 
+Nations intervention in the appeal. 
+PART V -REQUEST FOR PERMISSION TO PRESENT ORAL ARGUMENT 
+45. The Treaty 8 Nations request permission to make oral argument for 10 minutes at the 
+hearing of the Appeal. 
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this2</ day of October, 2016. 
+?<~ 
+Christopher G. Devlin 
+Solicitors for the Interveners, West Moberly First Nations and Prophet River First Nation 11 
+PART VI-LIST OF AUTHORITIES 
+Alberta (Information and Privacy Commissioner) v. Alberta Teachers' 
+Association, 2011 SCC 61, [2011] 3 S.C.R. 654. 
+Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53. 
+Congregation des Temoins de Jehovah de St-Jerome-Lafontaine v. 
+Lafontaine (Village), [2004] 2 S.C.R. 650, 2004 SCC 48. 
+Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010. 
+Dore v. Barreau du Quebec, 2012 SCC 12, [2012] 1 S.C.R. 395. 
+Haida Nation v. British Columbia, [2004] 3 S.C.R. 511. 
+Halfivay River First Nation v. British Columbia, 1999 BCCA 470. 
+Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 
+[2005] 3 s.c.R. 388, 2005 sec 69. 
+Musqueam Indian Band v. British Columbia, 2005 BCCA 128. 
+R. v. Adams, [1996] 3 S.C.R. 101. 
+R. v. Cote, [1996] 3 S.C.R. 139. 
+R. v. Gladstone, [1996] 2 S.C.R. 723. 
+R. v. Oakes, [1986] 1 S.C.R.103. 14 
+7,9,35 
+26 
+3 
+7,37 
+9 
+23 
+5 
+8 
+11, 31 
+14 
+5 
+9 12 
+R. v. Van der Peet, [1996] 2 S.C.R. 507. 3,4 
+Rio Tinto A lean Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [201 O] 9 2 S.C.R. 650. 
+Sioui v. Quebec (Attorney General), [1990] 1 S.C.R. 1025. 23,24 
+Slaight Communications Inc. v. Davidson, [1989] 1 S.C.R. 1038. 7 
+Syndical Northcrest v. Anselem, [2004] 2 S.C.R. 551, 2004 SCC 47. 16 
+Tsilhqot'in Nation v. British Columbia, 2014 SCC 44. 16,36,37 
+West Moberly First Nations v. British Columbia, 2011BCCA247. 8,36 
+PART VII-LEGISLATION 
+Canadian Charter of Rights and Freedoms, Part 1 of the Constitution Act, 1982, being Schedule 
+B to the Canada Act 1982 (UK), 1982, c 11. 
+Constitution Act, 1982, being Schedule B to the Canada Act, 1982 (U.K.). 1982, ch. 11, s. 35(1). 
+Supreme Court Civil Rules, B.C. Reg. 168/2009, Rule 1-3. 
+PART VIII-SECONDARY MATERIALS 
+Benjamin L. Berger, "Section 1, Constitutional Reasoning and Cultural 37 
+Difference: Assessing the Impacts of Alberta v. Hutterian Brethren of Wilson 
+Colony" (2010) 51 S.C.L.R. (2d). 13 
+Brian Slattery, "Aboriginal Rights and the Honour of the Crown" (2005) 29 29 
+S.C.L.R. (2d) 433. 
+Joseph Arvay, Sean Hem & Alison Latimer, "Proportionality and the Public 38 
+Law" (2015) 28 Can J. Admin. L. & Prac. 23. 
+Marc V. Fonda, "Are they like us yet? Some thoughts on why religious 20 
+freedom remains elusive for Aboriginals in North America" (2011) 2:4 The 
+International Indigenous Policy Journal. 
+Summary of The Truth and Reconciliation Commission of Canada (2015), 21 
+Honouring the Truth, Reconciling for the Future. 
+The Final Report of the Truth and Reconciliation Commission of Canada 22 
+(2015 ), Vol. 6, "Canada's Residential Schools: Reconciliation". Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982. being 
+Schedule B to the Canada Act 1982 (U.K.), 1982, c. 11, ss. l, 2(a), 27 
+1. The Canadian Charter of Rights and 
+Freedoms guarantees the rights and freedoms 
+set out in it subject only to such reasonable 
+limits prescribed by law as can be 
+demonstrably justified m a free and 
+democratic society. !:. La Charle canadienne des droits et 
+libertes garantit Jes droits et libertes qui y sont 
+enonces. Ils ne peuvent etre restreints que par 
+une regle de droit, dans des limites qui soient 
+raisonnables et dont la justification puisse se 
+demontrer dans le cadre d'une societe libre et 
+democratique. 
+2. Everyone has the following fundamental 2. Chacun a !es libertes fondamentales 
+freedoms: suivantes : 
+(a) freedom of conscience and religion; 
+27. This Charter shall be interpreted in a 
+manner consistent with the preservation and 
+enhancement of the multicultural heritage of 
+Canadians. a) liberte de conscience et de religion; 
+27. Toute interpretation de la presente charte 
+do it concorder avec l 'objectif de promouvoir le 
+maintien et la valorisation du patrimoine 
+multiculturel des Canadiens. 
+Constitution Act, 1982, being Schedule B to the Canada Act 1982 (U.K.), 1982, ch. 11, s. 
+35(1) 
+~ The existing aboriginal and treaty rights ~ Les droits existants -ancestraux ou 
+of the aboriginal peoples of Canada are hereby issus de traites -des peuples autochtones du 
+recognized and affirmed. Canada sont reconnus et confirmes. B.C. Reg. 168/2009 
+O.C. 302/2009 
+Court Rules Act 
+Supreme Court Civil Rules 
+Rule 1-3 -Object of Rules 
+Object Deposited July 7, 2009 
+effective July 1, 2010 
+(1 )The object of these Supreme Court Civil Rules is to secure the just, speedy and inexpensive 
+determination of every proceeding on its merits. 
+Proportionality 
+(2)Securing the just, speedy and inexpensive determination of a proceeding on its merits 
+includes, so far as is practicable, conducting the proceeding in ways that are proportionate to 
+(a) the amount involved in the proceeding, 
+(b) the importance of the issues in dispute, and 
+( c) the complexity of the proceeding. 
