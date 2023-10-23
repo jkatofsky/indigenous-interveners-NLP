@@ -1,4 +1,4 @@
-# Some exploratory data science/NLP stuff about indigenous supreme count interveners for my buddy Johnathon
+# Some exploratory data science/NLP stuff about indigenous supreme court interveners for my buddy Johnathon
 
 This doc will document the steps I'm taking to get the results. Come on the jouney with me :D
 
