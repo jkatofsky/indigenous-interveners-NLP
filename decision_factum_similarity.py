@@ -4,7 +4,7 @@ import re
 import nltk
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
+from pathlib import Path
 
 def process_document(document: str) -> str:
     document = document.lower()
@@ -41,9 +41,7 @@ def word2vec_similarity(decision: str, factums: dict):
 
 
 if __name__ == '__main__':
-    directories = sys.argv[1:]
-
-    for directory in directories:
+    for directory in sys.argv[1:]:
         print(f"Running on directory {directory}")
 
         with open(f'{directory}/decision.clean.txt', 'r') as fp:
@@ -54,6 +52,6 @@ if __name__ == '__main__':
         for factum_filename in glob.glob(f'{directory}/interveners/*.clean.txt'):
             with open(factum_filename, 'r') as fp:
                 print(f"Processing {factum_filename} text")
-                factums[factum_filename.split('.')[0]] = process_document(fp.read())
+                factums[Path(factum_filename).name.split('.')[0]] = process_document(fp.read())
 
         tf_idf_cosine_similarity(decision, factums)
