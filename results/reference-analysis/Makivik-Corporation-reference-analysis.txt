@@ -1,0 +1,236 @@
+Matches in the decision of factum reference "Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982, A/RES/54/32, 24 November 1999":
+NONE
+
+Matches in the decision of factum reference "Grammond, Sébastien. Terms of Coexistence: Indigenous Peoples and Canadian Law (Toronto: Carswell, 2013)":
+NONE
+
+Matches in the decision of factum reference "Canadian Environmental Assessment Act, 2012, SC 2012, c 19":
+ -- "Canadian Environmental Assessment Act, 2012, S.C. 2012, c. 19, s. 52." [Levenshtein ratio 0.9133858267716536]
+ -- "Canadian Environmental Assessment Act, S.C. 1992, c. 37." [Levenshtein ratio 0.8421052631578947]
+
+Matches in the decision of factum reference "United Nations Convention on the Conservation of Biological Diversity, C.T.S. 1993/24":
+NONE
+
+Matches in the decision of factum reference "Nunavik Inuit Land Claims Agreement Act, SC 2008, c 2":
+ -- "Nunavut Land Claims Agreement (1993)." [Levenshtein ratio 0.6666666666666667]
+
+Matches in the decision of factum reference "Labrador Inuit Land Claims Agreement Act, S.C. 2005, c. 27":
+NONE
+
+Matches in the decision of factum reference "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, [2010] 2 RCS 650, 2010 CSC 43":
+ -- "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [2010] 2 S.C.R. 650" [Levenshtein ratio 0.8421052631578947]
+
+Matches in the decision of factum reference "U.S. v. State of Washington, 384 F. Supp. 312 (1974)":
+NONE
+
+Matches in the decision of factum reference "Hamlet of Clyde River v. TGS-NOPEC Geophysical Company ASA (TGS), 2015 FCA 179":
+NONE
+
+Matches in the decision of factum reference "Oceans Act, SC 1996, c 31":
+NONE
+
+Matches in the decision of factum reference "James Bay and Northern Quebec Native Claims Settlement Act, SC 1976-77, c. 32":
+NONE
+
+Matches in the decision of factum reference "Regulations Designating Physical Activities, SOR/2012-147":
+NONE
+
+Matches in the decision of factum reference "Tribe, Laurence. American Constitutional Law (Mineola, N.Y.: Foundation Press, 1978)":
+NONE
+
+Matches in the decision of factum reference "Nalcor Energy v. NunatuKavut Community Council Inc., 2012 CanLII 73234 (NL SCTD)":
+NONE
+
+Matches in the decision of factum reference "Saanichton Marina Ltd. v. Claxton (1989), 57 DLR (4th) 161 (BCCA)":
+NONE
+
+Matches in the decision of factum reference "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73":
+ -- "Haida Nation v. British Columbia (Min- ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.8535031847133758]
+
+Matches in the decision of factum reference "Canada Oil and Gas Operations Act, R.S.C., 1985, c 0-7":
+NONE
+
+Matches in the decision of factum reference "Cold Lake First Nations v Alberta (Tourism, Parks and Recreation), 2013 ABCA 443":
+NONE
+
+Matches in the decision of factum reference "Porta, Louie and Nigel Bankes. Becoming Arctic-Ready: Policy Recommendations for Reforming Canada’s Approach to Licensing and Regulating Offshore Oil and Gas in the Arctic (Washington, D.C.: The Pew Environment Group, 2011)":
+NONE
+
+Matches in the decision of factum reference "Taku River Tlingit First Nation v. British Columbia (Project Assessment Director), 2004 SCC 74":
+ -- "Taku River Tlingit First Nation v. British Colum- bia (Project Assessment Director), 2004 SCC 74, [2004] 3 S.C.R. 550" [Levenshtein ratio 0.8909952606635071]
+
+Matches in the decision of factum reference "Western Arctic (Inuvialuit) Claims Settlement Act, S.C. 1984, c. 24":
+NONE
+
+Matches in the decision of factum reference "Thériault, Sophie. “Repenser les fondements du régime minier québécois au regard de l’obligation de la Couronne de consulter et d’accommoder les peuples autochtones” (2010), 6 McGill International Journal of Sustainable Development Law and Policy 217":
+NONE
+
+Matches in the decision of factum reference "Qikiqtani Inuit Association v. Canada (Minister of Natural Resources), 2010 NUCJ 12":
+ -- "Qikiqtani Inuit Assn. v. Canada (Minister of Natural Resources), 2010 NUCJ 12, 54 C.E.L.R. (3d) 263." [Levenshtein ratio 0.8306010928961749]
+
+Matches in the decision of factum reference "Imai, Shin. “Treaty Lands and Crown Obligations: The ‘Tracts Taken Up’ Provision”, (2001), 27 Queen's L.J. 1":
+NONE
+
+Matches in the decision of factum reference "West Moberly First Nations v. British Columbia (Chief Inspector of Mines), 2011 BCCA 247":
+NONE
+
+Matches in the decision of factum reference "114957 Canada Ltée (Spraytech, Société d’arrosage) v. Hudson (Town), 2001 SCC 40":
+NONE
+
+Matches in the decision of factum reference "Nunavik Land Claims Agreement, Nunavik Inuit and Canada, 1 December 2006":
+NONE
+
+Matches in the decision of factum reference "Qikiqtani Truth Commission, Final Report: Achieving Saimaqatigiingniq (Iqaluit: Qikiqtani Inuit Association, April 2014)":
+NONE
+
+Matches in the decision of factum reference "Halifax (Regional Municipality) v. Canada (Public Works and Government Services), 2012 SCC 29":
+NONE
+
+Matches in the decision of factum reference "Lloyd v. Canada (Attorney General), 2016 FCA 115":
+ -- "McAteer v. Canada (Attorney General), 2014 ONCA 578, 121 O.R. (3d) 1" [Levenshtein ratio 0.6896551724137931]
+
+Matches in the decision of factum reference "Nunavut Land Claims Agreement, Inuit of the Nunavut Settlement Area and Canada, 25 May 1993":
+NONE
+
+Matches in the decision of factum reference "Loyola High School v. Quebec (Attorney General), 2015 SCC 12":
+NONE
+
+Matches in the decision of factum reference "Canada Petroleum Resources Act, RSC 1985, c 36 (2nd Supp.)":
+NONE
+
+Matches in the decision of factum reference "Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817":
+ -- "Baker v. Can- ada (Minister of Citizenship and Immigration), [1999] 2 S.C.R. 817" [Levenshtein ratio 0.967741935483871]
+
+Matches in the decision of factum reference "Musqueam Indian Band v. British Columbia (Minister of Sustainable Resource Management), 2005 BCCA 128":
+NONE
+
+Matches in the decision of factum reference "Nunavut Land Claims Agreement Act, SC 1993, c 29":
+ -- "Nunavut Land Claims Agreement (1993)." [Levenshtein ratio 0.8]
+
+Matches in the decision of factum reference "Sonya Savage, Bill C-38 and the Evolution of the National Energy Board: The Changing Role of the National Energy Board from 1959 to 2015 (Calgary: Canadian Institute of Resources Law, 2016)":
+NONE
+
+Matches in the decision of factum reference "Environmental Commissioner of Ontario, Reconciling Our Priorities: Annual Report 2006-2007":
+NONE
+
+Matches in the decision of factum reference "Dworkin, Ronald. Taking Rights Seriously (Cambridge Mass.: Harvard University Press, 1977)":
+NONE
+
+Matches in the decision of factum reference "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53":
+ -- "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53, [2010] 3 S.C.R. 103" [Levenshtein ratio 0.8489208633093526]
+
+Matches in the decision of factum reference "Doré v. Barreau du Québec, 2012 SCC 12":
+NONE
+
+Matches in the decision of factum reference "R. v. Sparrow, [1990] 1 SCR 1075":
+NONE
+
+Matches in the decision of factum reference "Sikyea v. The Queen, [1964] SCR 642":
+NONE
+
+Matches in the decision of factum reference "South African Roads Board v City Council of Johannesburg (485/89) [1991] ZASCA 63; 1991 (4) SA 1 (AD)":
+NONE
+
+Matches in the decision of factum reference "Baker, Betsy. “Inuit Involvement in Offshore Oil and Gas Decisions in Alaska and the Western Canadian Arctic” (2013), 43 Environmental Law Reporter 10925":
+NONE
+
+Matches in the decision of factum reference "National Energy Board, “Consideration of Aboriginal Concerns in National Energy Board Decisions” (October 2011), A.R., Vol. IV, Tab 59":
+NONE
+
+Matches in the decision of factum reference "Truth and Reconciliation Commission of Canada (TRC), Honouring the Truth, Reconciling for the Future: Summary of the Final Report (Montreal: McGill- Queen’s University Press, 2015)":
+NONE
+
+Matches in the decision of factum reference "R.v. Flett, [1989] 4 C.N.L.R. 128 (Man. Q.B.)":
+NONE
+
+Matches in the decision of factum reference "Ross River Dena Council v. Government of Yukon, 2012 YKCA 14":
+ -- "Ross River Dena Council v. Yukon, 2012 YKCA 14, 358 D.L.R. (4th) 100" [Levenshtein ratio 0.71875]
+
+Matches in the decision of factum reference "U.S. v. State of Washington, 827 F.3d 836 (2016) (U.S.C.A. 9th Cir.)":
+NONE
+
+Matches in the decision of factum reference "Popowich, Morris. ”The National Energy Board as Intermediary between the Crown, Aboriginal Peoples, and Industry,” (2006-2007) 44 Alta. L. Rev. 837":
+NONE
+
+Matches in the decision of factum reference "R. v. Marshall, [1999] 3 SCR 456":
+NONE
+
+Matches in the decision of factum reference "M'Gonigle, R. Michael et al., “Taking Uncertainty Seriously: From Permissive Regulation to Preventative Design in Environmental Decision Making,” (1994) 32 Osgoode Hall Law Journal 99":
+NONE
+
+Matches in the decision of factum reference "Report on the work of the United Nations Open-ended Informal Consultative Process on Oceans and the Law of the Sea at its 7th meeting, UN Doc. A/61/156, 17 July 2006":
+NONE
+
+Matches in the decision of factum reference "R (Moseley) v London Borough of Haringey [2014] UKSC 56":
+NONE
+
+Matches in the decision of factum reference "State of Washington v. Washington State Commercial, Passenger, Fishing Vessel Association, 443 U.S. 658 (1979)":
+NONE
+
+Matches in the decision of factum reference "Doelle, Meinhard, N. Bankes, L. Porta. “Using Strategic Environmental Assessments to Guide Oil and Gas Exploration Decisions in the Beaufort Sea: Lessons Learned from Atlantic Canada,” CIRL Occasional Paper #39 (Calgary: Canadian Institute of Resources Law, 2012)":
+NONE
+
+Matches in the decision of factum reference "Chippewas of the Thames First Nation v. Enbridge Pipelines Inc., 2015 FCA 222":
+ -- "Chippewas of the Thames First Nation v. Enbridge Pipelines Inc., 2017 SCC 41, [2017] 1 S.C.R. 1099" [Levenshtein ratio 0.8228571428571428]
+ -- "Chippewas of the Thames First Nation v. Enbridge Pipelines Inc., 2015 FCA 222, [2016] 3 F.C.R. 96" [Levenshtein ratio 0.8850574712643678]
+ -- "Standing Buffalo Dakota First Nation v. Enbridge Pipelines Inc., 2009 FCA 308, [2010] 4 F.C.R. 500" [Levenshtein ratio 0.64]
+
+Matches in the decision of factum reference "Canadian Environmental Protection Act, 1999, SC 1999, c 33":
+ -- "Canadian Environmental Assessment Act, 2012, S.C. 2012, c. 19, s. 52." [Levenshtein ratio 0.6614173228346456]
+ -- "Canadian Environmental Assessment Act, S.C. 1992, c. 37." [Levenshtein ratio 0.736842105263158]
+
+Matches in the decision of factum reference "Wahgoshig First Nation v. Ontario et al., 2011 ONSC 7708":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 47 factum references that have no match in the decision:
+ -- "Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982, A/RES/54/32, 24 November 1999"
+ -- "Grammond, Sébastien. Terms of Coexistence: Indigenous Peoples and Canadian Law (Toronto: Carswell, 2013)"
+ -- "United Nations Convention on the Conservation of Biological Diversity, C.T.S. 1993/24"
+ -- "Labrador Inuit Land Claims Agreement Act, S.C. 2005, c. 27"
+ -- "U.S. v. State of Washington, 384 F. Supp. 312 (1974)"
+ -- "Hamlet of Clyde River v. TGS-NOPEC Geophysical Company ASA (TGS), 2015 FCA 179"
+ -- "Oceans Act, SC 1996, c 31"
+ -- "James Bay and Northern Quebec Native Claims Settlement Act, SC 1976-77, c. 32"
+ -- "Regulations Designating Physical Activities, SOR/2012-147"
+ -- "Tribe, Laurence. American Constitutional Law (Mineola, N.Y.: Foundation Press, 1978)"
+ -- "Nalcor Energy v. NunatuKavut Community Council Inc., 2012 CanLII 73234 (NL SCTD)"
+ -- "Saanichton Marina Ltd. v. Claxton (1989), 57 DLR (4th) 161 (BCCA)"
+ -- "Canada Oil and Gas Operations Act, R.S.C., 1985, c 0-7"
+ -- "Cold Lake First Nations v Alberta (Tourism, Parks and Recreation), 2013 ABCA 443"
+ -- "Porta, Louie and Nigel Bankes. Becoming Arctic-Ready: Policy Recommendations for Reforming Canada’s Approach to Licensing and Regulating Offshore Oil and Gas in the Arctic (Washington, D.C.: The Pew Environment Group, 2011)"
+ -- "Western Arctic (Inuvialuit) Claims Settlement Act, S.C. 1984, c. 24"
+ -- "Thériault, Sophie. “Repenser les fondements du régime minier québécois au regard de l’obligation de la Couronne de consulter et d’accommoder les peuples autochtones” (2010), 6 McGill International Journal of Sustainable Development Law and Policy 217"
+ -- "Imai, Shin. “Treaty Lands and Crown Obligations: The ‘Tracts Taken Up’ Provision”, (2001), 27 Queen's L.J. 1"
+ -- "West Moberly First Nations v. British Columbia (Chief Inspector of Mines), 2011 BCCA 247"
+ -- "114957 Canada Ltée (Spraytech, Société d’arrosage) v. Hudson (Town), 2001 SCC 40"
+ -- "Nunavik Land Claims Agreement, Nunavik Inuit and Canada, 1 December 2006"
+ -- "Qikiqtani Truth Commission, Final Report: Achieving Saimaqatigiingniq (Iqaluit: Qikiqtani Inuit Association, April 2014)"
+ -- "Halifax (Regional Municipality) v. Canada (Public Works and Government Services), 2012 SCC 29"
+ -- "Nunavut Land Claims Agreement, Inuit of the Nunavut Settlement Area and Canada, 25 May 1993"
+ -- "Loyola High School v. Quebec (Attorney General), 2015 SCC 12"
+ -- "Canada Petroleum Resources Act, RSC 1985, c 36 (2nd Supp.)"
+ -- "Musqueam Indian Band v. British Columbia (Minister of Sustainable Resource Management), 2005 BCCA 128"
+ -- "Sonya Savage, Bill C-38 and the Evolution of the National Energy Board: The Changing Role of the National Energy Board from 1959 to 2015 (Calgary: Canadian Institute of Resources Law, 2016)"
+ -- "Environmental Commissioner of Ontario, Reconciling Our Priorities: Annual Report 2006-2007"
+ -- "Dworkin, Ronald. Taking Rights Seriously (Cambridge Mass.: Harvard University Press, 1977)"
+ -- "Doré v. Barreau du Québec, 2012 SCC 12"
+ -- "R. v. Sparrow, [1990] 1 SCR 1075"
+ -- "Sikyea v. The Queen, [1964] SCR 642"
+ -- "South African Roads Board v City Council of Johannesburg (485/89) [1991] ZASCA 63; 1991 (4) SA 1 (AD)"
+ -- "Baker, Betsy. “Inuit Involvement in Offshore Oil and Gas Decisions in Alaska and the Western Canadian Arctic” (2013), 43 Environmental Law Reporter 10925"
+ -- "National Energy Board, “Consideration of Aboriginal Concerns in National Energy Board Decisions” (October 2011), A.R., Vol. IV, Tab 59"
+ -- "Truth and Reconciliation Commission of Canada (TRC), Honouring the Truth, Reconciling for the Future: Summary of the Final Report (Montreal: McGill- Queen’s University Press, 2015)"
+ -- "R.v. Flett, [1989] 4 C.N.L.R. 128 (Man. Q.B.)"
+ -- "U.S. v. State of Washington, 827 F.3d 836 (2016) (U.S.C.A. 9th Cir.)"
+ -- "Popowich, Morris. ”The National Energy Board as Intermediary between the Crown, Aboriginal Peoples, and Industry,” (2006-2007) 44 Alta. L. Rev. 837"
+ -- "R. v. Marshall, [1999] 3 SCR 456"
+ -- "M'Gonigle, R. Michael et al., “Taking Uncertainty Seriously: From Permissive Regulation to Preventative Design in Environmental Decision Making,” (1994) 32 Osgoode Hall Law Journal 99"
+ -- "Report on the work of the United Nations Open-ended Informal Consultative Process on Oceans and the Law of the Sea at its 7th meeting, UN Doc. A/61/156, 17 July 2006"
+ -- "R (Moseley) v London Borough of Haringey [2014] UKSC 56"
+ -- "State of Washington v. Washington State Commercial, Passenger, Fishing Vessel Association, 443 U.S. 658 (1979)"
+ -- "Doelle, Meinhard, N. Bankes, L. Porta. “Using Strategic Environmental Assessments to Guide Oil and Gas Exploration Decisions in the Beaufort Sea: Lessons Learned from Atlantic Canada,” CIRL Occasional Paper #39 (Calgary: Canadian Institute of Resources Law, 2012)"
+ -- "Wahgoshig First Nation v. Ontario et al., 2011 ONSC 7708"

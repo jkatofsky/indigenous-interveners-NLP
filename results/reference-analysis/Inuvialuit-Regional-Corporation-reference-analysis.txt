@@ -1,0 +1,135 @@
+Matches in the decision of factum reference "Manitoba Métis Federation Inc. v Canada (Attorney General), 2013 SCC 14, [2013] 1 SCR 623":
+ -- "McAteer v. Canada (Attorney General), 2014 ONCA 578, 121 O.R. (3d) 1" [Levenshtein ratio 0.6242038216560509]
+
+Matches in the decision of factum reference "Newfoundland and Labrador Nurses' Union v Newfoundland and Labrador (Treasury Board), [2011] 3 SCR 708, 2011 SCC 62":
+NONE
+
+Matches in the decision of factum reference "The Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11s. 35":
+NONE
+
+Matches in the decision of factum reference "Quebec (Attorney General) v Moses, [2010] 1 SCR 557, 2010 SCC 17":
+NONE
+
+Matches in the decision of factum reference "International Covenant on Civil and Political Rights, 19 December 1966, 999 UNTS 171, Can TS 1976 No 47":
+NONE
+
+Matches in the decision of factum reference "Report of the Special Rapporteur on the situation of human rights and fundamental freedoms of indigenous people, HRC, 12th Sess., UN Doc. A/HRC/12/34 (2009)":
+NONE
+
+Matches in the decision of factum reference "Delgamuukw v British Columbia, [1997] 3 SCR 1010":
+NONE
+
+Matches in the decision of factum reference "United Nations Declaration on the Rights of Indigenous Peoples, GA Res. 61/295 GAOR, 61st Sess., Annex, UN Doc. A/RES/61/295 (2007)":
+NONE
+
+Matches in the decision of factum reference "Reference Re Public Service Employee Relations Act (Alta.), [1987] 1 SCR 313":
+NONE
+
+Matches in the decision of factum reference "Taku River Tlingit First Nation v British Columbia (Project Assessment Director), [2004] 3 SCR 550, 2004 SCC 74":
+ -- "Taku River Tlingit First Nation v. British Colum- bia (Project Assessment Director), 2004 SCC 74, [2004] 3 S.C.R. 550" [Levenshtein ratio 0.8771929824561404]
+
+Matches in the decision of factum reference "Government of Canada, “Speech delivered at the United Nations Permanent Forum on Indigenous Issues, New York,” (May 10, 2016) Government of Canada":
+NONE
+
+Matches in the decision of factum reference "Boreal Leadership Council, Understanding Successful Approaches to Free, Prior and Informed Consent in Canada – Part I: Recent Developments and Effective Roles for Government, Industry and Indigenous Communities, September 2015":
+NONE
+
+Matches in the decision of factum reference "Tsilhqot’in Nation v British Columbia, 2014 SCC 44, [2014] 2 SCR 257":
+ -- "Haida Nation v. British Columbia (Min- ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6455696202531646]
+ -- "Taku River Tlingit First Nation v. British Colum- bia (Project Assessment Director), 2004 SCC 74, [2004] 3 S.C.R. 550" [Levenshtein ratio 0.6054054054054054]
+ -- "Tsilhqot’in Nation v. British Colum- bia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.9577464788732395]
+
+Matches in the decision of factum reference "Indigenous and Northern Affairs Canada, Oil and Gas Rights (June 22, 2016), Government of Canada":
+NONE
+
+Matches in the decision of factum reference "Office of the UN High Commissioner for Human Rights, “Mandate of the Working Group on Indigenous Populations”":
+NONE
+
+Matches in the decision of factum reference "Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 SCR 511":
+ -- "Haida Nation v. British Columbia (Min- ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.9655172413793104]
+ -- "Taku River Tlingit First Nation v. British Colum- bia (Project Assessment Director), 2004 SCC 74, [2004] 3 S.C.R. 550" [Levenshtein ratio 0.6467661691542288]
+ -- "Tsilhqot’in Nation v. British Colum- bia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.6455696202531646]
+
+Matches in the decision of factum reference "Indigenous and Northern Affairs Canada, “Canada’s Statement of Support on the United Nations Declaration on the Rights of Indigenous Peoples” (November 12, 2010) Government of Canada":
+NONE
+
+Matches in the decision of factum reference "Frank Iaccobucci et al., “Free, Prior and Informed Consent in Canada: Towards a New Relationship with Indigenous Peoples,” Torys LLP, (2016)":
+NONE
+
+Matches in the decision of factum reference "Lorraine Land, “Who’s Afraid of the big, bad, FPIC? Evolving integration of the United Nations Declaration on the Rights of Indigenous Peoples into Canadian law and policy” (2016) 4:2 Northern Public Affairs 42":
+NONE
+
+Matches in the decision of factum reference "Mikisew Cree First Nation v Canada (Minister of Canadian Heritage), 2005 SCC 69, [2005] 3 SCR 388":
+NONE
+
+Matches in the decision of factum reference "[2015] 1 SCR 245":
+NONE
+
+Matches in the decision of factum reference "Dunsmuir v New Brunswick, [2008] 1 SCR 190, 2008 SCC 9":
+NONE
+
+Matches in the decision of factum reference "Inuvialuit Final Agreement (25 June 1984), implemented by Western Arctic (Inuvialuit Claims) Settlement Act, 1984, c 24":
+NONE
+
+Matches in the decision of factum reference "Report of the Special Rapporteur on the rights of indigenous people, HRC, 24th Sess. UN Doc. A/HRC/24/41 (2013)":
+NONE
+
+Matches in the decision of factum reference "R. v Hape, [2007] 2 SCR 292":
+NONE
+
+Matches in the decision of factum reference "Office of the UN High Commissioner for Human Rights, “Declaration on the Rights of Indigenous Peoples”":
+NONE
+
+Matches in the decision of factum reference "Beckman v Little Salmon Carmack First Nation, 2010 SCC 53, [2010] 3 SCR 109":
+ -- "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53, [2010] 3 S.C.R. 103" [Levenshtein ratio 0.9419354838709677]
+
+Matches in the decision of factum reference "International Covenant on Economic, Social and Cultural Rights, 16 December 1966, 993 UNTS 3 (entered into force 3 January 1976)":
+NONE
+
+Matches in the decision of factum reference "Northwest Territories Lands and Resources Devolution Agreement (June 25, 2013)":
+NONE
+
+Matches in the decision of factum reference "Rio Tinto Alcan Inc. v Carrier Sekani Tribal Council, 2010 SCC 43 Saskatchewan Federation of Labour v Saskatchewan, 2015 SCC 4":
+ -- "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [2010] 2 S.C.R. 650" [Levenshtein ratio 0.6948356807511737]
+
+Matches in the decision of factum reference "Tony Penikett, “An Unfinished Journey: Arctic Indigenous Rights, Lands, and Jurisdiction?” (2014) 37 Seattle UL Rev 1127":
+NONE
+
+Matches in the decision of factum reference "Divito v Canada (Public Safety and Emergency Preparedness), 2013 SCC 47, [2013] 3 SCR 623":
+NONE
+
+Matches in the decision of factum reference "R. v Sparrow, [1990] 1 SCR 1075":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 27 factum references that have no match in the decision:
+ -- "Newfoundland and Labrador Nurses' Union v Newfoundland and Labrador (Treasury Board), [2011] 3 SCR 708, 2011 SCC 62"
+ -- "The Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11s. 35"
+ -- "Quebec (Attorney General) v Moses, [2010] 1 SCR 557, 2010 SCC 17"
+ -- "International Covenant on Civil and Political Rights, 19 December 1966, 999 UNTS 171, Can TS 1976 No 47"
+ -- "Report of the Special Rapporteur on the situation of human rights and fundamental freedoms of indigenous people, HRC, 12th Sess., UN Doc. A/HRC/12/34 (2009)"
+ -- "Delgamuukw v British Columbia, [1997] 3 SCR 1010"
+ -- "United Nations Declaration on the Rights of Indigenous Peoples, GA Res. 61/295 GAOR, 61st Sess., Annex, UN Doc. A/RES/61/295 (2007)"
+ -- "Reference Re Public Service Employee Relations Act (Alta.), [1987] 1 SCR 313"
+ -- "Government of Canada, “Speech delivered at the United Nations Permanent Forum on Indigenous Issues, New York,” (May 10, 2016) Government of Canada"
+ -- "Boreal Leadership Council, Understanding Successful Approaches to Free, Prior and Informed Consent in Canada – Part I: Recent Developments and Effective Roles for Government, Industry and Indigenous Communities, September 2015"
+ -- "Indigenous and Northern Affairs Canada, Oil and Gas Rights (June 22, 2016), Government of Canada"
+ -- "Office of the UN High Commissioner for Human Rights, “Mandate of the Working Group on Indigenous Populations”"
+ -- "Indigenous and Northern Affairs Canada, “Canada’s Statement of Support on the United Nations Declaration on the Rights of Indigenous Peoples” (November 12, 2010) Government of Canada"
+ -- "Frank Iaccobucci et al., “Free, Prior and Informed Consent in Canada: Towards a New Relationship with Indigenous Peoples,” Torys LLP, (2016)"
+ -- "Lorraine Land, “Who’s Afraid of the big, bad, FPIC? Evolving integration of the United Nations Declaration on the Rights of Indigenous Peoples into Canadian law and policy” (2016) 4:2 Northern Public Affairs 42"
+ -- "Mikisew Cree First Nation v Canada (Minister of Canadian Heritage), 2005 SCC 69, [2005] 3 SCR 388"
+ -- "[2015] 1 SCR 245"
+ -- "Dunsmuir v New Brunswick, [2008] 1 SCR 190, 2008 SCC 9"
+ -- "Inuvialuit Final Agreement (25 June 1984), implemented by Western Arctic (Inuvialuit Claims) Settlement Act, 1984, c 24"
+ -- "Report of the Special Rapporteur on the rights of indigenous people, HRC, 24th Sess. UN Doc. A/HRC/24/41 (2013)"
+ -- "R. v Hape, [2007] 2 SCR 292"
+ -- "Office of the UN High Commissioner for Human Rights, “Declaration on the Rights of Indigenous Peoples”"
+ -- "International Covenant on Economic, Social and Cultural Rights, 16 December 1966, 993 UNTS 3 (entered into force 3 January 1976)"
+ -- "Northwest Territories Lands and Resources Devolution Agreement (June 25, 2013)"
+ -- "Tony Penikett, “An Unfinished Journey: Arctic Indigenous Rights, Lands, and Jurisdiction?” (2014) 37 Seattle UL Rev 1127"
+ -- "Divito v Canada (Public Safety and Emergency Preparedness), 2013 SCC 47, [2013] 3 SCR 623"
+ -- "R. v Sparrow, [1990] 1 SCR 1075"

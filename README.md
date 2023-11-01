@@ -3,9 +3,9 @@
 This doc will document the steps I'm taking to get the results. Come on the jouney with me :D
 
 
-## Pairwise source counting
+## Missing pairwise references
 
-<!-- TODO: explain -->
+TODO
 
 ## Factum/decision similarity
 
