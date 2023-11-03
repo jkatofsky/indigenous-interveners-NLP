@@ -10,6 +10,8 @@ That title makes things sound kind of fancy, but I just went through all of the 
 
 So, any errors found in these files are copy-paste mistakes that slipped through the cracks. But in general, the quality of the resulting data looks pretty good.
 
+The only changes I made manually to the references (when I saw it) was to remove `-`s from linebreaks, and remove URLs when they chose to include that to an online item.
+
 ### Levenshtein distance
 
 Given two short strings of letters, perhaps the most common metric of their similarity is Levenshtein distance. This makes it a very good metric to compare short things such as references (we'll see the more complicated methods used to comapre entire documents later).
