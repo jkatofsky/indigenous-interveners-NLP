@@ -1,67 +1,67 @@
-Matches in the decision of factum reference "Keewatin v. Ontario (Minister ofNatural Resources), 2013 ONCA 158.":
-NONE
-
-Matches in the decision of factum reference "R. v. Hirsekorn, 2010 ABPC 385.":
-NONE
-
-Matches in the decision of factum reference "R. v. Crown Zellerbach Canada Ltd., [1998] 1 S.C.R. 401.":
-NONE
-
-Matches in the decision of factum reference "R. v. Blais, 2003 SCC 44, [2003] 2 S.c.R. 236.":
- -- "R. v. Blais, 2003 SCC 44, [2003] 2 S.C.R. 236" [Levenshtein ratio 0.967032967032967]
- -- "R. v. Powley, 2003 SCC 43, [2003] 2 S.C.R. 207" [Levenshtein ratio 0.8043478260869565]
- -- "Canadian Western Bank v. Alberta, 2007 SCC 22, [2007] 2 S.C.R. 3" [Levenshtein ratio 0.6]
- -- "Lovelace v. Ontario, 2000 SCC 37, [2000] 1 S.C.R. 950" [Levenshtein ratio 0.6262626262626263]
-
-Matches in the decision of factum reference "Reference whether "Indians" includes "Eskimo", [1939] S.C.R. 104.":
-NONE
-
-Matches in the decision of factum reference "Reference re Secession ofQuebec, [1998] 2 S.C.R. 217.":
-NONE
-
-Matches in the decision of factum reference "R. v. Powley, [2003] 2 SCR 207":
- -- "R. v. Blais, 2003 SCC 44, [2003] 2 S.C.R. 236" [Levenshtein ratio 0.6133333333333333]
- -- "R. v. Powley, 2003 SCC 43, [2003] 2 S.C.R. 207" [Levenshtein ratio 0.7894736842105263]
- -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.6461538461538461]
-
 Matches in the decision of factum reference "Alberta (Aboriginal Affairs and Northern Development) v. Cunningham, 2011 SCC 37, [2011] 2 S.C.R. 670.":
  -- "Alberta (Aboriginal Affairs and Northern Develop- ment) v. Cunningham, 2011 SCC 37, [2011] 2 S.C.R. 670" [Levenshtein ratio 0.9853658536585366]
 
 Matches in the decision of factum reference "Grassy Narrows First Nation v. Ontario (Natural Resources), 2014 SCC [2014] 2 S.C.R. 447.":
 NONE
 
-Matches in the decision of factum reference "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623.":
- -- "Lax Kw’alaams Indian Band v. Can- ada (Attorney General), 2011 SCC 56, [2011] 3 S.C.R. 535" [Levenshtein ratio 0.7065217391304348]
- -- "Borowski v. Canada (Attorney General), [1989] 1 S.C.R. 342" [Levenshtein ratio 0.631578947368421]
- -- "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623" [Levenshtein ratio 0.9946524064171123]
+Matches in the decision of factum reference "Haida Nation v. British Colombia (Minister ofForests), 2004 SCC 73, [2004] 3 S.C.R. 511.":
+ -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 2005 SCC 69, [2005] 3 S.C.R. 388" [Levenshtein ratio 0.6031746031746033]
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.9772727272727273]
+ -- "Tsilhqot’in Nation v. British Colum- bia, 2014 SCC 44, [2014] 2 S.C.R. 257." [Levenshtein ratio 0.6871165644171779]
 
-Matches in the decision of factum reference "Tsilhqot'in Nation v. British Columbia, 2014 SCC 44.":
- -- "Tsilhqot’in Nation v. British Colum- bia, 2014 SCC 44, [2014] 2 S.C.R. 257." [Levenshtein ratio 0.8031496062992126]
+Matches in the decision of factum reference "Keewatin v. Ontario (Minister ofNatural Resources), 2013 ONCA 158.":
+NONE
 
 Matches in the decision of factum reference "Lebar v. Canada, [1988] F.C.J. No. 940 (C.A.).":
 NONE
 
-Matches in the decision of factum reference "Peter W. Hogg, Constitutional Law ofCanada, 5th ed (Carswell, Toronto, 2007) (loose-leafSupp), vol I at 28-2.":
- -- "Hogg, Peter W. Constitutional Law of Canada, 5th ed. Supp. Toronto: Carswell, 2007 (updated 2015, re- lease 1)." [Levenshtein ratio 0.6272727272727272]
+Matches in the decision of factum reference "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623.":
+ -- "Borowski v. Canada (Attorney General), [1989] 1 S.C.R. 342" [Levenshtein ratio 0.6447368421052632]
+ -- "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623" [Levenshtein ratio 0.9946524064171123]
+ -- "Lax Kw’alaams Indian Band v. Can- ada (Attorney General), 2011 SCC 56, [2011] 3 S.C.R. 535" [Levenshtein ratio 0.7173913043478262]
 
 Matches in the decision of factum reference "Philips v. Nova Scotia (Commission ofInquiry into the Westray Mine Tragedy), [1995] 2 S.C.R. 97.":
 NONE
 
-Matches in the decision of factum reference "Haida Nation v. British Colombia (Minister ofForests), 2004 SCC 73, [2004] 3 S.C.R. 511.":
- -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.9772727272727273]
- -- "Tsilhqot’in Nation v. British Colum- bia, 2014 SCC 44, [2014] 2 S.C.R. 257." [Levenshtein ratio 0.6748466257668712]
- -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 2005 SCC 69, [2005] 3 S.C.R. 388" [Levenshtein ratio 0.6031746031746033]
+Matches in the decision of factum reference "R. v. Blais, 2003 SCC 44, [2003] 2 S.c.R. 236.":
+ -- "R. v. Powley, 2003 SCC 43, [2003] 2 S.C.R. 207" [Levenshtein ratio 0.8260869565217391]
+ -- "R. v. Blais, 2003 SCC 44, [2003] 2 S.C.R. 236" [Levenshtein ratio 0.989010989010989]
+ -- "Lovelace v. Ontario, 2000 SCC 37, [2000] 1 S.C.R. 950" [Levenshtein ratio 0.6464646464646464]
+ -- "Canadian Western Bank v. Alberta, 2007 SCC 22, [2007] 2 S.C.R. 3" [Levenshtein ratio 0.6363636363636364]
+
+Matches in the decision of factum reference "R. v. Crown Zellerbach Canada Ltd., [1998] 1 S.C.R. 401.":
+NONE
+
+Matches in the decision of factum reference "R. v. Hirsekorn, 2010 ABPC 385.":
+NONE
+
+Matches in the decision of factum reference "R. v. Powley, [2003] 2 SCR 207":
+ -- "R. v. Powley, 2003 SCC 43, [2003] 2 S.C.R. 207" [Levenshtein ratio 0.7894736842105263]
+ -- "R. v. Blais, 2003 SCC 44, [2003] 2 S.C.R. 236" [Levenshtein ratio 0.6133333333333333]
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.676923076923077]
+
+Matches in the decision of factum reference "Reference re Secession ofQuebec, [1998] 2 S.C.R. 217.":
+NONE
+
+Matches in the decision of factum reference "Reference whether "Indians" includes "Eskimo", [1939] S.C.R. 104.":
+NONE
+
+Matches in the decision of factum reference "Tsilhqot'in Nation v. British Columbia, 2014 SCC 44.":
+ -- "Tsilhqot’in Nation v. British Colum- bia, 2014 SCC 44, [2014] 2 S.C.R. 257." [Levenshtein ratio 0.8031496062992126]
+
+Matches in the decision of factum reference "Peter W. Hogg, Constitutional Law ofCanada, 5th ed (Carswell, Toronto, 2007) (loose-leafSupp), vol I at 28-2.":
+ -- "Hogg, Peter W. Constitutional Law of Canada, 5th ed. Supp. Toronto: Carswell, 2007 (updated 2015, re- lease 1)." [Levenshtein ratio 0.6363636363636364]
 
 
 --------------------------------------------------------------------------
 
 
 The 8 factum references that have no match in the decision:
- -- "Keewatin v. Ontario (Minister ofNatural Resources), 2013 ONCA 158."
- -- "R. v. Hirsekorn, 2010 ABPC 385."
- -- "R. v. Crown Zellerbach Canada Ltd., [1998] 1 S.C.R. 401."
- -- "Reference whether "Indians" includes "Eskimo", [1939] S.C.R. 104."
- -- "Reference re Secession ofQuebec, [1998] 2 S.C.R. 217."
  -- "Grassy Narrows First Nation v. Ontario (Natural Resources), 2014 SCC [2014] 2 S.C.R. 447."
+ -- "Keewatin v. Ontario (Minister ofNatural Resources), 2013 ONCA 158."
  -- "Lebar v. Canada, [1988] F.C.J. No. 940 (C.A.)."
  -- "Philips v. Nova Scotia (Commission ofInquiry into the Westray Mine Tragedy), [1995] 2 S.C.R. 97."
+ -- "R. v. Crown Zellerbach Canada Ltd., [1998] 1 S.C.R. 401."
+ -- "R. v. Hirsekorn, 2010 ABPC 385."
+ -- "Reference re Secession ofQuebec, [1998] 2 S.C.R. 217."
+ -- "Reference whether "Indians" includes "Eskimo", [1939] S.C.R. 104."

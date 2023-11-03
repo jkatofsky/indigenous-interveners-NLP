@@ -1,0 +1,64 @@
+Matches in the decision of factum reference "Dover Operating Corp., 2013 ABAER 14, 2013CarswellAlta 1393 (Alberta Energy Regulator)":
+NONE
+
+Matches in the decision of factum reference "Gift Lake Métis Settlement v. Métis Settlements Appeal Tribunal (Land Access Panel), 2009 ABCA 143.":
+NONE
+
+Matches in the decision of factum reference "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 SCR 511":
+ -- "Haida Nation v. British Columbia (Min­ ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.9714285714285714]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.6708860759493671]
+
+Matches in the decision of factum reference "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 SCR 623.":
+NONE
+
+Matches in the decision of factum reference "R v. Morris, 2006 SCC 59, 2 SCR 915":
+NONE
+
+Matches in the decision of factum reference "Simon v. The Queen, [1985] 2 SCR 387":
+ -- "Smith v. The Queen, [1983] 1 S.C.R. 554" [Levenshtein ratio 0.7466666666666666]
+
+Matches in the decision of factum reference "Teck Resources Ltd., 2013 ABAER 17, 2013 CarswellAlta 2024(Alberta Energy Regulator)":
+NONE
+
+Matches in the decision of factum reference "United States v. Walker River Irr. Dist., 104 F.2d 334; 1939 U.S. App. LEXIS 483":
+NONE
+
+Matches in the decision of factum reference "United States v. Washington, 375 F. Supp. 2d 1050; 2005 U.S. Dist. LEXIS 1031":
+NONE
+
+Matches in the decision of factum reference "Winters v. United States, 207 U.S. 564 ,28 S. Ct. 207, 52 L. Ed. 340, 1908 U.S. LEXIS 1415":
+NONE
+
+Matches in the decision of factum reference "David Laidlaw and Monique Passelac-Ross, "Alberta First Nations Consultation & Accommodation Handbook", Canadian Institute of Resources Law, University of Calgary, Occasional Paper #44 (March, 2014)":
+NONE
+
+Matches in the decision of factum reference "Canadian Charter of Rights and Freedoms, s.35":
+NONE
+
+Matches in the decision of factum reference "Canadian Environmental Assessment Act, 2012, SC 2012, c 19, s 52":
+NONE
+
+Matches in the decision of factum reference "Constitution Act, s. 91(24), .92":
+ -- "Constitution Act, 1867, ss. 91(24), 92A, 92(5), 109." [Levenshtein ratio 0.7380952380952381]
+ -- "Constitution Act, 1982, s. 35." [Levenshtein ratio 0.7419354838709677]
+
+Matches in the decision of factum reference "Specific Claims Tribunal Act, S.C. 2008, c. 22, s.15(1)(g)":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 12 factum references that have no match in the decision:
+ -- "Dover Operating Corp., 2013 ABAER 14, 2013CarswellAlta 1393 (Alberta Energy Regulator)"
+ -- "Gift Lake Métis Settlement v. Métis Settlements Appeal Tribunal (Land Access Panel), 2009 ABCA 143."
+ -- "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 SCR 623."
+ -- "R v. Morris, 2006 SCC 59, 2 SCR 915"
+ -- "Teck Resources Ltd., 2013 ABAER 17, 2013 CarswellAlta 2024(Alberta Energy Regulator)"
+ -- "United States v. Walker River Irr. Dist., 104 F.2d 334; 1939 U.S. App. LEXIS 483"
+ -- "United States v. Washington, 375 F. Supp. 2d 1050; 2005 U.S. Dist. LEXIS 1031"
+ -- "Winters v. United States, 207 U.S. 564 ,28 S. Ct. 207, 52 L. Ed. 340, 1908 U.S. LEXIS 1415"
+ -- "David Laidlaw and Monique Passelac-Ross, "Alberta First Nations Consultation & Accommodation Handbook", Canadian Institute of Resources Law, University of Calgary, Occasional Paper #44 (March, 2014)"
+ -- "Canadian Charter of Rights and Freedoms, s.35"
+ -- "Canadian Environmental Assessment Act, 2012, SC 2012, c 19, s 52"
+ -- "Specific Claims Tribunal Act, S.C. 2008, c. 22, s.15(1)(g)"

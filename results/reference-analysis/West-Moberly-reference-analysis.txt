@@ -1,0 +1,119 @@
+Matches in the decision of factum reference "Alberta (Information and Privacy Commissioner) v. Alberta Teachers' Association, 2011 SCC 61, [2011] 3 S.C.R. 654.":
+NONE
+
+Matches in the decision of factum reference "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53.":
+NONE
+
+Matches in the decision of factum reference "Congregation des Temoins de Jehovah de St-Jerome-Lafontaine v. Lafontaine (Village), [2004] 2 S.C.R. 650, 2004 SCC 48.":
+NONE
+
+Matches in the decision of factum reference "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010.":
+NONE
+
+Matches in the decision of factum reference "Dore v. Barreau du Quebec, 2012 SCC 12, [2012] 1 S.C.R. 395.":
+ -- "Doré v. Barreau du Québec, 2012 SCC 12, [2012] 1 S.C.R. 395" [Levenshtein ratio 0.957983193277311]
+ -- "S.L. v. Commission scolaire des Chênes, 2012 SCC 7, [2012] 1 S.C.R. 235" [Levenshtein ratio 0.6412213740458015]
+
+Matches in the decision of factum reference "Haida Nation v. British Columbia, [2004] 3 S.C.R. 511.":
+NONE
+
+Matches in the decision of factum reference "Halfivay River First Nation v. British Columbia, 1999 BCCA 470.":
+NONE
+
+Matches in the decision of factum reference "Mikisew Cree First Nation v. Canada (Minister ofCanadian Heritage),[2005] 3 s.c.R. 388, 2005 sec 69.":
+NONE
+
+Matches in the decision of factum reference "Musqueam Indian Band v. British Columbia, 2005 BCCA 128.":
+NONE
+
+Matches in the decision of factum reference "R. v. Adams, [1996] 3 S.C.R. 101.":
+ -- "R. v. Edwards Books and Art Ltd., [1986] 2 S.C.R. 713" [Levenshtein ratio 0.6046511627906976]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507." [Levenshtein ratio 0.7397260273972603]
+
+Matches in the decision of factum reference "R. v. Cote, [1996] 3 S.C.R. 139.":
+ -- "R. v. Edwards Books and Art Ltd., [1986] 2 S.C.R. 713" [Levenshtein ratio 0.611764705882353]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507." [Levenshtein ratio 0.6944444444444444]
+
+Matches in the decision of factum reference "R. v. Gladstone, [1996] 2 S.C.R. 723.":
+ -- "R. v. Edwards Books and Art Ltd., [1986] 2 S.C.R. 713" [Levenshtein ratio 0.6666666666666667]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507." [Levenshtein ratio 0.7532467532467533]
+
+Matches in the decision of factum reference "R. v. Oakes, [1986] 1 S.C.R.103.":
+ -- "R. v. Edwards Books and Art Ltd., [1986] 2 S.C.R. 713" [Levenshtein ratio 0.6352941176470588]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507." [Levenshtein ratio 0.6944444444444444]
+
+Matches in the decision of factum reference "R. v. Van der Peet, [1996] 2 S.C.R. 507. 3,4":
+ -- "R. v. Edwards Books and Art Ltd., [1986] 2 S.C.R. 713" [Levenshtein ratio 0.6391752577319587]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507." [Levenshtein ratio 0.9523809523809523]
+
+Matches in the decision of factum reference "Rio Tinto Alean Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [201O] 2 S.C.R. 650.":
+NONE
+
+Matches in the decision of factum reference "Sioui v. Quebec (Attorney General), [1990] 1 S.C.R. 1025.":
+ -- "Loyola High School v. Quebec (Attorney General), 2015 SCC 12, [2015] 1 S.C.R. 613" [Levenshtein ratio 0.6811594202898551]
+ -- "Figueroa v. Canada (Attorney General), 2003 SCC 37, [2003] 1 S.C.R. 912" [Levenshtein ratio 0.671875]
+
+Matches in the decision of factum reference "Slaight Communications Inc. v. Davidson, [1989] 1 S.C.R. 1038.":
+NONE
+
+Matches in the decision of factum reference "Syndical Northcrest v. Anselem, [2004] 2 S.C.R. 551, 2004 SCC 47. 16":
+ -- "Syndicat North- crest v. Amselem, 2004 SCC 47, [2004] 2 S.C.R. 551" [Levenshtein ratio 0.7462686567164178]
+
+Matches in the decision of factum reference "Tsilhqot'in Nation v. British Columbia, 2014 SCC 44.":
+NONE
+
+Matches in the decision of factum reference "West Moberly First Nations v. British Columbia, 2011 BCCA 247.":
+NONE
+
+Matches in the decision of factum reference "Canadian Charter ofRights andFreedoms, Part 1ofthe Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11.":
+ -- "Canadian Charter of Rights and Freedoms, s. 2(a). Constitution Act, 1982, s. 35." [Levenshtein ratio 0.6415094339622642]
+
+Matches in the decision of factum reference "Constitution Act, 1982, being Schedule B to the Canada Act, 1982 (U.K.). 1982, ch. 11, s. 35(1).":
+NONE
+
+Matches in the decision of factum reference "Supreme Court Civil Rules, B.C. Reg. 168/2009, Rule 1-3.":
+NONE
+
+Matches in the decision of factum reference "Benjamin L. Berger, "Section 1, Constitutional Reasoning and Cultural Difference: Assessing the Impacts of Alberta v. Hutterian Brethren ofWilson Colony" (2010) 51 S.C.L.R. (2d).":
+NONE
+
+Matches in the decision of factum reference "Brian Slattery, "Aboriginal Rights and the Honour ofthe Crown" (2005) 29 S.C.L.R. (2d) 433.":
+NONE
+
+Matches in the decision of factum reference "Joseph Arvay, Sean Hem & Alison Latimer, "Proportionality and the Public Law" (2015) 28 Can J. Admin. L. & Prac. 23.":
+NONE
+
+Matches in the decision of factum reference "Marc V. Fonda, "Are they like us yet? Some thoughts on why religious freedom remains elusive for Aboriginals in North America" (2011) 2:4 The International Indigenous Policy Journal.":
+NONE
+
+Matches in the decision of factum reference "Summary ofThe Truth and Reconciliation Commission ofCanada (2015), Honouring the Truth, Reconciling for the Future.":
+NONE
+
+Matches in the decision of factum reference "The Final Report ofthe Truth and Reconciliation Commission ofCanada (2015), Vol. 6, "Canada's Residential Schools: Reconciliation".":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 20 factum references that have no match in the decision:
+ -- "Alberta (Information and Privacy Commissioner) v. Alberta Teachers' Association, 2011 SCC 61, [2011] 3 S.C.R. 654."
+ -- "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53."
+ -- "Congregation des Temoins de Jehovah de St-Jerome-Lafontaine v. Lafontaine (Village), [2004] 2 S.C.R. 650, 2004 SCC 48."
+ -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010."
+ -- "Haida Nation v. British Columbia, [2004] 3 S.C.R. 511."
+ -- "Halfivay River First Nation v. British Columbia, 1999 BCCA 470."
+ -- "Mikisew Cree First Nation v. Canada (Minister ofCanadian Heritage),[2005] 3 s.c.R. 388, 2005 sec 69."
+ -- "Musqueam Indian Band v. British Columbia, 2005 BCCA 128."
+ -- "Rio Tinto Alean Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [201O] 2 S.C.R. 650."
+ -- "Slaight Communications Inc. v. Davidson, [1989] 1 S.C.R. 1038."
+ -- "Tsilhqot'in Nation v. British Columbia, 2014 SCC 44."
+ -- "West Moberly First Nations v. British Columbia, 2011 BCCA 247."
+ -- "Constitution Act, 1982, being Schedule B to the Canada Act, 1982 (U.K.). 1982, ch. 11, s. 35(1)."
+ -- "Supreme Court Civil Rules, B.C. Reg. 168/2009, Rule 1-3."
+ -- "Benjamin L. Berger, "Section 1, Constitutional Reasoning and Cultural Difference: Assessing the Impacts of Alberta v. Hutterian Brethren ofWilson Colony" (2010) 51 S.C.L.R. (2d)."
+ -- "Brian Slattery, "Aboriginal Rights and the Honour ofthe Crown" (2005) 29 S.C.L.R. (2d) 433."
+ -- "Joseph Arvay, Sean Hem & Alison Latimer, "Proportionality and the Public Law" (2015) 28 Can J. Admin. L. & Prac. 23."
+ -- "Marc V. Fonda, "Are they like us yet? Some thoughts on why religious freedom remains elusive for Aboriginals in North America" (2011) 2:4 The International Indigenous Policy Journal."
+ -- "Summary ofThe Truth and Reconciliation Commission ofCanada (2015), Honouring the Truth, Reconciling for the Future."
+ -- "The Final Report ofthe Truth and Reconciliation Commission ofCanada (2015), Vol. 6, "Canada's Residential Schools: Reconciliation"."

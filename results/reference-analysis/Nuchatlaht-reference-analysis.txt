@@ -1,58 +1,58 @@
-Matches in the decision of factum reference "Mitchell v MNR, 2001 SCC 33":
- -- "Mitchell v. M.N.R., 2001 SCC 33, [2001] 1 S.C.R. 911" [Levenshtein ratio 0.6835443037974683]
+Matches in the decision of factum reference "Delgamuukw v British Columbia, 1991 CanLII 2372 (BCSC) Delgamuukw v British Columbia, 1993 CanLII 4516 (BCCA)":
+NONE
 
 Matches in the decision of factum reference "Delgamuukw v British Columbia, 1997 CanLII 302 (SCC)":
  -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.7692307692307692]
 
-Matches in the decision of factum reference "Royal Commission on Aboriginal Peoples, Report of the Royal Commission on Aboriginal Peoples, Volume 2 – Restructuring the Relationship (Ottawa: Supply and Services, 1996)":
- -- "Canada. Royal Commission on Aboriginal Peoples. Report of the Royal Commission on Aboriginal Peoples, vol. 1, Looking Forward, Looking Back. Ottawa: The Commission, 1996." [Levenshtein ratio 0.7214076246334311]
-
-Matches in the decision of factum reference "Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11":
+Matches in the decision of factum reference "Fort McKay First Nation v Propser Petroleum Ltd, 2020 ABCA 163":
 NONE
 
-Matches in the decision of factum reference "Delgamuukw v British Columbia, 1991 CanLII 2372 (BCSC) Delgamuukw v British Columbia, 1993 CanLII 4516 (BCCA)":
-NONE
-
-Matches in the decision of factum reference "R v Marshall; R v Bernard, 2005 SCC 43":
-NONE
+Matches in the decision of factum reference "Mitchell v MNR, 2001 SCC 33":
+ -- "Mitchell v. M.N.R., 2001 SCC 33, [2001] 1 S.C.R. 911" [Levenshtein ratio 0.6835443037974683]
 
 Matches in the decision of factum reference "R v Gladstone, 1993 CanLII 4520 (BCCA)":
 NONE
 
-Matches in the decision of factum reference "Royal Commission on Aboriginal Peoples, Report of the Royal Commission on Aboriginal Peoples, Volume 1 – Looking Forward, Looking Back (Ottawa: Supply and Services, 1996)":
- -- "Canada. Royal Commission on Aboriginal Peoples. Report of the Royal Commission on Aboriginal Peoples, vol. 1, Looking Forward, Looking Back. Ottawa: The Commission, 1996." [Levenshtein ratio 0.8529411764705882]
+Matches in the decision of factum reference "R v Marshall, 2003 NSCA 105":
+ -- "R. v. Marshall, 2005 SCC 43, [2005] 2 S.C.R. 220" [Levenshtein ratio 0.6133333333333333]
+ -- "R. v. Marshall, [1999] 3 S.C.R. 533" [Levenshtein ratio 0.6451612903225806]
+ -- "R. v. Marshall, [1999] 3 S.C.R. 456" [Levenshtein ratio 0.6451612903225806]
 
-Matches in the decision of factum reference "United Nations Declaration on the Rights of Indigenous Peoples, GA Res 295, UNGAOR 61st Sess (2007)":
+Matches in the decision of factum reference "R v Marshall; R v Bernard, 2005 SCC 43":
+NONE
+
+Matches in the decision of factum reference "R v Van der Peet, 1996 CanLII 216 (SCC)":
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.6923076923076923]
+
+Matches in the decision of factum reference "The Mayagna (Suom) Awas Tingni Community v Nicaragua, Inter-Am Ct HR,":
 NONE
 
 Matches in the decision of factum reference "(Ser C) No. 79 (2001)":
 NONE
 
-Matches in the decision of factum reference "R v Marshall, 2003 NSCA 105":
- -- "R. v. Marshall, [1999] 3 S.C.R. 456" [Levenshtein ratio 0.6451612903225806]
- -- "R. v. Marshall, 2005 SCC 43, [2005] 2 S.C.R. 220" [Levenshtein ratio 0.6133333333333333]
- -- "R. v. Marshall, [1999] 3 S.C.R. 533" [Levenshtein ratio 0.6451612903225806]
-
-Matches in the decision of factum reference "R v Van der Peet, 1996 CanLII 216 (SCC)":
- -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.6923076923076923]
-
 Matches in the decision of factum reference "Canada, Parliament, Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, 32nd Parl, 1st Sess, No 27 (16 December 1980)":
- -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 4, 1st Sess., 32nd Parl., November 13, 1980, p. 13." [Levenshtein ratio 0.8146453089244852]
- -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 3, 1st Sess., 32nd Parl., November 12, 1980, p. 84." [Levenshtein ratio 0.8146453089244852]
- -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 16, 1st Sess., 32nd Parl., December 1, 1980, p. 13." [Levenshtein ratio 0.8283752860411899]
- -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 17, 1st Sess., 32nd Parl., December 2, 1980, p. 97." [Levenshtein ratio 0.8283752860411899]
- -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 12, 1st Sess., 32nd Parl., November 25, 1980, p. 60." [Levenshtein ratio 0.812785388127854]
+ -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 3, 1st Sess., 32nd Parl., November 12, 1980, p. 84." [Levenshtein ratio 0.8192219679633868]
+ -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 4, 1st Sess., 32nd Parl., November 13, 1980, p. 13." [Levenshtein ratio 0.8192219679633868]
+ -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 12, 1st Sess., 32nd Parl., November 25, 1980, p. 60." [Levenshtein ratio 0.817351598173516]
+ -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 16, 1st Sess., 32nd Parl., December 1, 1980, p. 13." [Levenshtein ratio 0.8329519450800915]
+ -- "Canada. Senate and House of Commons. Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on the Constitution of Canada, No. 17, 1st Sess., 32nd Parl., December 2, 1980, p. 97." [Levenshtein ratio 0.8329519450800915]
 
-Matches in the decision of factum reference "The Mayagna (Suom) Awas Tingni Community v Nicaragua, Inter-Am Ct HR,":
-NONE
+Matches in the decision of factum reference "Royal Commission on Aboriginal Peoples, Report of the Royal Commission on Aboriginal Peoples, Volume 1 – Looking Forward, Looking Back (Ottawa: Supply and Services, 1996)":
+ -- "Canada. Royal Commission on Aboriginal Peoples. Report of the Royal Commission on Aboriginal Peoples, vol. 1, Looking Forward, Looking Back. Ottawa: The Commission, 1996." [Levenshtein ratio 0.8588235294117648]
 
-Matches in the decision of factum reference "Declaration on the Rights of Indigenous Peoples Act, S.B.C. 2019, c. 44":
-NONE
+Matches in the decision of factum reference "Royal Commission on Aboriginal Peoples, Report of the Royal Commission on Aboriginal Peoples, Volume 2 – Restructuring the Relationship (Ottawa: Supply and Services, 1996)":
+ -- "Canada. Royal Commission on Aboriginal Peoples. Report of the Royal Commission on Aboriginal Peoples, vol. 1, Looking Forward, Looking Back. Ottawa: The Commission, 1996." [Levenshtein ratio 0.7272727272727273]
 
-Matches in the decision of factum reference "Fort McKay First Nation v Propser Petroleum Ltd, 2020 ABCA 163":
+Matches in the decision of factum reference "United Nations Declaration on the Rights of Indigenous Peoples, GA Res 295, UNGAOR 61st Sess (2007)":
 NONE
 
 Matches in the decision of factum reference "Written submissions of British Columbia in British Columbia Supreme Court, Nuchatlaht v AGBC et al, Action #S170606, Vancouver Registry, filed November 22, 2019":
+NONE
+
+Matches in the decision of factum reference "Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11":
+NONE
+
+Matches in the decision of factum reference "Declaration on the Rights of Indigenous Peoples Act, S.B.C. 2019, c. 44":
 NONE
 
 
@@ -60,13 +60,13 @@ NONE
 
 
 The 10 factum references that have no match in the decision:
- -- "Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11"
  -- "Delgamuukw v British Columbia, 1991 CanLII 2372 (BCSC) Delgamuukw v British Columbia, 1993 CanLII 4516 (BCCA)"
- -- "R v Marshall; R v Bernard, 2005 SCC 43"
- -- "R v Gladstone, 1993 CanLII 4520 (BCCA)"
- -- "United Nations Declaration on the Rights of Indigenous Peoples, GA Res 295, UNGAOR 61st Sess (2007)"
- -- "(Ser C) No. 79 (2001)"
- -- "The Mayagna (Suom) Awas Tingni Community v Nicaragua, Inter-Am Ct HR,"
- -- "Declaration on the Rights of Indigenous Peoples Act, S.B.C. 2019, c. 44"
  -- "Fort McKay First Nation v Propser Petroleum Ltd, 2020 ABCA 163"
+ -- "R v Gladstone, 1993 CanLII 4520 (BCCA)"
+ -- "R v Marshall; R v Bernard, 2005 SCC 43"
+ -- "The Mayagna (Suom) Awas Tingni Community v Nicaragua, Inter-Am Ct HR,"
+ -- "(Ser C) No. 79 (2001)"
+ -- "United Nations Declaration on the Rights of Indigenous Peoples, GA Res 295, UNGAOR 61st Sess (2007)"
  -- "Written submissions of British Columbia in British Columbia Supreme Court, Nuchatlaht v AGBC et al, Action #S170606, Vancouver Registry, filed November 22, 2019"
+ -- "Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11"
+ -- "Declaration on the Rights of Indigenous Peoples Act, S.B.C. 2019, c. 44"

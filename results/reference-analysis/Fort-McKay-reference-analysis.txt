@@ -1,0 +1,142 @@
+Matches in the decision of factum reference "114957 Canada Ltée (Spraytech, Société d'arrosage) v. Hudson (Town), 2001 SCC 40, [2001] 2 S.C.R. 241":
+NONE
+
+Matches in the decision of factum reference "Adam v. Canada (Environment), 2011 FC 962 (CanLII)":
+NONE
+
+Matches in the decision of factum reference "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53,":
+NONE
+
+Matches in the decision of factum reference "[2010] 3 S.C.R. 103":
+NONE
+
+Matches in the decision of factum reference "Bow Valley Naturalists Society v. Canada (Minister of Canadian Heritage), [2001] 2 F.C. 461 (C.A.), 266 N.R.":
+ -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heri­ tage), 2005 SCC 69, [2005] 3 S.C.R. 388" [Levenshtein ratio 0.6350710900473934]
+
+Matches in the decision of factum reference "British Columbia (Attorney General) v. Canada (Attorney General); An Act respecting the Vancouver Island Railway (Re), [1994] 2 S.C.R. 41":
+NONE
+
+Matches in the decision of factum reference "Frank v. The Queen, [1978] 1 S.C.R. 95":
+ -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.6849315068493151]
+ -- "Smith v. The Queen, [1983] 1 S.C.R. 554" [Levenshtein ratio 0.8051948051948052]
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.6027397260273972]
+ -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.619718309859155]
+
+Matches in the decision of factum reference "Friends of the Oldman River Society v. Canada (Minister of":
+NONE
+
+Matches in the decision of factum reference "Transport), [1992] 1 S.C.R. 3, [1992] S.C.J. No 1":
+NONE
+
+Matches in the decision of factum reference "Gift Lake Metis Settlement v. Metis Settlement Appeal Tribunal (Land Access Panel), [2009] A.J. No. 395, 2009 ABCA 143":
+NONE
+
+Matches in the decision of factum reference "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511":
+ -- "Haida Nation v. British Columbia (Min­ ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.9887640449438202]
+ -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heri­ tage), 2005 SCC 69, [2005] 3 S.C.R. 388" [Levenshtein ratio 0.6073298429319371]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.6956521739130435]
+
+Matches in the decision of factum reference "Keewatin v. Ontario (Minister of Natural Resources), [2011] O.J. No. 3907, 2011 ONSC 4801":
+NONE
+
+Matches in the decision of factum reference "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623":
+NONE
+
+Matches in the decision of factum reference "Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 2005 SCC 69, [2005] 3 S.C.R. 388":
+ -- "Haida Nation v. British Columbia (Min­ ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6073298429319371]
+ -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heri­ tage), 2005 SCC 69, [2005] 3 S.C.R. 388" [Levenshtein ratio 0.9901960784313726]
+
+Matches in the decision of factum reference "Moosehunter v. The Queen, [1981] 1 S.C.R. 282":
+ -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.6]
+ -- "Smith v. The Queen, [1983] 1 S.C.R. 554" [Levenshtein ratio 0.7619047619047619]
+
+Matches in the decision of factum reference "R. v. Badger, [1996] 1 S.C.R. 771, [1996] S.C.J. No. 39":
+ -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.75]
+
+Matches in the decision of factum reference "R. v. Blais, 2003 SCC 44, [2003] 2 S.C.R. 236":
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.6101694915254237]
+
+Matches in the decision of factum reference "R. v. Côté, [1996] 3 S.C.R. 139, [1996] S.C.J. No. 93":
+NONE
+
+Matches in the decision of factum reference "R. v. Gladstone, [1996] 2 S.C.R. 723, [1996] S.C.J. No. 79":
+ -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.6153846153846154]
+
+Matches in the decision of factum reference "R. v. Horseman, [1990] 1 S.C.R. 901, [1990] S.C.J. No. 39":
+ -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.7608695652173914]
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.6086956521739131]
+
+Matches in the decision of factum reference "R. v. Panarctic Oils Ltd., (1983), 43 A.R. 199 (NWT T.C.), [1983] N.W.T.R. 143":
+NONE
+
+Matches in the decision of factum reference "R. v. Sutherland, [1980] 2 S.C.R. 451":
+ -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.75]
+ -- "Smith v. The Queen, [1983] 1 S.C.R. 554" [Levenshtein ratio 0.6578947368421053]
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.6944444444444444]
+ -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.6857142857142857]
+
+Matches in the decision of factum reference "Rex v. Wesley, (1932), 58 C.C.C. 269, [1932] A.J. No. 5":
+NONE
+
+Matches in the decision of factum reference "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [2010] 2 S.C.R. 650":
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.6375]
+
+Matches in the decision of factum reference "Western Canada Wilderness Committee v. Canada (Minister of Fisheries and Oceans), [2014] F.C.J. No. 151, 2014 FC 148":
+NONE
+
+Matches in the decision of factum reference "Hogg, Peter, Constitutional Law of Canada, 5th ed., Supplemented, vol. 1, (Toronto: Carswell, 2007)":
+NONE
+
+Matches in the decision of factum reference "La Forest, Gerard V., Natural Resources and Public Property under the Canadian Constitution, (Toronto: University of Toronto Press, 1969)":
+NONE
+
+Matches in the decision of factum reference "Laidlaw, David and Monique Passelac-Ross, Alberta First Nations Consultation and Accommodation Handbook, CIRL Occasional Paper #44 (Canadian Institute of Resources Law, University of Calgary, March 2014)":
+NONE
+
+Matches in the decision of factum reference "McNeil, Kent, Indian Hunting, Trapping and Fishing Rights in the Prairie Provinces of Canada, (University of Saskatchewan Native Law Centre, 1983)":
+NONE
+
+Matches in the decision of factum reference "Constitution Act, 1930":
+ -- "Constitution Act, 1982, s. 35." [Levenshtein ratio 0.8076923076923077]
+
+Matches in the decision of factum reference "Constitution Act, 1867":
+ -- "Constitution Act, 1982, s. 35." [Levenshtein ratio 0.7692307692307692]
+
+Matches in the decision of factum reference "Constitution Act, 1982":
+ -- "Constitution Act, 1982, s. 35." [Levenshtein ratio 0.8461538461538461]
+
+Matches in the decision of factum reference "Natural Resources Transfer Agreements, under the Constitution Act 1930":
+NONE
+
+Matches in the decision of factum reference "Rupert’s Land and North-Western Territory Order (23 June 1870)":
+NONE
+
+Matches in the decision of factum reference "Treaty 8 (21 June 1899)":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 21 factum references that have no match in the decision:
+ -- "114957 Canada Ltée (Spraytech, Société d'arrosage) v. Hudson (Town), 2001 SCC 40, [2001] 2 S.C.R. 241"
+ -- "Adam v. Canada (Environment), 2011 FC 962 (CanLII)"
+ -- "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53,"
+ -- "[2010] 3 S.C.R. 103"
+ -- "British Columbia (Attorney General) v. Canada (Attorney General); An Act respecting the Vancouver Island Railway (Re), [1994] 2 S.C.R. 41"
+ -- "Friends of the Oldman River Society v. Canada (Minister of"
+ -- "Transport), [1992] 1 S.C.R. 3, [1992] S.C.J. No 1"
+ -- "Gift Lake Metis Settlement v. Metis Settlement Appeal Tribunal (Land Access Panel), [2009] A.J. No. 395, 2009 ABCA 143"
+ -- "Keewatin v. Ontario (Minister of Natural Resources), [2011] O.J. No. 3907, 2011 ONSC 4801"
+ -- "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623"
+ -- "R. v. Côté, [1996] 3 S.C.R. 139, [1996] S.C.J. No. 93"
+ -- "R. v. Panarctic Oils Ltd., (1983), 43 A.R. 199 (NWT T.C.), [1983] N.W.T.R. 143"
+ -- "Rex v. Wesley, (1932), 58 C.C.C. 269, [1932] A.J. No. 5"
+ -- "Western Canada Wilderness Committee v. Canada (Minister of Fisheries and Oceans), [2014] F.C.J. No. 151, 2014 FC 148"
+ -- "Hogg, Peter, Constitutional Law of Canada, 5th ed., Supplemented, vol. 1, (Toronto: Carswell, 2007)"
+ -- "La Forest, Gerard V., Natural Resources and Public Property under the Canadian Constitution, (Toronto: University of Toronto Press, 1969)"
+ -- "Laidlaw, David and Monique Passelac-Ross, Alberta First Nations Consultation and Accommodation Handbook, CIRL Occasional Paper #44 (Canadian Institute of Resources Law, University of Calgary, March 2014)"
+ -- "McNeil, Kent, Indian Hunting, Trapping and Fishing Rights in the Prairie Provinces of Canada, (University of Saskatchewan Native Law Centre, 1983)"
+ -- "Natural Resources Transfer Agreements, under the Constitution Act 1930"
+ -- "Rupert’s Land and North-Western Territory Order (23 June 1870)"
+ -- "Treaty 8 (21 June 1899)"

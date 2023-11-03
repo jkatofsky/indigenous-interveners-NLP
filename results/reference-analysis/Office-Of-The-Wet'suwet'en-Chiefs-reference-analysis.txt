@@ -1,44 +1,44 @@
-Matches in the decision of factum reference "Report No 105/09, Petition 592-07, Admissibility Hul 'qumi 'num Treaty Group, Oct. 30, 2009":
+Matches in the decision of factum reference "Canadian Forest Products Inc. v. Sam, 2011 BCSC 676":
 NONE
 
-Matches in the decision of factum reference "Kanatewat et al v. James Bay Development Corporation, [1973] Q.J. No.8":
-NONE
-
-Matches in the decision of factum reference "Delgamuukw v. British Columbia, [1993] B.C.J. No. 1395":
- -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.8301886792452831]
-
-Matches in the decision of factum reference "Delgamuukw v. The Queen, [1997] 3 SCR 1010":
- -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.7659574468085106]
- -- "Solosky v. The Queen, [1980] 1 S.C.R. 821" [Levenshtein ratio 0.6746987951807228]
-
-Matches in the decision of factum reference ""The Duty to Learn: Taking Account ofIndigenous Legal Orders in Practice" Continuing Legal Education Society of British Columbia, November, 2012":
+Matches in the decision of factum reference "Canadian Forest Products Ltd. v. Sam, 2013 BCCA 58":
 NONE
 
 Matches in the decision of factum reference "Delgamuukw v. British Columbia, [1991] B.C.J. No. 525":
  -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.819047619047619]
 
-Matches in the decision of factum reference "Canadian Forest Products Inc. v. Sam, 2011 BCSC 676":
+Matches in the decision of factum reference "Delgamuukw v. British Columbia, [1993] B.C.J. No. 1395":
+ -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.8301886792452831]
+
+Matches in the decision of factum reference "Delgamuukw v. The Queen, [1997] 3 SCR 1010":
+ -- "Solosky v. The Queen, [1980] 1 S.C.R. 821" [Levenshtein ratio 0.6746987951807228]
+ -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.7872340425531915]
+
+Matches in the decision of factum reference "Kanatewat et al v. James Bay Development Corporation, [1973] Q.J. No.8":
 NONE
-
-Matches in the decision of factum reference "R. v. Marshall,' R v. Bernard, [2005] 2 SCR 220":
-NONE
-
-Matches in the decision of factum reference "William v British Columbia, 2012 BCCA 285":
- -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6021505376344086]
-
-Matches in the decision of factum reference "R. v. Marshall, [1999] 3 SCR 533":
- -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.6567164179104478]
-
-Matches in the decision of factum reference "R v Sparrow, [1990] 1 SCR 1075":
- -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.9230769230769231]
 
 Matches in the decision of factum reference "Kanatewat et al v. James Bay Development Corporation, [1974] Q.J. No. 14":
 NONE
 
+Matches in the decision of factum reference "R. v. Marshall, [1999] 3 SCR 533":
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.6567164179104478]
+
+Matches in the decision of factum reference "R. v. Marshall,' R v. Bernard, [2005] 2 SCR 220":
+NONE
+
+Matches in the decision of factum reference "R v Sparrow, [1990] 1 SCR 1075":
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.9230769230769231]
+
 Matches in the decision of factum reference "R. v. Van der Peet, [1996] 2 SCR 507":
  -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.647887323943662]
 
-Matches in the decision of factum reference "Canadian Forest Products Ltd. v. Sam, 2013 BCCA 58":
+Matches in the decision of factum reference "William v British Columbia, 2012 BCCA 285":
+ -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6021505376344086]
+
+Matches in the decision of factum reference "Report No 105/09, Petition 592-07, Admissibility Hul 'qumi 'num Treaty Group, Oct. 30, 2009":
+NONE
+
+Matches in the decision of factum reference ""The Duty to Learn: Taking Account ofIndigenous Legal Orders in Practice" Continuing Legal Education Society of British Columbia, November, 2012":
 NONE
 
 
@@ -46,10 +46,10 @@ NONE
 
 
 The 7 factum references that have no match in the decision:
- -- "Report No 105/09, Petition 592-07, Admissibility Hul 'qumi 'num Treaty Group, Oct. 30, 2009"
- -- "Kanatewat et al v. James Bay Development Corporation, [1973] Q.J. No.8"
- -- ""The Duty to Learn: Taking Account ofIndigenous Legal Orders in Practice" Continuing Legal Education Society of British Columbia, November, 2012"
  -- "Canadian Forest Products Inc. v. Sam, 2011 BCSC 676"
- -- "R. v. Marshall,' R v. Bernard, [2005] 2 SCR 220"
- -- "Kanatewat et al v. James Bay Development Corporation, [1974] Q.J. No. 14"
  -- "Canadian Forest Products Ltd. v. Sam, 2013 BCCA 58"
+ -- "Kanatewat et al v. James Bay Development Corporation, [1973] Q.J. No.8"
+ -- "Kanatewat et al v. James Bay Development Corporation, [1974] Q.J. No. 14"
+ -- "R. v. Marshall,' R v. Bernard, [2005] 2 SCR 220"
+ -- "Report No 105/09, Petition 592-07, Admissibility Hul 'qumi 'num Treaty Group, Oct. 30, 2009"
+ -- ""The Duty to Learn: Taking Account ofIndigenous Legal Orders in Practice" Continuing Legal Education Society of British Columbia, November, 2012"

@@ -7,28 +7,28 @@ from io import TextIOWrapper
 import Levenshtein
 
 
-# TODO type return?
+def process_lines(fp: TextIOWrapper):
+    return [*dict.fromkeys([line.lstrip().rstrip() for line in fp])]
+
+
 def load_references(directory: str):
     with open(f"{directory}/decision.references.txt") as fp:
-        decision_references = list(set([line.rstrip() for line in fp]))
+        decision_references = process_lines(fp)
     factums_references = dict()
     for factum_references_filename in glob.glob(f"{directory}/interveners/*.references.txt"):
         with open(factum_references_filename) as fp:
-            factums_references[Path(factum_references_filename).name.split('.')[0]] = list(set([line.rstrip() for line in fp]))
+            factums_references[Path(factum_references_filename).name.split('.')[0]] = process_lines(fp)
     return decision_references, factums_references
 
 
 def get_pairwise_references(references1: list[str], references2: list[str], 
-                            similarity_threshold: float = 0.6, cleaning_function = None) -> dict:
+                            similarity_threshold: float = 0.6) -> dict:
     pairwise_references = {reference1: [] for reference1 in references1}
-
-    _references1 = references1 if not cleaning_function else cleaning_function(references1)
-    _references2 = references2 if not cleaning_function else cleaning_function(references2)
-
     # this is obviously a suboptimal O(n^2) way to do this, but it should work fine for the size of the dataset
-    for reference1 in _references1:
-        for reference2 in _references2:
-            similarity = Levenshtein.ratio(reference1, reference2)
+    for reference1 in references1:
+        for reference2 in references2:
+            similarity = Levenshtein.ratio(reference1, reference2, 
+                                           processor = lambda reference : reference.lower())
             if similarity_threshold <= similarity:
                 pairwise_references[reference1].append((reference2, similarity))
 
