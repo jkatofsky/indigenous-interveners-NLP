@@ -1,11 +1,19 @@
 Matches in the decision of factum reference "BCGEU v. British Columbia (Attorney General), [1988] 2 SCR 214":
+ -- "Trial Lawyers Association of British Columbia v. British Columbia (Attorney General), 2014 SCC 59, [2014] 3 S.C.R. 31" [Levenshtein ratio 0.6033519553072626]
  -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6140350877192983]
+ -- "B.C.G.E.U. v. British Columbia (Attorney General), [1988] 2 S.C.R. 214" [Levenshtein ratio 0.9393939393939394]
+ -- "British Columbia (Attorney General) v. Christie, 2007 SCC 21, [2007] 1 S.C.R. 873" [Levenshtein ratio 0.6293706293706294]
 
 Matches in the decision of factum reference "British Columbia (Attorney General) v. Malik, 2011 SCC 18":
-NONE
+ -- "B.C.G.E.U. v. British Columbia (Attorney General), [1988] 2 S.C.R. 214" [Levenshtein ratio 0.6771653543307087]
+ -- "British Columbia (Attorney General) v. Christie, 2007 SCC 21, [2007] 1 S.C.R. 873" [Levenshtein ratio 0.7391304347826086]
+ -- "Canada (Attorney General) v. Thouin, 2017 SCC 46, [2017] 2 S.C.R. 184" [Levenshtein ratio 0.6031746031746033]
+ -- "Sauve v. Quebec (Attorney General), 2011 ONCA 369" [Levenshtein ratio 0.6037735849056604]
 
 Matches in the decision of factum reference "Calder et al. v. Attorney-General of British Columbia, [1973] SCR 313, 1973":
-NONE
+ -- "Calder v. Attorney-General of British Columbia, [1973] S.C.R. 313" [Levenshtein ratio 0.8857142857142857]
+ -- "Calder v. Attorney-General of British Columbia (1969), 8 D.L.R. (3d) 59" [Levenshtein ratio 0.7534246575342466]
+ -- "Calder v. Attorney-General of British Columbia (1970), 13 D.L.R. (3d) 64" [Levenshtein ratio 0.7619047619047619]
 
 Matches in the decision of factum reference "Danyluk v. Ainsworth Technologies Inc., 2001 SCC 44":
 NONE
@@ -15,51 +23,69 @@ NONE
 
 Matches in the decision of factum reference "Endean v. British Columbia, 2016 SCC 42":
  -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6593406593406593]
- -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.625]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.6306306306306306]
+ -- "Endean v. British Columbia, 2016 SCC 42, [2016] 2 S.C.R. 162" [Levenshtein ratio 0.7878787878787878]
+ -- "William v. British Columbia, 2002 BCSC 1904" [Levenshtein ratio 0.7317073170731707]
 
 Matches in the decision of factum reference "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73":
- -- "Haida Nation v. British Columbia (Min­ ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.8535031847133758]
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.864516129032258]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.60431654676259]
 
 Matches in the decision of factum reference "Hereditary Chiefs Tony Hunt et al v. Attorney General of Canada et al, 2006 BCSC 1368":
-NONE
+ -- "Ahousaht Indian Band v. Attorney General of Canada, 2006 BCSC 646" [Levenshtein ratio 0.6799999999999999]
+ -- "Hereditary Chiefs Tony Hunt v. Attorney General of Canada, 2006 BCSC 1368" [Levenshtein ratio 0.9240506329113924]
 
 Matches in the decision of factum reference "Hryniak v. Mauldin, 2014 SCC 7":
-NONE
+ -- "Hryniak v. Mauldin, 2014 SCC 7, [2014] 1 S.C.R. 87" [Levenshtein ratio 0.75]
 
 Matches in the decision of factum reference "Lépine c. Société Canadienne des postes, 2009 SCC 16":
 NONE
 
 Matches in the decision of factum reference "Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 2005 SCC 69":
- -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heri­ tage), 2005 SCC 69, [2005] 3 S.C.R. 388" [Levenshtein ratio 0.8743169398907104]
+ -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), 2005 SCC 69, [2005] 3 S.C.R. 388" [Levenshtein ratio 0.8839779005524862]
+ -- "Mikisew Cree First Nation v. Can- ada (Governor General in Council), 2018 SCC 40, [2018] 2 S.C.R. 765" [Levenshtein ratio 0.6408839779005524]
 
 Matches in the decision of factum reference "Mitchell v. Minister of National Revenue, [2001] 1 S.C.R. 911, 2001 SCC 33":
-NONE
+ -- "Mitchell v. M.N.R., 2001 SCC 33, [2001] 1 S.C.R. 911" [Levenshtein ratio 0.6190476190476191]
+ -- "Angle v. Minister of National Revenue, [1975] 2 S.C.R. 248" [Levenshtein ratio 0.7272727272727273]
 
 Matches in the decision of factum reference "Option Consummateurs c. Infineon Technologies, a.g., 2013 QCCS 1191":
 NONE
 
 Matches in the decision of factum reference "Procureur général de Terre-Neuve-et-Labrador c. Uashaunnuat (Innus de Uashat et de Mani-Utenam), 2017 QCCA 1791":
-NONE
+ -- "Procureur général de Terre-Neuve-Labrador v. Uashaunnuat (Innus de Uashat et de Mani-Utenam), 2017 QCCA 14" [Levenshtein ratio 0.9585253456221198]
 
 Matches in the decision of factum reference "Pro-Sys Consultants Ltd. v. Infineon Technologies AG, 2013 BCSC 316":
 NONE
 
 Matches in the decision of factum reference "R. v. Van der Peet, [1996] 2 SCR 507":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.619718309859155]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.96]
  -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.647887323943662]
+ -- "Guerin v. The Queen, [1984] 2 S.C.R. 335" [Levenshtein ratio 0.6052631578947368]
+ -- "R. v. Côté, [1996] 3 S.C.R. 139" [Levenshtein ratio 0.6268656716417911]
+ -- "Doré v. Verdun (City), [1997] 2 S.C.R. 862" [Levenshtein ratio 0.6153846153846154]
+ -- "R. v. Sundown, [1999] 1 S.C.R. 393" [Levenshtein ratio 0.6]
  -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.7246376811594203]
+ -- "R. v. Adams, [1996] 3 S.C.R. 101" [Levenshtein ratio 0.6764705882352942]
 
 Matches in the decision of factum reference "Reddy v. Oshawa Flying Club, (1992) 11 C.P.C. (3d) 154 (Ont. Gen Div.)":
 NONE
 
 Matches in the decision of factum reference "Restoule v Canada (Attorney General), 2018 ONSC 114":
-NONE
+ -- "Cowichan Tribes v. Canada (Attorney General), 2017 BCSC 1575, 1 B.C.L.R. (6th) 214" [Levenshtein ratio 0.6466165413533835]
+ -- "Canada (Attorney General) v. Thouin, 2017 SCC 46, [2017] 2 S.C.R. 184" [Levenshtein ratio 0.6166666666666667]
+ -- "Sauve v. Quebec (Attorney General), 2011 ONCA 369" [Levenshtein ratio 0.72]
+ -- "Chippewas of Sarnia Band v. Canada (Attorney General) (2000), 51 O.R. (3d) 641." [Levenshtein ratio 0.6]
 
 Matches in the decision of factum reference "Restoule v. Canada (Attorney General), 2018 ONSC 7701":
-NONE
+ -- "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623" [Levenshtein ratio 0.6027397260273972]
+ -- "Cowichan Tribes v. Canada (Attorney General), 2017 BCSC 1575, 1 B.C.L.R. (6th) 214" [Levenshtein ratio 0.6370370370370371]
+ -- "Sauve v. Quebec (Attorney General), 2011 ONCA 369" [Levenshtein ratio 0.7254901960784313]
+ -- "Chippewas of Sarnia Band v. Canada (Attorney General) (2000), 51 O.R. (3d) 641." [Levenshtein ratio 0.6060606060606061]
 
 Matches in the decision of factum reference "Sauvé v. Quebec (Attorney General), 2011 ONCA 360":
-NONE
+ -- "Solski (Tutor of) v. Quebec (Attorney General), 2005 SCC 14, [2005] 1 S.C.R. 201" [Levenshtein ratio 0.6356589147286822]
+ -- "Sauve v. Quebec (Attorney General), 2011 ONCA 369" [Levenshtein ratio 0.9591836734693877]
 
 Matches in the decision of factum reference "Setterington v. Merck Frosst Canada Ltd., [2006] O.J. No. 376, 2006 CanLII 2623":
 NONE
@@ -71,26 +97,37 @@ Matches in the decision of factum reference "Toronto (City) v. C.U.P.E., Local 7
 NONE
 
 Matches in the decision of factum reference "Trial Lawyers Assn of British Columbia v. British Columbia (Attorney General), 2014 SCC 59":
-NONE
+ -- "Trial Lawyers Association of British Columbia v. British Columbia (Attorney General), 2014 SCC 59, [2014] 3 S.C.R. 31" [Levenshtein ratio 0.8695652173913043]
+ -- "B.C.G.E.U. v. British Columbia (Attorney General), [1988] 2 S.C.R. 214" [Levenshtein ratio 0.6125]
 
 Matches in the decision of factum reference "Tsilhqot’in Nation v British Columbia, 2004 BCSC 1237.":
- -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.7716535433070866]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.7777777777777778]
+ -- "West Moberley First Nations v. British Columbia, 2007 BCSC 1324, 78 B.C.L.R. (4th) 83" [Levenshtein ratio 0.6330935251798562]
+ -- "Council of the Haida Nation v. British Columbia, 2017 BCSC 1665, 3 B.C.L.R. (6th) 346" [Levenshtein ratio 0.6330935251798562]
+ -- "William v. British Columbia, 2002 BCSC 1904" [Levenshtein ratio 0.7216494845360825]
 
 Matches in the decision of factum reference "Tsilhqot’in Nation v. British Columbia, [2014] 2 SCR 257, 2014 SCC 44":
- -- "Haida Nation v. British Columbia (Min­ ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6037735849056604]
- -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.8169014084507042]
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6114649681528662]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.8226950354609929]
+ -- "Council of the Haida Nation v. British Columbia, 2017 BCSC 1665, 3 B.C.L.R. (6th) 346" [Levenshtein ratio 0.6233766233766234]
+ -- "Endean v. British Columbia, 2016 SCC 42, [2016] 2 S.C.R. 162" [Levenshtein ratio 0.6511627906976745]
+ -- "William v. British Columbia, 2002 BCSC 1904" [Levenshtein ratio 0.625]
 
 Matches in the decision of factum reference "Uashaunnuat (Innus de Uashat et de Mani-Utenam) c. Compagnie minière IOC inc. (Iron Ore Company of Canada), 2016 QCCS 5133":
-NONE
+ -- "Uashaunnuat (Innus de Uashat et de Mani-Utenam) v. Compagnie minière IOC inc. (Iron Ore Company of Can- ada), 2014 QCCS 4403, leave to appeal refused, 2015 QCCA 2, leave to appeal refused, [2015] 3 S.C.R. vi" [Levenshtein ratio 0.7234042553191489]
+ -- "Innu of Uashat and Mani- Utenam v. Iron Ore Company of Canada, 2016 QCCS 1958, [2017] 4 C.N.L.R. 73" [Levenshtein ratio 0.6334841628959276]
+ -- "Uashaunnuat (Innus de Uashat et de Mani-Utenam) v. Compagnie minière IOC inc. (Iron Ore Company of Canada), 2014 QCCS 2051" [Levenshtein ratio 0.9672131147540983]
+ -- "Innu of Uashat and Mani-Utenam v. Iron Ore Company of Canada, 2016 QCCS 1958, [2017] 4 C.N.L.R. 73" [Levenshtein ratio 0.6363636363636364]
+ -- "Uashaunnuat (Innus de Uashat et de Mani-Utenam) v. Compagnie minière IOC inc. (Iron Ore Company of Canada), 2014 QCCS 4403" [Levenshtein ratio 0.9590163934426229]
 
 Matches in the decision of factum reference "Western Canadian Shopping Centres Inc. v. Dutton, 2001 SCC 46":
 NONE
 
 Matches in the decision of factum reference "Code of Civil Procedure, RSQ, c C-25.01":
-NONE
+ -- "Code of Civil Procedure, CQLR, c. C-25, arts. 31, 73, 95." [Levenshtein ratio 0.75]
 
 Matches in the decision of factum reference "Constitution Act, 1867 (UK), 30 & 31 Victoria, c.3. s. 109":
- -- "Constitution Act, 1867, ss. 91(24), 92A, 92(5), 109." [Levenshtein ratio 0.6181818181818182]
+ -- "Constitution Act, 1867, ss. 92(13), (14), 96, 97, 98, 109." [Levenshtein ratio 0.6206896551724138]
 
 Matches in the decision of factum reference "Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11, s. 35.":
 NONE
@@ -102,7 +139,7 @@ Matches in the decision of factum reference "Judicature Act, RSPEI 1988, c J-2.1
 NONE
 
 Matches in the decision of factum reference "Rules of Civil Procedure, RRO, 1990, Reg. 194, sec. 1.04":
-NONE
+ -- "Code of Civil Procedure, CQLR, c. C-25, arts. 31, 73, 95." [Levenshtein ratio 0.6194690265486726]
 
 Matches in the decision of factum reference "Supreme Court Civil Rules, B.C. Reg. 18/2019, sec. 1-3(1)":
 NONE
@@ -114,40 +151,26 @@ Matches in the decision of factum reference "Truth and Reconciliation Canada, Ho
 NONE
 
 Matches in the decision of factum reference "Woodward, Jack. Native Law, (Toronto: Thomson Reuters, 1994) (loose-leaf updated 2019, Release 1).":
-NONE
+ -- "Roach, Kent. Constitutional Remedies in Canada, 2nd ed. Toronto: Thomson Reuters, 2019 (loose-leaf updated October 2019, release 34)." [Levenshtein ratio 0.6926406926406927]
 
 
 --------------------------------------------------------------------------
 
 
-The 30 factum references that have no match in the decision:
- -- "British Columbia (Attorney General) v. Malik, 2011 SCC 18"
- -- "Calder et al. v. Attorney-General of British Columbia, [1973] SCR 313, 1973"
+The 16 factum references that have no match in the decision:
  -- "Danyluk v. Ainsworth Technologies Inc., 2001 SCC 44"
  -- "Eidoo v. Infineon Technologies AG, 2013 ONSC 853"
- -- "Hereditary Chiefs Tony Hunt et al v. Attorney General of Canada et al, 2006 BCSC 1368"
- -- "Hryniak v. Mauldin, 2014 SCC 7"
  -- "Lépine c. Société Canadienne des postes, 2009 SCC 16"
- -- "Mitchell v. Minister of National Revenue, [2001] 1 S.C.R. 911, 2001 SCC 33"
  -- "Option Consummateurs c. Infineon Technologies, a.g., 2013 QCCS 1191"
- -- "Procureur général de Terre-Neuve-et-Labrador c. Uashaunnuat (Innus de Uashat et de Mani-Utenam), 2017 QCCA 1791"
  -- "Pro-Sys Consultants Ltd. v. Infineon Technologies AG, 2013 BCSC 316"
  -- "Reddy v. Oshawa Flying Club, (1992) 11 C.P.C. (3d) 154 (Ont. Gen Div.)"
- -- "Restoule v Canada (Attorney General), 2018 ONSC 114"
- -- "Restoule v. Canada (Attorney General), 2018 ONSC 7701"
- -- "Sauvé v. Quebec (Attorney General), 2011 ONCA 360"
  -- "Setterington v. Merck Frosst Canada Ltd., [2006] O.J. No. 376, 2006 CanLII 2623"
  -- "Teague v Bad River Band of Lake Superior, 665 N.W. 2d 899 (Wis 2003)"
  -- "Toronto (City) v. C.U.P.E., Local 79, 2003 SCC 63"
- -- "Trial Lawyers Assn of British Columbia v. British Columbia (Attorney General), 2014 SCC 59"
- -- "Uashaunnuat (Innus de Uashat et de Mani-Utenam) c. Compagnie minière IOC inc. (Iron Ore Company of Canada), 2016 QCCS 5133"
  -- "Western Canadian Shopping Centres Inc. v. Dutton, 2001 SCC 46"
- -- "Code of Civil Procedure, RSQ, c C-25.01"
  -- "Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11, s. 35."
  -- "Courts of Justice Act, RSO 1990, c C43, s. 138"
  -- "Judicature Act, RSPEI 1988, c J-2.1, s. 63"
- -- "Rules of Civil Procedure, RRO, 1990, Reg. 194, sec. 1.04"
  -- "Supreme Court Civil Rules, B.C. Reg. 18/2019, sec. 1-3(1)"
  -- "The Court of Queen’s Bench Act, CCSM c C280, s 94."
  -- "Truth and Reconciliation Canada, Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada (Winnipeg: Truth and Reconciliation Commission of Canada, 2015) volume 1 (“[a] commitment to truth and reconciliation demands that Canada’s legal system be transformed” at 205) http://nctr.ca/assets/reports/Final%20Reports/Executive_Summary_English_Web.pdf."
- -- "Woodward, Jack. Native Law, (Toronto: Thomson Reuters, 1994) (loose-leaf updated 2019, Release 1)."

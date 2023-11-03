@@ -2,53 +2,101 @@ Matches in the decision of factum reference "":
 NONE
 
 Matches in the decision of factum reference "Calder v. British Columbia (1969), 8 D.L.R. (3d) 59 (B.C.S.C.)":
-NONE
+ -- "Calder v. Attorney-General of British Columbia (1969), 8 D.L.R. (3d) 59" [Levenshtein ratio 0.7669172932330828]
+ -- "Calder v. Attorney-General of British Columbia (1970), 13 D.L.R. (3d) 64" [Levenshtein ratio 0.6865671641791045]
 
 Matches in the decision of factum reference "Canada (Attorney General) v. TeleZone Inc., 2010 SCC 62":
-NONE
+ -- "Canada (Attorney General) v. TeleZone Inc., 2010 SCC 62, [2010] 3 S.C.R. 585" [Levenshtein ratio 0.8396946564885497]
+ -- "Canada (Attorney General) v. Thouin, 2017 SCC 46, [2017] 2 S.C.R. 184" [Levenshtein ratio 0.7258064516129032]
 
 Matches in the decision of factum reference "Compagnie miniére IOC inc. (Iron Ore Company of Canada) v. Uashaunnuat (Innus de Uashat et de Mani-Utenam), 2015 QCCA 2":
-NONE
+ -- "Procureur général de Terre-Neuve-Labrador v. Uashaunnuat (Innus de Uashat et de Mani-Utenam), 2017 QCCA 14" [Levenshtein ratio 0.6844444444444444]
 
 Matches in the decision of factum reference "Council of the Haida Nation v British Columbia, 2017 BCSC 1665":
- -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.6222222222222222]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.6268656716417911]
+ -- "Council of the Haida Nation v. British Columbia, 2017 BCSC 1665, 3 B.C.L.R. (6th) 346" [Levenshtein ratio 0.8435374149659864]
+ -- "William v. British Columbia, 2002 BCSC 1904" [Levenshtein ratio 0.6476190476190475]
 
 Matches in the decision of factum reference "Cowichan Tribes v. Canada (Attorney General), 2017 BCSC 1575 Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010":
+ -- "Calder v. Attorney-General of British Columbia, [1973] S.C.R. 313" [Levenshtein ratio 0.6292134831460674]
  -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6303030303030304]
+ -- "Cowichan Tribes v. Canada (Attorney General), 2017 BCSC 1575, 1 B.C.L.R. (6th) 214" [Levenshtein ratio 0.7282051282051283]
 
 Matches in the decision of factum reference "Guerin v. The Queen, [1984] 2 S.C.R. 335":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.6133333333333333]
- -- "Smith v. The Queen, [1983] 1 S.C.R. 554" [Levenshtein ratio 0.7848101265822784]
+ -- "Reference re Secession of Quebec, [1998] 2 S.C.R. 217" [Levenshtein ratio 0.6021505376344086]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.6582278481012658]
+ -- "Guerin v. The Queen, [1984] 2 S.C.R. 335" [Levenshtein ratio 1.0]
+ -- "Roberts v. Canada, [1989] 1 S.C.R. 322" [Levenshtein ratio 0.6153846153846154]
+ -- "Hunt v. T&N plc, [1993] 4 S.C.R. 289" [Levenshtein ratio 0.6052631578947368]
+ -- "R. v. Côté, [1996] 3 S.C.R. 139" [Levenshtein ratio 0.619718309859155]
+ -- "Tolofson v. Jensen, [1994] 3 S.C.R. 1022" [Levenshtein ratio 0.6]
+ -- "R. v. Sundown, [1999] 1 S.C.R. 393" [Levenshtein ratio 0.6486486486486487]
 
 Matches in the decision of factum reference "Mitchell v. M.N.R., [2001] 1 S.C.R. 911":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.6216216216216216]
- -- "Smith v. The Queen, [1983] 1 S.C.R. 554" [Levenshtein ratio 0.6153846153846154]
+ -- "Mitchell v. M.N.R., 2001 SCC 33, [2001] 1 S.C.R. 911" [Levenshtein ratio 0.8571428571428572]
 
 Matches in the decision of factum reference "R. v. Coté, [1996] 3 S.C.R 139":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.7076923076923076]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.6666666666666667]
  -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.7076923076923076]
+ -- "Guerin v. The Queen, [1984] 2 S.C.R. 335" [Levenshtein ratio 0.6]
+ -- "Roberts v. Canada, [1989] 1 S.C.R. 322" [Levenshtein ratio 0.6470588235294117]
+ -- "Hunt v. T&N plc, [1993] 4 S.C.R. 289" [Levenshtein ratio 0.6363636363636364]
+ -- "R. v. Côté, [1996] 3 S.C.R. 139" [Levenshtein ratio 0.9508196721311475]
+ -- "Tolofson v. Jensen, [1994] 3 S.C.R. 1022" [Levenshtein ratio 0.6]
+ -- "Doré v. Verdun (City), [1997] 2 S.C.R. 862" [Levenshtein ratio 0.6111111111111112]
+ -- "R. v. Sundown, [1999] 1 S.C.R. 393" [Levenshtein ratio 0.75]
  -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.7301587301587302]
+ -- "R. v. Adams, [1996] 3 S.C.R. 101" [Levenshtein ratio 0.7741935483870968]
 
 Matches in the decision of factum reference "R. v. Adams, [1996] 3 S.C.R. 101":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.7462686567164178]
+ -- "Bern v. Bern, [1995] R.D.J. 510" [Levenshtein ratio 0.6031746031746033]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.7323943661971831]
  -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.7462686567164178]
+ -- "Roberts v. Canada, [1989] 1 S.C.R. 322" [Levenshtein ratio 0.6857142857142857]
+ -- "R. v. Côté, [1996] 3 S.C.R. 139" [Levenshtein ratio 0.7936507936507937]
+ -- "Tolofson v. Jensen, [1994] 3 S.C.R. 1022" [Levenshtein ratio 0.6666666666666667]
+ -- "R. v. Sundown, [1999] 1 S.C.R. 393" [Levenshtein ratio 0.696969696969697]
  -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.8]
+ -- "R. v. Adams, [1996] 3 S.C.R. 101" [Levenshtein ratio 1.0]
+ -- "Caron v. Alberta, 2015 SCC 56, [2015] 3 S.C.R. 511" [Levenshtein ratio 0.6097560975609756]
 
 Matches in the decision of factum reference "R. v. Sparrow, [1990] 1 S.C.R. 1075":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.7714285714285715]
+ -- "R. v. Sharpe, 2001 SCC 2, [2001] 1 S.C.R. 45" [Levenshtein ratio 0.6329113924050633]
+ -- "Bern v. Bern, [1995] R.D.J. 510" [Levenshtein ratio 0.6060606060606061]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.7027027027027026]
  -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 1.0]
+ -- "Roberts v. Canada, [1989] 1 S.C.R. 322" [Levenshtein ratio 0.6301369863013699]
+ -- "R. v. Côté, [1996] 3 S.C.R. 139" [Levenshtein ratio 0.696969696969697]
+ -- "Morguard Investments Ltd. v. De Savoye, [1990] 3 S.C.R. 1077" [Levenshtein ratio 0.6105263157894737]
+ -- "Tolofson v. Jensen, [1994] 3 S.C.R. 1022" [Levenshtein ratio 0.6133333333333333]
+ -- "R. v. Sundown, [1999] 1 S.C.R. 393" [Levenshtein ratio 0.7536231884057971]
  -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.7647058823529411]
+ -- "R. v. Adams, [1996] 3 S.C.R. 101" [Levenshtein ratio 0.7462686567164178]
 
 Matches in the decision of factum reference "R. v. Sundown, [1999] 1 S.C.R 393":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.7352941176470589]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.6388888888888888]
  -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.7352941176470589]
+ -- "Guerin v. The Queen, [1984] 2 S.C.R. 335" [Levenshtein ratio 0.6301369863013699]
+ -- "Roberts v. Canada, [1989] 1 S.C.R. 322" [Levenshtein ratio 0.676056338028169]
+ -- "Hunt v. T&N plc, [1993] 4 S.C.R. 289" [Levenshtein ratio 0.6086956521739131]
+ -- "R. v. Côté, [1996] 3 S.C.R. 139" [Levenshtein ratio 0.71875]
+ -- "R. v. Sundown, [1999] 1 S.C.R. 393" [Levenshtein ratio 0.9850746268656716]
  -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.696969696969697]
+ -- "R. v. Adams, [1996] 3 S.C.R. 101" [Levenshtein ratio 0.676923076923077]
 
 Matches in the decision of factum reference "R. v. Van der Peet, [1996] 2 S.C.R. 507":
- -- "R. v. Horseman, [1990] 1 S.C.R. 901" [Levenshtein ratio 0.6756756756756757]
- -- "Smith v. The Queen, [1983] 1 S.C.R. 554" [Levenshtein ratio 0.6153846153846154]
+ -- "R. v. Sharpe, 2001 SCC 2, [2001] 1 S.C.R. 45" [Levenshtein ratio 0.6024096385542168]
+ -- "Bern v. Bern, [1995] R.D.J. 510" [Levenshtein ratio 0.6]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 1.0]
  -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.7027027027027026]
+ -- "Guerin v. The Queen, [1984] 2 S.C.R. 335" [Levenshtein ratio 0.6582278481012658]
+ -- "Roberts v. Canada, [1989] 1 S.C.R. 322" [Levenshtein ratio 0.6233766233766234]
+ -- "Hunt v. T&N plc, [1993] 4 S.C.R. 289" [Levenshtein ratio 0.6133333333333333]
+ -- "R. v. Côté, [1996] 3 S.C.R. 139" [Levenshtein ratio 0.6857142857142857]
+ -- "Doré v. Verdun (City), [1997] 2 S.C.R. 862" [Levenshtein ratio 0.6666666666666667]
+ -- "R. v. Sundown, [1999] 1 S.C.R. 393" [Levenshtein ratio 0.6575342465753424]
  -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.7777777777777778]
+ -- "R. v. Adams, [1996] 3 S.C.R. 101" [Levenshtein ratio 0.7323943661971831]
 
 Matches in the decision of factum reference "Saanichton Marina v. Claxton, [1989] 3 CNLR 46 (BCCA)":
 NONE
@@ -57,21 +105,34 @@ Matches in the decision of factum reference "Saik’uz First Nation and Stellat�
 NONE
 
 Matches in the decision of factum reference "Strickland v. Canada (Attorney General), 2015 SCC 37":
-NONE
+ -- "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623" [Levenshtein ratio 0.6068965517241379]
+ -- "Cowichan Tribes v. Canada (Attorney General), 2017 BCSC 1575, 1 B.C.L.R. (6th) 214" [Levenshtein ratio 0.6417910447761195]
+ -- "Sauve v. Quebec (Attorney General), 2011 ONCA 369" [Levenshtein ratio 0.693069306930693]
+ -- "Lax Kw’alaams Indian Band v. Canada (Attorney General), 2011 SCC 56, [2011] 3 S.C.R. 535" [Levenshtein ratio 0.6428571428571428]
+ -- "Chippewas of Sarnia Band v. Canada (Attorney General) (2000), 51 O.R. (3d) 641." [Levenshtein ratio 0.6412213740458015]
 
 Matches in the decision of factum reference "Tsilhqot’in Nation v. British Columbia, [2014] 2 S.C.R. 257":
- -- "Haida Nation v. British Columbia (Min­ ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6174496644295302]
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6258503401360545]
  -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6486486486486487]
- -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 256." [Levenshtein ratio 0.8787878787878788]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.9007633587786259]
+ -- "West Moberley First Nations v. British Columbia, 2007 BCSC 1324, 78 B.C.L.R. (4th) 83" [Levenshtein ratio 0.6111111111111112]
+ -- "Council of the Haida Nation v. British Columbia, 2017 BCSC 1665, 3 B.C.L.R. (6th) 346" [Levenshtein ratio 0.625]
+ -- "Endean v. British Columbia, 2016 SCC 42, [2016] 2 S.C.R. 162" [Levenshtein ratio 0.6890756302521008]
+ -- "William v. British Columbia, 2002 BCSC 1904" [Levenshtein ratio 0.6470588235294117]
 
 Matches in the decision of factum reference "William v. Riverside Forest Products, 2002 BCSC 1199":
-NONE
+ -- "Xeni Gwet’in First Nations v. Riverside Forest Products Ltd., 2002 BCSC 1199, 4 B.C.L.R. (4th) 379" [Levenshtein ratio 0.6533333333333333]
+ -- "William v. British Columbia, 2002 BCSC 1904" [Levenshtein ratio 0.6736842105263158]
 
 Matches in the decision of factum reference "Willson v. British Columbia, 2007 BCSC 1324":
  -- "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6105263157894737]
+ -- "West Moberley First Nations v. British Columbia, 2007 BCSC 1324, 78 B.C.L.R. (4th) 83" [Levenshtein ratio 0.640625]
+ -- "Endean v. British Columbia, 2016 SCC 42, [2016] 2 S.C.R. 162" [Levenshtein ratio 0.6213592233009708]
+ -- "William v. British Columbia, 2002 BCSC 1904" [Levenshtein ratio 0.8604651162790697]
 
 Matches in the decision of factum reference "McNeil, Kent. “Aboriginal Title as a Constitutionally Protected Property Right,” Lippert, Owen, ed., Beyond the Nass Valley: National Implications of the Supreme Court’s Delgamuukw Decision (Vancouver: Fraser Institute, 2000)":
-NONE
+ -- "McNeil, Kent. “Aboriginal Title as a Constitutionally Protected Property Right”, in Owen Lippert, ed., Beyond the Nass Valley: National Implications of the Supreme Court’s Delgamuukw Decision. Vancouver: Fraser Institute, 2000, 55." [Levenshtein ratio 0.9473684210526316]
+ -- "Slattery, Brian. “The Nature of Aboriginal Title”, in Owen Lippert, ed., Beyond the Nass Valley: National Implications of the Supreme Court’s Delgamuukw Decision. Vancouver: Fraser Institute, 2000, 11." [Levenshtein ratio 0.7793427230046949]
 
 Matches in the decision of factum reference "Borrows, John. “Aboriginal Title and Private Property.” The Supreme Court Law Review: Osgoode’s Annual Constitutional Cases Conference 71. (2015)":
 NONE
@@ -80,14 +141,8 @@ NONE
 --------------------------------------------------------------------------
 
 
-The 10 factum references that have no match in the decision:
+The 4 factum references that have no match in the decision:
  -- ""
- -- "Calder v. British Columbia (1969), 8 D.L.R. (3d) 59 (B.C.S.C.)"
- -- "Canada (Attorney General) v. TeleZone Inc., 2010 SCC 62"
- -- "Compagnie miniére IOC inc. (Iron Ore Company of Canada) v. Uashaunnuat (Innus de Uashat et de Mani-Utenam), 2015 QCCA 2"
  -- "Saanichton Marina v. Claxton, [1989] 3 CNLR 46 (BCCA)"
  -- "Saik’uz First Nation and Stellat’en First Nation v. Rio Tinto Alcan Inc. 2015 BCCA 154"
- -- "Strickland v. Canada (Attorney General), 2015 SCC 37"
- -- "William v. Riverside Forest Products, 2002 BCSC 1199"
- -- "McNeil, Kent. “Aboriginal Title as a Constitutionally Protected Property Right,” Lippert, Owen, ed., Beyond the Nass Valley: National Implications of the Supreme Court’s Delgamuukw Decision (Vancouver: Fraser Institute, 2000)"
  -- "Borrows, John. “Aboriginal Title and Private Property.” The Supreme Court Law Review: Osgoode’s Annual Constitutional Cases Conference 71. (2015)"
