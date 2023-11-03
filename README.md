@@ -16,7 +16,7 @@ Given two short strings of letters, perhaps the most common metric of their simi
 
 It's equal to the number of letters that need to be changed in one string in order to transform it into the other. When you divide that number by the combined length of the strings being compared, you get a *ratio* that can be used to quantify how similar the two strings are on a scale from 0 to 1. Let's call this a *Levenshtein ratio*.
 
-Hopefully not to state the obvious, but we need to use such a metric instead of just directly comparing the strings, because two reference strings that point to the same actual reference might be formatted differently.
+Hopefully not to state the obvious, but we need to use such a metric instead of just directly comparing the strings, because two strings that point to the same actual reference might be formatted differently.
 
 <!-- TODO: more explanation? -->
 
@@ -30,7 +30,7 @@ For all factums in the directory...
   - for each of the relevant decision's references
     - if the Levenshtein ratio of the two references is above a certain threshold (I used 0.5), mark them as "matching"
 
-So, in the end, for each factum, this process gives a one-to-many mapping of its rerences to the references of its decision, which is outputted as the first part of the `*-references-analysis.txt` files (along with the Levenshtein ratios as a sanity check).
+So, in the end, for each factum, this process gives a one-to-many mapping of its rerences to references in its decision, which is outputted as the first part of the `*-references-analysis.txt` files (along with the Levenshtein ratios as a sanity check).
 
 ### Missing references
 
@@ -38,9 +38,9 @@ Then, the second part of the `*-references-analysis.txt` files is simply a list 
 
 ### A note on false negative vs false positives
 
-I set the Levenshtein ratio threshold for a "match" to the (admittedly pretty arbitirary) value of 0.5. From inspecting the results, this seems to give a lot of false positives (i.e., matched references in the decision that in reality are not the same reference). But this is the cost of having very few false negatives (i.e., reference matches that the we just miss). Given that we're mainly looking to accurately indentify factum references that *do not* appear in the decision, I opted to minimize the false negatives.
+I set the Levenshtein ratio threshold for a "match" to the (admittedly pretty arbitirary) value of 0.5. From inspecting the results, this seems to give a lot of false positives (i.e., matched references in the decision that in reality are not the same reference). But this is the cost of having very few false negatives (i.e., reference matches that the we just miss). Given that you're  mainly looking to accurately indentify factum references that *do not* appear in the decision, I opted to minimize the false negatives.
 
-TLDR: the list of factum references that have no match will be very accurate, but it will likely not be exhaustive.
+So the takeaway is: the list of factum references that have no match will be very *accurate*, but it will likely *not be exhaustive*. So you should be able to assume that everything listed there is really missing from the decision, but I would caution against treating the *number* of references in the list as a definitive fact. There are likely some references missing from the list, as a result of false positives.
 
 The data science nerd in me would complain if I didn't mention that technically, this means that this method has [high recall as opposed to high precision](https://en.wikipedia.org/wiki/Precision_and_recall).
 
