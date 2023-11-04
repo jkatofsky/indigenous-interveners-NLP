@@ -30,7 +30,7 @@ For all factums in the directory...
 
 - for each of the factums's references
   - for each of the relevant decision's references
-    - if the Levenshtein ratio of the two references is above a certain threshold (I used 0.5), mark them as "matching"
+    - if the Levenshtein ratio of the two references is above a certain threshold (I used 0.6), mark them as "matching"
 
 So, in the end, for each factum, this process gives a one-to-many mapping of its rerences to references in its decision, which is outputted as the first part of the `*-references-analysis.txt` files (along with the Levenshtein ratios as a sanity check).
 
@@ -40,7 +40,7 @@ Then, the second part of the `*-references-analysis.txt` files is simply a list 
 
 ### A note on false negative vs false positives
 
-I set the Levenshtein ratio threshold for a "match" to the (admittedly pretty arbitirary) value of 0.5. From inspecting the results, this seems to give a lot of false positives (i.e., matched references in the decision that in reality are not the same reference). But this is the cost of having very few false negatives (i.e., reference matches that the we just miss). Given that you're  mainly looking to accurately indentify factum references that *do not* appear in the decision, I opted to minimize the false negatives.
+I set the Levenshtein ratio threshold for a "match" to the (admittedly pretty arbitirary) value of 0.6. From inspecting the results, this seems to give a lot of false positives (i.e., matched references in the decision that in reality are not the same reference). But this is the cost of having very few false negatives (i.e., reference matches that the we just miss). Given that you're  mainly looking to accurately indentify factum references that *do not* appear in the decision, I opted to minimize the false negatives.
 
 So the takeaway is: the list of factum references that have no match will be very *accurate*, but it will likely *not be exhaustive*. So you should be able to assume that everything listed there is really missing from the decision, but I would caution against treating the *number* of references in the list as a definitive fact. There are likely some references missing from the list, as a result of false positives.
 
