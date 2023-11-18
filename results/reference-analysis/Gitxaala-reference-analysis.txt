@@ -1,0 +1,128 @@
+Matches in the decision of factum reference "Amodu Tijani v. Southern Nigeria, [1921] 2 A.C. 399 (P.C.)":
+NONE
+
+Matches in the decision of factum reference "Calder v. Attorney-General of British Columbia, [1973] S.C.R. 313":
+ -- "Del­ gamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.6554621848739496]
+ -- "Calder v. Attorney­General of British Columbia, [1973] S.C.R. 313" [Levenshtein ratio 0.9846153846153847]
+
+Matches in the decision of factum reference "Calvin’s Case (1608), 7 Co. Rep. 1a at 19b, 77 E.R. 377 (K.B.)":
+NONE
+
+Matches in the decision of factum reference "Campbell v. British Columbia, [2000] 4 C.N.L.R. 1 (B.C.S.C.)":
+NONE
+
+Matches in the decision of factum reference "Campbell v. Hall (1774), 14 Geo. 3 (K.B.)":
+NONE
+
+Matches in the decision of factum reference "Cherokee Nation v. Georgia, 5 Peters 1 (U.S.S.C. 1831)":
+NONE
+
+Matches in the decision of factum reference "Connolly v. Woolrich (1867), 17 R.J. R.Q. 75, 1 C.N.L.C. 70 (Que. S.C.)":
+NONE
+
+Matches in the decision of factum reference "Connolly v. Woolrich [sub nom Johnstone v. Connolly] (1869), 17 R.L.R.Q. 266, 1 C.N.L.C. 151 (Que. C.A.)":
+NONE
+
+Matches in the decision of factum reference "Dawes v. Painter (1674), 1 Freem. 175, 89 E.R. 126":
+NONE
+
+Matches in the decision of factum reference "Delgamuukw v. British Columbia, [1997] 3 S.C.R. 1010":
+ -- "Del­ gamuukw v. British Columbia, [1997] 3 S.C.R. 1010" [Levenshtein ratio 0.9811320754716981]
+ -- "Calder v. Attorney­General of British Columbia, [1973] S.C.R. 313" [Levenshtein ratio 0.6495726495726496]
+
+Matches in the decision of factum reference "Johnson v. M’Intosh, 8 Wheaton 543 (U.S.S.C. 1823)":
+NONE
+
+Matches in the decision of factum reference "Mabo v. Queensland [No. 2] (1992), 175 C.L.R. 1":
+NONE
+
+Matches in the decision of factum reference "Mitchell v. M.N.R., [2001] 1 S.C.R. 911, 2001 SCC 33":
+NONE
+
+Matches in the decision of factum reference "Oyekan v. Adele, [1957] 2 All E.R. 785":
+NONE
+
+Matches in the decision of factum reference "R. v. Marshall; R. v. Bernard, 2005 SCC 43":
+ -- "R. v. Marshall, 2005 SCC 43, [2005] 2 S.C.R. 220" [Levenshtein ratio 0.6]
+
+Matches in the decision of factum reference "R. v. Sparrow, [1990] 1 S.C.R. 1075":
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 1.0]
+ -- "R. v. Gladstone, [1996] 2 S.C.R. 723" [Levenshtein ratio 0.704225352112676]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.7027027027027026]
+ -- "R. v. Marshall, [1999] 3 S.C.R. 533" [Levenshtein ratio 0.7142857142857143]
+
+Matches in the decision of factum reference "R. v. Van der Peet, [1996] 2 S.C.R. 507":
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.7027027027027026]
+ -- "Guerin v. The Queen, [1984] 2 S.C.R. 335" [Levenshtein ratio 0.6582278481012658]
+ -- "R. v. Gladstone, [1996] 2 S.C.R. 723" [Levenshtein ratio 0.7466666666666666]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 1.0]
+ -- "R. v. Marshall, [1999] 3 S.C.R. 533" [Levenshtein ratio 0.6756756756756757]
+
+Matches in the decision of factum reference "Re Southern Rhodesia, [1919] A.C. 211":
+NONE
+
+Matches in the decision of factum reference "The Case of Tanistry (1608), Davis 28, 80 E.R. 516":
+NONE
+
+Matches in the decision of factum reference "Witrong v. Blany (1674),3 Keb. 401, 84 E.R. 789":
+NONE
+
+Matches in the decision of factum reference "Worcester v. Georgia, 6 Peters 515 (U.S.S.C. 1832)":
+NONE
+
+Matches in the decision of factum reference "McNeil, K.,, “Aboriginal Title and the Supreme Court: What’s Happening?” (1996), 69 Sask. L. Rev. 281":
+ -- "McNeil, Kent. “Aboriginal Title and the Supreme Court: What’s Happening?” (2006), 69 Sask. L. Rev. 281." [Levenshtein ratio 0.9411764705882353]
+
+Matches in the decision of factum reference "McNeil, K., “Aboriginal Title in Canada: Site-Specific or Territorial”, Presented at the Law on the Edge Conference, Canadian Law and Society Association/Law and Society Association of Australia and New Zealand, UBC, Vancouver, July 1-4, 2013":
+NONE
+
+Matches in the decision of factum reference "McNeil, K., Common Law Aboriginal Title, Oxford: Clarendon Press, 1989":
+ -- "McNeil, Kent. Common Law Aboriginal Title. Oxford: Clarendon Press, 1989." [Levenshtein ratio 0.951048951048951]
+
+Matches in the decision of factum reference "McNeil, K., “Self-Government and the Inalienability of Aboriginal Title” (2002), 47 McGill L.J. 473":
+NONE
+
+Matches in the decision of factum reference "Slattery, B., “Making Sense of Aboriginal and Treaty Rights” 2000, 79 Can. Bar Rev. 196":
+ -- "Slattery, Brian. “Understanding Aboriginal Rights” (1987), 66 Can. Bar Rev. 727." [Levenshtein ratio 0.6586826347305389]
+
+Matches in the decision of factum reference "Slattery, B., The Land Rights of Indigenous Canadian Peoples, D. Phil Thesis, Oxford, 1979":
+NONE
+
+Matches in the decision of factum reference "Slattery, B., “The Metamorphosis of Aboriginal Title” (2006), 85 Can. Bar Rev. 255":
+ -- "Slattery, Brian. “Understanding Aboriginal Rights” (1987), 66 Can. Bar Rev. 727." [Levenshtein ratio 0.6666666666666667]
+
+Matches in the decision of factum reference "Slattery, B., “Understanding Aboriginal Rights” (1987), 66 Can. Bar Rev. 727":
+ -- "Slattery, Brian. “Understanding Aboriginal Rights” (1987), 66 Can. Bar Rev. 727." [Levenshtein ratio 0.9615384615384616]
+
+Matches in the decision of factum reference "Walters, M., “British Imperial Constitutional Law and Aboriginal Rights: A Comment on Delgamuukw v. British Columbia” (1992), 17 Queen's Law Journal 35":
+NONE
+
+Matches in the decision of factum reference "Walters, M.,“The ‘Golden Thread’ of Continuity: Aboriginal Customs at Common Law and Under the Constitution Act, 1982” (1999), 44 McGill Law Journal 711":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 21 factum references that have no match in the decision:
+ -- "Amodu Tijani v. Southern Nigeria, [1921] 2 A.C. 399 (P.C.)"
+ -- "Calvin’s Case (1608), 7 Co. Rep. 1a at 19b, 77 E.R. 377 (K.B.)"
+ -- "Campbell v. British Columbia, [2000] 4 C.N.L.R. 1 (B.C.S.C.)"
+ -- "Campbell v. Hall (1774), 14 Geo. 3 (K.B.)"
+ -- "Cherokee Nation v. Georgia, 5 Peters 1 (U.S.S.C. 1831)"
+ -- "Connolly v. Woolrich (1867), 17 R.J. R.Q. 75, 1 C.N.L.C. 70 (Que. S.C.)"
+ -- "Connolly v. Woolrich [sub nom Johnstone v. Connolly] (1869), 17 R.L.R.Q. 266, 1 C.N.L.C. 151 (Que. C.A.)"
+ -- "Dawes v. Painter (1674), 1 Freem. 175, 89 E.R. 126"
+ -- "Johnson v. M’Intosh, 8 Wheaton 543 (U.S.S.C. 1823)"
+ -- "Mabo v. Queensland [No. 2] (1992), 175 C.L.R. 1"
+ -- "Mitchell v. M.N.R., [2001] 1 S.C.R. 911, 2001 SCC 33"
+ -- "Oyekan v. Adele, [1957] 2 All E.R. 785"
+ -- "Re Southern Rhodesia, [1919] A.C. 211"
+ -- "The Case of Tanistry (1608), Davis 28, 80 E.R. 516"
+ -- "Witrong v. Blany (1674),3 Keb. 401, 84 E.R. 789"
+ -- "Worcester v. Georgia, 6 Peters 515 (U.S.S.C. 1832)"
+ -- "McNeil, K., “Aboriginal Title in Canada: Site-Specific or Territorial”, Presented at the Law on the Edge Conference, Canadian Law and Society Association/Law and Society Association of Australia and New Zealand, UBC, Vancouver, July 1-4, 2013"
+ -- "McNeil, K., “Self-Government and the Inalienability of Aboriginal Title” (2002), 47 McGill L.J. 473"
+ -- "Slattery, B., The Land Rights of Indigenous Canadian Peoples, D. Phil Thesis, Oxford, 1979"
+ -- "Walters, M., “British Imperial Constitutional Law and Aboriginal Rights: A Comment on Delgamuukw v. British Columbia” (1992), 17 Queen's Law Journal 35"
+ -- "Walters, M.,“The ‘Golden Thread’ of Continuity: Aboriginal Customs at Common Law and Under the Constitution Act, 1982” (1999), 44 McGill Law Journal 711"

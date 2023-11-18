@@ -1,0 +1,72 @@
+Matches in the decision of factum reference "Beardy’s & Okemasis Band #96 and #97 v Her Majesty the Queen in Right of Canada, 2016 SCTC 15":
+NONE
+
+Matches in the decision of factum reference "Canada v Kitselas First Nation, 2014 FCA 150 8":
+NONE
+
+Matches in the decision of factum reference "Doig River First Nation and Blueberry River First Nations v Her Majesty the Queen in Right of Canada, 2018 SCTC 5":
+NONE
+
+Matches in the decision of factum reference "Huu-Ay-Aht First Nations v Her Majesty the Queen in Right of Canada, 2016 SCTC 14":
+NONE
+
+Matches in the decision of factum reference "Lax Kw’alaams Indian Band v Canada (Attorney General), 2011 SCC 56 25":
+ -- "Manitoba Metis Federation Inc. v. Canada (Attorney General), 2013 SCC 14, [2013] 1 S.C.R. 623" [Levenshtein ratio 0.617283950617284]
+
+Matches in the decision of factum reference "Mikisew Cree First Nation v Canada (Minister of Canadian Heritage), 2005 SCC 69":
+NONE
+
+Matches in the decision of factum reference "Mohawks of the Bay of Quinte v Canada (Indian Affairs and Northern Development), 2013 FC 669":
+ -- "Williams Lake Indian Band v. Canada (Aboriginal Affairs and Northern Development), 2018 SCC 4, [2018] 1 S.C.R. 83" [Levenshtein ratio 0.624390243902439]
+ -- "Blueberry River Indian Band v. Canada (Department ofIndian Affairs and Northern Development), [1995] 4 S.C.R. 344" [Levenshtein ratio 0.624390243902439]
+
+Matches in the decision of factum reference "Southwind v Canada, 2017 FC 906":
+NONE
+
+Matches in the decision of factum reference "Tsilhqot’in Nation v British Columbia, 2014 SCC 44":
+NONE
+
+Matches in the decision of factum reference "Tsleil-Waututh Nation v Her Majesty the Queen in Right of Canada, 2014 SCTC 11":
+NONE
+
+Matches in the decision of factum reference "Williams Lake Indian Band v Canada (Aboriginal Affairs and Northern Development), 2018 SCC 4":
+ -- "Williams Lake Indian Band v. Canada (Aboriginal Affairs and Northern Development), 2018 SCC 4, [2018] 1 S.C.R. 83" [Levenshtein ratio 0.8975609756097561]
+ -- "Blueberry River Indian Band v. Canada (Department ofIndian Affairs and Northern Development), [1995] 4 S.C.R. 344" [Levenshtein ratio 0.7121951219512195]
+
+Matches in the decision of factum reference "Specific Claims Tribunal Act, SC 2008, c 22, Preamble, ss 6(2)-(4), 12(2), 14, 16(1), 19, 20(1), 41":
+NONE
+
+Matches in the decision of factum reference "Specific Claims Tribunal Rules of Practice and Procedure, SOR/2011-119, r 7(1)":
+NONE
+
+Matches in the decision of factum reference "Indian and Northern Affairs Canada, Specific Claims: Justice at Last (Ottawa: Indian Affairs and Northern Development, 2007)":
+NONE
+
+Matches in the decision of factum reference "Indian and Northern Affairs Canada, The Specific Claims Policy and Process Guide (Ottawa: Indian Affairs and Northern Development, 2009)":
+NONE
+
+Matches in the decision of factum reference "“Reporting Centre on Specific Claims” (last modified 21 September 2020)":
+NONE
+
+Matches in the decision of factum reference "Standing Senate Committee on Aboriginal Peoples, Negotiation or Confrontation: It’s Canada’s Choice (December 2006) (Chair: Hon Gerry St. Germain).":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 14 factum references that have no match in the decision:
+ -- "Beardy’s & Okemasis Band #96 and #97 v Her Majesty the Queen in Right of Canada, 2016 SCTC 15"
+ -- "Canada v Kitselas First Nation, 2014 FCA 150 8"
+ -- "Doig River First Nation and Blueberry River First Nations v Her Majesty the Queen in Right of Canada, 2018 SCTC 5"
+ -- "Huu-Ay-Aht First Nations v Her Majesty the Queen in Right of Canada, 2016 SCTC 14"
+ -- "Mikisew Cree First Nation v Canada (Minister of Canadian Heritage), 2005 SCC 69"
+ -- "Southwind v Canada, 2017 FC 906"
+ -- "Tsilhqot’in Nation v British Columbia, 2014 SCC 44"
+ -- "Tsleil-Waututh Nation v Her Majesty the Queen in Right of Canada, 2014 SCTC 11"
+ -- "Specific Claims Tribunal Act, SC 2008, c 22, Preamble, ss 6(2)-(4), 12(2), 14, 16(1), 19, 20(1), 41"
+ -- "Specific Claims Tribunal Rules of Practice and Procedure, SOR/2011-119, r 7(1)"
+ -- "Indian and Northern Affairs Canada, Specific Claims: Justice at Last (Ottawa: Indian Affairs and Northern Development, 2007)"
+ -- "Indian and Northern Affairs Canada, The Specific Claims Policy and Process Guide (Ottawa: Indian Affairs and Northern Development, 2009)"
+ -- "“Reporting Centre on Specific Claims” (last modified 21 September 2020)"
+ -- "Standing Senate Committee on Aboriginal Peoples, Negotiation or Confrontation: It’s Canada’s Choice (December 2006) (Chair: Hon Gerry St. Germain)."

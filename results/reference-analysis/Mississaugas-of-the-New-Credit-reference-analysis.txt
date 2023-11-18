@@ -1,0 +1,70 @@
+Matches in the decision of factum reference "Al-Mhamad v. Canada (Radio-Television and Telecommunications Commissions), [2003] FCJ No 145 (QL), 2003 FCA 45":
+NONE
+
+Matches in the decision of factum reference "Beckman v. Little Salmon/Carmacks First Nation, [2010] 3 SCR 103, 2010 SCC 53":
+NONE
+
+Matches in the decision of factum reference "Canada v. Tremblay, [2004] 4 FCR 165, 2004 FCA 172":
+NONE
+
+Matches in the decision of factum reference "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 SCR 511":
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.9826589595375722]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.6751592356687899]
+
+Matches in the decision of factum reference "Hinton v. Canada (Minister of Citizenship and Immigration), [2009] 1 FCR 476, 2008 FCA 215":
+ -- "Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 S.C.R. 817." [Levenshtein ratio 0.757396449704142]
+
+Matches in the decision of factum reference "Ke-Kin-Is-Uqs v. British Columbia (Minister of Forests), [2008] BCJ No. 2089, 2008 BCSC 1505":
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.7]
+
+Matches in the decision of factum reference "Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), [2005] 3 SCR 388, 2005 SCC 69":
+NONE
+
+Matches in the decision of factum reference "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, [2010] 2 SCR 650, 2010 SCC 43":
+ -- "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [2010] 2 S.C.R. 650" [Levenshtein ratio 0.8538011695906433]
+
+Matches in the decision of factum reference "R. v. Van der Peet, [1996] 2 SCR 507":
+NONE
+
+Matches in the decision of factum reference "Taku River Tlingit First Nation v. British Columbia (Project Assessment Director), [2004] 3 SCR 550":
+NONE
+
+Matches in the decision of factum reference "Indian Treaties and Surrenders from 1680-1890 Vol. I (Ottawa: S. E. Dawson, 1905)":
+NONE
+
+Matches in the decision of factum reference "NEB Letter Decision OH-005-2011 (Enbridge Pipelines Inc.) (27 July 2012) NEB Letter Order XO-E101-023-2013 (Enbridge Pipelines Inc.) (29 October 2013)":
+NONE
+
+Matches in the decision of factum reference "NEB Letter Order XO-E101-018-2013 (Enbridge Pipeline Inc.) (25 July 2013)":
+NONE
+
+Matches in the decision of factum reference "NEB Letter Order XO-E101-016-2014 (Enbridge Pipeline Inc.) (21 August 2014)":
+NONE
+
+Matches in the decision of factum reference "Hearing Order (Draft Conditions) OH-001-2016 (Enbridge Pipeline Inc.) (14 October 2016)":
+NONE
+
+Matches in the decision of factum reference "NEB Decision and Order GHW-001-2014 (TransCanada PipeLines Limited) (2 June 2015)":
+NONE
+
+Matches in the decision of factum reference "NEB Letter Order GH-001-2016 (TransCanada Pipelines Limited) (4 August 2016)":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 13 factum references that have no match in the decision:
+ -- "Al-Mhamad v. Canada (Radio-Television and Telecommunications Commissions), [2003] FCJ No 145 (QL), 2003 FCA 45"
+ -- "Beckman v. Little Salmon/Carmacks First Nation, [2010] 3 SCR 103, 2010 SCC 53"
+ -- "Canada v. Tremblay, [2004] 4 FCR 165, 2004 FCA 172"
+ -- "Mikisew Cree First Nation v. Canada (Minister of Canadian Heritage), [2005] 3 SCR 388, 2005 SCC 69"
+ -- "R. v. Van der Peet, [1996] 2 SCR 507"
+ -- "Taku River Tlingit First Nation v. British Columbia (Project Assessment Director), [2004] 3 SCR 550"
+ -- "Indian Treaties and Surrenders from 1680-1890 Vol. I (Ottawa: S. E. Dawson, 1905)"
+ -- "NEB Letter Decision OH-005-2011 (Enbridge Pipelines Inc.) (27 July 2012) NEB Letter Order XO-E101-023-2013 (Enbridge Pipelines Inc.) (29 October 2013)"
+ -- "NEB Letter Order XO-E101-018-2013 (Enbridge Pipeline Inc.) (25 July 2013)"
+ -- "NEB Letter Order XO-E101-016-2014 (Enbridge Pipeline Inc.) (21 August 2014)"
+ -- "Hearing Order (Draft Conditions) OH-001-2016 (Enbridge Pipeline Inc.) (14 October 2016)"
+ -- "NEB Decision and Order GHW-001-2014 (TransCanada PipeLines Limited) (2 June 2015)"
+ -- "NEB Letter Order GH-001-2016 (TransCanada Pipelines Limited) (4 August 2016)"

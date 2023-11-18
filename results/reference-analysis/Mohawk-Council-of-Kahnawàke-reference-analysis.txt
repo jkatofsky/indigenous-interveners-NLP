@@ -1,0 +1,107 @@
+Matches in the decision of factum reference "Baker v Canada (Minister of Citizenship and Immigration) [1999] 2 SCR 817, 174 DLR (4th) 193":
+ -- "Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 S.C.R. 817." [Levenshtein ratio 0.8538011695906433]
+
+Matches in the decision of factum reference "Beckman v Little Salmon/Carmacks First Nation, 2010 SCC 53, [2010] 3 SCR 103":
+NONE
+
+Matches in the decision of factum reference "Chippewas of the Thames First Nation v Enbridge Pipelines Inc., 2015 FCA 222, [2016] 3 FCR 96":
+ -- "Standing Buffalo Dakota First Nation v. Enbridge Pipelines Inc., 2009 FCA 308 [2010] 4 F.C.R. 500" [Levenshtein ratio 0.6947368421052631]
+
+Matches in the decision of factum reference "Coastal First Nations v British Columbia (Environment), 2016 BCSC 34":
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6025641025641026]
+ -- "West Moberly First Nations v. British Columbia (Chief Inspector of Mines), 2011 BCCA 247, 18 B.C.L.R. (5th) 234" [Levenshtein ratio 0.6368715083798883]
+
+Matches in the decision of factum reference "Cold Lake First Nations v Alberta (Tourism, Parks and Recreation), 2013 ABCA 443, 566 AR 259":
+NONE
+
+Matches in the decision of factum reference "Gitxaala Nation v Canada, 2016 FCA 187":
+NONE
+
+Matches in the decision of factum reference "GSX Canada Limited Partnership (Re), 2003 LNCNEB 13 (November 2003)":
+NONE
+
+Matches in the decision of factum reference "Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 SCR 511":
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.9767441860465116]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.6666666666666667]
+
+Matches in the decision of factum reference "Ka’a’Gee Tu First Nation v Canada (Attorney General), 2007 FC 763, [2007] FCJ No 1006":
+NONE
+
+Matches in the decision of factum reference "National Energy Board, Reasons for Decision, Enbridge Pipelines Inc., dated March 6, 2014 (Docket Number OH-002-2013)":
+NONE
+
+Matches in the decision of factum reference "R v Conway, [2010] 1 SCR 765, 2010 SCC 22":
+ -- "R. v. Conway, 2010 SCC 22, [2010] 1 S.C.R. 765" [Levenshtein ratio 0.6896551724137931]
+
+Matches in the decision of factum reference "Rio Tinto Alcan Inc. v Carrier Sekani Tribal Council, 2010 SCC 43, [2010] 2 SCR 650":
+ -- "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [2010] 2 S.C.R. 650" [Levenshtein ratio 0.9764705882352941]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.6064516129032258]
+
+Matches in the decision of factum reference "Sambaa K’e Dene Band v Duncan, 2012 FC 204, [2012] FCJ No 216":
+NONE
+
+Matches in the decision of factum reference "Tsilhqot’in Nation v British Columbia, 2014 SCC 44, [2014] 2 SCR 256":
+ -- "Rio Tinto Alcan Inc. v. Carrier Sekani Tribal Council, 2010 SCC 43, [2010] 2 S.C.R. 650" [Levenshtein ratio 0.6064516129032258]
+ -- "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.6666666666666667]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.9571428571428572]
+
+Matches in the decision of factum reference "White River First Nation v Yukon Government, 2013 YKSC 66, [2013] YJ No 74":
+NONE
+
+Matches in the decision of factum reference "Wii’litswx v HMTQ, 2008 BCSC 1620, [2009] 1 CNLR 359":
+NONE
+
+Matches in the decision of factum reference "David Kahane, “Dispute Resolution and the Politics of Cultural Generalization” (2003) 19 Negotiation Journal 5.":
+NONE
+
+Matches in the decision of factum reference "Jennifer Dalton, “Constitutional Reconciliation and Land Negotiations: Improving the":
+NONE
+
+Matches in the decision of factum reference "Relationship between the Aboriginal Peoples and the Government of Ontario” (2009) 3":
+NONE
+
+Matches in the decision of factum reference "Journal of Parliamentary and Political Law 277":
+NONE
+
+Matches in the decision of factum reference "Kaitlin Ritchie, “Issues Associated with the Implementation of the Duty to Consult and Accommodate Aboriginal Peoples: Threatening the Goals of Reconciliation and Meaningful Consultation” (2013) 46 UBC L Rev 397.":
+NONE
+
+Matches in the decision of factum reference "Maria Morellato, “The Crown’s Constitutional Duty to Consult and Accommodate Aboriginal and Treaty Rights” (2008), National Centre for First Nations Governance":
+NONE
+
+Matches in the decision of factum reference "Roshan Danesh & Jessica Dickson, “Alternative Dispute Resolution and Aboriginal-Crown Reconciliation in Canada” in Humberto Dalla Bernardina de Pinho & Juliana Loss de Andrade, eds, Contemporary Tendencies in Mediation (Madrid: Editorial Dykinson, 2005) 67":
+NONE
+
+Matches in the decision of factum reference "Sari Graben & Abbey Sinclair, “Tribunal Administration and the Duty to Consult: A Study of the National Energy Board” (2015) 65 Univ. of Toronto L.J. 382.":
+NONE
+
+Matches in the decision of factum reference "The First Nations Leadership Council, “Advancing Indigenous Framework for Consultation and Accommodation in BC: Report on Key Findings of the BC First Nations Consultation and Accommodation Working Group” (2013)":
+NONE
+
+Matches in the decision of factum reference "United Nations Declaration on the Rights of Indigenous Peoples, GA Res 61/295, UNGAOR, 61st Sess, Supp No 49, A/RES/61/295, (2007)":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 19 factum references that have no match in the decision:
+ -- "Beckman v Little Salmon/Carmacks First Nation, 2010 SCC 53, [2010] 3 SCR 103"
+ -- "Cold Lake First Nations v Alberta (Tourism, Parks and Recreation), 2013 ABCA 443, 566 AR 259"
+ -- "Gitxaala Nation v Canada, 2016 FCA 187"
+ -- "GSX Canada Limited Partnership (Re), 2003 LNCNEB 13 (November 2003)"
+ -- "Ka’a’Gee Tu First Nation v Canada (Attorney General), 2007 FC 763, [2007] FCJ No 1006"
+ -- "National Energy Board, Reasons for Decision, Enbridge Pipelines Inc., dated March 6, 2014 (Docket Number OH-002-2013)"
+ -- "Sambaa K’e Dene Band v Duncan, 2012 FC 204, [2012] FCJ No 216"
+ -- "White River First Nation v Yukon Government, 2013 YKSC 66, [2013] YJ No 74"
+ -- "Wii’litswx v HMTQ, 2008 BCSC 1620, [2009] 1 CNLR 359"
+ -- "David Kahane, “Dispute Resolution and the Politics of Cultural Generalization” (2003) 19 Negotiation Journal 5."
+ -- "Jennifer Dalton, “Constitutional Reconciliation and Land Negotiations: Improving the"
+ -- "Relationship between the Aboriginal Peoples and the Government of Ontario” (2009) 3"
+ -- "Journal of Parliamentary and Political Law 277"
+ -- "Kaitlin Ritchie, “Issues Associated with the Implementation of the Duty to Consult and Accommodate Aboriginal Peoples: Threatening the Goals of Reconciliation and Meaningful Consultation” (2013) 46 UBC L Rev 397."
+ -- "Maria Morellato, “The Crown’s Constitutional Duty to Consult and Accommodate Aboriginal and Treaty Rights” (2008), National Centre for First Nations Governance"
+ -- "Roshan Danesh & Jessica Dickson, “Alternative Dispute Resolution and Aboriginal-Crown Reconciliation in Canada” in Humberto Dalla Bernardina de Pinho & Juliana Loss de Andrade, eds, Contemporary Tendencies in Mediation (Madrid: Editorial Dykinson, 2005) 67"
+ -- "Sari Graben & Abbey Sinclair, “Tribunal Administration and the Duty to Consult: A Study of the National Energy Board” (2015) 65 Univ. of Toronto L.J. 382."
+ -- "The First Nations Leadership Council, “Advancing Indigenous Framework for Consultation and Accommodation in BC: Report on Key Findings of the BC First Nations Consultation and Accommodation Working Group” (2013)"
+ -- "United Nations Declaration on the Rights of Indigenous Peoples, GA Res 61/295, UNGAOR, 61st Sess, Supp No 49, A/RES/61/295, (2007)"

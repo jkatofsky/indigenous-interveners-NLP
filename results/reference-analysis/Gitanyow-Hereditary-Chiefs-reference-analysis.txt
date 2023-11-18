@@ -1,0 +1,71 @@
+Matches in the decision of factum reference "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53":
+ -- "Beck- man v. Little Salmon/Carmacks First Nation, 2010 SCC 53, [2010] 3 S.C.R. 103" [Levenshtein ratio 0.8368794326241135]
+ -- "Beckman v. Little Salmon/Carmacks First Nation, 2010 SCC 53, [2010] 3 S.C.R. 103" [Levenshtein ratio 0.8489208633093526]
+
+Matches in the decision of factum reference "Clyde River (Hamlet) v. Petroleum Geo-Services Inc., 2017 SCC 40":
+ -- "Clyde River (Hamlet) v. Petroleum Geo-Services Inc., 2017 SCC 40, [2017] 1 S.C.R. 1069" [Levenshtein ratio 0.8533333333333333]
+
+Matches in the decision of factum reference "Courtoreille v. Canada (Aboriginal Affairs and Northern Development), 2014 FC 1244":
+ -- "Williams Lake Indian Band v. Canada (Ab- original Affairs and Northern Development), 2018 SCC 4, [2018] 1 S.C.R. 83" [Levenshtein ratio 0.700507614213198]
+ -- "Mohawks of the Bay of Quinte v. Canada (Minister of Indian Affairs and Northern Development), 2013 FC 669, 434 F.T.R. 241." [Levenshtein ratio 0.6470588235294117]
+
+Matches in the decision of factum reference "First Nations Child and Family Caring Society of Canada et al. v. Attorney General of Canada (for the Minister of Indian and Northern Affairs Canada), 2016 CHRT 2":
+NONE
+
+Matches in the decision of factum reference "Gitxsan and other First Nations v. British Columbia (Minister of Forests), 2002 BCSC 1701":
+ -- "Haida Nation v. British Columbia (Minis- ter of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.7039106145251397]
+ -- "Haida Nation v. British Columbia (Min- ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.7039106145251397]
+
+Matches in the decision of factum reference "Gitanyow First Nation v. British Columbia (Minister of Forests), 2004 BCSC 1734":
+ -- "Haida Nation v. British Columbia (Minis- ter of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.757396449704142]
+ -- "Haida Nation v. British Columbia (Min- ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.757396449704142]
+ -- "Taku River Tlingit First Nation v. British Columbia (Project Assessment Di- rector), 2004 SCC 74, [2004] 3 S.C.R. 550" [Levenshtein ratio 0.6020408163265306]
+
+Matches in the decision of factum reference "Haida Nation v. British Columbia (Minister of Forests), 2004 SCC 73":
+ -- "Haida Nation v. British Columbia (Minis- ter of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.8535031847133758]
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44, [2014] 2 S.C.R. 257" [Levenshtein ratio 0.60431654676259]
+ -- "Haida Nation v. British Columbia (Min- ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.8535031847133758]
+
+Matches in the decision of factum reference "Luuxhon v. Canada, 1999 CanLII 6180 (BC SC)":
+NONE
+
+Matches in the decision of factum reference "Musqueam Indian Band v. British Columbia (Minister of Sustainable Resource Management), 2005 BCCA 128":
+NONE
+
+Matches in the decision of factum reference "R. v. Sparrow, [1990] 1 SCR 1075":
+ -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.7076923076923076]
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.9552238805970149]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.647887323943662]
+ -- "R. v. Marshall, [1999] 3 S.C.R. 456" [Levenshtein ratio 0.6567164179104478]
+ -- "R. v. Mercure, [1988] 1 S.C.R. 234." [Levenshtein ratio 0.6268656716417911]
+ -- "R. v. Nikal, [1996] 1 S.C.R. 1013" [Levenshtein ratio 0.7076923076923076]
+ -- "R. v. Glad- stone, [1996] 2 S.C.R. 723" [Levenshtein ratio 0.6285714285714286]
+
+Matches in the decision of factum reference "R. v. Van der Peet, [1996] 2 SCR 507":
+ -- "R. v. Badger, [1996] 1 S.C.R. 771" [Levenshtein ratio 0.7246376811594203]
+ -- "R. v. Sparrow, [1990] 1 S.C.R. 1075" [Levenshtein ratio 0.647887323943662]
+ -- "R. v. Van der Peet, [1996] 2 S.C.R. 507" [Levenshtein ratio 0.96]
+ -- "R. v. Marshall, [1999] 3 S.C.R. 456" [Levenshtein ratio 0.619718309859155]
+ -- "R. v. Nikal, [1996] 1 S.C.R. 1013" [Levenshtein ratio 0.6376811594202898]
+ -- "R. v. Glad- stone, [1996] 2 S.C.R. 723" [Levenshtein ratio 0.7027027027027026]
+
+Matches in the decision of factum reference "Wii’litswx v. British Columbia (Minister of Forests), 2008 BCSC 1139":
+ -- "Haida Nation v. British Columbia (Minis- ter of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.7088607594936709]
+ -- "Haida Nation v. British Columbia (Min- ister of Forests), 2004 SCC 73, [2004] 3 S.C.R. 511" [Levenshtein ratio 0.7088607594936709]
+
+Matches in the decision of factum reference "Constitution Act, 1982, 5, being Schedule B to the Canada Act 1982 (U.K.), 1982, c. 11":
+NONE
+
+Matches in the decision of factum reference "United Nations Declaration on the Rights of Indigenous Peoples: resolution / adopted by the General Assembly, 2 October 2007, A/RES/61/295":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 5 factum references that have no match in the decision:
+ -- "First Nations Child and Family Caring Society of Canada et al. v. Attorney General of Canada (for the Minister of Indian and Northern Affairs Canada), 2016 CHRT 2"
+ -- "Luuxhon v. Canada, 1999 CanLII 6180 (BC SC)"
+ -- "Musqueam Indian Band v. British Columbia (Minister of Sustainable Resource Management), 2005 BCCA 128"
+ -- "Constitution Act, 1982, 5, being Schedule B to the Canada Act 1982 (U.K.), 1982, c. 11"
+ -- "United Nations Declaration on the Rights of Indigenous Peoples: resolution / adopted by the General Assembly, 2 October 2007, A/RES/61/295"

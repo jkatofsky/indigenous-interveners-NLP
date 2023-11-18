@@ -1,0 +1,84 @@
+Matches in the decision of factum reference "British Columbia (Attorney General) v. Lafarge Canada Inc., [2007] 2 SCR 86, 2007 SCC 23":
+NONE
+
+Matches in the decision of factum reference "Canadian Western Bank v. Alberta, [2007] 2 SCR 3, 2007 SCC 22":
+ -- "Ca­ nadian Western Bank v. Alberta, 2007 SCC 22, [2007] 2 S.C.R. 3" [Levenshtein ratio 0.8188976377952756]
+
+Matches in the decision of factum reference "Grassy Narrows First Nation v. Ontario (Natural Resources), [2014] 2 SCR 447, 2014 SCC 48":
+NONE
+
+Matches in the decision of factum reference "McIvor v. The Registrar, Indian and North Affairs Canada, 2007 BCSC 827":
+NONE
+
+Matches in the decision of factum reference "R v Powley, 2003 SCC 43":
+NONE
+
+Matches in the decision of factum reference "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44":
+NONE
+
+Matches in the decision of factum reference "Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11":
+NONE
+
+Matches in the decision of factum reference "Indian Act, RSC 1985, c I-5":
+NONE
+
+Matches in the decision of factum reference "Maa-nulth First Nations Final Agreement Act, SBC 2007, c. 43":
+NONE
+
+Matches in the decision of factum reference "Maa-nulth First Nations Final Agreement Act, S.C. 2009, c. 18":
+NONE
+
+Matches in the decision of factum reference "Nisga’a Final Agreement Act, RSBC 1999, c 2":
+NONE
+
+Matches in the decision of factum reference "Yale First Nation Final Agreement Act, [SBC 2011] Chapter 11":
+NONE
+
+Matches in the decision of factum reference "Yale First Nation Final Agreement Act, SC 2013, c. 25":
+NONE
+
+Matches in the decision of factum reference "Canada, Band Support Funding Program Policy, Appendix 3 – Responsibilities and Procedures, “Funding” (Ottawa: Aboriginal Affairs and Northern Development Canada, 2014)":
+NONE
+
+Matches in the decision of factum reference "Canada, Truth and Reconciliation Commission of Canada, Honouring the Trust Reconciling for the Future: Summary of the final Report of the Truth and Reconciliation Commission of Canada (Ottawa: Library and Archives Canada Cataloguing in Publication, 2015)":
+NONE
+
+Matches in the decision of factum reference "Canada, Renewing the Comprehensive Land Claims Policy: Towards a Framework for Addressing Section 35 Aboriginal Rights (Ottawa: Aboriginal Affairs and Northern Development, 2014) [“Comprehensive Land Claims Policy”], p 11.":
+NONE
+
+Matches in the decision of factum reference "Canada, Report of the Royal Commission on Aboriginal Peoples: Looking Forward, Looking Back, Vol 1 (Ottawa: Supply and Services Canada, 1996)":
+NONE
+
+Matches in the decision of factum reference "Maa-nulth First Nations Final Agreement":
+NONE
+
+Matches in the decision of factum reference "Nisga’a Final Agreement":
+NONE
+
+Matches in the decision of factum reference "Yale First Nation Final Agreement":
+NONE
+
+
+--------------------------------------------------------------------------
+
+
+The 19 factum references that have no match in the decision:
+ -- "British Columbia (Attorney General) v. Lafarge Canada Inc., [2007] 2 SCR 86, 2007 SCC 23"
+ -- "Grassy Narrows First Nation v. Ontario (Natural Resources), [2014] 2 SCR 447, 2014 SCC 48"
+ -- "McIvor v. The Registrar, Indian and North Affairs Canada, 2007 BCSC 827"
+ -- "R v Powley, 2003 SCC 43"
+ -- "Tsilhqot’in Nation v. British Columbia, 2014 SCC 44"
+ -- "Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11"
+ -- "Indian Act, RSC 1985, c I-5"
+ -- "Maa-nulth First Nations Final Agreement Act, SBC 2007, c. 43"
+ -- "Maa-nulth First Nations Final Agreement Act, S.C. 2009, c. 18"
+ -- "Nisga’a Final Agreement Act, RSBC 1999, c 2"
+ -- "Yale First Nation Final Agreement Act, [SBC 2011] Chapter 11"
+ -- "Yale First Nation Final Agreement Act, SC 2013, c. 25"
+ -- "Canada, Band Support Funding Program Policy, Appendix 3 – Responsibilities and Procedures, “Funding” (Ottawa: Aboriginal Affairs and Northern Development Canada, 2014)"
+ -- "Canada, Truth and Reconciliation Commission of Canada, Honouring the Trust Reconciling for the Future: Summary of the final Report of the Truth and Reconciliation Commission of Canada (Ottawa: Library and Archives Canada Cataloguing in Publication, 2015)"
+ -- "Canada, Renewing the Comprehensive Land Claims Policy: Towards a Framework for Addressing Section 35 Aboriginal Rights (Ottawa: Aboriginal Affairs and Northern Development, 2014) [“Comprehensive Land Claims Policy”], p 11."
+ -- "Canada, Report of the Royal Commission on Aboriginal Peoples: Looking Forward, Looking Back, Vol 1 (Ottawa: Supply and Services Canada, 1996)"
+ -- "Maa-nulth First Nations Final Agreement"
+ -- "Nisga’a Final Agreement"
+ -- "Yale First Nation Final Agreement"
